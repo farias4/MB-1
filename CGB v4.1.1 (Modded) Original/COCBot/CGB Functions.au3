@@ -20,6 +20,7 @@
 #include "functions\Config\DelayTimes.au3"
 #include "functions\Attack\DESide.au3"
 #include "functions\Attack\AttackReport.au3"
+#include "functions\Attack\AttackWhileTrain.au3"
 #include "functions\Attack\CheckHeroesHealth.au3"
 #include "functions\Attack\dropCC.au3"
 #include "functions\Attack\dropHeroes.au3"

@@ -1,0 +1,2290 @@
+2015-10-20 22:01:25 :  Clash Game Bot v4.1.1 Modded Powered by GameBot.org ~
+2015-10-20 22:01:25 : GameBot.org.exe Executable running on WIN_81  X64
+2015-10-20 22:01:25 : =================== Bot Start ====================
+2015-10-20 22:01:25 : -------------------------  Current Profile: 01 --------------------------
+2015-10-20 22:01:25 : Trying to locate Main Screen
+2015-10-20 22:01:25 : Main Screen Located
+2015-10-20 22:01:26 : Detecting your Buildings..
+2015-10-20 22:01:32 : Language setting is English: Correct.
+2015-10-20 22:01:33 : Trying to locate Main Screen
+2015-10-20 22:01:33 : Main Screen Located
+2015-10-20 22:01:34 : Village Report
+2015-10-20 22:01:34 : No. of Free/Total Builders: 2/5
+2015-10-20 22:01:34 :  [T]: 2 738
+2015-10-20 22:01:35 :  [G]: 1 007 221 [E]: 405 610 [D]: 143 782 [GEM]: 5 335
+2015-10-20 22:01:35 : Collecting Resources
+2015-10-20 23:05:06 : Checking Army Camp...
+2015-10-20 23:05:08 : Total Army Camp capacity: 220/220
+2015-10-20 23:05:09 :  - No. of Giants: 20
+2015-10-20 23:05:09 :  - No. of Wallbreakers: 12
+2015-10-20 23:05:09 :  - No. of Wizards: 24
+2015-10-20 23:05:10 : Barracks and Spell factory status: 
+2015-10-20 23:05:10 : - Barracks detected: 4 | Available: 4 | Upgrading: 0
+2015-10-20 23:05:10 : - Dark Barracks detected: 2 | Available: 2 | Upgrading: 0
+2015-10-20 23:05:10 : - Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2015-10-20 23:05:10 : - Dark Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2015-10-20 23:05:10 : Training Troops...
+2015-10-20 23:05:11 : Your Army Camps are now Full
+2015-10-20 23:05:33 : Spell Factory Full
+2015-10-20 23:05:33 : Created 1 Spell(s)
+2015-10-20 23:05:41 : Going to Attack...
+2015-10-20 23:05:46 : ============== Searching For Dead Base ===============
+2015-10-20 23:05:46 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-20 23:05:46 : , Max TH 8
+2015-10-20 23:05:46 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-20 23:05:46 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-20 23:05:46 : ============== Searching For Live Base ===============
+2015-10-20 23:05:46 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-20 23:05:46 : , Max TH 8
+2015-10-20 23:05:47 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-20 23:05:47 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Live Base
+2015-10-20 23:05:47 : ==================================================
+2015-10-20 23:05:48 :   1> [G]:  53678 [E]:  31139 [D]:  744 [T]:23 [TH]:10, In
+2015-10-20 23:05:50 :   2> [G]: 135124 [E]: 245953 [D]:  978 [T]:25 [TH]:10, In
+2015-10-20 23:05:57 :   3> [G]:  16265 [E]:   9378 [D]:  370 [T]:13 [TH]:10, In
+2015-10-20 23:06:03 :   4> [G]:  84880 [E]:  32714 [D]:  583 [T]:15 [TH]:10, In
+2015-10-20 23:06:06 :   5> [G]:  16948 [E]:   7908 [D]:  358 [T]:29 [TH]:10, In
+2015-10-20 23:06:11 :   6> [G]:  25652 [E]:   4073 [D]:  561 [T]:24 [TH]: 9, In
+2015-10-20 23:06:15 :   7> [G]: 122120 [E]:  36097 [D]: 1552 [T]:11 [TH]: 9, In
+2015-10-20 23:06:18 :   8> [G]:  97570 [E]:  69344 [D]:  149 [T]:16 [TH]: 9, In
+2015-10-20 23:06:25 :   9> [G]:  55129 [E]:  11451 [D]:  676 [T]:18 [TH]:10, In
+2015-10-20 23:06:29 :  10> [G]:  41044 [E]:  47984 [D]:  994 [T]:19 [TH]:10, In
+2015-10-20 23:06:32 :  11> [G]:  78509 [E]:  71368 [D]: 1693 [T]:23 [TH]: 9, In
+2015-10-20 23:06:39 :  12> [G]: 122252 [E]:  45867 [D]:  572 [T]:13 [TH]: 9, In
+2015-10-20 23:06:44 :  13> [G]:  39179 [E]:  23860 [D]:  967 [T]:13 [TH]: 9, In
+2015-10-20 23:06:48 :  14> [G]:  91921 [E]:  34506 [D]:  845 [T]:13 [TH]:10, In
+2015-10-20 23:06:53 :  15> [G]:  17969 [E]:  44816 [D]: 1178 [T]: 9 [TH]: 9, In
+2015-10-20 23:06:58 :  16> [G]:  33499 [E]:  42054 [D]: 1377 [T]:30 [TH]:10, In
+2015-10-20 23:07:02 :  17> [G]: 207791 [E]: 134117 [D]: 1890 [T]:32 [TH]:10, In
+2015-10-20 23:07:06 :  18> [G]:  64754 [E]:  31632 [D]:  659 [T]:31 [TH]:10, In
+2015-10-20 23:07:09 :  19> [G]:  58636 [E]:   6183 [D]:  262 [T]:15 [TH]: 9, In
+2015-10-20 23:07:17 :  20> [G]:  49302 [E]:   5114 [D]:  132 [T]:20 [TH]:10, In
+2015-10-20 23:07:20 :  21> [G]:  81362 [E]: 168384 [D]: 1341 [T]: 9 [TH]: 9, In
+2015-10-20 23:07:27 :  22> [G]:  17633 [E]: 180425 [D]:  369 [T]:31 [TH]:10, In
+2015-10-20 23:07:30 :  23> [G]:  55160 [E]:  18218 [D]:  992 [T]: 6 [TH]: 9, In
+2015-10-20 23:07:36 :  24> [G]: 123882 [E]: 185886 [D]: 2557 [T]:15 [TH]:10, In
+2015-10-20 23:07:42 :  25> [G]:  40359 [E]:  24502 [D]:  373 [T]:12 [TH]: 9, In
+2015-10-20 23:07:44 :  26> [G]:  15591 [E]:  51093 [D]:  184 [T]:30 [TH]:10, In
+2015-10-20 23:07:51 :  27> [G]:  22224 [E]:  95335 [D]: 1423 [T]:31 [TH]: 9, In
+2015-10-20 23:07:53 :  28> [G]: 204122 [E]: 206686 [D]: 3041 [T]:19 [TH]:10, In
+2015-10-20 23:07:59 :  29> [G]:  34607 [E]:  19427 [D]:  130 [T]: 8 [TH]: 9, In
+2015-10-20 23:08:02 :  30> [G]:  12270 [E]:  30110 [D]:  452 [T]:38 [TH]: 9, In
+2015-10-20 23:08:12 :  31> [G]: 108819 [E]: 105326 [D]:  720 [T]: 5 [TH]: 9, In
+2015-10-20 23:08:15 :  32> [G]: 302945 [E]:  77754 [D]:  292 [T]:17 [TH]:10, In
+2015-10-20 23:08:21 :  33> [G]: 321447 [E]: 151183 [D]:  133 [T]: 8 [TH]: 9, In
+2015-10-20 23:08:24 :  34> [G]:  79711 [E]: 109421 [D]:  442 [T]:19 [TH]: 9, In
+2015-10-20 23:08:32 :  35> [G]:  33146 [E]: 177558 [D]:  148 [T]:24 [TH]:10, In
+2015-10-20 23:08:34 :  36> [G]:  83061 [E]: 136961 [D]: 1074 [T]:10 [TH]: 9, In
+2015-10-20 23:08:41 :  37> [G]: 127669 [E]: 157090 [D]:  676 [T]:28 [TH]:10, In
+2015-10-20 23:08:44 :  38> [G]:  15269 [E]:  86293 [D]: 1668 [T]: 6 [TH]: 9, In
+2015-10-20 23:08:52 :  39> [G]: 103510 [E]: 124913 [D]: 1718 [T]:26 [TH]:10, In
+2015-10-20 23:08:55 :  40> [G]:  24171 [E]:  18489 [D]: 1534 [T]:13 [TH]: 9, In
+2015-10-20 23:09:02 :  41> [G]: 112394 [E]:  98860 [D]: 1284 [T]:10 [TH]: 9, In
+2015-10-20 23:09:06 :  42> [G]:  50388 [E]: 129573 [D]:   82 [T]:24 [TH]:10, In
+2015-10-20 23:09:10 :  43> [G]:  33515 [E]:  41658 [D]: 3021 [T]:34 [TH]:10, In
+2015-10-20 23:09:14 :  44> [G]:  44002 [E]:  96982 [D]: 2035 [T]:21 [TH]:10, In
+2015-10-20 23:09:19 :  45> [G]:  81110 [E]:  11278 [D]:  983 [T]:34 [TH]:10, In
+2015-10-20 23:09:21 :  46> [G]:  82159 [E]: 165458 [D]:  132 [T]: 9 [TH]: 9, In
+2015-10-20 23:09:29 :  47> [G]:  68966 [E]:  68875 [D]:  900 [T]: 9 [TH]: 9, In
+2015-10-20 23:09:31 :  48> [G]:  44070 [E]: 156335 [D]:  596 [T]:21 [TH]:10, In
+2015-10-20 23:09:40 :  49> [G]:  33724 [E]: 115149 [D]:  364 [T]:29 [TH]: 9, In
+2015-10-20 23:09:42 :  50> [G]:  22018 [E]:  34813 [D]:  154 [T]:14 [TH]: 9, In
+2015-10-20 23:09:42 : Aim:           [G+E+D]: 372500 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-20 23:09:42 : Aim:           [G+E+D]: 372500 [T]: 0 [TH]: 8 for: Live Base
+2015-10-20 23:09:48 :  51> [G]:  72015 [E]: 148177 [D]: 1310 [T]:14 [TH]: 9, In
+2015-10-20 23:09:51 :  52> [G]: 116121 [E]:  25772 [D]:  255 [T]: 7 [TH]: 9, In
+2015-10-20 23:09:56 :  53> [G]:  49390 [E]:   4303 [D]:  469 [T]: 5 [TH]: 9, In
+2015-10-20 23:09:59 :  54> [G]:  66034 [E]: 145877 [D]:  998 [T]:14 [TH]: 9, In
+2015-10-20 23:10:06 :  55> [G]:  44577 [E]: 137031 [D]:  487 [T]:18 [TH]:10, In
+2015-10-20 23:10:09 :  56> [G]: 289905 [E]: 255812 [D]: 2307 [T]:19 [TH]:10, In
+2015-10-20 23:10:16 :  57> [G]:  42003 [E]:  61659 [D]:  729 [T]:27 [TH]:10, In
+2015-10-20 23:10:20 :  58> [G]:  37522 [E]:  72235 [D]:  363 [T]:35 [TH]:10, In
+2015-10-20 23:10:22 :  59> [G]:  38670 [E]:  49317 [D]:  622 [T]:15 [TH]: 9, In
+2015-10-20 23:10:29 :  60> [G]: 159583 [E]:  10178 [D]: 1635 [T]: 3 [TH]: 9, In
+2015-10-20 23:10:32 :  61> [G]:  77269 [E]:  65890 [D]:  748 [T]:14 [TH]:10, In
+2015-10-20 23:10:39 :  62> [G]:  49078 [E]:   2230 [D]:  432 [T]:10 [TH]: 9, In
+2015-10-20 23:10:42 :  63> [G]: 182769 [E]:  75605 [D]:  614 [T]:14 [TH]: 9, In
+2015-10-20 23:10:48 :  64> [G]: 223774 [E]:  46235 [D]:   64 [T]:25 [TH]: 9, In
+2015-10-20 23:10:52 :  65> [G]:   6212 [E]:  97676 [D]:  514 [T]: 3 [TH]: 8, In
+2015-10-20 23:10:55 :  66> [G]:  19493 [E]:  57701 [D]:  331 [T]: 2 [TH]: 8, In
+2015-10-20 23:11:00 :  67> [G]:  86997 [E]:  58415 [D]:   93 [T]: 5 [TH]: 9, In
+2015-10-20 23:11:04 :  68> [G]:  29926 [E]:  19980 [D]:  410 [T]:18 [TH]:10, In
+2015-10-20 23:11:08 :  69> [G]:  89463 [E]: 231452 [D]:  793 [T]: 8 [TH]: 8, In
+2015-10-20 23:11:08 : ~~~~~~~~~~~~~~ DE Side Base Found! ~~~~~~~~~~~~~~~
+2015-10-20 23:11:10 : ================ Search Complete =================
+2015-10-20 23:11:10 : Initiating attack for: Live Base
+2015-10-20 23:11:12 : -Giants 11
+2015-10-20 23:11:12 : -Wall Breakers 12
+2015-10-20 23:11:12 : -Wizards 24
+2015-10-20 23:11:12 : -Clan Castle 
+2015-10-20 23:11:12 : -King 
+2015-10-20 23:11:12 : -Queen 
+2015-10-20 23:11:12 : -Rage Spells 4
+2015-10-20 23:11:12 : -Poison Spells 1
+2015-10-20 23:11:12 :  ====== Start Attack ====== 
+2015-10-20 23:11:14 : Attacking on Dark Elixir Side.
+2015-10-20 23:11:15 : == DE lixir Storage : [429,248] ==
+2015-10-20 23:11:16 : DE Storage Located Top Left... Attacking Top Left
+2015-10-20 23:11:17 : Dropping only wave of 11 Giants
+2015-10-20 23:11:19 : Dropping first wave of 6 Wall Breakers
+2015-10-20 23:11:21 : Spell drop point: 369, 223
+2015-10-20 23:11:21 : Dropping spell in slot 6
+2015-10-20 23:11:22 : Dropping second wave of 6 Wall Breakers
+2015-10-20 23:11:24 : Dropping only wave of 24 Wizards
+2015-10-20 23:11:27 : Dropping King
+2015-10-20 23:11:28 : Dropping Queen
+2015-10-20 23:11:28 : Dropping left over troops
+2015-10-20 23:11:28 : Checking remaining unused troops for: Live Base
+2015-10-20 23:11:30 : -Giants 1
+2015-10-20 23:11:30 : -Clan Castle 
+2015-10-20 23:11:30 : -Rage Spells 3
+2015-10-20 23:11:30 : -Poison Spells 1
+2015-10-20 23:11:31 : Dropping last wave of 1 Giants
+2015-10-20 23:11:40 : Checking remaining unused troops for: Live Base
+2015-10-20 23:11:42 : -Giants 1
+2015-10-20 23:11:42 : -Clan Castle 
+2015-10-20 23:11:42 : -Rage Spells 3
+2015-10-20 23:11:42 : -Poison Spells 1
+2015-10-20 23:11:43 : Dropping last wave of 1 Giants
+2015-10-20 23:11:51 : Finished Attacking, waiting for the battle to end
+2015-10-20 23:11:51 : Checking if the battle has finished
+2015-10-20 23:11:53 : detected [G]: 29854 [E]: 191527 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 23:11:53 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 23:11:56 : detected [G]: 29658 [E]: 141490 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 23:11:56 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 23:11:59 : detected [G]: 29658 [E]: 56784 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 23:11:59 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 23:12:02 : detected [G]: 29658 [E]: 36090 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 23:12:02 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 23:12:05 : detected [G]: 29658 [E]: 382 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 23:12:05 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 23:12:08 : detected [G]: 29658 [E]: 382 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 23:12:09 : detected [G]: 29658 [E]: 382 [DE]: 0 |  Exit in 57 sec.
+2015-10-20 23:12:10 : detected [G]: 29658 [E]: 382 [DE]: 0 |  Exit in 56 sec.
+2015-10-20 23:12:12 : detected [G]: 29658 [E]: 341 [DE]: 0 |  Exit in 55 sec.
+2015-10-20 23:12:12 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 23:12:13 : King is getting weak, Activating King's power
+2015-10-20 23:12:15 : detected [G]: 29658 [E]: 266 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 23:12:15 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 23:12:18 : detected [G]: 29658 [E]: 266 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 23:12:19 : detected [G]: 29658 [E]: 266 [DE]: 0 |  Exit in 57 sec.
+2015-10-20 23:12:20 : detected [G]: 29658 [E]: 266 [DE]: 0 |  Exit in 56 sec.
+2015-10-20 23:12:21 : detected [G]: 29658 [E]: 266 [DE]: 0 |  Exit in 55 sec.
+2015-10-20 23:12:23 : detected [G]: 29658 [E]: 266 [DE]: 0 |  Exit in 53 sec.
+2015-10-20 23:12:24 : detected [G]: 29628 [E]: 266 [DE]: 0 |  Exit in 52 sec.
+2015-10-20 23:12:24 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 23:12:27 : detected [G]: 18867 [E]: 266 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 23:12:27 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 23:12:30 : detected [G]: 15314 [E]: 266 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 23:12:31 : detected [G]: 15284 [E]: 266 [DE]: 0 |  Exit in 57 sec.
+2015-10-20 23:12:31 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 23:12:34 : detected [G]: 15181 [E]: 266 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 23:12:34 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 23:12:37 : detected [G]: 15091 [E]: 218 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 23:12:37 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 23:12:39 : detected [G]: 15048 [E]: 133 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 23:12:41 : detected [G]: 15048 [E]: 133 [DE]: 0 |  Exit in 57 sec.
+2015-10-20 23:12:42 : detected [G]: 15048 [E]: 133 [DE]: 0 |  Exit in 56 sec.
+2015-10-20 23:12:43 : detected [G]: 15048 [E]: 89 [DE]: 0 |  Exit in 55 sec.
+2015-10-20 23:12:43 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 23:12:46 : detected [G]: 15048 [E]: 0 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 23:12:46 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 23:12:49 : detected [G]: 15048 [E]: 0 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 23:12:50 : detected [G]: 15048 [E]: 0 [DE]: 0 |  Exit in 57 sec.
+2015-10-20 23:12:52 : detected [G]: 15048 [E]: 0 [DE]: 0 |  Exit in 56 sec.
+2015-10-20 23:12:53 : detected [G]: 15048 [E]: 0 [DE]: 0 |  Exit in 55 sec.
+2015-10-20 23:12:54 : detected [G]: 14770 [E]: 0 [DE]: 0 |  Exit in 53 sec.
+2015-10-20 23:12:54 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 23:12:57 : detected [G]: 14770 [E]: 0 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 23:12:58 : detected [G]: 14770 [E]: 0 [DE]: 0 |  Exit in 57 sec.
+2015-10-20 23:12:59 : detected [G]: 14770 [E]: 0 [DE]: 0 |  Exit in 56 sec.
+2015-10-20 23:13:01 : detected [G]: 14770 [E]: 0 [DE]: 0 |  Exit in 55 sec.
+2015-10-20 23:13:02 : detected [G]: 14770 [E]: 0 [DE]: 0 |  Exit in 53 sec.
+2015-10-20 23:13:03 : detected [G]: 14770 [E]: 0 [DE]: 0 |  Exit in 52 sec.
+2015-10-20 23:13:04 : detected [G]: 14770 [E]: 0 [DE]: 0 |  Exit in 51 sec.
+2015-10-20 23:13:05 : detected [G]: 14770 [E]: 0 [DE]: 0 |  Exit in 50 sec.
+2015-10-20 23:13:07 : detected [G]: 14770 [E]: 0 [DE]: 0 |  Exit in 49 sec.
+2015-10-20 23:13:08 : detected [G]: 14770 [E]: 0 [DE]: 0 |  Exit in 47 sec.
+2015-10-20 23:13:09 : detected [G]: 14770 [E]: 0 [DE]: 0 |  Exit in 46 sec.
+2015-10-20 23:13:10 : detected [G]: 14770 [E]: 0 [DE]: 0 |  Exit in 45 sec.
+2015-10-20 23:13:12 : detected [G]: 14770 [E]: 0 [DE]: 0 |  Exit in 44 sec.
+2015-10-20 23:13:13 : detected [G]: 14770 [E]: 0 [DE]: 0 |  Exit in 42 sec.
+2015-10-20 23:13:14 : detected [G]: 14770 [E]: 0 [DE]: 0 |  Exit in 41 sec.
+2015-10-20 23:13:15 : detected [G]: 9268 [E]: 0 [DE]: 0 |  Exit in 40 sec.
+2015-10-20 23:13:15 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 23:13:18 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in  3 sec.
+2015-10-20 23:13:18 : Gold & Elixir & DE = 0, end battle 
+2015-10-20 23:13:19 : Gold & Elixir & DE = 0, end battle 
+2015-10-20 23:13:20 : Activating Queen's power to restore some health before EndBattle
+2015-10-20 23:13:20 : Returning Home
+2015-10-20 23:13:27 : Bonus [G]: 100 000 [E]: 100 000 [DE]: 500
+2015-10-20 23:13:29 : Your league level is: Master III
+2015-10-20 23:13:29 : Stars earned: 3
+2015-10-20 23:13:29 : Loot: [G]: 89 463 [E]: 231 452 [DE]: 793 [T]: 8
+2015-10-20 23:13:29 : Taking snapshot of your loot
+2015-10-20 23:13:37 : Trying to locate Main Screen
+2015-10-20 23:13:37 : ClashGameBot was Paused!
+2015-10-20 23:15:50 : ClashGameBot was Resumed.
+2015-10-20 23:15:51 : Main Screen Located
+2015-10-20 23:15:52 : Village Report
+2015-10-20 23:15:53 : No. of Free/Total Builders: 2/5
+2015-10-20 23:15:53 :  [T]: 2 746
+2015-10-20 23:15:53 :  [G]: 1 172 527 [E]: 545 649 [D]: 145 311 [GEM]: 5 335
+2015-10-20 23:15:53 : Collecting Resources
+2015-10-20 23:16:02 : Checking Army Camp...
+2015-10-20 23:16:04 : Total Army Camp capacity: 20/220
+2015-10-20 23:16:05 :  - No. of Wallbreakers: 4
+2015-10-20 23:16:05 :  - No. of Wizards: 3
+2015-10-20 23:16:05 : Training Troops...
+2015-10-20 23:16:16 : Spell Factory Full
+2015-10-20 23:16:23 : ====== Waiting for full army ======
+2015-10-20 23:16:35 : Checking Army Camp...
+2015-10-20 23:16:37 : Total Army Camp capacity: 20/220
+2015-10-20 23:16:38 :  - No. of Wallbreakers: 4
+2015-10-20 23:16:38 :  - No. of Wizards: 3
+2015-10-20 23:16:38 : Training Troops...
+2015-10-20 23:16:47 : Spell Factory Full
+2015-10-20 23:16:50 : Time Idle: 00:00:26
+2015-10-20 23:16:50 : ====== Waiting for full army ======
+2015-10-20 23:17:02 : Checking Army Camp...
+2015-10-20 23:17:04 : Total Army Camp capacity: 20/220
+2015-10-20 23:17:05 :  - No. of Wallbreakers: 4
+2015-10-20 23:17:05 :  - No. of Wizards: 3
+2015-10-20 23:17:05 : Training Troops...
+2015-10-20 23:17:14 : Spell Factory Full
+2015-10-20 23:17:17 : Time Idle: 00:00:53
+2015-10-20 23:17:17 : ====== Waiting for full army ======
+2015-10-20 23:17:29 : Checking Army Camp...
+2015-10-20 23:17:31 : Total Army Camp capacity: 20/220
+2015-10-20 23:17:32 :  - No. of Wallbreakers: 4
+2015-10-20 23:17:32 :  - No. of Wizards: 3
+2015-10-20 23:17:32 : Training Troops...
+2015-10-20 23:17:41 : Spell Factory Full
+2015-10-20 23:17:44 : Time Idle: 00:01:19
+2015-10-20 23:17:44 : ====== Waiting for full army ======
+2015-10-20 23:17:55 : Collecting Resources
+2015-10-20 23:18:01 : Checking Army Camp...
+2015-10-20 23:18:03 : Total Army Camp capacity: 20/220
+2015-10-20 23:18:04 :  - No. of Wallbreakers: 4
+2015-10-20 23:18:04 :  - No. of Wizards: 3
+2015-10-20 23:18:04 : Training Troops...
+2015-10-20 23:18:13 : Spell Factory Full
+2015-10-20 23:18:16 : Time Idle: 00:01:52
+2015-10-20 23:18:16 : ====== Waiting for full army ======
+2015-10-20 23:18:28 : Checking Army Camp...
+2015-10-20 23:18:30 : Total Army Camp capacity: 20/220
+2015-10-20 23:18:31 :  - No. of Wallbreakers: 4
+2015-10-20 23:18:31 :  - No. of Wizards: 3
+2015-10-20 23:18:31 : Training Troops...
+2015-10-20 23:18:40 : Spell Factory Full
+2015-10-20 23:18:43 : Time Idle: 00:02:18
+2015-10-20 23:18:43 : ====== Waiting for full army ======
+2015-10-20 23:18:55 : Checking Army Camp...
+2015-10-20 23:18:57 : Total Army Camp capacity: 20/220
+2015-10-20 23:18:58 :  - No. of Wallbreakers: 4
+2015-10-20 23:18:58 :  - No. of Wizards: 3
+2015-10-20 23:18:58 : Training Troops...
+2015-10-20 23:19:07 : Spell Factory Full
+2015-10-20 23:19:10 : Time Idle: 00:02:45
+2015-10-20 23:19:10 : ====== Waiting for full army ======
+2015-10-20 23:19:22 : Checking Army Camp...
+2015-10-20 23:19:24 : Total Army Camp capacity: 20/220
+2015-10-20 23:19:25 :  - No. of Wallbreakers: 4
+2015-10-20 23:19:25 :  - No. of Wizards: 3
+2015-10-20 23:19:25 : Training Troops...
+2015-10-20 23:19:34 : Spell Factory Full
+2015-10-20 23:19:37 : Time Idle: 00:03:12
+2015-10-20 23:19:37 : ====== Waiting for full army ======
+2015-10-20 23:19:49 : Checking Army Camp...
+2015-10-20 23:19:51 : Total Army Camp capacity: 20/220
+2015-10-20 23:19:52 :  - No. of Wallbreakers: 4
+2015-10-20 23:19:52 :  - No. of Wizards: 3
+2015-10-20 23:19:52 : Training Troops...
+2015-10-20 23:20:01 : Spell Factory Full
+2015-10-20 23:20:03 : Time Idle: 00:03:38
+2015-10-20 23:20:04 : ====== Waiting for full army ======
+2015-10-20 23:20:16 : Checking Army Camp...
+2015-10-20 23:20:18 : Total Army Camp capacity: 20/220
+2015-10-20 23:20:18 :  - No. of Wallbreakers: 4
+2015-10-20 23:20:18 :  - No. of Wizards: 3
+2015-10-20 23:20:19 : Training Troops...
+2015-10-20 23:20:28 : Spell Factory Full
+2015-10-20 23:20:31 : Time Idle: 00:04:05
+2015-10-20 23:20:31 : ====== Waiting for full army ======
+2015-10-20 23:20:43 : Checking Army Camp...
+2015-10-20 23:20:45 : Total Army Camp capacity: 20/220
+2015-10-20 23:20:45 :  - No. of Wallbreakers: 4
+2015-10-20 23:20:45 :  - No. of Wizards: 3
+2015-10-20 23:20:46 : Training Troops...
+2015-10-20 23:20:55 : Spell Factory Full
+2015-10-20 23:20:57 : Time Idle: 00:04:32
+2015-10-20 23:20:58 : ====== Waiting for full army ======
+2015-10-20 23:21:10 : Checking Army Camp...
+2015-10-20 23:21:11 : Total Army Camp capacity: 20/220
+2015-10-20 23:21:12 :  - No. of Wallbreakers: 4
+2015-10-20 23:21:12 :  - No. of Wizards: 3
+2015-10-20 23:21:13 : Training Troops...
+2015-10-20 23:21:22 : Spell Factory Full
+2015-10-20 23:21:24 : Time Idle: 00:04:58
+2015-10-20 23:21:25 : ====== Waiting for full army ======
+2015-10-20 23:21:36 : Checking Army Camp...
+2015-10-20 23:21:38 : Total Army Camp capacity: 36/220
+2015-10-20 23:21:39 :  - No. of Wallbreakers: 4
+2015-10-20 23:21:39 :  - No. of Wizards: 7
+2015-10-20 23:21:39 : Training Troops...
+2015-10-20 23:21:49 : Spell Factory Full
+2015-10-20 23:21:51 : Time Idle: 00:05:25
+2015-10-20 23:21:52 : ====== Waiting for full army ======
+2015-10-20 23:22:03 : Checking Army Camp...
+2015-10-20 23:22:05 : Total Army Camp capacity: 36/220
+2015-10-20 23:22:06 :  - No. of Wallbreakers: 4
+2015-10-20 23:22:06 :  - No. of Wizards: 7
+2015-10-20 23:22:06 : Training Troops...
+2015-10-20 23:22:16 : Spell Factory Full
+2015-10-20 23:22:18 : Time Idle: 00:05:52
+2015-10-20 23:22:19 : ====== Waiting for full army ======
+2015-10-20 23:22:30 : Checking Army Camp...
+2015-10-20 23:22:32 : Total Army Camp capacity: 36/220
+2015-10-20 23:22:33 :  - No. of Wallbreakers: 4
+2015-10-20 23:22:33 :  - No. of Wizards: 7
+2015-10-20 23:22:33 : Training Troops...
+2015-10-20 23:22:43 : Spell Factory Full
+2015-10-20 23:22:45 : Time Idle: 00:06:19
+2015-10-20 23:22:46 : ====== Waiting for full army ======
+2015-10-20 23:22:57 : Collecting Resources
+2015-10-20 23:23:03 : Checking Army Camp...
+2015-10-20 23:23:05 : Total Army Camp capacity: 36/220
+2015-10-20 23:23:06 :  - No. of Wallbreakers: 4
+2015-10-20 23:23:06 :  - No. of Wizards: 7
+2015-10-20 23:23:06 : Training Troops...
+2015-10-20 23:23:15 : Spell Factory Full
+2015-10-20 23:23:18 : Time Idle: 00:06:51
+2015-10-20 23:23:18 : ====== Waiting for full army ======
+2015-10-20 23:23:30 : Checking Army Camp...
+2015-10-20 23:23:32 : Total Army Camp capacity: 36/220
+2015-10-20 23:23:33 :  - No. of Wallbreakers: 4
+2015-10-20 23:23:33 :  - No. of Wizards: 7
+2015-10-20 23:23:33 : Training Troops...
+2015-10-20 23:23:42 : Spell Factory Full
+2015-10-20 23:23:45 : Time Idle: 00:07:17
+2015-10-20 23:23:45 : ====== Waiting for full army ======
+2015-10-20 23:23:57 : Checking Army Camp...
+2015-10-20 23:23:59 : Total Army Camp capacity: 36/220
+2015-10-20 23:24:00 :  - No. of Wallbreakers: 4
+2015-10-20 23:24:00 :  - No. of Wizards: 7
+2015-10-20 23:24:00 : Training Troops...
+2015-10-20 23:24:09 : Spell Factory Full
+2015-10-20 23:24:12 : Time Idle: 00:07:44
+2015-10-20 23:24:12 : ====== Waiting for full army ======
+2015-10-20 23:24:24 : Checking Army Camp...
+2015-10-20 23:24:26 : Total Army Camp capacity: 36/220
+2015-10-20 23:24:27 :  - No. of Wallbreakers: 4
+2015-10-20 23:24:27 :  - No. of Wizards: 7
+2015-10-20 23:24:27 : Training Troops...
+2015-10-20 23:24:36 : Spell Factory Full
+2015-10-20 23:24:39 : Time Idle: 00:08:11
+2015-10-20 23:24:39 : ====== Waiting for full army ======
+2015-10-20 23:24:51 : Checking Army Camp...
+2015-10-20 23:24:53 : Total Army Camp capacity: 36/220
+2015-10-20 23:24:53 :  - No. of Wallbreakers: 4
+2015-10-20 23:24:54 :  - No. of Wizards: 7
+2015-10-20 23:24:54 : Training Troops...
+2015-10-20 23:25:03 : Spell Factory Full
+2015-10-20 23:25:06 : Time Idle: 00:08:38
+2015-10-20 23:25:06 : ====== Waiting for full army ======
+2015-10-20 23:25:18 : Checking Army Camp...
+2015-10-20 23:25:20 : Total Army Camp capacity: 36/220
+2015-10-20 23:25:20 :  - No. of Wallbreakers: 4
+2015-10-20 23:25:21 :  - No. of Wizards: 7
+2015-10-20 23:25:21 : Training Troops...
+2015-10-20 23:25:30 : Spell Factory Full
+2015-10-20 23:25:33 : Time Idle: 00:09:04
+2015-10-20 23:25:33 : ====== Waiting for full army ======
+2015-10-20 23:25:45 : Checking Army Camp...
+2015-10-20 23:25:47 : Total Army Camp capacity: 36/220
+2015-10-20 23:25:47 :  - No. of Wallbreakers: 4
+2015-10-20 23:25:48 :  - No. of Wizards: 7
+2015-10-20 23:25:48 : Training Troops...
+2015-10-20 23:25:57 : Spell Factory Full
+2015-10-20 23:25:59 : Time Idle: 00:09:31
+2015-10-20 23:26:00 : ====== Waiting for full army ======
+2015-10-20 23:26:12 : Checking Army Camp...
+2015-10-20 23:26:14 : Total Army Camp capacity: 36/220
+2015-10-20 23:26:14 :  - No. of Wallbreakers: 4
+2015-10-20 23:26:14 :  - No. of Wizards: 7
+2015-10-20 23:26:15 : Training Troops...
+2015-10-20 23:26:24 : Spell Factory Full
+2015-10-20 23:26:26 : Time Idle: 00:09:58
+2015-10-20 23:26:27 : ====== Waiting for full army ======
+2015-10-20 23:26:39 : Checking Army Camp...
+2015-10-20 23:26:40 : Total Army Camp capacity: 36/220
+2015-10-20 23:26:41 :  - No. of Wallbreakers: 4
+2015-10-20 23:26:41 :  - No. of Wizards: 7
+2015-10-20 23:26:42 : Training Troops...
+2015-10-20 23:26:51 : Spell Factory Full
+2015-10-20 23:26:53 : Time Idle: 00:10:24
+2015-10-20 23:26:54 : ====== Waiting for full army ======
+2015-10-20 23:27:06 : Checking Army Camp...
+2015-10-20 23:27:07 : Total Army Camp capacity: 36/220
+2015-10-20 23:27:08 :  - No. of Wallbreakers: 4
+2015-10-20 23:27:08 :  - No. of Wizards: 7
+2015-10-20 23:27:09 : Training Troops...
+2015-10-20 23:27:18 : Spell Factory Full
+2015-10-20 23:27:20 : Time Idle: 00:10:51
+2015-10-20 23:27:20 : ====== Waiting for full army ======
+2015-10-20 23:27:32 : Checking Army Camp...
+2015-10-20 23:27:34 : Total Army Camp capacity: 36/220
+2015-10-20 23:27:35 :  - No. of Wallbreakers: 4
+2015-10-20 23:27:35 :  - No. of Wizards: 7
+2015-10-20 23:27:35 : Training Troops...
+2015-10-20 23:27:45 : Spell Factory Full
+2015-10-20 23:27:47 : Time Idle: 00:11:18
+2015-10-20 23:27:47 : ====== Waiting for full army ======
+2015-10-20 23:27:59 : Collecting Resources
+2015-10-20 23:28:05 : Checking Army Camp...
+2015-10-20 23:28:07 : Total Army Camp capacity: 36/220
+2015-10-20 23:28:08 :  - No. of Wallbreakers: 4
+2015-10-20 23:28:08 :  - No. of Wizards: 7
+2015-10-20 23:28:08 : Training Troops...
+2015-10-20 23:28:17 : Spell Factory Full
+2015-10-20 23:28:20 : Time Idle: 00:11:50
+2015-10-20 23:28:20 : ====== Waiting for full army ======
+2015-10-20 23:28:32 : Checking Army Camp...
+2015-10-20 23:28:34 : Total Army Camp capacity: 36/220
+2015-10-20 23:28:35 :  - No. of Wallbreakers: 4
+2015-10-20 23:28:35 :  - No. of Wizards: 7
+2015-10-20 23:28:35 : Training Troops...
+2015-10-20 23:28:44 : Spell Factory Full
+2015-10-20 23:28:47 : Time Idle: 00:12:17
+2015-10-20 23:28:47 : ====== Waiting for full army ======
+2015-10-20 23:28:59 : Checking Army Camp...
+2015-10-20 23:29:01 : Total Army Camp capacity: 36/220
+2015-10-20 23:29:02 :  - No. of Wallbreakers: 4
+2015-10-20 23:29:02 :  - No. of Wizards: 7
+2015-10-20 23:29:02 : Training Troops...
+2015-10-20 23:29:11 : Spell Factory Full
+2015-10-20 23:29:14 : Time Idle: 00:12:44
+2015-10-20 23:29:14 : ====== Waiting for full army ======
+2015-10-20 23:29:26 : Checking Army Camp...
+2015-10-20 23:29:28 : Total Army Camp capacity: 52/220
+2015-10-20 23:29:29 :  - No. of Wallbreakers: 4
+2015-10-20 23:29:29 :  - No. of Wizards: 11
+2015-10-20 23:29:29 : Training Troops...
+2015-10-20 23:29:39 : Spell Factory Full
+2015-10-20 23:29:41 : Time Idle: 00:13:11
+2015-10-20 23:29:41 : ====== Waiting for full army ======
+2015-10-20 23:29:53 : Checking Army Camp...
+2015-10-20 23:29:55 : Total Army Camp capacity: 52/220
+2015-10-20 23:29:56 :  - No. of Wallbreakers: 4
+2015-10-20 23:29:56 :  - No. of Wizards: 11
+2015-10-20 23:29:56 : Training Troops...
+2015-10-20 23:30:05 : Spell Factory Full
+2015-10-20 23:30:08 : Time Idle: 00:13:37
+2015-10-20 23:30:08 : ====== Waiting for full army ======
+2015-10-20 23:30:20 : Checking Army Camp...
+2015-10-20 23:30:22 : Total Army Camp capacity: 52/220
+2015-10-20 23:30:23 :  - No. of Wallbreakers: 4
+2015-10-20 23:30:23 :  - No. of Wizards: 11
+2015-10-20 23:30:23 : Training Troops...
+2015-10-20 23:30:33 : Spell Factory Full
+2015-10-20 23:30:35 : Time Idle: 00:14:04
+2015-10-20 23:30:35 : ====== Waiting for full army ======
+2015-10-20 23:30:47 : Checking Army Camp...
+2015-10-20 23:30:49 : Total Army Camp capacity: 52/220
+2015-10-20 23:30:50 :  - No. of Wallbreakers: 4
+2015-10-20 23:30:50 :  - No. of Wizards: 11
+2015-10-20 23:30:50 : Training Troops...
+2015-10-20 23:30:59 : Spell Factory Full
+2015-10-20 23:31:02 : Time Idle: 00:14:31
+2015-10-20 23:31:02 : ====== Waiting for full army ======
+2015-10-20 23:31:14 : Checking Army Camp...
+2015-10-20 23:31:16 : Total Army Camp capacity: 52/220
+2015-10-20 23:31:17 :  - No. of Wallbreakers: 4
+2015-10-20 23:31:17 :  - No. of Wizards: 11
+2015-10-20 23:31:17 : Training Troops...
+2015-10-20 23:31:26 : Spell Factory Full
+2015-10-20 23:31:29 : Time Idle: 00:14:57
+2015-10-20 23:31:29 : ====== Waiting for full army ======
+2015-10-20 23:31:41 : Checking Army Camp...
+2015-10-20 23:31:43 : Total Army Camp capacity: 52/220
+2015-10-20 23:31:44 :  - No. of Wallbreakers: 4
+2015-10-20 23:31:44 :  - No. of Wizards: 11
+2015-10-20 23:31:44 : Training Troops...
+2015-10-20 23:31:53 : Spell Factory Full
+2015-10-20 23:31:56 : Time Idle: 00:15:24
+2015-10-20 23:31:56 : ====== Waiting for full army ======
+2015-10-20 23:32:08 : Checking Army Camp...
+2015-10-20 23:32:10 : Total Army Camp capacity: 52/220
+2015-10-20 23:32:11 :  - No. of Wallbreakers: 4
+2015-10-20 23:32:11 :  - No. of Wizards: 11
+2015-10-20 23:32:11 : Training Troops...
+2015-10-20 23:32:20 : Spell Factory Full
+2015-10-20 23:32:23 : Time Idle: 00:15:51
+2015-10-20 23:32:23 : ====== Waiting for full army ======
+2015-10-20 23:32:35 : Checking Army Camp...
+2015-10-20 23:32:37 : Total Army Camp capacity: 52/220
+2015-10-20 23:32:38 :  - No. of Wallbreakers: 4
+2015-10-20 23:32:38 :  - No. of Wizards: 11
+2015-10-20 23:32:38 : Training Troops...
+2015-10-20 23:32:47 : Spell Factory Full
+2015-10-20 23:32:50 : Time Idle: 00:16:18
+2015-10-20 23:32:50 : ====== Waiting for full army ======
+2015-10-20 23:33:02 : Collecting Resources
+2015-10-20 23:33:07 : Checking Army Camp...
+2015-10-20 23:33:09 : Total Army Camp capacity: 52/220
+2015-10-20 23:33:10 :  - No. of Wallbreakers: 4
+2015-10-20 23:33:10 :  - No. of Wizards: 11
+2015-10-20 23:33:10 : Training Troops...
+2015-10-20 23:33:20 : Spell Factory Full
+2015-10-20 23:33:22 : Time Idle: 00:16:50
+2015-10-20 23:33:22 : ====== Waiting for full army ======
+2015-10-20 23:33:34 : Checking Army Camp...
+2015-10-20 23:33:36 : Total Army Camp capacity: 52/220
+2015-10-20 23:33:37 :  - No. of Wallbreakers: 4
+2015-10-20 23:33:37 :  - No. of Wizards: 11
+2015-10-20 23:33:37 : Training Troops...
+2015-10-20 23:33:47 : Spell Factory Full
+2015-10-20 23:33:49 : Time Idle: 00:17:16
+2015-10-20 23:33:49 : ====== Waiting for full army ======
+2015-10-20 23:34:01 : Checking Army Camp...
+2015-10-20 23:34:03 : Total Army Camp capacity: 52/220
+2015-10-20 23:34:04 :  - No. of Wallbreakers: 4
+2015-10-20 23:34:04 :  - No. of Wizards: 11
+2015-10-20 23:34:04 : Training Troops...
+2015-10-20 23:34:13 : Spell Factory Full
+2015-10-20 23:34:16 : Time Idle: 00:17:43
+2015-10-20 23:34:16 : ====== Waiting for full army ======
+2015-10-20 23:34:28 : Checking Army Camp...
+2015-10-20 23:34:30 : Total Army Camp capacity: 52/220
+2015-10-20 23:34:31 :  - No. of Wallbreakers: 4
+2015-10-20 23:34:31 :  - No. of Wizards: 11
+2015-10-20 23:34:31 : Training Troops...
+2015-10-20 23:34:40 : Spell Factory Full
+2015-10-20 23:34:43 : Time Idle: 00:18:10
+2015-10-20 23:34:43 : ====== Waiting for full army ======
+2015-10-20 23:34:55 : Checking Army Camp...
+2015-10-20 23:34:57 : Total Army Camp capacity: 52/220
+2015-10-20 23:34:58 :  - No. of Wallbreakers: 4
+2015-10-20 23:34:58 :  - No. of Wizards: 11
+2015-10-20 23:34:58 : Training Troops...
+2015-10-20 23:35:07 : Spell Factory Full
+2015-10-20 23:35:10 : Time Idle: 00:18:37
+2015-10-20 23:35:10 : ====== Waiting for full army ======
+2015-10-20 23:35:22 : Checking Army Camp...
+2015-10-20 23:35:24 : Total Army Camp capacity: 52/220
+2015-10-20 23:35:25 :  - No. of Wallbreakers: 4
+2015-10-20 23:35:25 :  - No. of Wizards: 11
+2015-10-20 23:35:25 : Training Troops...
+2015-10-20 23:35:34 : Spell Factory Full
+2015-10-20 23:35:37 : Time Idle: 00:19:03
+2015-10-20 23:35:37 : ====== Waiting for full army ======
+2015-10-20 23:35:49 : Checking Army Camp...
+2015-10-20 23:35:51 : Total Army Camp capacity: 52/220
+2015-10-20 23:35:52 :  - No. of Wallbreakers: 4
+2015-10-20 23:35:52 :  - No. of Wizards: 11
+2015-10-20 23:35:52 : Training Troops...
+2015-10-20 23:36:01 : Spell Factory Full
+2015-10-20 23:36:04 : Time Idle: 00:19:30
+2015-10-20 23:36:04 : ====== Waiting for full army ======
+2015-10-20 23:36:16 : Checking Army Camp...
+2015-10-20 23:36:18 : Total Army Camp capacity: 52/220
+2015-10-20 23:36:19 :  - No. of Wallbreakers: 4
+2015-10-20 23:36:19 :  - No. of Wizards: 11
+2015-10-20 23:36:19 : Training Troops...
+2015-10-20 23:36:28 : Spell Factory Full
+2015-10-20 23:36:31 : Time Idle: 00:19:57
+2015-10-20 23:36:31 : ====== Waiting for full army ======
+2015-10-20 23:36:43 : Checking Army Camp...
+2015-10-20 23:36:45 : Total Army Camp capacity: 52/220
+2015-10-20 23:36:46 :  - No. of Wallbreakers: 4
+2015-10-20 23:36:46 :  - No. of Wizards: 11
+2015-10-20 23:36:46 : Training Troops...
+2015-10-20 23:36:55 : Spell Factory Full
+2015-10-20 23:36:58 : Time Idle: 00:20:23
+2015-10-20 23:36:58 : ====== Waiting for full army ======
+2015-10-20 23:37:10 : Checking Army Camp...
+2015-10-20 23:37:12 : Total Army Camp capacity: 52/220
+2015-10-20 23:37:13 :  - No. of Wallbreakers: 4
+2015-10-20 23:37:13 :  - No. of Wizards: 11
+2015-10-20 23:37:13 : Training Troops...
+2015-10-20 23:37:22 : Spell Factory Full
+2015-10-20 23:37:25 : Time Idle: 00:20:50
+2015-10-20 23:37:25 : ====== Waiting for full army ======
+2015-10-20 23:37:37 : Checking Army Camp...
+2015-10-20 23:37:39 : Total Army Camp capacity: 68/220
+2015-10-20 23:37:40 :  - No. of Wallbreakers: 4
+2015-10-20 23:37:40 :  - No. of Wizards: 15
+2015-10-20 23:37:40 : Training Troops...
+2015-10-20 23:37:49 : Spell Factory Full
+2015-10-20 23:37:52 : Time Idle: 00:21:17
+2015-10-20 23:37:52 : ====== Waiting for full army ======
+2015-10-20 23:38:04 : Collecting Resources
+2015-10-20 23:38:09 : Checking Army Camp...
+2015-10-20 23:38:11 : Total Army Camp capacity: 68/220
+2015-10-20 23:38:12 :  - No. of Wallbreakers: 4
+2015-10-20 23:38:12 :  - No. of Wizards: 15
+2015-10-20 23:38:12 : Training Troops...
+2015-10-20 23:38:22 : Spell Factory Full
+2015-10-20 23:38:24 : Time Idle: 00:21:49
+2015-10-20 23:38:24 : ====== Waiting for full army ======
+2015-10-20 23:38:36 : Checking Army Camp...
+2015-10-20 23:38:38 : Total Army Camp capacity: 68/220
+2015-10-20 23:38:39 :  - No. of Wallbreakers: 4
+2015-10-20 23:38:39 :  - No. of Wizards: 15
+2015-10-20 23:38:39 : Training Troops...
+2015-10-20 23:38:49 : Spell Factory Full
+2015-10-20 23:38:51 : Time Idle: 00:22:16
+2015-10-20 23:38:51 : ====== Waiting for full army ======
+2015-10-20 23:39:03 : Checking Army Camp...
+2015-10-20 23:39:05 : Total Army Camp capacity: 68/220
+2015-10-20 23:39:06 :  - No. of Wallbreakers: 4
+2015-10-20 23:39:06 :  - No. of Wizards: 15
+2015-10-20 23:39:06 : Training Troops...
+2015-10-20 23:39:16 : Spell Factory Full
+2015-10-20 23:39:18 : Time Idle: 00:22:43
+2015-10-20 23:39:18 : ====== Waiting for full army ======
+2015-10-20 23:39:30 : Checking Army Camp...
+2015-10-20 23:39:32 : Total Army Camp capacity: 68/220
+2015-10-20 23:39:33 :  - No. of Wallbreakers: 4
+2015-10-20 23:39:33 :  - No. of Wizards: 15
+2015-10-20 23:39:33 : Training Troops...
+2015-10-20 23:39:43 : Spell Factory Full
+2015-10-20 23:39:45 : Time Idle: 00:23:09
+2015-10-20 23:39:45 : ====== Waiting for full army ======
+2015-10-20 23:39:57 : Checking Army Camp...
+2015-10-20 23:39:59 : Total Army Camp capacity: 68/220
+2015-10-20 23:40:00 :  - No. of Wallbreakers: 4
+2015-10-20 23:40:00 :  - No. of Wizards: 15
+2015-10-20 23:40:00 : Training Troops...
+2015-10-20 23:40:10 : Spell Factory Full
+2015-10-20 23:40:12 : Time Idle: 00:23:36
+2015-10-20 23:40:12 : ====== Waiting for full army ======
+2015-10-20 23:40:24 : Checking Army Camp...
+2015-10-20 23:40:26 : Total Army Camp capacity: 68/220
+2015-10-20 23:40:27 :  - No. of Wallbreakers: 4
+2015-10-20 23:40:27 :  - No. of Wizards: 15
+2015-10-20 23:40:27 : Training Troops...
+2015-10-20 23:40:36 : Spell Factory Full
+2015-10-20 23:40:39 : Time Idle: 00:24:03
+2015-10-20 23:40:39 : ====== Waiting for full army ======
+2015-10-20 23:40:51 : Checking Army Camp...
+2015-10-20 23:40:53 : Total Army Camp capacity: 68/220
+2015-10-20 23:40:54 :  - No. of Wallbreakers: 4
+2015-10-20 23:40:54 :  - No. of Wizards: 15
+2015-10-20 23:40:54 : Training Troops...
+2015-10-20 23:41:03 : Spell Factory Full
+2015-10-20 23:41:06 : Time Idle: 00:24:29
+2015-10-20 23:41:06 : ====== Waiting for full army ======
+2015-10-20 23:41:18 : Checking Army Camp...
+2015-10-20 23:41:20 : Total Army Camp capacity: 68/220
+2015-10-20 23:41:21 :  - No. of Wallbreakers: 4
+2015-10-20 23:41:21 :  - No. of Wizards: 15
+2015-10-20 23:41:21 : Training Troops...
+2015-10-20 23:41:30 : Spell Factory Full
+2015-10-20 23:41:33 : Time Idle: 00:24:56
+2015-10-20 23:41:33 : ====== Waiting for full army ======
+2015-10-20 23:41:45 : Checking Army Camp...
+2015-10-20 23:41:47 : Total Army Camp capacity: 68/220
+2015-10-20 23:41:48 :  - No. of Wallbreakers: 4
+2015-10-20 23:41:48 :  - No. of Wizards: 15
+2015-10-20 23:41:48 : Training Troops...
+2015-10-20 23:41:57 : Spell Factory Full
+2015-10-20 23:42:00 : Time Idle: 00:25:23
+2015-10-20 23:42:00 : ====== Waiting for full army ======
+2015-10-20 23:42:12 : Another Device has connected, waiting 2 minutes 0 seconds
+2015-10-20 23:42:13 : ClashGameBot was Paused!
+2015-10-20 23:43:06 : ClashGameBot was Resumed.
+2015-10-20 23:43:13 : ClashGameBot was Paused!
+2015-10-20 23:43:28 : ClashGameBot was Resumed.
+2015-10-20 23:43:32 : ClashGameBot was Paused!
+2015-10-20 23:44:14 : ClashGameBot was Resumed.
+2015-10-20 23:44:17 : Waiting for Main Screen
+2015-10-20 23:44:19 : Trying to locate Main Screen
+2015-10-20 23:44:19 : Main Screen Located
+2015-10-20 23:44:20 : Village Report
+2015-10-20 23:44:20 : No. of Free/Total Builders: 2/5
+2015-10-20 23:44:20 :  [T]: 2 746
+2015-10-20 23:44:20 :  [G]: 1 181 905 [E]: 548 526 [D]: 145 395 [GEM]: 5 335
+2015-10-20 23:44:21 : Collecting Resources
+2015-10-20 23:44:30 : Checking Army Camp...
+2015-10-20 23:44:32 : Total Army Camp capacity: 68/220
+2015-10-20 23:44:33 :  - No. of Wallbreakers: 4
+2015-10-20 23:44:33 :  - No. of Wizards: 15
+2015-10-20 23:44:33 : Training Troops...
+2015-10-20 23:44:43 : Spell Factory Full
+2015-10-20 23:44:50 : ====== Waiting for full army ======
+2015-10-20 23:45:02 : Checking Army Camp...
+2015-10-20 23:45:04 : Total Army Camp capacity: 68/220
+2015-10-20 23:45:05 :  - No. of Wallbreakers: 4
+2015-10-20 23:45:05 :  - No. of Wizards: 15
+2015-10-20 23:45:05 : Training Troops...
+2015-10-20 23:45:14 : Spell Factory Full
+2015-10-20 23:45:17 : Time Idle: 00:00:26
+2015-10-20 23:45:17 : ====== Waiting for full army ======
+2015-10-20 23:45:29 : Checking Army Camp...
+2015-10-20 23:45:31 : Total Army Camp capacity: 68/220
+2015-10-20 23:45:31 :  - No. of Wallbreakers: 4
+2015-10-20 23:45:32 :  - No. of Wizards: 15
+2015-10-20 23:45:32 : Training Troops...
+2015-10-20 23:45:41 : Spell Factory Full
+2015-10-20 23:45:44 : Time Idle: 00:00:53
+2015-10-20 23:45:44 : ====== Waiting for full army ======
+2015-10-20 23:45:56 : Collecting Resources
+2015-10-20 23:46:01 : Checking Army Camp...
+2015-10-20 23:46:03 : Total Army Camp capacity: 84/220
+2015-10-20 23:46:04 :  - No. of Wallbreakers: 4
+2015-10-20 23:46:04 :  - No. of Wizards: 19
+2015-10-20 23:46:04 : Training Troops...
+2015-10-20 23:46:14 : Spell Factory Full
+2015-10-20 23:46:16 : Time Idle: 00:01:25
+2015-10-20 23:46:16 : ====== Waiting for full army ======
+2015-10-20 23:46:28 : Checking Army Camp...
+2015-10-20 23:46:30 : Total Army Camp capacity: 84/220
+2015-10-20 23:46:31 :  - No. of Wallbreakers: 4
+2015-10-20 23:46:31 :  - No. of Wizards: 19
+2015-10-20 23:46:31 : Training Troops...
+2015-10-20 23:46:41 : Spell Factory Full
+2015-10-20 23:46:43 : Time Idle: 00:01:52
+2015-10-20 23:46:43 : ====== Waiting for full army ======
+2015-10-20 23:46:55 : Checking Army Camp...
+2015-10-20 23:46:57 : Total Army Camp capacity: 84/220
+2015-10-20 23:46:58 :  - No. of Wallbreakers: 4
+2015-10-20 23:46:58 :  - No. of Wizards: 19
+2015-10-20 23:46:58 : Training Troops...
+2015-10-20 23:47:07 : Spell Factory Full
+2015-10-20 23:47:10 : Time Idle: 00:02:19
+2015-10-20 23:47:10 : ====== Waiting for full army ======
+2015-10-20 23:47:22 : Checking Army Camp...
+2015-10-20 23:47:24 : Total Army Camp capacity: 84/220
+2015-10-20 23:47:25 :  - No. of Wallbreakers: 4
+2015-10-20 23:47:25 :  - No. of Wizards: 19
+2015-10-20 23:47:25 : Training Troops...
+2015-10-20 23:47:35 : Spell Factory Full
+2015-10-20 23:47:37 : Time Idle: 00:02:45
+2015-10-20 23:47:37 : ====== Waiting for full army ======
+2015-10-20 23:47:49 : Checking Army Camp...
+2015-10-20 23:47:51 : Total Army Camp capacity: 84/220
+2015-10-20 23:47:52 :  - No. of Wallbreakers: 4
+2015-10-20 23:47:52 :  - No. of Wizards: 19
+2015-10-20 23:47:52 : Training Troops...
+2015-10-20 23:48:01 : Spell Factory Full
+2015-10-20 23:48:04 : Time Idle: 00:03:12
+2015-10-20 23:48:04 : ====== Waiting for full army ======
+2015-10-20 23:48:16 : Checking Army Camp...
+2015-10-20 23:48:18 : Total Army Camp capacity: 84/220
+2015-10-20 23:48:19 :  - No. of Wallbreakers: 4
+2015-10-20 23:48:19 :  - No. of Wizards: 19
+2015-10-20 23:48:19 : Training Troops...
+2015-10-20 23:48:28 : Spell Factory Full
+2015-10-20 23:48:31 : Time Idle: 00:03:39
+2015-10-20 23:48:31 : ====== Waiting for full army ======
+2015-10-20 23:48:43 : Checking Army Camp...
+2015-10-20 23:48:45 : Total Army Camp capacity: 84/220
+2015-10-20 23:48:46 :  - No. of Wallbreakers: 4
+2015-10-20 23:48:46 :  - No. of Wizards: 19
+2015-10-20 23:48:46 : Training Troops...
+2015-10-20 23:48:55 : Spell Factory Full
+2015-10-20 23:48:58 : Time Idle: 00:04:05
+2015-10-20 23:48:58 : ====== Waiting for full army ======
+2015-10-20 23:49:10 : Checking Army Camp...
+2015-10-20 23:49:12 : Total Army Camp capacity: 84/220
+2015-10-20 23:49:13 :  - No. of Wallbreakers: 4
+2015-10-20 23:49:13 :  - No. of Wizards: 19
+2015-10-20 23:49:13 : Training Troops...
+2015-10-20 23:49:22 : Spell Factory Full
+2015-10-20 23:49:25 : Time Idle: 00:04:32
+2015-10-20 23:49:25 : ====== Waiting for full army ======
+2015-10-20 23:49:37 : Checking Army Camp...
+2015-10-20 23:49:39 : Total Army Camp capacity: 84/220
+2015-10-20 23:49:40 :  - No. of Wallbreakers: 4
+2015-10-20 23:49:40 :  - No. of Wizards: 19
+2015-10-20 23:49:40 : Training Troops...
+2015-10-20 23:49:49 : Spell Factory Full
+2015-10-20 23:49:52 : Time Idle: 00:04:59
+2015-10-20 23:49:52 : ====== Waiting for full army ======
+2015-10-20 23:50:04 : Checking Army Camp...
+2015-10-20 23:50:06 : Total Army Camp capacity: 84/220
+2015-10-20 23:50:07 :  - No. of Wallbreakers: 4
+2015-10-20 23:50:07 :  - No. of Wizards: 19
+2015-10-20 23:50:07 : Training Troops...
+2015-10-20 23:50:16 : Spell Factory Full
+2015-10-20 23:50:19 : Time Idle: 00:05:26
+2015-10-20 23:50:19 : ====== Waiting for full army ======
+2015-10-20 23:50:31 : Checking Army Camp...
+2015-10-20 23:50:33 : Total Army Camp capacity: 84/220
+2015-10-20 23:50:34 :  - No. of Wallbreakers: 4
+2015-10-20 23:50:34 :  - No. of Wizards: 19
+2015-10-20 23:50:34 : Training Troops...
+2015-10-20 23:50:43 : Spell Factory Full
+2015-10-20 23:50:46 : Time Idle: 00:05:52
+2015-10-20 23:50:46 : ====== Waiting for full army ======
+2015-10-20 23:50:58 : Collecting Resources
+2015-10-20 23:51:03 : Checking Army Camp...
+2015-10-20 23:51:05 : Total Army Camp capacity: 84/220
+2015-10-20 23:51:06 :  - No. of Wallbreakers: 4
+2015-10-20 23:51:06 :  - No. of Wizards: 19
+2015-10-20 23:51:06 : Training Troops...
+2015-10-20 23:51:16 : Spell Factory Full
+2015-10-20 23:51:18 : Time Idle: 00:06:25
+2015-10-20 23:51:18 : ====== Waiting for full army ======
+2015-10-20 23:51:30 : Checking Army Camp...
+2015-10-20 23:51:32 : Total Army Camp capacity: 84/220
+2015-10-20 23:51:33 :  - No. of Wallbreakers: 4
+2015-10-20 23:51:33 :  - No. of Wizards: 19
+2015-10-20 23:51:33 : Training Troops...
+2015-10-20 23:51:43 : Spell Factory Full
+2015-10-20 23:51:45 : Time Idle: 00:06:51
+2015-10-20 23:51:45 : ====== Waiting for full army ======
+2015-10-20 23:51:57 : Checking Army Camp...
+2015-10-20 23:51:59 : Total Army Camp capacity: 84/220
+2015-10-20 23:52:00 :  - No. of Wallbreakers: 4
+2015-10-20 23:52:00 :  - No. of Wizards: 19
+2015-10-20 23:52:00 : Training Troops...
+2015-10-20 23:52:10 : Spell Factory Full
+2015-10-20 23:52:12 : Time Idle: 00:07:18
+2015-10-20 23:52:12 : ====== Waiting for full army ======
+2015-10-20 23:52:24 : Checking Army Camp...
+2015-10-20 23:52:26 : Total Army Camp capacity: 84/220
+2015-10-20 23:52:27 :  - No. of Wallbreakers: 4
+2015-10-20 23:52:27 :  - No. of Wizards: 19
+2015-10-20 23:52:27 : Training Troops...
+2015-10-20 23:52:37 : Spell Factory Full
+2015-10-20 23:52:39 : Time Idle: 00:07:45
+2015-10-20 23:52:39 : ====== Waiting for full army ======
+2015-10-20 23:52:51 : Checking Army Camp...
+2015-10-20 23:52:53 : Total Army Camp capacity: 84/220
+2015-10-20 23:52:54 :  - No. of Wallbreakers: 4
+2015-10-20 23:52:54 :  - No. of Wizards: 19
+2015-10-20 23:52:54 : Training Troops...
+2015-10-20 23:53:03 : Spell Factory Full
+2015-10-20 23:53:06 : Time Idle: 00:08:11
+2015-10-20 23:53:06 : ====== Waiting for full army ======
+2015-10-20 23:53:18 : Checking Army Camp...
+2015-10-20 23:53:20 : Total Army Camp capacity: 84/220
+2015-10-20 23:53:21 :  - No. of Wallbreakers: 4
+2015-10-20 23:53:21 :  - No. of Wizards: 19
+2015-10-20 23:53:21 : Training Troops...
+2015-10-20 23:53:30 : Spell Factory Full
+2015-10-20 23:53:33 : Time Idle: 00:08:38
+2015-10-20 23:53:33 : ====== Waiting for full army ======
+2015-10-20 23:53:45 : Checking Army Camp...
+2015-10-20 23:53:47 : Total Army Camp capacity: 88/220
+2015-10-20 23:53:48 :  - No. of Wallbreakers: 4
+2015-10-20 23:53:48 :  - No. of Wizards: 20
+2015-10-20 23:53:48 : Training Troops...
+2015-10-20 23:53:58 : Spell Factory Full
+2015-10-20 23:54:00 : Time Idle: 00:09:05
+2015-10-20 23:54:00 : ====== Waiting for full army ======
+2015-10-20 23:54:12 : Checking Army Camp...
+2015-10-20 23:54:14 : Total Army Camp capacity: 100/220
+2015-10-20 23:54:15 :  - No. of Wallbreakers: 4
+2015-10-20 23:54:15 :  - No. of Wizards: 23
+2015-10-20 23:54:15 : Training Troops...
+2015-10-20 23:54:25 : Spell Factory Full
+2015-10-20 23:54:28 : Time Idle: 00:09:32
+2015-10-20 23:54:28 : ====== Waiting for full army ======
+2015-10-20 23:54:40 : Checking Army Camp...
+2015-10-20 23:54:42 : Total Army Camp capacity: 100/220
+2015-10-20 23:54:42 :  - No. of Wallbreakers: 4
+2015-10-20 23:54:43 :  - No. of Wizards: 23
+2015-10-20 23:54:43 : Training Troops...
+2015-10-20 23:54:52 : Spell Factory Full
+2015-10-20 23:54:55 : Time Idle: 00:09:59
+2015-10-20 23:54:55 : ====== Waiting for full army ======
+2015-10-20 23:55:07 : Checking Army Camp...
+2015-10-20 23:55:09 : Total Army Camp capacity: 100/220
+2015-10-20 23:55:10 :  - No. of Wallbreakers: 4
+2015-10-20 23:55:10 :  - No. of Wizards: 23
+2015-10-20 23:55:10 : Training Troops...
+2015-10-20 23:55:20 : Spell Factory Full
+2015-10-20 23:55:22 : Time Idle: 00:10:27
+2015-10-20 23:55:23 : ====== Waiting for full army ======
+2015-10-20 23:55:35 : Checking Army Camp...
+2015-10-20 23:55:36 : Total Army Camp capacity: 100/220
+2015-10-20 23:55:37 :  - No. of Wallbreakers: 4
+2015-10-20 23:55:37 :  - No. of Wizards: 23
+2015-10-20 23:55:38 : Training Troops...
+2015-10-20 23:55:47 : Spell Factory Full
+2015-10-20 23:55:50 : Time Idle: 00:10:54
+2015-10-20 23:55:50 : ====== Waiting for full army ======
+2015-10-20 23:56:02 : Collecting Resources
+2015-10-20 23:56:08 : Checking Army Camp...
+2015-10-20 23:56:10 : Total Army Camp capacity: 110/220
+2015-10-20 23:56:10 :  - No. of Giants: 2
+2015-10-20 23:56:11 :  - No. of Wallbreakers: 4
+2015-10-20 23:56:11 :  - No. of Wizards: 23
+2015-10-20 23:56:11 : Training Troops...
+2015-10-20 23:56:21 : Spell Factory Full
+2015-10-20 23:56:23 : Time Idle: 00:11:27
+2015-10-20 23:56:23 : ====== Waiting for full army ======
+2015-10-20 23:56:35 : Checking Army Camp...
+2015-10-20 23:56:37 : Total Army Camp capacity: 110/220
+2015-10-20 23:56:38 :  - No. of Giants: 2
+2015-10-20 23:56:38 :  - No. of Wallbreakers: 4
+2015-10-20 23:56:38 :  - No. of Wizards: 23
+2015-10-20 23:56:38 : Training Troops...
+2015-10-20 23:56:48 : Spell Factory Full
+2015-10-20 23:56:51 : Time Idle: 00:11:54
+2015-10-20 23:56:51 : ====== Waiting for full army ======
+2015-10-20 23:57:03 : Checking Army Camp...
+2015-10-20 23:57:05 : Total Army Camp capacity: 110/220
+2015-10-20 23:57:06 :  - No. of Giants: 2
+2015-10-20 23:57:06 :  - No. of Wallbreakers: 4
+2015-10-20 23:57:06 :  - No. of Wizards: 23
+2015-10-20 23:57:06 : Training Troops...
+2015-10-20 23:57:16 : Spell Factory Full
+2015-10-20 23:57:18 : Time Idle: 00:12:22
+2015-10-20 23:57:19 : ====== Waiting for full army ======
+2015-10-20 23:57:31 : Checking Army Camp...
+2015-10-20 23:57:33 : Total Army Camp capacity: 110/220
+2015-10-20 23:57:33 :  - No. of Giants: 2
+2015-10-20 23:57:33 :  - No. of Wallbreakers: 4
+2015-10-20 23:57:34 :  - No. of Wizards: 23
+2015-10-20 23:57:34 : Training Troops...
+2015-10-20 23:57:43 : Spell Factory Full
+2015-10-20 23:57:46 : Time Idle: 00:12:49
+2015-10-20 23:57:46 : ====== Waiting for full army ======
+2015-10-20 23:57:58 : Checking Army Camp...
+2015-10-20 23:58:00 : Total Army Camp capacity: 120/220
+2015-10-20 23:58:01 :  - No. of Giants: 4
+2015-10-20 23:58:01 :  - No. of Wallbreakers: 4
+2015-10-20 23:58:01 :  - No. of Wizards: 23
+2015-10-20 23:58:01 : Training Troops...
+2015-10-20 23:58:11 : Spell Factory Full
+2015-10-20 23:58:14 : Time Idle: 00:13:16
+2015-10-20 23:58:14 : ====== Waiting for full army ======
+2015-10-20 23:58:26 : Checking Army Camp...
+2015-10-20 23:58:28 : Total Army Camp capacity: 120/220
+2015-10-20 23:58:28 :  - No. of Giants: 4
+2015-10-20 23:58:29 :  - No. of Wallbreakers: 4
+2015-10-20 23:58:29 :  - No. of Wizards: 23
+2015-10-20 23:58:29 : Training Troops...
+2015-10-20 23:58:39 : Spell Factory Full
+2015-10-20 23:58:41 : Time Idle: 00:13:44
+2015-10-20 23:58:41 : ====== Waiting for full army ======
+2015-10-20 23:58:53 : Checking Army Camp...
+2015-10-20 23:58:55 : Total Army Camp capacity: 120/220
+2015-10-20 23:58:56 :  - No. of Giants: 4
+2015-10-20 23:58:56 :  - No. of Wallbreakers: 4
+2015-10-20 23:58:56 :  - No. of Wizards: 23
+2015-10-20 23:58:56 : Training Troops...
+2015-10-20 23:59:06 : Spell Factory Full
+2015-10-20 23:59:09 : Time Idle: 00:14:11
+2015-10-20 23:59:09 : ====== Waiting for full army ======
+2015-10-20 23:59:21 : Checking Army Camp...
+2015-10-20 23:59:23 : Total Army Camp capacity: 120/220
+2015-10-20 23:59:24 :  - No. of Giants: 4
+2015-10-20 23:59:24 :  - No. of Wallbreakers: 4
+2015-10-20 23:59:24 :  - No. of Wizards: 23
+2015-10-20 23:59:24 : Training Troops...
+2015-10-20 23:59:34 : Spell Factory Full
+2015-10-20 23:59:36 : Time Idle: 00:14:38
+2015-10-20 23:59:37 : ====== Waiting for full army ======
+2015-10-20 23:59:48 : Checking Army Camp...
+2015-10-20 23:59:50 : Total Army Camp capacity: 125/220
+2015-10-20 23:59:51 :  - No. of Giants: 5
+2015-10-20 23:59:51 :  - No. of Wallbreakers: 4
+2015-10-20 23:59:51 :  - No. of Wizards: 23
+2015-10-20 23:59:52 : Training Troops...
+2015-10-21 00:00:01 : Spell Factory Full
+2015-10-21 00:00:04 : Time Idle: 00:15:06
+2015-10-21 00:00:04 : ====== Waiting for full army ======
+2015-10-21 00:00:16 : Checking Army Camp...
+2015-10-21 00:00:18 : Total Army Camp capacity: 130/220
+2015-10-21 00:00:19 :  - No. of Giants: 6
+2015-10-21 00:00:19 :  - No. of Wallbreakers: 4
+2015-10-21 00:00:19 :  - No. of Wizards: 23
+2015-10-21 00:00:19 : Training Troops...
+2015-10-21 00:00:29 : Spell Factory Full
+2015-10-21 00:00:31 : Time Idle: 00:15:33
+2015-10-21 00:00:32 : ====== Waiting for full army ======
+2015-10-21 00:00:44 : Checking Army Camp...
+2015-10-21 00:00:46 : Total Army Camp capacity: 130/220
+2015-10-21 00:00:46 :  - No. of Giants: 6
+2015-10-21 00:00:46 :  - No. of Wallbreakers: 4
+2015-10-21 00:00:47 :  - No. of Wizards: 23
+2015-10-21 00:00:47 : Training Troops...
+2015-10-21 00:00:56 : Spell Factory Full
+2015-10-21 00:00:59 : Time Idle: 00:16:00
+2015-10-21 00:00:59 : ====== Waiting for full army ======
+2015-10-21 00:01:11 : Collecting Resources
+2015-10-21 00:01:17 : Checking Army Camp...
+2015-10-21 00:01:19 : Total Army Camp capacity: 130/220
+2015-10-21 00:01:19 :  - No. of Giants: 6
+2015-10-21 00:01:19 :  - No. of Wallbreakers: 4
+2015-10-21 00:01:20 :  - No. of Wizards: 23
+2015-10-21 00:01:20 : Training Troops...
+2015-10-21 00:01:30 : Spell Factory Full
+2015-10-21 00:01:32 : Time Idle: 00:16:33
+2015-10-21 00:01:32 : ====== Waiting for full army ======
+2015-10-21 00:01:44 : Checking Army Camp...
+2015-10-21 00:01:46 : Total Army Camp capacity: 134/220
+2015-10-21 00:01:47 :  - No. of Giants: 6
+2015-10-21 00:01:47 :  - No. of Wallbreakers: 4
+2015-10-21 00:01:47 :  - No. of Wizards: 24
+2015-10-21 00:01:47 : Training Troops...
+2015-10-21 00:01:58 : Spell Factory Full
+2015-10-21 00:02:00 : Time Idle: 00:17:01
+2015-10-21 00:02:00 : ====== Waiting for full army ======
+2015-10-21 00:02:12 : Checking Army Camp...
+2015-10-21 00:02:14 : Total Army Camp capacity: 148/220
+2015-10-21 00:02:15 :  - No. of Giants: 8
+2015-10-21 00:02:15 :  - No. of Wallbreakers: 4
+2015-10-21 00:02:15 :  - No. of Wizards: 25
+2015-10-21 00:02:15 : Training Troops...
+2015-10-21 00:02:26 : Spell Factory Full
+2015-10-21 00:02:28 : Time Idle: 00:17:29
+2015-10-21 00:02:28 : ====== Waiting for full army ======
+2015-10-21 00:02:40 : Checking Army Camp...
+2015-10-21 00:02:42 : Total Army Camp capacity: 148/220
+2015-10-21 00:02:43 :  - No. of Giants: 8
+2015-10-21 00:02:43 :  - No. of Wallbreakers: 4
+2015-10-21 00:02:43 :  - No. of Wizards: 25
+2015-10-21 00:02:43 : Training Troops...
+2015-10-21 00:02:54 : Spell Factory Full
+2015-10-21 00:02:56 : Time Idle: 00:17:57
+2015-10-21 00:02:56 : ====== Waiting for full army ======
+2015-10-21 00:03:08 : Checking Army Camp...
+2015-10-21 00:03:10 : Total Army Camp capacity: 148/220
+2015-10-21 00:03:11 :  - No. of Giants: 8
+2015-10-21 00:03:11 :  - No. of Wallbreakers: 4
+2015-10-21 00:03:11 :  - No. of Wizards: 25
+2015-10-21 00:03:12 : Training Troops...
+2015-10-21 00:03:22 : Spell Factory Full
+2015-10-21 00:03:24 : Time Idle: 00:18:24
+2015-10-21 00:03:25 : ====== Waiting for full army ======
+2015-10-21 00:03:36 : Checking Army Camp...
+2015-10-21 00:03:38 : Total Army Camp capacity: 148/220
+2015-10-21 00:03:39 :  - No. of Giants: 8
+2015-10-21 00:03:39 :  - No. of Wallbreakers: 4
+2015-10-21 00:03:39 :  - No. of Wizards: 25
+2015-10-21 00:03:40 : Training Troops...
+2015-10-21 00:03:50 : Spell Factory Full
+2015-10-21 00:03:52 : Time Idle: 00:18:52
+2015-10-21 00:03:52 : ====== Waiting for full army ======
+2015-10-21 00:04:04 : Checking Army Camp...
+2015-10-21 00:04:06 : Total Army Camp capacity: 168/220
+2015-10-21 00:04:07 :  - No. of Giants: 12
+2015-10-21 00:04:07 :  - No. of Wallbreakers: 4
+2015-10-21 00:04:07 :  - No. of Wizards: 25
+2015-10-21 00:04:08 : Training Troops...
+2015-10-21 00:04:18 : Spell Factory Full
+2015-10-21 00:04:21 : Time Idle: 00:19:20
+2015-10-21 00:04:21 : ====== Waiting for full army ======
+2015-10-21 00:04:33 : Checking Army Camp...
+2015-10-21 00:04:35 : Total Army Camp capacity: 168/220
+2015-10-21 00:04:35 :  - No. of Giants: 12
+2015-10-21 00:04:35 :  - No. of Wallbreakers: 4
+2015-10-21 00:04:36 :  - No. of Wizards: 25
+2015-10-21 00:04:36 : Training Troops...
+2015-10-21 00:04:46 : Spell Factory Full
+2015-10-21 00:04:49 : Time Idle: 00:19:48
+2015-10-21 00:04:49 : ====== Waiting for full army ======
+2015-10-21 00:05:01 : Checking Army Camp...
+2015-10-21 00:05:03 : Total Army Camp capacity: 168/220
+2015-10-21 00:05:04 :  - No. of Giants: 12
+2015-10-21 00:05:04 :  - No. of Wallbreakers: 4
+2015-10-21 00:05:04 :  - No. of Wizards: 25
+2015-10-21 00:05:04 : Training Troops...
+2015-10-21 00:05:15 : Spell Factory Full
+2015-10-21 00:05:17 : Time Idle: 00:20:16
+2015-10-21 00:05:17 : ====== Waiting for full army ======
+2015-10-21 00:05:29 : Checking Army Camp...
+2015-10-21 00:05:31 : Total Army Camp capacity: 168/220
+2015-10-21 00:05:32 :  - No. of Giants: 12
+2015-10-21 00:05:32 :  - No. of Wallbreakers: 4
+2015-10-21 00:05:32 :  - No. of Wizards: 25
+2015-10-21 00:05:33 : Training Troops...
+2015-10-21 00:05:43 : Spell Factory Full
+2015-10-21 00:05:46 : Time Idle: 00:20:44
+2015-10-21 00:05:46 : ====== Waiting for full army ======
+2015-10-21 00:05:58 : Checking Army Camp...
+2015-10-21 00:06:00 : Total Army Camp capacity: 185/220
+2015-10-21 00:06:00 :  - No. of Giants: 15
+2015-10-21 00:06:00 :  - No. of Wallbreakers: 5
+2015-10-21 00:06:01 :  - No. of Wizards: 25
+2015-10-21 00:06:01 : Training Troops...
+2015-10-21 00:06:12 : Spell Factory Full
+2015-10-21 00:06:14 : Time Idle: 00:21:13
+2015-10-21 00:06:14 : ====== Waiting for full army ======
+2015-10-21 00:06:26 : Collecting Resources
+2015-10-21 00:06:32 : Checking Army Camp...
+2015-10-21 00:06:34 : Total Army Camp capacity: 185/220
+2015-10-21 00:06:35 :  - No. of Giants: 15
+2015-10-21 00:06:35 :  - No. of Wallbreakers: 5
+2015-10-21 00:06:35 :  - No. of Wizards: 25
+2015-10-21 00:06:35 : Training Troops...
+2015-10-21 00:06:46 : Spell Factory Full
+2015-10-21 00:06:48 : Time Idle: 00:21:47
+2015-10-21 00:06:49 : ====== Waiting for full army ======
+2015-10-21 00:07:01 : Checking Army Camp...
+2015-10-21 00:07:02 : Total Army Camp capacity: 185/220
+2015-10-21 00:07:03 :  - No. of Giants: 15
+2015-10-21 00:07:03 :  - No. of Wallbreakers: 5
+2015-10-21 00:07:04 :  - No. of Wizards: 25
+2015-10-21 00:07:04 : Training Troops...
+2015-10-21 00:07:14 : Spell Factory Full
+2015-10-21 00:07:17 : Time Idle: 00:22:15
+2015-10-21 00:07:17 : ====== Waiting for full army ======
+2015-10-21 00:07:29 : Checking Army Camp...
+2015-10-21 00:07:31 : Total Army Camp capacity: 185/220
+2015-10-21 00:07:32 :  - No. of Giants: 15
+2015-10-21 00:07:32 :  - No. of Wallbreakers: 5
+2015-10-21 00:07:32 :  - No. of Wizards: 25
+2015-10-21 00:07:32 : Training Troops...
+2015-10-21 00:07:43 : Spell Factory Full
+2015-10-21 00:07:46 : Time Idle: 00:22:44
+2015-10-21 00:07:46 : ====== Waiting for full army ======
+2015-10-21 00:07:58 : Checking Army Camp...
+2015-10-21 00:08:00 : Total Army Camp capacity: 199/220
+2015-10-21 00:08:00 :  - No. of Giants: 17
+2015-10-21 00:08:01 :  - No. of Wallbreakers: 7
+2015-10-21 00:08:01 :  - No. of Wizards: 25
+2015-10-21 00:08:01 : Training Troops...
+2015-10-21 00:08:12 : Spell Factory Full
+2015-10-21 00:08:14 : Time Idle: 00:23:12
+2015-10-21 00:08:15 : ====== Waiting for full army ======
+2015-10-21 00:08:26 : Checking Army Camp...
+2015-10-21 00:08:28 : Total Army Camp capacity: 199/220
+2015-10-21 00:08:29 :  - No. of Giants: 17
+2015-10-21 00:08:29 :  - No. of Wallbreakers: 7
+2015-10-21 00:08:29 :  - No. of Wizards: 25
+2015-10-21 00:08:30 : Training Troops...
+2015-10-21 00:08:40 : Spell Factory Full
+2015-10-21 00:08:43 : Time Idle: 00:23:40
+2015-10-21 00:08:43 : ====== Waiting for full army ======
+2015-10-21 00:08:55 : Checking Army Camp...
+2015-10-21 00:08:57 : Total Army Camp capacity: 199/220
+2015-10-21 00:08:58 :  - No. of Giants: 17
+2015-10-21 00:08:58 :  - No. of Wallbreakers: 7
+2015-10-21 00:08:58 :  - No. of Wizards: 25
+2015-10-21 00:08:58 : Training Troops...
+2015-10-21 00:09:09 : Spell Factory Full
+2015-10-21 00:09:11 : Time Idle: 00:24:09
+2015-10-21 00:09:12 : ====== Waiting for full army ======
+2015-10-21 00:09:24 : Checking Army Camp...
+2015-10-21 00:09:25 : Total Army Camp capacity: 199/220
+2015-10-21 00:09:26 :  - No. of Giants: 17
+2015-10-21 00:09:26 :  - No. of Wallbreakers: 7
+2015-10-21 00:09:26 :  - No. of Wizards: 25
+2015-10-21 00:09:27 : Training Troops...
+2015-10-21 00:09:37 : Spell Factory Full
+2015-10-21 00:09:40 : Time Idle: 00:24:37
+2015-10-21 00:09:40 : ====== Waiting for full army ======
+2015-10-21 00:09:52 : Checking Army Camp...
+2015-10-21 00:09:54 : Total Army Camp capacity: 208/220
+2015-10-21 00:09:55 :  - No. of Giants: 18
+2015-10-21 00:09:55 :  - No. of Wallbreakers: 9
+2015-10-21 00:09:55 :  - No. of Wizards: 25
+2015-10-21 00:09:55 : Training Troops...
+2015-10-21 00:10:07 : Spell Factory Full
+2015-10-21 00:10:09 : Time Idle: 00:25:06
+2015-10-21 00:10:09 : ====== Waiting for full army ======
+2015-10-21 00:10:21 : Checking Army Camp...
+2015-10-21 00:10:23 : Total Army Camp capacity: 213/220
+2015-10-21 00:10:24 :  - No. of Giants: 19
+2015-10-21 00:10:24 :  - No. of Wallbreakers: 9
+2015-10-21 00:10:24 :  - No. of Wizards: 25
+2015-10-21 00:10:25 : Training Troops...
+2015-10-21 00:10:36 : Spell Factory Full
+2015-10-21 00:10:39 : Time Idle: 00:25:35
+2015-10-21 00:10:39 : ====== Waiting for full army ======
+2015-10-21 00:10:51 : Checking Army Camp...
+2015-10-21 00:10:53 : Total Army Camp capacity: 213/220
+2015-10-21 00:10:53 :  - No. of Giants: 19
+2015-10-21 00:10:54 :  - No. of Wallbreakers: 9
+2015-10-21 00:10:54 :  - No. of Wizards: 25
+2015-10-21 00:10:54 : Training Troops...
+2015-10-21 00:11:05 : Spell Factory Full
+2015-10-21 00:11:08 : Time Idle: 00:26:04
+2015-10-21 00:11:08 : ====== Waiting for full army ======
+2015-10-21 00:11:20 : Checking Army Camp...
+2015-10-21 00:11:22 : Total Army Camp capacity: 213/220
+2015-10-21 00:11:23 :  - No. of Giants: 19
+2015-10-21 00:11:23 :  - No. of Wallbreakers: 9
+2015-10-21 00:11:23 :  - No. of Wizards: 25
+2015-10-21 00:11:23 : Training Troops...
+2015-10-21 00:11:35 : Spell Factory Full
+2015-10-21 00:11:37 : Time Idle: 00:26:33
+2015-10-21 00:11:37 : ====== Waiting for full army ======
+2015-10-21 00:11:49 : Collecting Resources
+2015-10-21 00:11:55 : Checking Army Camp...
+2015-10-21 00:11:57 : Total Army Camp capacity: 218/220
+2015-10-21 00:11:58 :  - No. of Giants: 20
+2015-10-21 00:11:58 :  - No. of Wallbreakers: 9
+2015-10-21 00:11:58 :  - No. of Wizards: 25
+2015-10-21 00:11:58 : Training Troops...
+2015-10-21 00:12:10 : Spell Factory Full
+2015-10-21 00:12:12 : Time Idle: 00:27:08
+2015-10-21 00:12:12 : ====== Waiting for full army ======
+2015-10-21 00:12:24 : Checking Army Camp...
+2015-10-21 00:12:26 : Total Army Camp capacity: 218/220
+2015-10-21 00:12:27 :  - No. of Giants: 20
+2015-10-21 00:12:27 :  - No. of Wallbreakers: 9
+2015-10-21 00:12:27 :  - No. of Wizards: 25
+2015-10-21 00:12:28 : Training Troops...
+2015-10-21 00:12:39 : Spell Factory Full
+2015-10-21 00:12:41 : Time Idle: 00:27:37
+2015-10-21 00:12:42 : ====== Waiting for full army ======
+2015-10-21 00:12:54 : Checking Army Camp...
+2015-10-21 00:12:55 : Total Army Camp capacity: 218/220
+2015-10-21 00:12:56 :  - No. of Giants: 20
+2015-10-21 00:12:56 :  - No. of Wallbreakers: 9
+2015-10-21 00:12:56 :  - No. of Wizards: 25
+2015-10-21 00:12:57 : Training Troops...
+2015-10-21 00:13:08 : Spell Factory Full
+2015-10-21 00:13:11 : Time Idle: 00:28:06
+2015-10-21 00:13:11 : ====== Waiting for full army ======
+2015-10-21 00:13:23 : Checking Army Camp...
+2015-10-21 00:13:25 : Total Army Camp capacity: 218/220
+2015-10-21 00:13:25 :  - No. of Giants: 20
+2015-10-21 00:13:25 :  - No. of Wallbreakers: 9
+2015-10-21 00:13:26 :  - No. of Wizards: 25
+2015-10-21 00:13:26 : Training Troops...
+2015-10-21 00:13:37 : Spell Factory Full
+2015-10-21 00:13:40 : Time Idle: 00:28:35
+2015-10-21 00:13:40 : ====== Waiting for full army ======
+2015-10-21 00:13:52 : Checking Army Camp...
+2015-10-21 00:13:54 : Total Army Camp capacity: 218/220
+2015-10-21 00:13:55 :  - No. of Giants: 20
+2015-10-21 00:13:55 :  - No. of Wallbreakers: 9
+2015-10-21 00:13:55 :  - No. of Wizards: 25
+2015-10-21 00:13:55 : Training Troops...
+2015-10-21 00:14:06 : Spell Factory Full
+2015-10-21 00:14:09 : Time Idle: 00:29:04
+2015-10-21 00:14:09 : ====== Waiting for full army ======
+2015-10-21 00:14:21 : Checking Army Camp...
+2015-10-21 00:14:23 : Total Army Camp capacity: 218/220
+2015-10-21 00:14:24 :  - No. of Giants: 20
+2015-10-21 00:14:24 :  - No. of Wallbreakers: 9
+2015-10-21 00:14:24 :  - No. of Wizards: 25
+2015-10-21 00:14:24 : Training Troops...
+2015-10-21 00:14:36 : Spell Factory Full
+2015-10-21 00:14:38 : Time Idle: 00:29:33
+2015-10-21 00:14:39 : ====== Waiting for full army ======
+2015-10-21 00:14:50 : Checking Army Camp...
+2015-10-21 00:14:52 : Total Army Camp capacity: 218/220
+2015-10-21 00:14:53 :  - No. of Giants: 20
+2015-10-21 00:14:53 :  - No. of Wallbreakers: 9
+2015-10-21 00:14:53 :  - No. of Wizards: 25
+2015-10-21 00:14:54 : Training Troops...
+2015-10-21 00:15:05 : Spell Factory Full
+2015-10-21 00:15:08 : Time Idle: 00:30:02
+2015-10-21 00:15:08 : ====== Waiting for full army ======
+2015-10-21 00:15:20 : Checking Army Camp...
+2015-10-21 00:15:22 : Total Army Camp capacity: 218/220
+2015-10-21 00:15:22 :  - No. of Giants: 20
+2015-10-21 00:15:23 :  - No. of Wallbreakers: 9
+2015-10-21 00:15:23 :  - No. of Wizards: 25
+2015-10-21 00:15:23 : Training Troops...
+2015-10-21 00:15:34 : Spell Factory Full
+2015-10-21 00:15:37 : Time Idle: 00:30:31
+2015-10-21 00:15:37 : ====== Waiting for full army ======
+2015-10-21 00:15:49 : Checking Army Camp...
+2015-10-21 00:15:51 : Total Army Camp capacity: 218/220
+2015-10-21 00:15:52 :  - No. of Giants: 20
+2015-10-21 00:15:52 :  - No. of Wallbreakers: 9
+2015-10-21 00:15:52 :  - No. of Wizards: 25
+2015-10-21 00:15:52 : Training Troops...
+2015-10-21 00:16:04 : Spell Factory Full
+2015-10-21 00:16:06 : Time Idle: 00:31:00
+2015-10-21 00:16:06 : ====== Waiting for full army ======
+2015-10-21 00:16:18 : Checking Army Camp...
+2015-10-21 00:16:20 : Total Army Camp capacity: 218/220
+2015-10-21 00:16:21 :  - No. of Giants: 20
+2015-10-21 00:16:21 :  - No. of Wallbreakers: 9
+2015-10-21 00:16:21 :  - No. of Wizards: 25
+2015-10-21 00:16:21 : Training Troops...
+2015-10-21 00:16:33 : Spell Factory Full
+2015-10-21 00:16:35 : Time Idle: 00:31:29
+2015-10-21 00:16:36 : ====== Waiting for full army ======
+2015-10-21 00:16:48 : Checking Army Camp...
+2015-10-21 00:16:49 : Total Army Camp capacity: 218/220
+2015-10-21 00:16:50 :  - No. of Giants: 20
+2015-10-21 00:16:50 :  - No. of Wallbreakers: 9
+2015-10-21 00:16:51 :  - No. of Wizards: 25
+2015-10-21 00:16:51 : Training Troops...
+2015-10-21 00:17:02 : Spell Factory Full
+2015-10-21 00:17:05 : Time Idle: 00:31:58
+2015-10-21 00:17:05 : ====== Waiting for full army ======
+2015-10-21 00:17:17 : Collecting Resources
+2015-10-21 00:17:23 : Checking Army Camp...
+2015-10-21 00:17:25 : Total Army Camp capacity: 218/220
+2015-10-21 00:17:25 :  - No. of Giants: 20
+2015-10-21 00:17:26 :  - No. of Wallbreakers: 9
+2015-10-21 00:17:26 :  - No. of Wizards: 25
+2015-10-21 00:17:26 : Training Troops...
+2015-10-21 00:17:37 : Spell Factory Full
+2015-10-21 00:17:40 : Time Idle: 00:32:33
+2015-10-21 00:17:40 : ====== Waiting for full army ======
+2015-10-21 00:17:52 : Checking Army Camp...
+2015-10-21 00:17:54 : Total Army Camp capacity: 218/220
+2015-10-21 00:17:55 :  - No. of Giants: 20
+2015-10-21 00:17:55 :  - No. of Wallbreakers: 9
+2015-10-21 00:17:55 :  - No. of Wizards: 25
+2015-10-21 00:17:55 : Training Troops...
+2015-10-21 00:18:07 : Spell Factory Full
+2015-10-21 00:18:09 : Time Idle: 00:33:02
+2015-10-21 00:18:09 : ====== Waiting for full army ======
+2015-10-21 00:18:21 : Checking Army Camp...
+2015-10-21 00:18:23 : Total Army Camp capacity: 218/220
+2015-10-21 00:18:24 :  - No. of Giants: 20
+2015-10-21 00:18:24 :  - No. of Wallbreakers: 9
+2015-10-21 00:18:24 :  - No. of Wizards: 25
+2015-10-21 00:18:24 : Training Troops...
+2015-10-21 00:18:36 : Spell Factory Full
+2015-10-21 00:18:38 : Time Idle: 00:33:31
+2015-10-21 00:18:39 : ====== Waiting for full army ======
+2015-10-21 00:18:51 : Checking Army Camp...
+2015-10-21 00:18:52 : Total Army Camp capacity: 218/220
+2015-10-21 00:18:53 :  - No. of Giants: 20
+2015-10-21 00:18:53 :  - No. of Wallbreakers: 9
+2015-10-21 00:18:54 :  - No. of Wizards: 25
+2015-10-21 00:18:54 : Training Troops...
+2015-10-21 00:19:05 : Spell Factory Full
+2015-10-21 00:19:08 : Time Idle: 00:34:00
+2015-10-21 00:19:08 : ====== Waiting for full army ======
+2015-10-21 00:19:20 : Checking Army Camp...
+2015-10-21 00:19:22 : Total Army Camp capacity: 218/220
+2015-10-21 00:19:23 :  - No. of Giants: 20
+2015-10-21 00:19:23 :  - No. of Wallbreakers: 9
+2015-10-21 00:19:23 :  - No. of Wizards: 25
+2015-10-21 00:19:23 : Training Troops...
+2015-10-21 00:19:34 : Spell Factory Full
+2015-10-21 00:19:37 : Time Idle: 00:34:29
+2015-10-21 00:19:37 : ====== Waiting for full army ======
+2015-10-21 00:19:49 : Checking Army Camp...
+2015-10-21 00:19:51 : Total Army Camp capacity: 218/220
+2015-10-21 00:19:52 :  - No. of Giants: 20
+2015-10-21 00:19:52 :  - No. of Wallbreakers: 9
+2015-10-21 00:19:52 :  - No. of Wizards: 25
+2015-10-21 00:19:52 : Training Troops...
+2015-10-21 00:20:04 : Spell Factory Full
+2015-10-21 00:20:06 : Time Idle: 00:34:58
+2015-10-21 00:20:07 : ====== Waiting for full army ======
+2015-10-21 00:20:18 : Checking Army Camp...
+2015-10-21 00:20:20 : Total Army Camp capacity: 218/220
+2015-10-21 00:20:21 :  - No. of Giants: 20
+2015-10-21 00:20:21 :  - No. of Wallbreakers: 9
+2015-10-21 00:20:21 :  - No. of Wizards: 25
+2015-10-21 00:20:22 : Training Troops...
+2015-10-21 00:20:33 : Spell Factory Full
+2015-10-21 00:20:36 : Time Idle: 00:35:27
+2015-10-21 00:20:36 : ====== Waiting for full army ======
+2015-10-21 00:20:48 : Checking Army Camp...
+2015-10-21 00:20:50 : Total Army Camp capacity: 218/220
+2015-10-21 00:20:50 :  - No. of Giants: 20
+2015-10-21 00:20:51 :  - No. of Wallbreakers: 9
+2015-10-21 00:20:51 :  - No. of Wizards: 25
+2015-10-21 00:20:51 : Training Troops...
+2015-10-21 00:21:02 : Spell Factory Full
+2015-10-21 00:21:05 : Time Idle: 00:35:56
+2015-10-21 00:21:05 : ====== Waiting for full army ======
+2015-10-21 00:21:17 : Checking Army Camp...
+2015-10-21 00:21:19 : Total Army Camp capacity: 218/220
+2015-10-21 00:21:20 :  - No. of Giants: 20
+2015-10-21 00:21:20 :  - No. of Wallbreakers: 9
+2015-10-21 00:21:20 :  - No. of Wizards: 25
+2015-10-21 00:21:20 : Training Troops...
+2015-10-21 00:21:32 : Spell Factory Full
+2015-10-21 00:21:34 : Time Idle: 00:36:25
+2015-10-21 00:21:35 : ====== Waiting for full army ======
+2015-10-21 00:21:46 : Checking Army Camp...
+2015-10-21 00:21:48 : Total Army Camp capacity: 218/220
+2015-10-21 00:21:49 :  - No. of Giants: 20
+2015-10-21 00:21:49 :  - No. of Wallbreakers: 9
+2015-10-21 00:21:49 :  - No. of Wizards: 25
+2015-10-21 00:21:50 : Training Troops...
+2015-10-21 00:22:01 : Spell Factory Full
+2015-10-21 00:22:04 : Time Idle: 00:36:54
+2015-10-21 00:22:04 : ====== Waiting for full army ======
+2015-10-21 00:22:16 : Checking Army Camp...
+2015-10-21 00:22:18 : Total Army Camp capacity: 218/220
+2015-10-21 00:22:19 :  - No. of Giants: 20
+2015-10-21 00:22:19 :  - No. of Wallbreakers: 9
+2015-10-21 00:22:19 :  - No. of Wizards: 25
+2015-10-21 00:22:19 : Training Troops...
+2015-10-21 00:22:30 : Spell Factory Full
+2015-10-21 00:22:33 : Time Idle: 00:37:24
+2015-10-21 00:22:33 : ====== Waiting for full army ======
+2015-10-21 00:22:45 : Collecting Resources
+2015-10-21 00:22:51 : Checking Army Camp...
+2015-10-21 00:22:53 : Total Army Camp capacity: 218/220
+2015-10-21 00:22:53 :  - No. of Giants: 20
+2015-10-21 00:22:54 :  - No. of Wallbreakers: 9
+2015-10-21 00:22:54 :  - No. of Wizards: 25
+2015-10-21 00:22:54 : Training Troops...
+2015-10-21 00:23:05 : Spell Factory Full
+2015-10-21 00:23:08 : Time Idle: 00:37:58
+2015-10-21 00:23:08 : ====== Waiting for full army ======
+2015-10-21 00:23:20 : Checking Army Camp...
+2015-10-21 00:23:22 : Total Army Camp capacity: 218/220
+2015-10-21 00:23:23 :  - No. of Giants: 20
+2015-10-21 00:23:23 :  - No. of Wallbreakers: 9
+2015-10-21 00:23:23 :  - No. of Wizards: 25
+2015-10-21 00:23:23 : Training Troops...
+2015-10-21 00:23:34 : Spell Factory Full
+2015-10-21 00:23:37 : Time Idle: 00:38:27
+2015-10-21 00:23:37 : ====== Waiting for full army ======
+2015-10-21 00:23:49 : Checking Army Camp...
+2015-10-21 00:23:51 : Total Army Camp capacity: 218/220
+2015-10-21 00:23:52 :  - No. of Giants: 20
+2015-10-21 00:23:52 :  - No. of Wallbreakers: 9
+2015-10-21 00:23:52 :  - No. of Wizards: 25
+2015-10-21 00:23:52 : Training Troops...
+2015-10-21 00:24:04 : Spell Factory Full
+2015-10-21 00:24:06 : Time Idle: 00:38:56
+2015-10-21 00:24:06 : ====== Waiting for full army ======
+2015-10-21 00:24:18 : Checking Army Camp...
+2015-10-21 00:24:20 : Total Army Camp capacity: 218/220
+2015-10-21 00:24:21 :  - No. of Giants: 20
+2015-10-21 00:24:21 :  - No. of Wallbreakers: 9
+2015-10-21 00:24:21 :  - No. of Wizards: 25
+2015-10-21 00:24:21 : Training Troops...
+2015-10-21 00:24:33 : Spell Factory Full
+2015-10-21 00:24:35 : Time Idle: 00:39:25
+2015-10-21 00:24:36 : ====== Waiting for full army ======
+2015-10-21 00:24:48 : Checking Army Camp...
+2015-10-21 00:24:49 : Total Army Camp capacity: 218/220
+2015-10-21 00:24:50 :  - No. of Giants: 20
+2015-10-21 00:24:50 :  - No. of Wallbreakers: 9
+2015-10-21 00:24:51 :  - No. of Wizards: 25
+2015-10-21 00:24:51 : Training Troops...
+2015-10-21 00:25:02 : Spell Factory Full
+2015-10-21 00:25:05 : Time Idle: 00:39:54
+2015-10-21 00:25:05 : ====== Waiting for full army ======
+2015-10-21 00:25:17 : Checking Army Camp...
+2015-10-21 00:25:19 : Total Army Camp capacity: 218/220
+2015-10-21 00:25:20 :  - No. of Giants: 20
+2015-10-21 00:25:20 :  - No. of Wallbreakers: 9
+2015-10-21 00:25:20 :  - No. of Wizards: 25
+2015-10-21 00:25:20 : Training Troops...
+2015-10-21 00:25:32 : Spell Factory Full
+2015-10-21 00:25:34 : Time Idle: 00:40:23
+2015-10-21 00:25:34 : ====== Waiting for full army ======
+2015-10-21 00:25:46 : Checking Army Camp...
+2015-10-21 00:25:48 : Total Army Camp capacity: 218/220
+2015-10-21 00:25:49 :  - No. of Giants: 20
+2015-10-21 00:25:49 :  - No. of Wallbreakers: 9
+2015-10-21 00:25:49 :  - No. of Wizards: 25
+2015-10-21 00:25:49 : Training Troops...
+2015-10-21 00:26:01 : Spell Factory Full
+2015-10-21 00:26:03 : Time Idle: 00:40:52
+2015-10-21 00:26:03 : ====== Waiting for full army ======
+2015-10-21 00:26:15 : Checking Army Camp...
+2015-10-21 00:26:17 : Total Army Camp capacity: 218/220
+2015-10-21 00:26:18 :  - No. of Giants: 20
+2015-10-21 00:26:18 :  - No. of Wallbreakers: 9
+2015-10-21 00:26:18 :  - No. of Wizards: 25
+2015-10-21 00:26:18 : Training Troops...
+2015-10-21 00:26:30 : Spell Factory Full
+2015-10-21 00:26:32 : Time Idle: 00:41:21
+2015-10-21 00:26:33 : ====== Waiting for full army ======
+2015-10-21 00:26:45 : Checking Army Camp...
+2015-10-21 00:26:46 : Total Army Camp capacity: 218/220
+2015-10-21 00:26:47 :  - No. of Giants: 20
+2015-10-21 00:26:47 :  - No. of Wallbreakers: 9
+2015-10-21 00:26:48 :  - No. of Wizards: 25
+2015-10-21 00:26:48 : Training Troops...
+2015-10-21 00:26:59 : Spell Factory Full
+2015-10-21 00:27:02 : Time Idle: 00:41:50
+2015-10-21 00:27:02 : ====== Waiting for full army ======
+2015-10-21 00:27:14 : Checking Army Camp...
+2015-10-21 00:27:16 : Total Army Camp capacity: 218/220
+2015-10-21 00:27:17 :  - No. of Giants: 20
+2015-10-21 00:27:17 :  - No. of Wallbreakers: 9
+2015-10-21 00:27:17 :  - No. of Wizards: 25
+2015-10-21 00:27:17 : Training Troops...
+2015-10-21 00:27:29 : Spell Factory Full
+2015-10-21 00:27:31 : Time Idle: 00:42:19
+2015-10-21 00:27:31 : ====== Waiting for full army ======
+2015-10-21 00:27:43 : Checking Army Camp...
+2015-10-21 00:27:45 : Total Army Camp capacity: 218/220
+2015-10-21 00:27:46 :  - No. of Giants: 20
+2015-10-21 00:27:46 :  - No. of Wallbreakers: 9
+2015-10-21 00:27:46 :  - No. of Wizards: 25
+2015-10-21 00:27:46 : Training Troops...
+2015-10-21 00:27:58 : Spell Factory Full
+2015-10-21 00:28:00 : Time Idle: 00:42:48
+2015-10-21 00:28:01 : ====== Waiting for full army ======
+2015-10-21 00:28:12 : Collecting Resources
+2015-10-21 00:28:18 : Checking Army Camp...
+2015-10-21 00:28:20 : Total Army Camp capacity: 218/220
+2015-10-21 00:28:21 :  - No. of Giants: 20
+2015-10-21 00:28:21 :  - No. of Wallbreakers: 9
+2015-10-21 00:28:21 :  - No. of Wizards: 25
+2015-10-21 00:28:21 : Training Troops...
+2015-10-21 00:28:33 : Spell Factory Full
+2015-10-21 00:28:36 : Time Idle: 00:43:23
+2015-10-21 00:28:36 : ====== Waiting for full army ======
+2015-10-21 00:28:48 : Checking Army Camp...
+2015-10-21 00:28:49 : Total Army Camp capacity: 218/220
+2015-10-21 00:28:50 :  - No. of Giants: 20
+2015-10-21 00:28:50 :  - No. of Wallbreakers: 9
+2015-10-21 00:28:51 :  - No. of Wizards: 25
+2015-10-21 00:28:51 : Training Troops...
+2015-10-21 00:29:02 : Spell Factory Full
+2015-10-21 00:29:05 : Time Idle: 00:43:52
+2015-10-21 00:29:05 : ====== Waiting for full army ======
+2015-10-21 00:29:17 : Checking Army Camp...
+2015-10-21 00:29:19 : Total Army Camp capacity: 218/220
+2015-10-21 00:29:20 :  - No. of Giants: 20
+2015-10-21 00:29:20 :  - No. of Wallbreakers: 9
+2015-10-21 00:29:20 :  - No. of Wizards: 25
+2015-10-21 00:29:20 : Training Troops...
+2015-10-21 00:29:32 : Spell Factory Full
+2015-10-21 00:29:34 : Time Idle: 00:44:21
+2015-10-21 00:29:34 : ====== Waiting for full army ======
+2015-10-21 00:29:46 : Checking Army Camp...
+2015-10-21 00:29:48 : Total Army Camp capacity: 218/220
+2015-10-21 00:29:49 :  - No. of Giants: 20
+2015-10-21 00:29:49 :  - No. of Wallbreakers: 9
+2015-10-21 00:29:49 :  - No. of Wizards: 25
+2015-10-21 00:29:49 : Training Troops...
+2015-10-21 00:30:01 : Spell Factory Full
+2015-10-21 00:30:03 : Time Idle: 00:44:50
+2015-10-21 00:30:04 : ====== Waiting for full army ======
+2015-10-21 00:30:16 : Checking Army Camp...
+2015-10-21 00:30:17 : Total Army Camp capacity: 218/220
+2015-10-21 00:30:18 :  - No. of Giants: 20
+2015-10-21 00:30:18 :  - No. of Wallbreakers: 9
+2015-10-21 00:30:19 :  - No. of Wizards: 25
+2015-10-21 00:30:19 : Training Troops...
+2015-10-21 00:30:30 : Spell Factory Full
+2015-10-21 00:30:33 : Time Idle: 00:45:19
+2015-10-21 00:30:33 : ====== Waiting for full army ======
+2015-10-21 00:30:45 : Checking Army Camp...
+2015-10-21 00:30:47 : Total Army Camp capacity: 218/220
+2015-10-21 00:30:48 :  - No. of Giants: 20
+2015-10-21 00:30:48 :  - No. of Wallbreakers: 9
+2015-10-21 00:30:48 :  - No. of Wizards: 25
+2015-10-21 00:30:48 : Training Troops...
+2015-10-21 00:30:59 : Spell Factory Full
+2015-10-21 00:31:02 : Time Idle: 00:45:48
+2015-10-21 00:31:02 : ====== Waiting for full army ======
+2015-10-21 00:31:14 : Checking Army Camp...
+2015-10-21 00:31:16 : Total Army Camp capacity: 218/220
+2015-10-21 00:31:17 :  - No. of Giants: 20
+2015-10-21 00:31:17 :  - No. of Wallbreakers: 9
+2015-10-21 00:31:17 :  - No. of Wizards: 25
+2015-10-21 00:31:17 : Training Troops...
+2015-10-21 00:31:29 : Spell Factory Full
+2015-10-21 00:31:31 : Time Idle: 00:46:17
+2015-10-21 00:31:31 : ====== Waiting for full army ======
+2015-10-21 00:31:43 : Checking Army Camp...
+2015-10-21 00:31:45 : Total Army Camp capacity: 218/220
+2015-10-21 00:31:46 :  - No. of Giants: 20
+2015-10-21 00:31:46 :  - No. of Wallbreakers: 9
+2015-10-21 00:31:46 :  - No. of Wizards: 25
+2015-10-21 00:31:47 : Training Troops...
+2015-10-21 00:31:58 : Spell Factory Full
+2015-10-21 00:32:00 : Time Idle: 00:46:46
+2015-10-21 00:32:01 : ====== Waiting for full army ======
+2015-10-21 00:32:13 : Checking Army Camp...
+2015-10-21 00:32:14 : Total Army Camp capacity: 218/220
+2015-10-21 00:32:15 :  - No. of Giants: 20
+2015-10-21 00:32:15 :  - No. of Wallbreakers: 9
+2015-10-21 00:32:16 :  - No. of Wizards: 25
+2015-10-21 00:32:16 : Training Troops...
+2015-10-21 00:32:27 : Spell Factory Full
+2015-10-21 00:32:30 : Time Idle: 00:47:15
+2015-10-21 00:32:30 : ====== Waiting for full army ======
+2015-10-21 00:32:42 : Checking Army Camp...
+2015-10-21 00:32:44 : Total Army Camp capacity: 218/220
+2015-10-21 00:32:44 :  - No. of Giants: 20
+2015-10-21 00:32:45 :  - No. of Wallbreakers: 9
+2015-10-21 00:32:45 :  - No. of Wizards: 25
+2015-10-21 00:32:45 : Training Troops...
+2015-10-21 00:32:56 : Spell Factory Full
+2015-10-21 00:32:59 : Time Idle: 00:47:44
+2015-10-21 00:32:59 : ====== Waiting for full army ======
+2015-10-21 00:33:11 : Checking Army Camp...
+2015-10-21 00:33:13 : Total Army Camp capacity: 218/220
+2015-10-21 00:33:14 :  - No. of Giants: 20
+2015-10-21 00:33:14 :  - No. of Wallbreakers: 9
+2015-10-21 00:33:14 :  - No. of Wizards: 25
+2015-10-21 00:33:14 : Training Troops...
+2015-10-21 00:33:25 : Spell Factory Full
+2015-10-21 00:33:28 : Time Idle: 00:48:13
+2015-10-21 00:33:28 : ====== Waiting for full army ======
+2015-10-21 00:33:40 : Collecting Resources
+2015-10-21 00:33:46 : Checking Army Camp...
+2015-10-21 00:33:48 : Total Army Camp capacity: 218/220
+2015-10-21 00:33:48 :  - No. of Giants: 20
+2015-10-21 00:33:49 :  - No. of Wallbreakers: 9
+2015-10-21 00:33:49 :  - No. of Wizards: 25
+2015-10-21 00:33:49 : Training Troops...
+2015-10-21 00:34:00 : Spell Factory Full
+2015-10-21 00:34:03 : Time Idle: 00:48:48
+2015-10-21 00:34:03 : ====== Waiting for full army ======
+2015-10-21 00:34:15 : Checking Army Camp...
+2015-10-21 00:34:17 : Total Army Camp capacity: 218/220
+2015-10-21 00:34:18 :  - No. of Giants: 20
+2015-10-21 00:34:18 :  - No. of Wallbreakers: 9
+2015-10-21 00:34:18 :  - No. of Wizards: 25
+2015-10-21 00:34:18 : Training Troops...
+2015-10-21 00:34:30 : Spell Factory Full
+2015-10-21 00:34:32 : Time Idle: 00:49:17
+2015-10-21 00:34:32 : ====== Waiting for full army ======
+2015-10-21 00:34:44 : Checking Army Camp...
+2015-10-21 00:34:46 : Total Army Camp capacity: 218/220
+2015-10-21 00:34:47 :  - No. of Giants: 20
+2015-10-21 00:34:47 :  - No. of Wallbreakers: 9
+2015-10-21 00:34:47 :  - No. of Wizards: 25
+2015-10-21 00:34:48 : Training Troops...
+2015-10-21 00:34:59 : Spell Factory Full
+2015-10-21 00:35:01 : Time Idle: 00:49:46
+2015-10-21 00:35:02 : ====== Waiting for full army ======
+2015-10-21 00:35:14 : Checking Army Camp...
+2015-10-21 00:35:15 : Total Army Camp capacity: 218/220
+2015-10-21 00:35:16 :  - No. of Giants: 20
+2015-10-21 00:35:16 :  - No. of Wallbreakers: 9
+2015-10-21 00:35:16 :  - No. of Wizards: 25
+2015-10-21 00:35:17 : Training Troops...
+2015-10-21 00:35:28 : Spell Factory Full
+2015-10-21 00:35:31 : Time Idle: 00:50:15
+2015-10-21 00:35:31 : ====== Waiting for full army ======
+2015-10-21 00:35:43 : Checking Army Camp...
+2015-10-21 00:35:45 : Total Army Camp capacity: 218/220
+2015-10-21 00:35:46 :  - No. of Giants: 20
+2015-10-21 00:35:46 :  - No. of Wallbreakers: 9
+2015-10-21 00:35:46 :  - No. of Wizards: 25
+2015-10-21 00:35:46 : Training Troops...
+2015-10-21 00:35:58 : Spell Factory Full
+2015-10-21 00:36:00 : Time Idle: 00:50:44
+2015-10-21 00:36:00 : ====== Waiting for full army ======
+2015-10-21 00:36:12 : Checking Army Camp...
+2015-10-21 00:36:14 : Total Army Camp capacity: 218/220
+2015-10-21 00:36:15 :  - No. of Giants: 20
+2015-10-21 00:36:15 :  - No. of Wallbreakers: 9
+2015-10-21 00:36:15 :  - No. of Wizards: 25
+2015-10-21 00:36:15 : Training Troops...
+2015-10-21 00:36:27 : Spell Factory Full
+2015-10-21 00:36:29 : Time Idle: 00:51:13
+2015-10-21 00:36:30 : ====== Waiting for full army ======
+2015-10-21 00:36:42 : Checking Army Camp...
+2015-10-21 00:36:43 : Total Army Camp capacity: 218/220
+2015-10-21 00:36:44 :  - No. of Giants: 20
+2015-10-21 00:36:44 :  - No. of Wallbreakers: 9
+2015-10-21 00:36:45 :  - No. of Wizards: 25
+2015-10-21 00:36:45 : Training Troops...
+2015-10-21 00:36:56 : Spell Factory Full
+2015-10-21 00:36:59 : Time Idle: 00:51:42
+2015-10-21 00:36:59 : ====== Waiting for full army ======
+2015-10-21 00:37:11 : Checking Army Camp...
+2015-10-21 00:37:13 : Total Army Camp capacity: 218/220
+2015-10-21 00:37:14 :  - No. of Giants: 20
+2015-10-21 00:37:14 :  - No. of Wallbreakers: 9
+2015-10-21 00:37:14 :  - No. of Wizards: 25
+2015-10-21 00:37:14 : Training Troops...
+2015-10-21 00:37:25 : Spell Factory Full
+2015-10-21 00:37:28 : Time Idle: 00:52:11
+2015-10-21 00:37:28 : ====== Waiting for full army ======
+2015-10-21 00:37:40 : Checking Army Camp...
+2015-10-21 00:37:42 : Total Army Camp capacity: 218/220
+2015-10-21 00:37:43 :  - No. of Giants: 20
+2015-10-21 00:37:43 :  - No. of Wallbreakers: 9
+2015-10-21 00:37:43 :  - No. of Wizards: 25
+2015-10-21 00:37:43 : Training Troops...
+2015-10-21 00:37:55 : Spell Factory Full
+2015-10-21 00:37:57 : Time Idle: 00:52:40
+2015-10-21 00:37:58 : ====== Waiting for full army ======
+2015-10-21 00:38:10 : Checking Army Camp...
+2015-10-21 00:38:11 : Total Army Camp capacity: 218/220
+2015-10-21 00:38:12 :  - No. of Giants: 20
+2015-10-21 00:38:12 :  - No. of Wallbreakers: 9
+2015-10-21 00:38:13 :  - No. of Wizards: 25
+2015-10-21 00:38:13 : Training Troops...
+2015-10-21 00:38:24 : Spell Factory Full
+2015-10-21 00:38:27 : Time Idle: 00:53:10
+2015-10-21 00:38:27 : ====== Waiting for full army ======
+2015-10-21 00:38:39 : Checking Army Camp...
+2015-10-21 00:38:41 : Total Army Camp capacity: 218/220
+2015-10-21 00:38:42 :  - No. of Giants: 20
+2015-10-21 00:38:42 :  - No. of Wallbreakers: 9
+2015-10-21 00:38:42 :  - No. of Wizards: 25
+2015-10-21 00:38:42 : Training Troops...
+2015-10-21 00:38:54 : Spell Factory Full
+2015-10-21 00:38:56 : Time Idle: 00:53:39
+2015-10-21 00:38:56 : ====== Waiting for full army ======
+2015-10-21 00:39:08 : Collecting Resources
+2015-10-21 00:39:14 : Checking Army Camp...
+2015-10-21 00:39:16 : Total Army Camp capacity: 218/220
+2015-10-21 00:39:17 :  - No. of Giants: 20
+2015-10-21 00:39:17 :  - No. of Wallbreakers: 9
+2015-10-21 00:39:17 :  - No. of Wizards: 25
+2015-10-21 00:39:17 : Training Troops...
+2015-10-21 00:39:29 : Spell Factory Full
+2015-10-21 00:39:31 : Time Idle: 00:54:14
+2015-10-21 00:39:32 : ====== Waiting for full army ======
+2015-10-21 00:39:44 : Checking Army Camp...
+2015-10-21 00:39:45 : Total Army Camp capacity: 218/220
+2015-10-21 00:39:46 :  - No. of Giants: 20
+2015-10-21 00:39:46 :  - No. of Wallbreakers: 9
+2015-10-21 00:39:46 :  - No. of Wizards: 25
+2015-10-21 00:39:47 : Training Troops...
+2015-10-21 00:39:58 : Spell Factory Full
+2015-10-21 00:40:01 : Time Idle: 00:54:43
+2015-10-21 00:40:01 : ====== Waiting for full army ======
+2015-10-21 00:40:13 : Checking Army Camp...
+2015-10-21 00:40:15 : Total Army Camp capacity: 218/220
+2015-10-21 00:40:16 :  - No. of Giants: 20
+2015-10-21 00:40:16 :  - No. of Wallbreakers: 9
+2015-10-21 00:40:16 :  - No. of Wizards: 25
+2015-10-21 00:40:16 : Training Troops...
+2015-10-21 00:40:28 : Spell Factory Full
+2015-10-21 00:40:30 : Time Idle: 00:55:12
+2015-10-21 00:40:30 : ====== Waiting for full army ======
+2015-10-21 00:40:42 : Checking Army Camp...
+2015-10-21 00:40:44 : Total Army Camp capacity: 218/220
+2015-10-21 00:40:45 :  - No. of Giants: 20
+2015-10-21 00:40:45 :  - No. of Wallbreakers: 9
+2015-10-21 00:40:45 :  - No. of Wizards: 25
+2015-10-21 00:40:45 : Training Troops...
+2015-10-21 00:40:57 : Spell Factory Full
+2015-10-21 00:41:00 : Time Idle: 00:55:41
+2015-10-21 00:41:00 : ====== Waiting for full army ======
+2015-10-21 00:41:12 : Checking Army Camp...
+2015-10-21 00:41:14 : Total Army Camp capacity: 218/220
+2015-10-21 00:41:14 :  - No. of Giants: 20
+2015-10-21 00:41:15 :  - No. of Wallbreakers: 9
+2015-10-21 00:41:15 :  - No. of Wizards: 25
+2015-10-21 00:41:15 : Training Troops...
+2015-10-21 00:41:26 : Spell Factory Full
+2015-10-21 00:41:29 : Time Idle: 00:56:10
+2015-10-21 00:41:29 : ====== Waiting for full army ======
+2015-10-21 00:41:41 : Checking Army Camp...
+2015-10-21 00:41:43 : Total Army Camp capacity: 218/220
+2015-10-21 00:41:44 :  - No. of Giants: 20
+2015-10-21 00:41:44 :  - No. of Wallbreakers: 9
+2015-10-21 00:41:44 :  - No. of Wizards: 25
+2015-10-21 00:41:44 : Training Troops...
+2015-10-21 00:41:55 : Spell Factory Full
+2015-10-21 00:41:58 : Time Idle: 00:56:39
+2015-10-21 00:41:58 : ====== Waiting for full army ======
+2015-10-21 00:42:10 : Checking Army Camp...
+2015-10-21 00:42:12 : Total Army Camp capacity: 218/220
+2015-10-21 00:42:13 :  - No. of Giants: 20
+2015-10-21 00:42:13 :  - No. of Wallbreakers: 9
+2015-10-21 00:42:13 :  - No. of Wizards: 25
+2015-10-21 00:42:13 : Training Troops...
+2015-10-21 00:42:25 : Spell Factory Full
+2015-10-21 00:42:27 : Time Idle: 00:57:08
+2015-10-21 00:42:27 : ====== Waiting for full army ======
+2015-10-21 00:42:39 : Checking Army Camp...
+2015-10-21 00:42:41 : Total Army Camp capacity: 218/220
+2015-10-21 00:42:42 :  - No. of Giants: 20
+2015-10-21 00:42:42 :  - No. of Wallbreakers: 9
+2015-10-21 00:42:42 :  - No. of Wizards: 25
+2015-10-21 00:42:42 : Training Troops...
+2015-10-21 00:42:54 : Spell Factory Full
+2015-10-21 00:42:56 : Time Idle: 00:57:37
+2015-10-21 00:42:57 : ====== Waiting for full army ======
+2015-10-21 00:43:09 : Checking Army Camp...
+2015-10-21 00:43:10 : Total Army Camp capacity: 218/220
+2015-10-21 00:43:11 :  - No. of Giants: 20
+2015-10-21 00:43:11 :  - No. of Wallbreakers: 9
+2015-10-21 00:43:12 :  - No. of Wizards: 25
+2015-10-21 00:43:12 : Training Troops...
+2015-10-21 00:43:23 : Spell Factory Full
+2015-10-21 00:43:26 : Time Idle: 00:58:06
+2015-10-21 00:43:26 : ====== Waiting for full army ======
+2015-10-21 00:43:38 : Checking Army Camp...
+2015-10-21 00:43:40 : Total Army Camp capacity: 218/220
+2015-10-21 00:43:41 :  - No. of Giants: 20
+2015-10-21 00:43:41 :  - No. of Wallbreakers: 9
+2015-10-21 00:43:41 :  - No. of Wizards: 25
+2015-10-21 00:43:41 : Training Troops...
+2015-10-21 00:43:52 : Spell Factory Full
+2015-10-21 00:43:55 : Time Idle: 00:58:35
+2015-10-21 00:43:55 : ====== Waiting for full army ======
+2015-10-21 00:44:07 : Checking Army Camp...
+2015-10-21 00:44:09 : Total Army Camp capacity: 218/220
+2015-10-21 00:44:10 :  - No. of Giants: 20
+2015-10-21 00:44:10 :  - No. of Wallbreakers: 9
+2015-10-21 00:44:10 :  - No. of Wizards: 25
+2015-10-21 00:44:10 : Training Troops...
+2015-10-21 00:44:22 : Spell Factory Full
+2015-10-21 00:44:24 : Time Idle: 00:59:04
+2015-10-21 00:44:25 : ====== Waiting for full army ======
+2015-10-21 00:44:36 : Collecting Resources
+2015-10-21 00:44:42 : Checking Army Camp...
+2015-10-21 00:44:44 : Total Army Camp capacity: 218/220
+2015-10-21 00:44:45 :  - No. of Giants: 20
+2015-10-21 00:44:45 :  - No. of Wallbreakers: 9
+2015-10-21 00:44:45 :  - No. of Wizards: 25
+2015-10-21 00:44:45 : Training Troops...
+2015-10-21 00:44:57 : Spell Factory Full
+2015-10-21 00:44:59 : Time Idle: 00:59:39
+2015-10-21 00:44:59 : ====== Waiting for full army ======
+2015-10-21 00:45:11 : Checking Army Camp...
+2015-10-21 00:45:13 : Total Army Camp capacity: 218/220
+2015-10-21 00:45:14 :  - No. of Giants: 20
+2015-10-21 00:45:14 :  - No. of Wallbreakers: 9
+2015-10-21 00:45:14 :  - No. of Wizards: 25
+2015-10-21 00:45:14 : Training Troops...
+2015-10-21 00:45:26 : Spell Factory Full
+2015-10-21 00:45:28 : Time Idle: 01:00:08
+2015-10-21 00:45:29 : ====== Waiting for full army ======
+2015-10-21 00:45:41 : Checking Army Camp...
+2015-10-21 00:45:42 : Total Army Camp capacity: 218/220
+2015-10-21 00:45:43 :  - No. of Giants: 20
+2015-10-21 00:45:43 :  - No. of Wallbreakers: 9
+2015-10-21 00:45:43 :  - No. of Wizards: 25
+2015-10-21 00:45:44 : Training Troops...
+2015-10-21 00:45:55 : Spell Factory Full
+2015-10-21 00:45:58 : Time Idle: 01:00:37
+2015-10-21 00:45:58 : ====== Waiting for full army ======
+2015-10-21 00:46:10 : Checking Army Camp...
+2015-10-21 00:46:12 : Total Army Camp capacity: 218/220
+2015-10-21 00:46:12 :  - No. of Giants: 20
+2015-10-21 00:46:13 :  - No. of Wallbreakers: 9
+2015-10-21 00:46:13 :  - No. of Wizards: 25
+2015-10-21 00:46:13 : Training Troops...
+2015-10-21 00:46:24 : Spell Factory Full
+2015-10-21 00:46:27 : Time Idle: 01:01:06
+2015-10-21 00:46:27 : ====== Waiting for full army ======
+2015-10-21 00:46:39 : Checking Army Camp...
+2015-10-21 00:46:41 : Total Army Camp capacity: 218/220
+2015-10-21 00:46:42 :  - No. of Giants: 20
+2015-10-21 00:46:42 :  - No. of Wallbreakers: 9
+2015-10-21 00:46:42 :  - No. of Wizards: 25
+2015-10-21 00:46:42 : Training Troops...
+2015-10-21 00:46:54 : Spell Factory Full
+2015-10-21 00:46:56 : Time Idle: 01:01:35
+2015-10-21 00:46:56 : ====== Waiting for full army ======
+2015-10-21 00:47:08 : Checking Army Camp...
+2015-10-21 00:47:10 : Total Army Camp capacity: 218/220
+2015-10-21 00:47:11 :  - No. of Giants: 20
+2015-10-21 00:47:11 :  - No. of Wallbreakers: 9
+2015-10-21 00:47:11 :  - No. of Wizards: 25
+2015-10-21 00:47:11 : Training Troops...
+2015-10-21 00:47:23 : Spell Factory Full
+2015-10-21 00:47:25 : Time Idle: 01:02:04
+2015-10-21 00:47:26 : ====== Waiting for full army ======
+2015-10-21 00:47:38 : Checking Army Camp...
+2015-10-21 00:47:40 : Total Army Camp capacity: 218/220
+2015-10-21 00:47:40 :  - No. of Giants: 20
+2015-10-21 00:47:41 :  - No. of Wallbreakers: 9
+2015-10-21 00:47:41 :  - No. of Wizards: 25
+2015-10-21 00:47:41 : Training Troops...
+2015-10-21 00:47:52 : Spell Factory Full
+2015-10-21 00:47:55 : Time Idle: 01:02:33
+2015-10-21 00:47:55 : ====== Waiting for full army ======
+2015-10-21 00:48:07 : Checking Army Camp...
+2015-10-21 00:48:09 : Total Army Camp capacity: 218/220
+2015-10-21 00:48:10 :  - No. of Giants: 20
+2015-10-21 00:48:10 :  - No. of Wallbreakers: 9
+2015-10-21 00:48:10 :  - No. of Wizards: 25
+2015-10-21 00:48:10 : Training Troops...
+2015-10-21 00:48:22 : Spell Factory Full
+2015-10-21 00:48:24 : Time Idle: 01:03:02
+2015-10-21 00:48:24 : ====== Waiting for full army ======
+2015-10-21 00:48:36 : Checking Army Camp...
+2015-10-21 00:48:38 : Total Army Camp capacity: 218/220
+2015-10-21 00:48:39 :  - No. of Giants: 20
+2015-10-21 00:48:39 :  - No. of Wallbreakers: 9
+2015-10-21 00:48:39 :  - No. of Wizards: 25
+2015-10-21 00:48:40 : Training Troops...
+2015-10-21 00:48:51 : Spell Factory Full
+2015-10-21 00:48:54 : Time Idle: 01:03:31
+2015-10-21 00:48:54 : ====== Waiting for full army ======
+2015-10-21 00:49:06 : Checking Army Camp...
+2015-10-21 00:49:08 : Total Army Camp capacity: 218/220
+2015-10-21 00:49:08 :  - No. of Giants: 20
+2015-10-21 00:49:08 :  - No. of Wallbreakers: 9
+2015-10-21 00:49:09 :  - No. of Wizards: 25
+2015-10-21 00:49:09 : Training Troops...
+2015-10-21 00:49:20 : Spell Factory Full
+2015-10-21 00:49:23 : Time Idle: 01:04:00
+2015-10-21 00:49:23 : ====== Waiting for full army ======
+2015-10-21 00:49:35 : Checking Army Camp...
+2015-10-21 00:49:37 : Total Army Camp capacity: 218/220
+2015-10-21 00:49:38 :  - No. of Giants: 20
+2015-10-21 00:49:38 :  - No. of Wallbreakers: 9
+2015-10-21 00:49:38 :  - No. of Wizards: 25
+2015-10-21 00:49:38 : Training Troops...
+2015-10-21 00:49:50 : Spell Factory Full
+2015-10-21 00:49:52 : Time Idle: 01:04:29
+2015-10-21 00:49:53 : ====== Waiting for full army ======
+2015-10-21 00:50:04 : Collecting Resources
+2015-10-21 00:50:10 : Checking Army Camp...
+2015-10-21 00:50:12 : Total Army Camp capacity: 218/220
+2015-10-21 00:50:13 :  - No. of Giants: 20
+2015-10-21 00:50:13 :  - No. of Wallbreakers: 9
+2015-10-21 00:50:13 :  - No. of Wizards: 25
+2015-10-21 00:50:13 : Training Troops...
+2015-10-21 00:50:25 : Spell Factory Full
+2015-10-21 00:50:27 : Time Idle: 01:05:04
+2015-10-21 00:50:28 : ====== Waiting for full army ======
+2015-10-21 00:50:40 : Checking Army Camp...
+2015-10-21 00:50:41 : Total Army Camp capacity: 218/220
+2015-10-21 00:50:42 :  - No. of Giants: 20
+2015-10-21 00:50:42 :  - No. of Wallbreakers: 9
+2015-10-21 00:50:42 :  - No. of Wizards: 25
+2015-10-21 00:50:43 : Training Troops...
+2015-10-21 00:50:54 : Spell Factory Full
+2015-10-21 00:50:57 : Time Idle: 01:05:33
+2015-10-21 00:50:57 : ====== Waiting for full army ======
+2015-10-21 00:51:09 : Checking Army Camp...
+2015-10-21 00:51:11 : Total Army Camp capacity: 218/220
+2015-10-21 00:51:12 :  - No. of Giants: 20
+2015-10-21 00:51:12 :  - No. of Wallbreakers: 9
+2015-10-21 00:51:12 :  - No. of Wizards: 25
+2015-10-21 00:51:12 : Training Troops...
+2015-10-21 00:51:23 : Spell Factory Full
+2015-10-21 00:51:26 : Time Idle: 01:06:02
+2015-10-21 00:51:26 : ====== Waiting for full army ======
+2015-10-21 00:51:38 : Checking Army Camp...
+2015-10-21 00:51:40 : Total Army Camp capacity: 218/220
+2015-10-21 00:51:41 :  - No. of Giants: 20
+2015-10-21 00:51:41 :  - No. of Wallbreakers: 9
+2015-10-21 00:51:41 :  - No. of Wizards: 25
+2015-10-21 00:51:41 : Training Troops...
+2015-10-21 00:51:53 : Spell Factory Full
+2015-10-21 00:51:55 : Time Idle: 01:06:31
+2015-10-21 00:51:55 : ====== Waiting for full army ======
+2015-10-21 00:52:07 : Checking Army Camp...
+2015-10-21 00:52:09 : Total Army Camp capacity: 218/220
+2015-10-21 00:52:10 :  - No. of Giants: 20
+2015-10-21 00:52:10 :  - No. of Wallbreakers: 9
+2015-10-21 00:52:10 :  - No. of Wizards: 25
+2015-10-21 00:52:11 : Training Troops...
+2015-10-21 00:52:22 : Spell Factory Full
+2015-10-21 00:52:24 : Time Idle: 01:07:00
+2015-10-21 00:52:25 : ====== Waiting for full army ======
+2015-10-21 00:52:37 : Checking Army Camp...
+2015-10-21 00:52:38 : Total Army Camp capacity: 218/220
+2015-10-21 00:52:39 :  - No. of Giants: 20
+2015-10-21 00:52:39 :  - No. of Wallbreakers: 9
+2015-10-21 00:52:39 :  - No. of Wizards: 25
+2015-10-21 00:52:40 : Training Troops...
+2015-10-21 00:52:51 : Spell Factory Full
+2015-10-21 00:52:54 : Time Idle: 01:07:29
+2015-10-21 00:52:54 : ====== Waiting for full army ======
+2015-10-21 00:53:06 : Checking Army Camp...
+2015-10-21 00:53:07 : Total Army Camp capacity: 218/220
+2015-10-21 00:53:08 :  - No. of Giants: 20
+2015-10-21 00:53:08 :  - No. of Wallbreakers: 9
+2015-10-21 00:53:09 :  - No. of Wizards: 25
+2015-10-21 00:53:09 : Training Troops...
+2015-10-21 00:53:20 : Spell Factory Full
+2015-10-21 00:53:23 : Time Idle: 01:07:58
+2015-10-21 00:53:23 : ====== Waiting for full army ======
+2015-10-21 00:53:35 : Checking Army Camp...
+2015-10-21 00:53:37 : Total Army Camp capacity: 218/220
+2015-10-21 00:53:38 :  - No. of Giants: 20
+2015-10-21 00:53:38 :  - No. of Wallbreakers: 9
+2015-10-21 00:53:38 :  - No. of Wizards: 25
+2015-10-21 00:53:38 : Training Troops...
+2015-10-21 00:53:49 : Spell Factory Full
+2015-10-21 00:53:52 : Time Idle: 01:08:27
+2015-10-21 00:53:52 : ====== Waiting for full army ======
+2015-10-21 00:54:04 : Checking Army Camp...
+2015-10-21 00:54:06 : Total Army Camp capacity: 218/220
+2015-10-21 00:54:07 :  - No. of Giants: 20
+2015-10-21 00:54:07 :  - No. of Wallbreakers: 9
+2015-10-21 00:54:07 :  - No. of Wizards: 25
+2015-10-21 00:54:07 : Training Troops...
+2015-10-21 00:54:19 : Spell Factory Full
+2015-10-21 00:54:21 : Time Idle: 01:08:56
+2015-10-21 00:54:21 : ====== Waiting for full army ======
+2015-10-21 00:54:33 : Checking Army Camp...
+2015-10-21 00:54:35 : Total Army Camp capacity: 218/220
+2015-10-21 00:54:36 :  - No. of Giants: 20
+2015-10-21 00:54:36 :  - No. of Wallbreakers: 9
+2015-10-21 00:54:36 :  - No. of Wizards: 25
+2015-10-21 00:54:36 : Training Troops...
+2015-10-21 00:54:48 : Spell Factory Full
+2015-10-21 00:54:50 : Time Idle: 01:09:25
+2015-10-21 00:54:51 : ====== Waiting for full army ======
+2015-10-21 00:55:03 : Checking Army Camp...
+2015-10-21 00:55:04 : Total Army Camp capacity: 218/220
+2015-10-21 00:55:05 :  - No. of Giants: 20
+2015-10-21 00:55:05 :  - No. of Wallbreakers: 9
+2015-10-21 00:55:06 :  - No. of Wizards: 25
+2015-10-21 00:55:06 : Training Troops...
+2015-10-21 00:55:17 : Spell Factory Full
+2015-10-21 00:55:20 : Time Idle: 01:09:54
+2015-10-21 00:55:20 : ====== Waiting for full army ======
+2015-10-21 00:55:32 : Collecting Resources
+2015-10-21 00:55:37 : Checking Army Camp...
+2015-10-21 00:55:39 : Total Army Camp capacity: 218/220
+2015-10-21 00:55:40 :  - No. of Giants: 20
+2015-10-21 00:55:40 :  - No. of Wallbreakers: 9
+2015-10-21 00:55:40 :  - No. of Wizards: 25
+2015-10-21 00:55:41 : Training Troops...
+2015-10-21 00:55:52 : Spell Factory Full
+2015-10-21 00:55:54 : Time Idle: 01:10:29
+2015-10-21 00:55:55 : ====== Waiting for full army ======
+2015-10-21 00:56:07 : Checking Army Camp...
+2015-10-21 00:56:09 : Total Army Camp capacity: 218/220
+2015-10-21 00:56:09 :  - No. of Giants: 20
+2015-10-21 00:56:09 :  - No. of Wallbreakers: 9
+2015-10-21 00:56:10 :  - No. of Wizards: 25
+2015-10-21 00:56:10 : Training Troops...
+2015-10-21 00:56:21 : Spell Factory Full
+2015-10-21 00:56:24 : Time Idle: 01:10:58
+2015-10-21 00:56:24 : ====== Waiting for full army ======
+2015-10-21 00:56:36 : Checking Army Camp...
+2015-10-21 00:56:38 : Total Army Camp capacity: 218/220
+2015-10-21 00:56:39 :  - No. of Giants: 20
+2015-10-21 00:56:39 :  - No. of Wallbreakers: 9
+2015-10-21 00:56:39 :  - No. of Wizards: 25
+2015-10-21 00:56:39 : Training Troops...
+2015-10-21 00:56:51 : Spell Factory Full
+2015-10-21 00:56:53 : Time Idle: 01:11:27
+2015-10-21 00:56:53 : ====== Waiting for full army ======
+2015-10-21 00:57:05 : Checking Army Camp...
+2015-10-21 00:57:07 : Total Army Camp capacity: 218/220
+2015-10-21 00:57:08 :  - No. of Giants: 20
+2015-10-21 00:57:08 :  - No. of Wallbreakers: 9
+2015-10-21 00:57:08 :  - No. of Wizards: 25
+2015-10-21 00:57:08 : Training Troops...
+2015-10-21 00:57:20 : Spell Factory Full
+2015-10-21 00:57:22 : Time Idle: 01:11:56
+2015-10-21 00:57:23 : ====== Waiting for full army ======
+2015-10-21 00:57:35 : Checking Army Camp...
+2015-10-21 00:57:37 : Total Army Camp capacity: 218/220
+2015-10-21 00:57:37 :  - No. of Giants: 20
+2015-10-21 00:57:38 :  - No. of Wallbreakers: 9
+2015-10-21 00:57:38 :  - No. of Wizards: 25
+2015-10-21 00:57:38 : Training Troops...
+2015-10-21 00:57:49 : Spell Factory Full
+2015-10-21 00:57:52 : Time Idle: 01:12:25
+2015-10-21 00:57:52 : ====== Waiting for full army ======
+2015-10-21 00:58:04 : Checking Army Camp...
+2015-10-21 00:58:06 : Total Army Camp capacity: 218/220
+2015-10-21 00:58:07 :  - No. of Giants: 20
+2015-10-21 00:58:07 :  - No. of Wallbreakers: 9
+2015-10-21 00:58:07 :  - No. of Wizards: 25
+2015-10-21 00:58:07 : Training Troops...
+2015-10-21 00:58:19 : Spell Factory Full
+2015-10-21 00:58:21 : Time Idle: 01:12:54
+2015-10-21 00:58:21 : ====== Waiting for full army ======
+2015-10-21 00:58:31 : ClashGameBot was Paused!
+2015-10-21 01:07:51 : ClashGameBot was Resumed.
+2015-10-21 01:07:54 : Checking Army Camp...
+2015-10-21 01:07:55 : Total Army Camp capacity: 220/220
+2015-10-21 01:07:56 :  - No. of Giants: 20
+2015-10-21 01:07:56 :  - No. of Wallbreakers: 10
+2015-10-21 01:07:56 :  - No. of Wizards: 25
+2015-10-21 01:07:57 : Training Troops...
+2015-10-21 01:07:58 : Your Army Camps are now Full
+2015-10-21 01:08:42 : Spell Factory Full
+2015-10-21 01:08:44 : Going to Attack...
+2015-10-21 01:08:50 : ============== Searching For Dead Base ===============
+2015-10-21 01:08:50 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-21 01:08:50 : , Max TH 8
+2015-10-21 01:08:50 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-21 01:08:50 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-21 01:08:50 : ============== Searching For Live Base ===============
+2015-10-21 01:08:50 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-21 01:08:50 : , Max TH 8
+2015-10-21 01:08:50 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-21 01:08:50 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Live Base
+2015-10-21 01:08:50 : ==================================================
+2015-10-21 01:08:51 :   1> [G]: 177373 [E]: 215323 [D]: 1419 [T]:26 [TH]:10, In
+2015-10-21 01:08:55 : ClashGameBot was Paused!
+2015-10-21 01:10:21 : ClashGameBot was Resumed.
+2015-10-21 01:10:23 :   2> [G]: 156099 [E]: 137495 [D]:  674 [T]:27 [TH]:10, In
+2015-10-21 01:10:25 :   3> [G]: 122420 [E]:   2985 [D]: 1318 [T]:25 [TH]: 9, In
+2015-10-21 01:10:33 :   4> [G]:  47280 [E]: 204942 [D]: 1229 [T]:24 [TH]:10, In
+2015-10-21 01:10:39 :   5> [G]:  52321 [E]: 143699 [D]:  690 [T]:34 [TH]:10, In
+2015-10-21 01:10:42 :   6> [G]: 135594 [E]: 278371 [D]: 1894 [T]:16 [TH]:10, In
+2015-10-21 01:10:45 :   7> [G]:  14242 [E]:   7182 [D]:  894 [T]: 9 [TH]: 9, In
+2015-10-21 01:10:53 :   8> [G]:  52885 [E]:  34404 [D]:  609 [T]:11 [TH]:10, In
+2015-10-21 01:10:57 :   9> [G]:  49264 [E]:  16050 [D]:  502 [T]:31 [TH]:10, In
+2015-10-21 01:11:00 :  10> [G]:  24217 [E]:   9213 [D]:  358 [T]: 9 [TH]: 9, In
+2015-10-21 01:11:07 :  11> [G]:  53952 [E]: 101996 [D]:  153 [T]:28 [TH]:10, In
+2015-10-21 01:11:09 :  12> [G]:  89144 [E]:  47425 [D]:  646 [T]:17 [TH]: 9, In
+2015-10-21 01:11:17 :  13> [G]:  33973 [E]:  59483 [D]: 1575 [T]: 8 [TH]: 9, In
+2015-10-21 01:11:20 :  14> [G]: 107957 [E]:  73120 [D]:  674 [T]:33 [TH]:10, In
+2015-10-21 01:11:23 :  15> [G]:  45996 [E]:   3801 [D]: 1571 [T]:15 [TH]: 9, In
+2015-10-21 01:11:30 :  16> [G]:  35679 [E]:  28001 [D]:  580 [T]:34 [TH]: 9, In
+2015-10-21 01:11:34 :  17> [G]:  45231 [E]:  71590 [D]: 1635 [T]:18 [TH]:10, In
+2015-10-21 01:11:37 :  18> [G]:  34647 [E]:  28744 [D]:  514 [T]:31 [TH]:10, In
+2015-10-21 01:11:41 :  19> [G]:  19359 [E]:   9670 [D]:  422 [T]:27 [TH]: 9, In
+2015-10-21 01:11:44 :  20> [G]:  44268 [E]:  37305 [D]:  330 [T]:13 [TH]: 9, In
+2015-10-21 01:11:48 :  21> [G]:  92163 [E]:   5093 [D]:  569 [T]:22 [TH]:10, In
+2015-10-21 01:11:51 :  22> [G]:  50655 [E]:  22580 [D]:  334 [T]: 9 [TH]: 9, In
+2015-10-21 01:11:58 :  23> [G]:  27068 [E]:  85195 [D]:  917 [T]:25 [TH]:10, In
+2015-10-21 01:12:03 :  24> [G]:  27791 [E]:  94728 [D]: 2980 [T]:14 [TH]:10, In
+2015-10-21 01:12:05 :  25> [G]:  78427 [E]:  97268 [D]: 1862 [T]:16 [TH]:10, In
+2015-10-21 01:12:13 :  26> [G]: 141360 [E]: 138423 [D]:  359 [T]:17 [TH]:10, In
+2015-10-21 01:12:16 :  27> [G]:  57613 [E]:  81882 [D]: 1477 [T]:33 [TH]: 9, In
+2015-10-21 01:12:19 :  28> [G]:  43795 [E]:  65752 [D]:  653 [T]:17 [TH]: 9, In
+2015-10-21 01:12:26 :  29> [G]:  24881 [E]:  78321 [D]: 2632 [T]:27 [TH]:10, In
+2015-10-21 01:12:31 :  30> [G]:  70201 [E]: 139577 [D]: 1678 [T]:12 [TH]:10, In
+2015-10-21 01:12:33 :  31> [G]: 375202 [E]: 311308 [D]: 1924 [T]:20 [TH]: 9, In
+2015-10-21 01:12:39 :  32> [G]:  85978 [E]:  55160 [D]:  420 [T]:27 [TH]:10, In
+2015-10-21 01:12:42 :  33> [G]:  62472 [E]:  31711 [D]:  105 [T]:13 [TH]:10, In
+2015-10-21 01:12:49 :  34> [G]:  57154 [E]:  83224 [D]:  389 [T]:17 [TH]: 9, In
+2015-10-21 01:12:52 :  35> [G]:  73389 [E]:  47637 [D]:  646 [T]:15 [TH]: 9, In
+2015-10-21 01:12:59 :  36> [G]:  56700 [E]: 105667 [D]: 1444 [T]:13 [TH]:10, In
+2015-10-21 01:13:02 :  37> [G]: 235342 [E]: 280815 [D]: 1036 [T]:13 [TH]:10, In
+2015-10-21 01:13:09 :  38> [G]: 217847 [E]: 196733 [D]: 1850 [T]:23 [TH]:10, In
+2015-10-21 01:13:11 :  39> [G]:  10137 [E]:  28564 [D]:  229 [T]:13 [TH]: 9, In
+2015-10-21 01:13:14 :  40> [G]:  88755 [E]:  61490 [D]:  403 [T]: 7 [TH]: 9, In
+2015-10-21 01:13:23 :  41> [G]:  79771 [E]:  75505 [D]: 2172 [T]:24 [TH]:10, In
+2015-10-21 01:13:28 :  42> [G]:  99355 [E]:  87990 [D]: 1218 [T]:20 [TH]:10, In
+2015-10-21 01:13:30 :  43> [G]:  22650 [E]: 266335 [D]: 3066 [T]:14 [TH]:10, In
+2015-10-21 01:13:36 :  44> [G]:   9111 [E]:  12866 [D]:  218 [T]: 6 [TH]: 9, In
+2015-10-21 01:13:39 :  45> [G]: 160157 [E]: 117029 [D]:  735 [T]:12 [TH]: 9, In
+2015-10-21 01:13:46 :  46> [G]:  81993 [E]:  29044 [D]:  799 [T]: 7 [TH]: 9, In
+2015-10-21 01:13:51 :  47> [G]:    707 [E]:   3760 [D]:  259 [T]:18 [TH]:10, In
+2015-10-21 01:13:55 :  48> [G]:  55837 [E]:   2998 [D]:  548 [T]:16 [TH]: 9, In
+2015-10-21 01:13:58 :  49> [G]:  31013 [E]:  53040 [D]:  834 [T]:23 [TH]: 9, In
+2015-10-21 01:14:06 :  50> [G]:  67630 [E]:  59120 [D]:  324 [T]:34 [TH]:10, In
+2015-10-21 01:14:06 : Aim:           [G+E+D]: 372500 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-21 01:14:06 : Aim:           [G+E+D]: 372500 [T]: 0 [TH]: 8 for: Live Base
+2015-10-21 01:14:09 :  51> [G]:  27527 [E]:  20124 [D]:  129 [T]:16 [TH]: 9, In
+2015-10-21 01:14:16 :  52> [G]:  52312 [E]:  13824 [D]:  748 [T]:16 [TH]:10, In
+2015-10-21 01:14:19 :  53> [G]: 169153 [E]: 209677 [D]: 2021 [T]:14 [TH]: 9, In
+2015-10-21 01:14:26 :  54> [G]: 133855 [E]:  33280 [D]:  822 [T]: 9 [TH]: 9, In
+2015-10-21 01:14:29 :  55> [G]:  44194 [E]:  23421 [D]:  690 [T]:37 [TH]: 9, In
+2015-10-21 01:14:36 :  56> [G]: 179342 [E]:   6605 [D]:  442 [T]:10 [TH]: 9, In
+2015-10-21 01:14:40 :  57> [G]: 164651 [E]: 169301 [D]: 1051 [T]: 4 [TH]: 9, In
+2015-10-21 01:14:42 :  58> [G]: 102988 [E]: 104583 [D]:  758 [T]:11 [TH]:10, In
+2015-10-21 01:14:48 :  59> [G]:   9546 [E]:  74193 [D]:  373 [T]:24 [TH]:10, In
+2015-10-21 01:14:51 :  60> [G]: 165487 [E]:  79620 [D]: 3258 [T]:13 [TH]:10, In
+2015-10-21 01:14:58 :  61> [G]:  92715 [E]: 102257 [D]: 3225 [T]:31 [TH]:10, In
+2015-10-21 01:15:02 :  62> [G]: 127009 [E]: 203090 [D]:  783 [T]:32 [TH]:10, In
+2015-10-21 01:15:05 :  63> [G]: 148820 [E]:  61081 [D]: 1234 [T]:13 [TH]: 9, In
+2015-10-21 01:15:14 :  64> [G]:  41119 [E]:  20676 [D]:  538 [T]:14 [TH]:10, In
+2015-10-21 01:15:16 :  65> [G]:  95744 [E]:  12586 [D]:  342 [T]:32 [TH]: 9, In
+2015-10-21 01:15:25 :  66> [G]:  79433 [E]:  17433 [D]:  254 [T]: 3 [TH]: 8, In
+2015-10-21 01:15:29 :  67> [G]: 110477 [E]:  70949 [D]:  519 [T]:10 [TH]: 9, In
+2015-10-21 01:15:36 :  68> [G]: 127626 [E]: 101055 [D]: 2328 [T]:14 [TH]:10, In
+2015-10-21 01:15:39 :  69> [G]: 285316 [E]: 297498 [D]: 2466 [T]:42 [TH]: 9, In
+2015-10-21 01:15:46 :  70> [G]:  19799 [E]:  52872 [D]: 1196 [T]:14 [TH]: 9, In
+2015-10-21 01:15:49 :  71> [G]:  53670 [E]: 188594 [D]: 1581 [T]:11 [TH]: 9, In
+2015-10-21 01:15:56 :  72> [G]:  24933 [E]:  70561 [D]: 1197 [T]:15 [TH]: 9, In
+2015-10-21 01:15:59 :  73> [G]: 148316 [E]: 119999 [D]: 2693 [T]:24 [TH]: 9, In
+2015-10-21 01:16:06 :  74> [G]:  61170 [E]: 177845 [D]: 2530 [T]:14 [TH]:10, In
+2015-10-21 01:16:10 :  75> [G]:  84359 [E]:  57172 [D]:  219 [T]:25 [TH]:10, In
+2015-10-21 01:16:15 :  76> [G]:  69518 [E]: 141394 [D]:  675 [T]: 4 [TH]: 9, In
+2015-10-21 01:16:19 :  77> [G]: 150640 [E]: 208730 [D]:  265 [T]:34 [TH]:10, In
+2015-10-21 01:16:22 :  78> [G]:  22210 [E]:  20034 [D]:  651 [T]: 1 [TH]: 8, In
+2015-10-21 01:16:25 :  79> [G]:  82312 [E]:  81748 [D]:  507 [T]: 9 [TH]: 9, In
+2015-10-21 01:16:33 :  80> [G]:   5422 [E]:  37142 [D]:  143 [T]: 5 [TH]: 9, In
+2015-10-21 01:16:35 :  81> [G]: 123744 [E]:  59578 [D]:  287 [T]:21 [TH]: 9, In
+2015-10-21 01:16:43 :  82> [G]:  33234 [E]:   2424 [D]:  323 [T]: 7 [TH]: 9, In
+2015-10-21 01:16:45 :  83> [G]:  29235 [E]:  13577 [D]:  165 [T]:18 [TH]: 9, In
+2015-10-21 01:16:52 :  84> [G]:  46331 [E]: 221927 [D]:  307 [T]: 9 [TH]: 9, In
+2015-10-21 01:16:55 :  85> [G]: 120479 [E]:  98686 [D]: 1104 [T]:13 [TH]: 9, In
+2015-10-21 01:17:02 :  86> [G]:  74958 [E]:  35747 [D]:  504 [T]: 1 [TH]: 8, In
+2015-10-21 01:17:05 :  87> [G]:  52554 [E]:  40409 [D]:  438 [T]: 1 [TH]: 8, In
+2015-10-21 01:17:08 :  88> [G]:  55948 [E]: 175534 [D]:  456 [T]: 1 [TH]: 8, In
+2015-10-21 01:17:11 :  89> [G]:  92940 [E]:  23424 [D]:  549 [T]: 1 [TH]: 8, In
+2015-10-21 01:17:15 :  90> [G]:   9060 [E]:  14474 [D]:  362 [T]: 1 [TH]: 8, In
+2015-10-21 01:17:19 :  91> [G]:  21443 [E]:  67487 [D]:  724 [T]:14 [TH]: 9, In
+2015-10-21 01:17:22 :  92> [G]:  64428 [E]:  54981 [D]:  856 [T]:19 [TH]:10, In
+2015-10-21 01:17:29 :  93> [G]:  22419 [E]:  75545 [D]:  622 [T]: 5 [TH]: 9, In
+2015-10-21 01:17:32 :  94> [G]:   5668 [E]:  66542 [D]:  619 [T]: 1 [TH]: 8, In
+2015-10-21 01:17:35 :  95> [G]:  76602 [E]:  14540 [D]:   68 [T]: 1 [TH]: 8, In
+2015-10-21 01:17:38 :  96> [G]: 433030 [E]:  93697 [D]:  759 [T]:15 [TH]:10, In
+2015-10-21 01:17:45 :  97> [G]: 102825 [E]:  72359 [D]:  107 [T]: 1 [TH]: 8, In
+2015-10-21 01:17:48 :  98> [G]:  91957 [E]: 210442 [D]:  706 [T]: 4 [TH]: 9, In
+2015-10-21 01:17:54 :  99> [G]:  78480 [E]:  27000 [D]:  107 [T]: 1 [TH]: 8, In
+2015-10-21 01:17:57 : 100> [G]:  40239 [E]: 100641 [D]:  615 [T]:23 [TH]: 9, In
+2015-10-21 01:17:58 : Aim:           [G+E+D]: 320000 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-21 01:17:58 : Aim:           [G+E+D]: 320000 [T]: 0 [TH]: 8 for: Live Base
+2015-10-21 01:18:01 : 101> [G]:  61532 [E]:  39283 [D]:  619 [T]:18 [TH]: 9, In
+2015-10-21 01:18:08 : 102> [G]:  29778 [E]:  42426 [D]: 1407 [T]:19 [TH]: 9, In
+2015-10-21 01:18:10 : 103> [G]:  20075 [E]: 101380 [D]:  141 [T]:28 [TH]: 9, In
+2015-10-21 01:18:17 : 104> [G]:  42203 [E]:  35119 [D]:  297 [T]:31 [TH]:10, In
+2015-10-21 01:18:20 : 105> [G]:  36978 [E]: 136084 [D]:  769 [T]:29 [TH]: 9, In
+2015-10-21 01:18:26 : 106> [G]:  24383 [E]:  69517 [D]: 1537 [T]:26 [TH]: 9, In
+2015-10-21 01:18:29 : 107> [G]:  55084 [E]:  59649 [D]:  217 [T]:30 [TH]:10, In
+2015-10-21 01:18:36 : 108> [G]: 145406 [E]: 160355 [D]:  541 [T]: 1 [TH]: 8, In
+2015-10-21 01:18:37 : ~~~~~~~~~~~~~~ DE Side Base Found! ~~~~~~~~~~~~~~~
+2015-10-21 01:18:38 : ================ Search Complete =================
+2015-10-21 01:18:38 : Initiating attack for: Live Base
+2015-10-21 01:18:40 : -Giants 11
+2015-10-21 01:18:40 : -Wall Breakers 10
+2015-10-21 01:18:40 : -Wizards 25
+2015-10-21 01:18:40 : -Clan Castle 
+2015-10-21 01:18:40 : -King 
+2015-10-21 01:18:40 : -Queen 
+2015-10-21 01:18:40 : -Rage Spells 4
+2015-10-21 01:18:40 : -Poison Spells 1
+2015-10-21 01:18:40 :  ====== Start Attack ====== 
+2015-10-21 01:18:42 : Attacking on Dark Elixir Side.
+2015-10-21 01:18:44 :  == DE Storage Not Found ==
+2015-10-21 01:18:44 : DE Storage Not Located... Attacking Random Side
+2015-10-21 01:18:45 : Dropping only wave of 11 Giants
+2015-10-21 01:18:47 : Dropping first wave of 5 Wall Breakers
+2015-10-21 01:18:49 : Spell drop point: 490, 368
+2015-10-21 01:18:49 : Dropping spell in slot 6
+2015-10-21 01:18:49 : Dropping second wave of 5 Wall Breakers
+2015-10-21 01:18:51 : Dropping only wave of 25 Wizards
+2015-10-21 01:18:54 : Dropping King
+2015-10-21 01:18:55 : Dropping Queen
+2015-10-21 01:18:56 : Dropping left over troops
+2015-10-21 01:18:56 : Checking remaining unused troops for: Live Base
+2015-10-21 01:18:58 : -Giants 1
+2015-10-21 01:18:58 : -Clan Castle 
+2015-10-21 01:18:58 : -Rage Spells 3
+2015-10-21 01:18:58 : -Poison Spells 1
+2015-10-21 01:18:59 : Dropping last wave of 1 Giants
+2015-10-21 01:19:07 : Checking remaining unused troops for: Live Base
+2015-10-21 01:19:09 : -Giants 1
+2015-10-21 01:19:09 : -Clan Castle 
+2015-10-21 01:19:09 : -Rage Spells 3
+2015-10-21 01:19:09 : -Poison Spells 1
+2015-10-21 01:19:10 : Dropping last wave of 1 Giants
+2015-10-21 01:19:19 : Finished Attacking, waiting for the battle to end
+2015-10-21 01:19:19 : Checking if the battle has finished
+2015-10-21 01:19:21 : detected [G]: 77685 [E]: 103334 [DE]: 334 |  Exit in 58 sec.
+2015-10-21 01:19:21 : Gold & Elixir & DE change detected, waiting...
+2015-10-21 01:19:24 : detected [G]: 77685 [E]: 97594 [DE]: 106 |  Exit in 58 sec.
+2015-10-21 01:19:24 : Gold & Elixir & DE change detected, waiting...
+2015-10-21 01:19:26 : detected [G]: 77464 [E]: 74294 [DE]: 99 |  Exit in 58 sec.
+2015-10-21 01:19:27 : Gold & Elixir & DE change detected, waiting...
+2015-10-21 01:19:29 : detected [G]: 77183 [E]: 62699 [DE]: 99 |  Exit in 58 sec.
+2015-10-21 01:19:29 : Gold & Elixir & DE change detected, waiting...
+2015-10-21 01:19:32 : detected [G]: 76823 [E]: 62339 [DE]: 99 |  Exit in 58 sec.
+2015-10-21 01:19:32 : Gold & Elixir & DE change detected, waiting...
+2015-10-21 01:19:35 : detected [G]: 46581 [E]: 62301 [DE]: 99 |  Exit in 58 sec.
+2015-10-21 01:19:35 : Gold & Elixir & DE change detected, waiting...
+2015-10-21 01:19:38 : detected [G]: 43794 [E]: 62301 [DE]: 99 |  Exit in 58 sec.
+2015-10-21 01:19:38 : Gold & Elixir & DE change detected, waiting...
+2015-10-21 01:19:41 : detected [G]: 38054 [E]: 62301 [DE]: 99 |  Exit in 58 sec.
+2015-10-21 01:19:41 : Gold & Elixir & DE change detected, waiting...
+2015-10-21 01:19:44 : detected [G]: 38054 [E]: 62301 [DE]: 99 |  Exit in 58 sec.
+2015-10-21 01:19:45 : detected [G]: 38054 [E]: 62301 [DE]: 99 |  Exit in 57 sec.
+2015-10-21 01:19:47 : detected [G]: 38054 [E]: 62301 [DE]: 99 |  Exit in 56 sec.
+2015-10-21 01:19:48 : detected [G]: 35566 [E]: 62301 [DE]: 99 |  Exit in 55 sec.
+2015-10-21 01:19:48 : Gold & Elixir & DE change detected, waiting...
+2015-10-21 01:19:51 : detected [G]: 25571 [E]: 62301 [DE]: 99 |  Exit in 58 sec.
+2015-10-21 01:19:51 : Gold & Elixir & DE change detected, waiting...
+2015-10-21 01:19:52 : King is getting weak, Activating King's power
+2015-10-21 01:19:52 : Queen is getting weak, Activating Queen's power
+2015-10-21 01:19:54 : detected [G]: 11171 [E]: 62301 [DE]: 99 |  Exit in 58 sec.
+2015-10-21 01:19:54 : Gold & Elixir & DE change detected, waiting...
+2015-10-21 01:19:58 : detected [G]: 8527 [E]: 56562 [DE]: 99 |  Exit in 58 sec.
+2015-10-21 01:19:58 : Gold & Elixir & DE change detected, waiting...
+2015-10-21 01:20:01 : detected [G]: 8527 [E]: 56562 [DE]: 99 |  Exit in 58 sec.
+2015-10-21 01:20:03 : detected [G]: 8527 [E]: 56562 [DE]: 99 |  Exit in 56 sec.
+2015-10-21 01:20:04 : detected [G]: 8527 [E]: 56562 [DE]: 99 |  Exit in 54 sec.
+2015-10-21 01:20:06 : detected [G]: 8527 [E]: 47331 [DE]: 99 |  Exit in 53 sec.
+2015-10-21 01:20:06 : Gold & Elixir & DE change detected, waiting...
+2015-10-21 01:20:09 : detected [G]: 2952 [E]: 28867 [DE]: 99 |  Exit in 58 sec.
+2015-10-21 01:20:09 : Gold & Elixir & DE change detected, waiting...
+2015-10-21 01:20:13 : detected [G]: 0 [E]: 19193 [DE]: 99 |  Exit in 58 sec.
+2015-10-21 01:20:13 : Gold & Elixir & DE change detected, waiting...
+2015-10-21 01:20:16 : ClashGameBot was Paused!
+2015-10-21 01:20:36 : ClashGameBot was Resumed.
+2015-10-21 01:20:37 : detected [G]: 0 [E]: 12262 [DE]: 0 |  Exit in 37 sec.
+2015-10-21 01:20:37 : Gold & Elixir & DE change detected, waiting...
+2015-10-21 01:20:39 : detected [G]:  [E]:  [DE]:  |  Exit now 
+2015-10-21 01:20:39 : Gold & Elixir & DE = 0, end battle 
+2015-10-21 01:20:41 : Battle has finished
+2015-10-21 01:20:41 : Returning Home
+2015-10-21 01:20:46 : Bonus [G]: 100 000 [E]: 100 000 [DE]: 500
+2015-10-21 01:20:48 : Your league level is: Master III
+2015-10-21 01:20:48 : Stars earned: 3
+2015-10-21 01:20:48 : Loot: [G]: 145 406 [E]: 160 355 [DE]: 541 [T]: 1
+2015-10-21 01:20:48 : Taking snapshot of your loot
+2015-10-21 01:20:51 : ClashGameBot was Paused!

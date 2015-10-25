@@ -1,0 +1,2586 @@
+2015-10-20 08:45:45 :  Clash Game Bot v4.1.1 Modded Powered by GameBot.org ~
+2015-10-20 08:45:45 : GameBot.org.exe Executable running on WIN_81  X64
+2015-10-20 08:45:45 : =================== Bot Start ====================
+2015-10-20 08:45:45 : -------------------------  Current Profile: 01 --------------------------
+2015-10-20 08:45:46 : Trying to locate Main Screen
+2015-10-20 08:45:46 : Main Screen Located
+2015-10-20 08:45:47 : Detecting your Buildings..
+2015-10-20 08:45:52 : Language setting is English: Correct.
+2015-10-20 08:45:53 : Trying to locate Main Screen
+2015-10-20 08:45:53 : Main Screen Located
+2015-10-20 08:45:55 : Village Report
+2015-10-20 08:45:55 : No. of Free/Total Builders: 3/5
+2015-10-20 08:45:55 :  [T]: 2 734
+2015-10-20 08:45:55 :  [G]: 5 448 415 [E]: 82 889 [D]: 135 127 [GEM]: 5 309
+2015-10-20 08:45:56 : Collecting Resources
+2015-10-20 08:46:05 : Checking Army Camp...
+2015-10-20 08:46:07 : Total Army Camp capacity: 60/220
+2015-10-20 08:46:08 :  - No. of Giants: 12
+2015-10-20 08:46:08 : Barracks and Spell factory status: 
+2015-10-20 08:46:08 : - Barracks detected: 4 | Available: 4 | Upgrading: 0
+2015-10-20 08:46:08 : - Dark Barracks detected: 2 | Available: 2 | Upgrading: 0
+2015-10-20 08:46:08 : - Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2015-10-20 08:46:08 : - Dark Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2015-10-20 08:46:08 : Training Troops...
+2015-10-20 08:46:37 : Spell Factory Full
+2015-10-20 08:46:45 : ====== Waiting for full army ======
+2015-10-20 08:46:57 : Checking Army Camp...
+2015-10-20 08:46:58 : ClashGameBot was Paused!
+2015-10-20 08:58:04 : ClashGameBot was Resumed.
+2015-10-20 08:58:15 : Army size read error, Troop numbers can't be trained correctly
+2015-10-20 08:58:16 : Total Army Camp capacity: 0/220
+2015-10-20 08:58:17 : Training Troops...
+2015-10-20 08:58:33 : Spell Factory not found...
+2015-10-20 08:58:36 : Time Idle: 00:11:51
+2015-10-20 08:58:36 : ====== Waiting for full army ======
+2015-10-20 08:58:48 : Checking Army Camp...
+2015-10-20 08:58:50 : Total Army Camp capacity: 76/220
+2015-10-20 08:58:51 :  - No. of Giants: 12
+2015-10-20 08:58:51 :  - No. of Wizards: 4
+2015-10-20 08:58:51 : Training Troops...
+2015-10-20 08:59:09 : Spell Factory Full
+2015-10-20 08:59:11 : Time Idle: 00:12:26
+2015-10-20 08:59:11 : ====== Waiting for full army ======
+2015-10-20 08:59:23 : Checking Army Camp...
+2015-10-20 08:59:25 : Total Army Camp capacity: 76/220
+2015-10-20 08:59:26 :  - No. of Giants: 12
+2015-10-20 08:59:26 :  - No. of Wizards: 4
+2015-10-20 08:59:26 : Training Troops...
+2015-10-20 08:59:44 : Spell Factory Full
+2015-10-20 08:59:46 : Time Idle: 00:13:01
+2015-10-20 08:59:47 : ====== Waiting for full army ======
+2015-10-20 08:59:59 : Checking Army Camp...
+2015-10-20 09:00:01 : Total Army Camp capacity: 76/220
+2015-10-20 09:00:01 :  - No. of Giants: 12
+2015-10-20 09:00:01 :  - No. of Wizards: 4
+2015-10-20 09:00:02 : Training Troops...
+2015-10-20 09:00:19 : Spell Factory Full
+2015-10-20 09:00:22 : Time Idle: 00:13:36
+2015-10-20 09:00:22 : ====== Waiting for full army ======
+2015-10-20 09:00:34 : Checking Army Camp...
+2015-10-20 09:00:36 : Total Army Camp capacity: 76/220
+2015-10-20 09:00:37 :  - No. of Giants: 12
+2015-10-20 09:00:37 :  - No. of Wizards: 4
+2015-10-20 09:00:37 : Training Troops...
+2015-10-20 09:00:55 : Spell Factory Full
+2015-10-20 09:00:57 : Time Idle: 00:14:11
+2015-10-20 09:00:58 : ====== Waiting for full army ======
+2015-10-20 09:01:09 : Collecting Resources
+2015-10-20 09:01:15 : Checking Army Camp...
+2015-10-20 09:01:17 : Total Army Camp capacity: 76/220
+2015-10-20 09:01:18 :  - No. of Giants: 12
+2015-10-20 09:01:18 :  - No. of Wizards: 4
+2015-10-20 09:01:18 : Training Troops...
+2015-10-20 09:01:36 : Spell Factory Full
+2015-10-20 09:01:38 : Time Idle: 00:14:52
+2015-10-20 09:01:39 : ====== Waiting for full army ======
+2015-10-20 09:01:51 : Checking Army Camp...
+2015-10-20 09:01:53 : Total Army Camp capacity: 76/220
+2015-10-20 09:01:53 :  - No. of Giants: 12
+2015-10-20 09:01:53 :  - No. of Wizards: 4
+2015-10-20 09:01:54 : Training Troops...
+2015-10-20 09:02:11 : Spell Factory Full
+2015-10-20 09:02:14 : Time Idle: 00:15:27
+2015-10-20 09:02:14 : ====== Waiting for full army ======
+2015-10-20 09:02:26 : Checking Army Camp...
+2015-10-20 09:02:28 : Total Army Camp capacity: 84/220
+2015-10-20 09:02:29 :  - No. of Giants: 12
+2015-10-20 09:02:29 :  - No. of Wizards: 6
+2015-10-20 09:02:29 : Training Troops...
+2015-10-20 09:02:47 : Spell Factory Full
+2015-10-20 09:02:49 : Time Idle: 00:16:02
+2015-10-20 09:02:49 : ====== Waiting for full army ======
+2015-10-20 09:03:02 : Checking Army Camp...
+2015-10-20 09:03:03 : Total Army Camp capacity: 92/220
+2015-10-20 09:03:04 :  - No. of Giants: 12
+2015-10-20 09:03:04 :  - No. of Wizards: 8
+2015-10-20 09:03:05 : Training Troops...
+2015-10-20 09:03:22 : Spell Factory Full
+2015-10-20 09:03:25 : Time Idle: 00:16:38
+2015-10-20 09:03:25 : ====== Waiting for full army ======
+2015-10-20 09:03:37 : Checking Army Camp...
+2015-10-20 09:03:39 : Total Army Camp capacity: 92/220
+2015-10-20 09:03:40 :  - No. of Giants: 12
+2015-10-20 09:03:40 :  - No. of Wizards: 8
+2015-10-20 09:03:40 : Training Troops...
+2015-10-20 09:03:58 : Spell Factory Full
+2015-10-20 09:04:00 : Time Idle: 00:17:13
+2015-10-20 09:04:00 : ====== Waiting for full army ======
+2015-10-20 09:04:13 : Checking Army Camp...
+2015-10-20 09:04:14 : Total Army Camp capacity: 92/220
+2015-10-20 09:04:15 :  - No. of Giants: 12
+2015-10-20 09:04:15 :  - No. of Wizards: 8
+2015-10-20 09:04:15 : Training Troops...
+2015-10-20 09:04:33 : Spell Factory Full
+2015-10-20 09:04:36 : Time Idle: 00:17:48
+2015-10-20 09:04:36 : ====== Waiting for full army ======
+2015-10-20 09:04:48 : Checking Army Camp...
+2015-10-20 09:04:50 : Total Army Camp capacity: 92/220
+2015-10-20 09:04:51 :  - No. of Giants: 12
+2015-10-20 09:04:51 :  - No. of Wizards: 8
+2015-10-20 09:04:51 : Training Troops...
+2015-10-20 09:05:09 : Spell Factory Full
+2015-10-20 09:05:11 : Time Idle: 00:18:23
+2015-10-20 09:05:11 : ====== Waiting for full army ======
+2015-10-20 09:05:23 : Checking Army Camp...
+2015-10-20 09:05:25 : Total Army Camp capacity: 92/220
+2015-10-20 09:05:26 :  - No. of Giants: 12
+2015-10-20 09:05:26 :  - No. of Wizards: 8
+2015-10-20 09:05:26 : Training Troops...
+2015-10-20 09:05:49 : Spell Factory Full
+2015-10-20 09:05:49 : Created 1 Spell(s)
+2015-10-20 09:05:51 : Time Idle: 00:19:03
+2015-10-20 09:05:52 : ====== Waiting for full army ======
+2015-10-20 09:06:04 : Checking Army Camp...
+2015-10-20 09:06:05 : Total Army Camp capacity: 92/220
+2015-10-20 09:06:06 :  - No. of Giants: 12
+2015-10-20 09:06:06 :  - No. of Wizards: 8
+2015-10-20 09:06:07 : Training Troops...
+2015-10-20 09:06:24 : Spell Factory Full
+2015-10-20 09:06:27 : Time Idle: 00:19:38
+2015-10-20 09:06:27 : ====== Waiting for full army ======
+2015-10-20 09:06:39 : Checking Army Camp...
+2015-10-20 09:06:41 : Total Army Camp capacity: 92/220
+2015-10-20 09:06:42 :  - No. of Giants: 12
+2015-10-20 09:06:42 :  - No. of Wizards: 8
+2015-10-20 09:06:42 : Training Troops...
+2015-10-20 09:07:00 : Spell Factory Full
+2015-10-20 09:07:02 : Time Idle: 00:20:14
+2015-10-20 09:07:02 : ====== Waiting for full army ======
+2015-10-20 09:07:14 : Checking Army Camp...
+2015-10-20 09:07:16 : Total Army Camp capacity: 92/220
+2015-10-20 09:07:17 :  - No. of Giants: 12
+2015-10-20 09:07:17 :  - No. of Wizards: 8
+2015-10-20 09:07:17 : Training Troops...
+2015-10-20 09:07:35 : Spell Factory Full
+2015-10-20 09:07:38 : Time Idle: 00:20:49
+2015-10-20 09:07:38 : ====== Waiting for full army ======
+2015-10-20 09:07:50 : Collecting Resources
+2015-10-20 09:07:56 : Checking Army Camp...
+2015-10-20 09:07:58 : Total Army Camp capacity: 92/220
+2015-10-20 09:07:59 :  - No. of Giants: 12
+2015-10-20 09:07:59 :  - No. of Wizards: 8
+2015-10-20 09:07:59 : Training Troops...
+2015-10-20 09:08:16 : Spell Factory Full
+2015-10-20 09:08:19 : Time Idle: 00:21:30
+2015-10-20 09:08:19 : ====== Waiting for full army ======
+2015-10-20 09:08:31 : Checking Army Camp...
+2015-10-20 09:08:33 : Total Army Camp capacity: 92/220
+2015-10-20 09:08:34 :  - No. of Giants: 12
+2015-10-20 09:08:34 :  - No. of Wizards: 8
+2015-10-20 09:08:34 : Training Troops...
+2015-10-20 09:08:52 : Spell Factory Full
+2015-10-20 09:08:54 : Time Idle: 00:22:05
+2015-10-20 09:08:54 : ====== Waiting for full army ======
+2015-10-20 09:09:07 : Checking Army Camp...
+2015-10-20 09:09:08 : Total Army Camp capacity: 92/220
+2015-10-20 09:09:09 :  - No. of Giants: 12
+2015-10-20 09:09:09 :  - No. of Wizards: 8
+2015-10-20 09:09:09 : Training Troops...
+2015-10-20 09:09:27 : Spell Factory Full
+2015-10-20 09:09:30 : Time Idle: 00:22:40
+2015-10-20 09:09:30 : ====== Waiting for full army ======
+2015-10-20 09:09:42 : Checking Army Camp...
+2015-10-20 09:09:44 : Total Army Camp capacity: 92/220
+2015-10-20 09:09:45 :  - No. of Giants: 12
+2015-10-20 09:09:45 :  - No. of Wizards: 8
+2015-10-20 09:09:45 : Training Troops...
+2015-10-20 09:10:02 : Spell Factory Full
+2015-10-20 09:10:05 : Time Idle: 00:23:16
+2015-10-20 09:10:05 : ====== Waiting for full army ======
+2015-10-20 09:10:17 : Checking Army Camp...
+2015-10-20 09:10:19 : Total Army Camp capacity: 92/220
+2015-10-20 09:10:20 :  - No. of Giants: 12
+2015-10-20 09:10:20 :  - No. of Wizards: 8
+2015-10-20 09:10:20 : Training Troops...
+2015-10-20 09:10:38 : Spell Factory Full
+2015-10-20 09:10:40 : Time Idle: 00:23:51
+2015-10-20 09:10:41 : ====== Waiting for full army ======
+2015-10-20 09:10:53 : Checking Army Camp...
+2015-10-20 09:10:55 : Total Army Camp capacity: 108/220
+2015-10-20 09:10:55 :  - No. of Giants: 12
+2015-10-20 09:10:56 :  - No. of Wizards: 12
+2015-10-20 09:10:56 : Training Troops...
+2015-10-20 09:11:13 : Spell Factory Full
+2015-10-20 09:11:16 : Time Idle: 00:24:26
+2015-10-20 09:11:16 : ====== Waiting for full army ======
+2015-10-20 09:11:28 : Checking Army Camp...
+2015-10-20 09:11:30 : Total Army Camp capacity: 108/220
+2015-10-20 09:11:31 :  - No. of Giants: 12
+2015-10-20 09:11:31 :  - No. of Wizards: 12
+2015-10-20 09:11:31 : Training Troops...
+2015-10-20 09:11:49 : Spell Factory Full
+2015-10-20 09:11:51 : Time Idle: 00:25:01
+2015-10-20 09:11:52 : ====== Waiting for full army ======
+2015-10-20 09:11:53 : ClashGameBot was Paused!
+2015-10-20 09:13:44 : ClashGameBot was Resumed.
+2015-10-20 09:13:55 : Checking Army Camp...
+2015-10-20 09:13:57 : Total Army Camp capacity: 108/220
+2015-10-20 09:13:58 :  - No. of Giants: 12
+2015-10-20 09:13:58 :  - No. of Wizards: 12
+2015-10-20 09:13:58 : Training Troops...
+2015-10-20 09:14:16 : Spell Factory Full
+2015-10-20 09:14:18 : Time Idle: 00:27:28
+2015-10-20 09:14:18 : ====== Waiting for full army ======
+2015-10-20 09:14:31 : Checking Army Camp...
+2015-10-20 09:14:32 : Total Army Camp capacity: 108/220
+2015-10-20 09:14:33 :  - No. of Giants: 12
+2015-10-20 09:14:33 :  - No. of Wizards: 12
+2015-10-20 09:14:34 : Training Troops...
+2015-10-20 09:14:51 : Spell Factory Full
+2015-10-20 09:14:54 : Time Idle: 00:28:03
+2015-10-20 09:14:54 : ====== Waiting for full army ======
+2015-10-20 09:15:06 : Checking Army Camp...
+2015-10-20 09:15:08 : Total Army Camp capacity: 108/220
+2015-10-20 09:15:09 :  - No. of Giants: 12
+2015-10-20 09:15:09 :  - No. of Wizards: 12
+2015-10-20 09:15:09 : Training Troops...
+2015-10-20 09:15:27 : Spell Factory Full
+2015-10-20 09:15:29 : Time Idle: 00:28:38
+2015-10-20 09:15:29 : ====== Waiting for full army ======
+2015-10-20 09:15:42 : Checking Army Camp...
+2015-10-20 09:15:43 : Total Army Camp capacity: 108/220
+2015-10-20 09:15:44 :  - No. of Giants: 12
+2015-10-20 09:15:44 :  - No. of Wizards: 12
+2015-10-20 09:15:45 : Training Troops...
+2015-10-20 09:16:02 : Spell Factory Full
+2015-10-20 09:16:05 : Time Idle: 00:29:13
+2015-10-20 09:16:05 : ====== Waiting for full army ======
+2015-10-20 09:16:17 : Collecting Resources
+2015-10-20 09:16:23 : Checking Army Camp...
+2015-10-20 09:16:25 : Total Army Camp capacity: 108/220
+2015-10-20 09:16:25 :  - No. of Giants: 12
+2015-10-20 09:16:26 :  - No. of Wizards: 12
+2015-10-20 09:16:26 : Training Troops...
+2015-10-20 09:16:43 : Spell Factory Full
+2015-10-20 09:16:46 : Time Idle: 00:29:54
+2015-10-20 09:16:46 : ====== Waiting for full army ======
+2015-10-20 09:16:58 : Checking Army Camp...
+2015-10-20 09:17:00 : Total Army Camp capacity: 108/220
+2015-10-20 09:17:01 :  - No. of Giants: 12
+2015-10-20 09:17:01 :  - No. of Wizards: 12
+2015-10-20 09:17:01 : Training Troops...
+2015-10-20 09:17:18 : Spell Factory Full
+2015-10-20 09:17:21 : Time Idle: 00:30:29
+2015-10-20 09:17:21 : ====== Waiting for full army ======
+2015-10-20 09:17:33 : Checking Army Camp...
+2015-10-20 09:17:35 : Total Army Camp capacity: 108/220
+2015-10-20 09:17:36 :  - No. of Giants: 12
+2015-10-20 09:17:36 :  - No. of Wizards: 12
+2015-10-20 09:17:36 : Training Troops...
+2015-10-20 09:17:54 : Spell Factory Full
+2015-10-20 09:17:56 : Time Idle: 00:31:04
+2015-10-20 09:17:57 : ====== Waiting for full army ======
+2015-10-20 09:18:09 : Checking Army Camp...
+2015-10-20 09:18:11 : Total Army Camp capacity: 108/220
+2015-10-20 09:18:11 :  - No. of Giants: 12
+2015-10-20 09:18:11 :  - No. of Wizards: 12
+2015-10-20 09:18:12 : Training Troops...
+2015-10-20 09:18:29 : Spell Factory Full
+2015-10-20 09:18:32 : Time Idle: 00:31:40
+2015-10-20 09:18:32 : ====== Waiting for full army ======
+2015-10-20 09:18:44 : Checking Army Camp...
+2015-10-20 09:18:46 : Total Army Camp capacity: 124/220
+2015-10-20 09:18:47 :  - No. of Giants: 12
+2015-10-20 09:18:47 :  - No. of Wizards: 16
+2015-10-20 09:18:47 : Training Troops...
+2015-10-20 09:19:05 : Spell Factory Full
+2015-10-20 09:19:07 : Time Idle: 00:32:15
+2015-10-20 09:19:08 : ====== Waiting for full army ======
+2015-10-20 09:19:20 : Checking Army Camp...
+2015-10-20 09:19:22 : Total Army Camp capacity: 124/220
+2015-10-20 09:19:22 :  - No. of Giants: 12
+2015-10-20 09:19:22 :  - No. of Wizards: 16
+2015-10-20 09:19:23 : Training Troops...
+2015-10-20 09:19:40 : Spell Factory Full
+2015-10-20 09:19:43 : Time Idle: 00:32:50
+2015-10-20 09:19:43 : ====== Waiting for full army ======
+2015-10-20 09:19:55 : Checking Army Camp...
+2015-10-20 09:19:57 : Total Army Camp capacity: 124/220
+2015-10-20 09:19:58 :  - No. of Giants: 12
+2015-10-20 09:19:58 :  - No. of Wizards: 16
+2015-10-20 09:19:58 : Training Troops...
+2015-10-20 09:20:16 : Spell Factory Full
+2015-10-20 09:20:18 : Time Idle: 00:33:25
+2015-10-20 09:20:18 : ====== Waiting for full army ======
+2015-10-20 09:20:31 : Checking Army Camp...
+2015-10-20 09:20:33 : Total Army Camp capacity: 124/220
+2015-10-20 09:20:33 :  - No. of Giants: 12
+2015-10-20 09:20:33 :  - No. of Wizards: 16
+2015-10-20 09:20:34 : Training Troops...
+2015-10-20 09:20:51 : Spell Factory Full
+2015-10-20 09:20:54 : Time Idle: 00:34:01
+2015-10-20 09:20:54 : ====== Waiting for full army ======
+2015-10-20 09:21:06 : Checking Army Camp...
+2015-10-20 09:21:08 : Total Army Camp capacity: 124/220
+2015-10-20 09:21:09 :  - No. of Giants: 12
+2015-10-20 09:21:09 :  - No. of Wizards: 16
+2015-10-20 09:21:09 : Training Troops...
+2015-10-20 09:21:26 : Spell Factory Full
+2015-10-20 09:21:29 : Time Idle: 00:34:36
+2015-10-20 09:21:29 : ====== Waiting for full army ======
+2015-10-20 09:21:41 : Checking Army Camp...
+2015-10-20 09:21:43 : Total Army Camp capacity: 124/220
+2015-10-20 09:21:44 :  - No. of Giants: 12
+2015-10-20 09:21:44 :  - No. of Wizards: 16
+2015-10-20 09:21:44 : Training Troops...
+2015-10-20 09:22:02 : Spell Factory Full
+2015-10-20 09:22:05 : Time Idle: 00:35:11
+2015-10-20 09:22:05 : ====== Waiting for full army ======
+2015-10-20 09:22:17 : Checking Army Camp...
+2015-10-20 09:22:19 : Total Army Camp capacity: 124/220
+2015-10-20 09:22:20 :  - No. of Giants: 12
+2015-10-20 09:22:20 :  - No. of Wizards: 16
+2015-10-20 09:22:20 : Training Troops...
+2015-10-20 09:22:37 : Spell Factory Full
+2015-10-20 09:22:40 : Time Idle: 00:35:46
+2015-10-20 09:22:40 : ====== Waiting for full army ======
+2015-10-20 09:22:52 : Collecting Resources
+2015-10-20 09:22:58 : Checking Army Camp...
+2015-10-20 09:23:00 : Total Army Camp capacity: 124/220
+2015-10-20 09:23:01 :  - No. of Giants: 12
+2015-10-20 09:23:01 :  - No. of Wizards: 16
+2015-10-20 09:23:01 : Training Troops...
+2015-10-20 09:23:19 : Spell Factory Full
+2015-10-20 09:23:21 : Time Idle: 00:36:27
+2015-10-20 09:23:22 : ====== Waiting for full army ======
+2015-10-20 09:23:34 : Checking Army Camp...
+2015-10-20 09:23:36 : Total Army Camp capacity: 124/220
+2015-10-20 09:23:36 :  - No. of Giants: 12
+2015-10-20 09:23:36 :  - No. of Wizards: 16
+2015-10-20 09:23:37 : Training Troops...
+2015-10-20 09:23:54 : Spell Factory Full
+2015-10-20 09:23:57 : Time Idle: 00:37:03
+2015-10-20 09:23:57 : ====== Waiting for full army ======
+2015-10-20 09:24:09 : Checking Army Camp...
+2015-10-20 09:24:11 : Total Army Camp capacity: 124/220
+2015-10-20 09:24:12 :  - No. of Giants: 12
+2015-10-20 09:24:12 :  - No. of Wizards: 16
+2015-10-20 09:24:12 : Training Troops...
+2015-10-20 09:24:30 : Spell Factory Full
+2015-10-20 09:24:32 : Time Idle: 00:37:38
+2015-10-20 09:24:33 : ====== Waiting for full army ======
+2015-10-20 09:24:45 : Checking Army Camp...
+2015-10-20 09:24:47 : Total Army Camp capacity: 124/220
+2015-10-20 09:24:47 :  - No. of Giants: 12
+2015-10-20 09:24:47 :  - No. of Wizards: 16
+2015-10-20 09:24:48 : Training Troops...
+2015-10-20 09:25:05 : Spell Factory Full
+2015-10-20 09:25:08 : Time Idle: 00:38:13
+2015-10-20 09:25:08 : ====== Waiting for full army ======
+2015-10-20 09:25:20 : Checking Army Camp...
+2015-10-20 09:25:22 : Total Army Camp capacity: 124/220
+2015-10-20 09:25:23 :  - No. of Giants: 12
+2015-10-20 09:25:23 :  - No. of Wizards: 16
+2015-10-20 09:25:23 : Training Troops...
+2015-10-20 09:25:41 : Spell Factory Full
+2015-10-20 09:25:43 : Time Idle: 00:38:48
+2015-10-20 09:25:43 : ====== Waiting for full army ======
+2015-10-20 09:25:56 : Checking Army Camp...
+2015-10-20 09:25:57 : Total Army Camp capacity: 124/220
+2015-10-20 09:25:58 :  - No. of Giants: 12
+2015-10-20 09:25:58 :  - No. of Wizards: 16
+2015-10-20 09:25:59 : Training Troops...
+2015-10-20 09:26:16 : Spell Factory Full
+2015-10-20 09:26:19 : Time Idle: 00:39:24
+2015-10-20 09:26:19 : ====== Waiting for full army ======
+2015-10-20 09:26:31 : Checking Army Camp...
+2015-10-20 09:26:33 : Total Army Camp capacity: 136/220
+2015-10-20 09:26:34 :  - No. of Giants: 12
+2015-10-20 09:26:34 :  - No. of Wizards: 19
+2015-10-20 09:26:34 : Training Troops...
+2015-10-20 09:26:52 : Spell Factory Full
+2015-10-20 09:26:54 : Time Idle: 00:39:59
+2015-10-20 09:26:54 : ====== Waiting for full army ======
+2015-10-20 09:27:06 : Checking Army Camp...
+2015-10-20 09:27:08 : Total Army Camp capacity: 140/220
+2015-10-20 09:27:09 :  - No. of Giants: 12
+2015-10-20 09:27:09 :  - No. of Wizards: 20
+2015-10-20 09:27:09 : Training Troops...
+2015-10-20 09:27:27 : Spell Factory Full
+2015-10-20 09:27:29 : Time Idle: 00:40:34
+2015-10-20 09:27:30 : ====== Waiting for full army ======
+2015-10-20 09:27:42 : Checking Army Camp...
+2015-10-20 09:27:44 : Total Army Camp capacity: 140/220
+2015-10-20 09:27:44 :  - No. of Giants: 12
+2015-10-20 09:27:45 :  - No. of Wizards: 20
+2015-10-20 09:27:45 : Training Troops...
+2015-10-20 09:28:02 : Spell Factory Full
+2015-10-20 09:28:05 : Time Idle: 00:41:09
+2015-10-20 09:28:05 : ====== Waiting for full army ======
+2015-10-20 09:28:17 : Checking Army Camp...
+2015-10-20 09:28:19 : Total Army Camp capacity: 140/220
+2015-10-20 09:28:20 :  - No. of Giants: 12
+2015-10-20 09:28:20 :  - No. of Wizards: 20
+2015-10-20 09:28:20 : Training Troops...
+2015-10-20 09:28:38 : Spell Factory Full
+2015-10-20 09:28:40 : Time Idle: 00:41:44
+2015-10-20 09:28:40 : ====== Waiting for full army ======
+2015-10-20 09:28:53 : Checking Army Camp...
+2015-10-20 09:28:54 : Total Army Camp capacity: 140/220
+2015-10-20 09:28:55 :  - No. of Giants: 12
+2015-10-20 09:28:55 :  - No. of Wizards: 20
+2015-10-20 09:28:56 : Training Troops...
+2015-10-20 09:29:13 : Spell Factory Full
+2015-10-20 09:29:16 : Time Idle: 00:42:19
+2015-10-20 09:29:16 : ====== Waiting for full army ======
+2015-10-20 09:29:28 : Collecting Resources
+2015-10-20 09:29:34 : Checking Army Camp...
+2015-10-20 09:29:36 : Total Army Camp capacity: 140/220
+2015-10-20 09:29:36 :  - No. of Giants: 12
+2015-10-20 09:29:37 :  - No. of Wizards: 20
+2015-10-20 09:29:37 : Training Troops...
+2015-10-20 09:29:55 : Spell Factory Full
+2015-10-20 09:29:57 : Time Idle: 00:43:01
+2015-10-20 09:29:57 : ====== Waiting for full army ======
+2015-10-20 09:30:09 : Checking Army Camp...
+2015-10-20 09:30:11 : Total Army Camp capacity: 140/220
+2015-10-20 09:30:12 :  - No. of Giants: 12
+2015-10-20 09:30:12 :  - No. of Wizards: 20
+2015-10-20 09:30:12 : Training Troops...
+2015-10-20 09:30:30 : Spell Factory Full
+2015-10-20 09:30:33 : Time Idle: 00:43:36
+2015-10-20 09:30:33 : ====== Waiting for full army ======
+2015-10-20 09:30:45 : Checking Army Camp...
+2015-10-20 09:30:47 : Total Army Camp capacity: 140/220
+2015-10-20 09:30:48 :  - No. of Giants: 12
+2015-10-20 09:30:48 :  - No. of Wizards: 20
+2015-10-20 09:30:48 : Training Troops...
+2015-10-20 09:31:06 : Spell Factory Full
+2015-10-20 09:31:08 : Time Idle: 00:44:11
+2015-10-20 09:31:08 : ====== Waiting for full army ======
+2015-10-20 09:31:20 : Checking Army Camp...
+2015-10-20 09:31:22 : Total Army Camp capacity: 140/220
+2015-10-20 09:31:23 :  - No. of Giants: 12
+2015-10-20 09:31:23 :  - No. of Wizards: 20
+2015-10-20 09:31:23 : Training Troops...
+2015-10-20 09:31:41 : Spell Factory Full
+2015-10-20 09:31:44 : Time Idle: 00:44:46
+2015-10-20 09:31:44 : ====== Waiting for full army ======
+2015-10-20 09:31:56 : Checking Army Camp...
+2015-10-20 09:31:58 : Total Army Camp capacity: 140/220
+2015-10-20 09:31:59 :  - No. of Giants: 12
+2015-10-20 09:31:59 :  - No. of Wizards: 20
+2015-10-20 09:31:59 : Training Troops...
+2015-10-20 09:32:17 : Spell Factory Full
+2015-10-20 09:32:19 : Time Idle: 00:45:22
+2015-10-20 09:32:19 : ====== Waiting for full army ======
+2015-10-20 09:32:31 : Checking Army Camp...
+2015-10-20 09:32:33 : Total Army Camp capacity: 140/220
+2015-10-20 09:32:34 :  - No. of Giants: 12
+2015-10-20 09:32:34 :  - No. of Wizards: 20
+2015-10-20 09:32:34 : Training Troops...
+2015-10-20 09:32:52 : Spell Factory Full
+2015-10-20 09:32:55 : Time Idle: 00:45:57
+2015-10-20 09:32:55 : ====== Waiting for full army ======
+2015-10-20 09:33:07 : Checking Army Camp...
+2015-10-20 09:33:09 : Total Army Camp capacity: 140/220
+2015-10-20 09:33:10 :  - No. of Giants: 12
+2015-10-20 09:33:10 :  - No. of Wizards: 20
+2015-10-20 09:33:10 : Training Troops...
+2015-10-20 09:33:28 : Spell Factory Full
+2015-10-20 09:33:30 : Time Idle: 00:46:32
+2015-10-20 09:33:30 : ====== Waiting for full army ======
+2015-10-20 09:33:42 : Checking Army Camp...
+2015-10-20 09:33:44 : Total Army Camp capacity: 140/220
+2015-10-20 09:33:45 :  - No. of Giants: 12
+2015-10-20 09:33:45 :  - No. of Wizards: 20
+2015-10-20 09:33:45 : Training Troops...
+2015-10-20 09:34:03 : Spell Factory Full
+2015-10-20 09:34:05 : Time Idle: 00:47:07
+2015-10-20 09:34:05 : ====== Waiting for full army ======
+2015-10-20 09:34:18 : Checking Army Camp...
+2015-10-20 09:34:19 : Total Army Camp capacity: 140/220
+2015-10-20 09:34:20 :  - No. of Giants: 12
+2015-10-20 09:34:20 :  - No. of Wizards: 20
+2015-10-20 09:34:21 : Training Troops...
+2015-10-20 09:34:38 : Spell Factory Full
+2015-10-20 09:34:41 : Time Idle: 00:47:43
+2015-10-20 09:34:41 : ====== Waiting for full army ======
+2015-10-20 09:34:53 : Checking Army Camp...
+2015-10-20 09:34:55 : Total Army Camp capacity: 156/220
+2015-10-20 09:34:56 :  - No. of Giants: 12
+2015-10-20 09:34:56 :  - No. of Wizards: 24
+2015-10-20 09:34:56 : Training Troops...
+2015-10-20 09:35:15 : Spell Factory Full
+2015-10-20 09:35:17 : Time Idle: 00:48:19
+2015-10-20 09:35:18 : ====== Waiting for full army ======
+2015-10-20 09:35:30 : Checking Army Camp...
+2015-10-20 09:35:32 : Total Army Camp capacity: 156/220
+2015-10-20 09:35:32 :  - No. of Giants: 12
+2015-10-20 09:35:32 :  - No. of Wizards: 24
+2015-10-20 09:35:33 : Training Troops...
+2015-10-20 09:35:56 : Spell Factory Full
+2015-10-20 09:35:56 : Created 1 Spell(s)
+2015-10-20 09:35:58 : Time Idle: 00:48:59
+2015-10-20 09:35:59 : ====== Waiting for full army ======
+2015-10-20 09:36:10 : Collecting Resources
+2015-10-20 09:36:16 : Checking Army Camp...
+2015-10-20 09:36:18 : Total Army Camp capacity: 156/220
+2015-10-20 09:36:19 :  - No. of Giants: 12
+2015-10-20 09:36:19 :  - No. of Wizards: 24
+2015-10-20 09:36:19 : Training Troops...
+2015-10-20 09:36:38 : Spell Factory Full
+2015-10-20 09:36:41 : Time Idle: 00:49:42
+2015-10-20 09:36:41 : ====== Waiting for full army ======
+2015-10-20 09:36:53 : Checking Army Camp...
+2015-10-20 09:36:55 : Total Army Camp capacity: 176/220
+2015-10-20 09:36:56 :  - No. of Giants: 16
+2015-10-20 09:36:56 :  - No. of Wizards: 24
+2015-10-20 09:36:56 : Training Troops...
+2015-10-20 09:37:15 : Spell Factory Full
+2015-10-20 09:37:17 : Time Idle: 00:50:18
+2015-10-20 09:37:17 : ====== Waiting for full army ======
+2015-10-20 09:37:29 : Checking Army Camp...
+2015-10-20 09:37:31 : Total Army Camp capacity: 176/220
+2015-10-20 09:37:32 :  - No. of Giants: 16
+2015-10-20 09:37:32 :  - No. of Wizards: 24
+2015-10-20 09:37:32 : Training Troops...
+2015-10-20 09:37:51 : Spell Factory Full
+2015-10-20 09:37:53 : Time Idle: 00:50:54
+2015-10-20 09:37:54 : ====== Waiting for full army ======
+2015-10-20 09:38:06 : Checking Army Camp...
+2015-10-20 09:38:08 : Total Army Camp capacity: 176/220
+2015-10-20 09:38:08 :  - No. of Giants: 16
+2015-10-20 09:38:09 :  - No. of Wizards: 24
+2015-10-20 09:38:09 : Training Troops...
+2015-10-20 09:38:27 : Spell Factory Full
+2015-10-20 09:38:30 : Time Idle: 00:51:30
+2015-10-20 09:38:30 : ====== Waiting for full army ======
+2015-10-20 09:38:42 : Checking Army Camp...
+2015-10-20 09:38:44 : Total Army Camp capacity: 196/220
+2015-10-20 09:38:45 :  - No. of Giants: 20
+2015-10-20 09:38:45 :  - No. of Wizards: 24
+2015-10-20 09:38:45 : Training Troops...
+2015-10-20 09:39:05 : Spell Factory Full
+2015-10-20 09:39:07 : Time Idle: 00:52:07
+2015-10-20 09:39:08 : ====== Waiting for full army ======
+2015-10-20 09:39:20 : Checking Army Camp...
+2015-10-20 09:39:21 : Total Army Camp capacity: 196/220
+2015-10-20 09:39:22 :  - No. of Giants: 20
+2015-10-20 09:39:22 :  - No. of Wizards: 24
+2015-10-20 09:39:23 : Training Troops...
+2015-10-20 09:39:42 : Spell Factory Full
+2015-10-20 09:39:45 : Time Idle: 00:52:44
+2015-10-20 09:39:45 : ====== Waiting for full army ======
+2015-10-20 09:39:57 : Checking Army Camp...
+2015-10-20 09:39:59 : Total Army Camp capacity: 196/220
+2015-10-20 09:40:00 :  - No. of Giants: 20
+2015-10-20 09:40:00 :  - No. of Wizards: 24
+2015-10-20 09:40:00 : Training Troops...
+2015-10-20 09:40:20 : Spell Factory Full
+2015-10-20 09:40:22 : Time Idle: 00:53:22
+2015-10-20 09:40:22 : ====== Waiting for full army ======
+2015-10-20 09:40:34 : Checking Army Camp...
+2015-10-20 09:40:36 : Total Army Camp capacity: 204/220
+2015-10-20 09:40:37 :  - No. of Giants: 20
+2015-10-20 09:40:37 :  - No. of Wallbreakers: 4
+2015-10-20 09:40:37 :  - No. of Wizards: 24
+2015-10-20 09:40:38 : Training Troops...
+2015-10-20 09:40:57 : Spell Factory Full
+2015-10-20 09:41:00 : Time Idle: 00:53:59
+2015-10-20 09:41:00 : ====== Waiting for full army ======
+2015-10-20 09:41:12 : Checking Army Camp...
+2015-10-20 09:41:14 : Total Army Camp capacity: 204/220
+2015-10-20 09:41:15 :  - No. of Giants: 20
+2015-10-20 09:41:15 :  - No. of Wallbreakers: 4
+2015-10-20 09:41:15 :  - No. of Wizards: 24
+2015-10-20 09:41:15 : Training Troops...
+2015-10-20 09:41:35 : Spell Factory Full
+2015-10-20 09:41:37 : Time Idle: 00:54:36
+2015-10-20 09:41:37 : ====== Waiting for full army ======
+2015-10-20 09:41:50 : Checking Army Camp...
+2015-10-20 09:41:51 : Total Army Camp capacity: 204/220
+2015-10-20 09:41:52 :  - No. of Giants: 20
+2015-10-20 09:41:52 :  - No. of Wallbreakers: 4
+2015-10-20 09:41:52 :  - No. of Wizards: 24
+2015-10-20 09:41:53 : Training Troops...
+2015-10-20 09:42:12 : Spell Factory Full
+2015-10-20 09:42:15 : Time Idle: 00:55:13
+2015-10-20 09:42:15 : ====== Waiting for full army ======
+2015-10-20 09:42:27 : Checking Army Camp...
+2015-10-20 09:42:29 : Total Army Camp capacity: 208/220
+2015-10-20 09:42:30 :  - No. of Giants: 20
+2015-10-20 09:42:30 :  - No. of Wallbreakers: 6
+2015-10-20 09:42:30 :  - No. of Wizards: 24
+2015-10-20 09:42:30 : Training Troops...
+2015-10-20 09:42:50 : Spell Factory Full
+2015-10-20 09:42:52 : Time Idle: 00:55:51
+2015-10-20 09:42:52 : ====== Waiting for full army ======
+2015-10-20 09:43:04 : Collecting Resources
+2015-10-20 09:43:10 : Checking Army Camp...
+2015-10-20 09:43:12 : Total Army Camp capacity: 212/220
+2015-10-20 09:43:13 :  - No. of Giants: 20
+2015-10-20 09:43:13 :  - No. of Wallbreakers: 8
+2015-10-20 09:43:13 :  - No. of Wizards: 24
+2015-10-20 09:43:13 : Training Troops...
+2015-10-20 09:43:33 : Spell Factory Full
+2015-10-20 09:43:36 : Time Idle: 00:56:34
+2015-10-20 09:43:36 : ====== Waiting for full army ======
+2015-10-20 09:43:48 : Checking Army Camp...
+2015-10-20 09:43:50 : Total Army Camp capacity: 212/220
+2015-10-20 09:43:51 :  - No. of Giants: 20
+2015-10-20 09:43:51 :  - No. of Wallbreakers: 8
+2015-10-20 09:43:51 :  - No. of Wizards: 24
+2015-10-20 09:43:51 : Training Troops...
+2015-10-20 09:44:10 : Spell Factory Full
+2015-10-20 09:44:13 : Time Idle: 00:57:11
+2015-10-20 09:44:13 : ====== Waiting for full army ======
+2015-10-20 09:44:25 : Checking Army Camp...
+2015-10-20 09:44:27 : Total Army Camp capacity: 216/220
+2015-10-20 09:44:28 :  - No. of Giants: 20
+2015-10-20 09:44:28 :  - No. of Wallbreakers: 10
+2015-10-20 09:44:28 :  - No. of Wizards: 24
+2015-10-20 09:44:28 : Training Troops...
+2015-10-20 09:44:50 : Checking Army Camp...
+2015-10-20 09:44:52 : Total Army Camp capacity: 220/220
+2015-10-20 09:44:53 :  - No. of Giants: 20
+2015-10-20 09:44:53 :  - No. of Wallbreakers: 12
+2015-10-20 09:44:53 :  - No. of Wizards: 24
+2015-10-20 09:44:53 : Training Troops...
+2015-10-20 09:44:54 : Your Army Camps are now Full
+2015-10-20 09:45:01 : Elixir Check Fail: Color = E70A12
+2015-10-20 09:45:05 : Not enough Elixir to train troops!
+2015-10-20 09:45:05 : Switching to Halt Attack, Stay Online Mode...
+2015-10-20 09:45:07 : Cannot find train page, return home.
+2015-10-20 09:45:08 : Going to Attack...
+2015-10-20 09:45:13 : ============== Searching For Dead Base ===============
+2015-10-20 09:45:13 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-20 09:45:13 : , Max TH 8
+2015-10-20 09:45:13 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-20 09:45:13 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-20 09:45:13 : ============== Searching For Live Base ===============
+2015-10-20 09:45:13 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-20 09:45:13 : , Max TH 8
+2015-10-20 09:45:13 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-20 09:45:13 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Live Base
+2015-10-20 09:45:13 : ==================================================
+2015-10-20 09:45:29 :   1> [G]: 106681 [E]:  63610 [D]:  502 [T]:28 [TH]: 9, In
+2015-10-20 09:45:32 :   2> [G]: 103345 [E]:  93349 [D]:  525 [T]: 6 [TH]: 9, In
+2015-10-20 09:45:38 :   3> [G]:  72407 [E]:  59468 [D]: 1332 [T]:37 [TH]:10, In
+2015-10-20 09:45:45 :   4> [G]: 113797 [E]: 178417 [D]: 1875 [T]: 7 [TH]:10, In
+2015-10-20 09:45:49 :   5> [G]: 204982 [E]: 114189 [D]:  973 [T]:35 [TH]:10, In
+2015-10-20 09:45:56 :   6> [G]:  49732 [E]: 122176 [D]:  290 [T]: 4 [TH]: 9, In
+2015-10-20 09:45:59 :   7> [G]: 164203 [E]:  67282 [D]:  756 [T]: 6 [TH]: 9, In
+2015-10-20 09:46:08 :   8> [G]:  85768 [E]:  99792 [D]:  341 [T]: 4 [TH]:10, In
+2015-10-20 09:46:11 :   9> [G]:  55970 [E]:  80476 [D]:  411 [T]: 1 [TH]: 8, In
+2015-10-20 09:46:15 :  10> [G]:  30411 [E]:  81749 [D]:  375 [T]: 1 [TH]: 8, In
+2015-10-20 09:46:19 :  11> [G]: 137481 [E]:  26014 [D]:  560 [T]:33 [TH]:10, In
+2015-10-20 09:46:23 :  12> [G]:  58771 [E]:  82307 [D]:  533 [T]: 3 [TH]: 9, In
+2015-10-20 09:46:26 :  13> [G]:  41447 [E]:  97735 [D]:  380 [T]: 2 [TH]:10, In
+2015-10-20 09:46:35 :  14> [G]:  79450 [E]:  91311 [D]: 1763 [T]: 9 [TH]:10, In
+2015-10-20 09:46:39 :  15> [G]:  64066 [E]: 100546 [D]:  557 [T]: 4 [TH]: 9, In
+2015-10-20 09:46:46 :  16> [G]: 242507 [E]:  75761 [D]: 3017 [T]:26 [TH]:10, In
+2015-10-20 09:46:49 :  17> [G]:   1873 [E]:    763 [D]:    5 [T]: 1 [TH]: 8, In
+2015-10-20 09:46:51 :  18> [G]:  54499 [E]: 115870 [D]: 3061 [T]:18 [TH]:10, In
+2015-10-20 09:47:00 :  19> [G]: 117303 [E]:  54001 [D]:  228 [T]: 1 [TH]: 9, In
+2015-10-20 09:47:03 :  20> [G]:  67122 [E]:  79568 [D]:  266 [T]: 5 [TH]: 9, In
+2015-10-20 09:47:10 :  21> [G]:  10343 [E]: 100098 [D]:  905 [T]: 2 [TH]: 9, In
+2015-10-20 09:47:13 :  22> [G]:  28478 [E]:  72209 [D]:  246 [T]: 1 [TH]: 8, In
+2015-10-20 09:47:16 :  23> [G]:  83457 [E]: 101902 [D]:  638 [T]: 1 [TH]: 9, In
+2015-10-20 09:47:23 :  24> [G]:  31322 [E]:  80637 [D]:  412 [T]:35 [TH]:10, In
+2015-10-20 09:47:26 :  25> [G]:  98833 [E]: 101445 [D]:  367 [T]: 1 [TH]:10, In
+2015-10-20 09:47:34 :  26> [G]:  58040 [E]: 206983 [D]:  981 [T]:44 [TH]:10, In
+2015-10-20 09:47:38 :  27> [G]: 157079 [E]:  98903 [D]: 1489 [T]:19 [TH]: 9, In
+2015-10-20 09:47:40 :  28> [G]: 172287 [E]: 147264 [D]: 1532 [T]:16 [TH]: 9, In
+2015-10-20 09:47:49 :  29> [G]:  27144 [E]: 174222 [D]:  857 [T]:25 [TH]:10, In
+2015-10-20 09:47:53 :  30> [G]:  18802 [E]:  11720 [D]:  134 [T]: 1 [TH]: 8, In
+2015-10-20 09:48:00 :  31> [G]:  82193 [E]:  33788 [D]:  714 [T]: 1 [TH]: 8, In
+2015-10-20 09:48:03 :  32> [G]: 333939 [E]: 184925 [D]:  989 [T]: 1 [TH]: 9, In
+2015-10-20 09:48:06 :  33> [G]:  12792 [E]:  86631 [D]: 1174 [T]:20 [TH]:10, In
+2015-10-20 09:48:14 :  34> [G]:  63636 [E]:  76225 [D]:  237 [T]: 1 [TH]: 8, In
+2015-10-20 09:48:18 :  35> [G]: 269648 [E]: 259640 [D]:  416 [T]:46 [TH]:10, In
+2015-10-20 09:48:21 :  36> [G]:  20016 [E]:  98527 [D]:  888 [T]: 3 [TH]: 9, In
+2015-10-20 09:48:29 :  37> [G]:  68150 [E]:  41771 [D]:  352 [T]:10 [TH]: 9, In
+2015-10-20 09:48:32 :  38> [G]:  56662 [E]:  53270 [D]:  168 [T]: 1 [TH]: 9, In
+2015-10-20 09:48:39 :  39> [G]:  31683 [E]: 117564 [D]: 1826 [T]:11 [TH]: 9, In
+2015-10-20 09:48:43 :  40> [G]:  32768 [E]: 239810 [D]: 1682 [T]: 5 [TH]:10, In
+2015-10-20 09:48:49 :  41> [G]:  52080 [E]:   2698 [D]:   68 [T]: 1 [TH]: 8, In
+2015-10-20 09:48:54 :  42> [G]:  77989 [E]:  87666 [D]:  639 [T]: 6 [TH]:10, In
+2015-10-20 09:48:59 :  43> [G]:  51475 [E]:  99978 [D]:  645 [T]:11 [TH]: 9, In
+2015-10-20 09:49:05 :  44> [G]: 530664 [E]: 603853 [D]: 6573 [T]:10 [TH]:10, Out
+2015-10-20 09:49:09 :  45> [G]: 103837 [E]: 167483 [D]: 1794 [T]:48 [TH]:10, In
+2015-10-20 09:49:14 :  46> [G]: 139689 [E]:  70992 [D]:  504 [T]: 5 [TH]:10, In
+2015-10-20 09:49:17 :  47> [G]: 209371 [E]: 239398 [D]: 3009 [T]:34 [TH]:10, In
+2015-10-20 09:49:24 :  48> [G]:  88674 [E]:  80841 [D]:  490 [T]: 2 [TH]: 9, In
+2015-10-20 09:49:31 :  49> [G]: 148294 [E]:  52706 [D]:  233 [T]:13 [TH]: 9, In
+2015-10-20 09:49:33 :  50> [G]:  50888 [E]:  30217 [D]:  366 [T]:39 [TH]:10, In
+2015-10-20 09:49:33 : Aim:           [G+E+D]: 372500 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-20 09:49:33 : Aim:           [G+E+D]: 372500 [T]: 0 [TH]: 8 for: Live Base
+2015-10-20 09:49:46 :  51> [G]:  58965 [E]:  18547 [D]:   98 [T]: 1 [TH]: 8, In
+2015-10-20 09:49:50 :  52> [G]:  95947 [E]:  92599 [D]:  381 [T]: 1 [TH]: 8, In
+2015-10-20 09:49:56 :  53> [G]:  10895 [E]:  23275 [D]:  277 [T]:18 [TH]:10, In
+2015-10-20 09:50:00 :  54> [G]: 188690 [E]: 194548 [D]: 1031 [T]: 1 [TH]: 9, In
+2015-10-20 09:50:03 :  55> [G]:  64642 [E]:  53055 [D]:  346 [T]: 1 [TH]: 9, In
+2015-10-20 09:50:05 :  56> [G]:  11454 [E]:  89000 [D]: 1812 [T]:39 [TH]:10, In
+2015-10-20 09:50:13 :  57> [G]: 100293 [E]: 177351 [D]: 2577 [T]:51 [TH]:10, In
+2015-10-20 09:50:18 :  58> [G]: 211804 [E]: 150993 [D]:  697 [T]:17 [TH]:10, In
+2015-10-20 09:50:22 :  59> [G]:  16119 [E]: 123680 [D]:  989 [T]: 5 [TH]:10, In
+2015-10-20 09:50:28 :  60> [G]:  51096 [E]:  26204 [D]:  840 [T]:46 [TH]:10, In
+2015-10-20 09:50:31 :  61> [G]:  66684 [E]: 126115 [D]:  613 [T]: 2 [TH]: 8, In
+2015-10-20 09:50:34 :  62> [G]:  38308 [E]: 104743 [D]:  774 [T]: 1 [TH]: 9, In
+2015-10-20 09:50:42 :  63> [G]: 112842 [E]: 133544 [D]: 2054 [T]: 2 [TH]: 9, In
+2015-10-20 09:50:46 :  64> [G]:  30438 [E]:  31651 [D]:   90 [T]: 1 [TH]: 9, In
+2015-10-20 09:50:50 :  65> [G]: 434599 [E]: 173903 [D]:   22 [T]: 3 [TH]: 9, In
+2015-10-20 09:50:54 :  66> [G]:  85706 [E]:  77414 [D]:  832 [T]: 1 [TH]: 8, In
+2015-10-20 09:51:01 :  67> [G]:   5333 [E]: 147211 [D]:  338 [T]: 1 [TH]: 8, In
+2015-10-20 09:51:04 :  68> [G]:  45175 [E]:  46400 [D]:  265 [T]: 1 [TH]: 8, In
+2015-10-20 09:51:06 :  69> [G]: 281300 [E]: 117797 [D]:  598 [T]: 2 [TH]:10, In
+2015-10-20 09:51:16 :  70> [G]: 153275 [E]: 335083 [D]: 1782 [T]:12 [TH]:10, In
+2015-10-20 09:51:21 :  71> [G]: 213863 [E]: 111661 [D]:  530 [T]:18 [TH]:10, In
+2015-10-20 09:51:28 :  72> [G]: 148587 [E]:  46370 [D]:  244 [T]: 1 [TH]: 9, In
+2015-10-20 09:51:31 :  73> [G]:  83815 [E]:   4132 [D]:   20 [T]: 5 [TH]: 9, In
+2015-10-20 09:51:40 :  74> [G]: 182852 [E]: 137683 [D]:  835 [T]: 8 [TH]:10, In
+2015-10-20 09:51:43 :  75> [G]:  44476 [E]: 123683 [D]: 1384 [T]:26 [TH]: 9, In
+2015-10-20 09:51:49 :  76> [G]:  73699 [E]: 118810 [D]: 1910 [T]: 5 [TH]:10, In
+2015-10-20 09:51:53 :  77> [G]: 196824 [E]: 175289 [D]: 2154 [T]:20 [TH]: 9, In
+2015-10-20 09:51:58 :  78> [G]: 231303 [E]:  59478 [D]:  999 [T]:52 [TH]:10, In
+2015-10-20 09:52:00 :  79> [G]: 168081 [E]:   3076 [D]: 1042 [T]:49 [TH]:10, In
+2015-10-20 09:52:08 :  80> [G]:  44066 [E]:  37240 [D]: 1957 [T]:47 [TH]:10, In
+2015-10-20 09:52:10 :  81> [G]: 134592 [E]: 141838 [D]: 1827 [T]:53 [TH]:10, In
+2015-10-20 09:52:24 :  82> [G]:  11129 [E]:  88439 [D]:  409 [T]: 1 [TH]: 9, In
+2015-10-20 09:52:29 :  83> [G]:  50644 [E]:  81189 [D]:  271 [T]:40 [TH]:10, In
+2015-10-20 09:52:35 :  84> [G]:  20149 [E]:   7861 [D]: 1372 [T]: 1 [TH]: 8, In
+2015-10-20 09:52:40 :  85> [G]:  24357 [E]:  47788 [D]: 1009 [T]:15 [TH]: 9, In
+2015-10-20 09:52:44 :  86> [G]:  80784 [E]:  99305 [D]:  917 [T]: 9 [TH]: 9, In
+2015-10-20 09:52:49 :  87> [G]: 145606 [E]: 167822 [D]: 1217 [T]:35 [TH]:10, In
+2015-10-20 09:52:51 :  88> [G]:  62209 [E]:  25752 [D]:   49 [T]: 1 [TH]: 9, In
+2015-10-20 09:53:00 :  89> [G]:  65594 [E]:  80110 [D]:  986 [T]:38 [TH]:10, In
+2015-10-20 09:53:05 :  90> [G]:  64307 [E]: 151248 [D]:  569 [T]:23 [TH]:10, In
+2015-10-20 09:53:12 :  91> [G]: 271177 [E]: 231229 [D]: 1891 [T]:31 [TH]:10, In
+2015-10-20 09:53:15 :  92> [G]:  44103 [E]:  98949 [D]: 1388 [T]:25 [TH]: 9, In
+2015-10-20 09:53:22 :  93> [G]: 109854 [E]:  87872 [D]:  245 [T]:24 [TH]:10, In
+2015-10-20 09:53:25 :  94> [G]:  13721 [E]:  98516 [D]:  463 [T]: 1 [TH]: 9, In
+2015-10-20 09:53:31 :  95> [G]:  31500 [E]:  14199 [D]:  169 [T]: 1 [TH]: 9, In
+2015-10-20 09:53:34 :  96> [G]:  97215 [E]: 487218 [D]: 2916 [T]: 9 [TH]: 9, In
+2015-10-20 09:53:42 :  97> [G]:  57614 [E]: 183599 [D]: 2485 [T]: 4 [TH]: 9, In
+2015-10-20 09:53:45 :  98> [G]:  13937 [E]:  52953 [D]:  900 [T]: 1 [TH]: 8, In
+2015-10-20 09:53:48 :  99> [G]:  57595 [E]:  33890 [D]:  181 [T]: 1 [TH]: 9, In
+2015-10-20 09:53:56 : 100> [G]:  82159 [E]:  24340 [D]: 2209 [T]:39 [TH]:10, In
+2015-10-20 09:53:57 : Aim:           [G+E+D]: 320000 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-20 09:53:57 : Aim:           [G+E+D]: 320000 [T]: 0 [TH]: 8 for: Live Base
+2015-10-20 09:54:02 : 101> [G]:  26372 [E]:  45712 [D]: 2113 [T]:55 [TH]:10, In
+2015-10-20 09:54:06 : 102> [G]: 189698 [E]: 183503 [D]: 2191 [T]:49 [TH]:10, In
+2015-10-20 09:54:11 : 103> [G]: 139484 [E]: 131256 [D]:  631 [T]:41 [TH]:10, In
+2015-10-20 09:54:16 : 104> [G]: 162552 [E]: 124958 [D]: 1627 [T]:44 [TH]:10, In
+2015-10-20 09:54:18 : 105> [G]: 141487 [E]: 277857 [D]: 1215 [T]:14 [TH]:10, In
+2015-10-20 09:54:24 : 106> [G]:  45203 [E]:  78961 [D]:  555 [T]: 3 [TH]: 9, In
+2015-10-20 09:54:27 : 107> [G]:  77407 [E]:  72529 [D]:  272 [T]: 7 [TH]: 9, In
+2015-10-20 09:54:34 : 108> [G]:  32818 [E]:   5792 [D]: 1747 [T]:52 [TH]:10, In
+2015-10-20 09:54:37 : 109> [G]:   5941 [E]:  92730 [D]:  563 [T]: 7 [TH]: 9, In
+2015-10-20 09:54:41 : 110> [G]:  13337 [E]:  29271 [D]:  177 [T]:21 [TH]:10, In
+2015-10-20 09:54:46 : 111> [G]: 121142 [E]:  57599 [D]:  779 [T]: 8 [TH]: 9, In
+2015-10-20 09:54:49 : 112> [G]:  65308 [E]:  39133 [D]:  854 [T]: 1 [TH]: 8, In
+2015-10-20 09:54:52 : 113> [G]:  39426 [E]:  10120 [D]: 1247 [T]: 7 [TH]: 9, In
+2015-10-20 09:54:59 : 114> [G]:  93478 [E]:  11750 [D]:  148 [T]: 2 [TH]: 9, In
+2015-10-20 09:55:02 : 115> [G]:  14822 [E]:   4422 [D]:    3 [T]: 5 [TH]: 9, In
+2015-10-20 09:55:09 : 116> [G]:  59900 [E]: 202348 [D]: 1290 [T]:10 [TH]: 9, In
+2015-10-20 09:55:13 : 117> [G]:  29736 [E]:  60514 [D]: 1583 [T]:50 [TH]:10, In
+2015-10-20 09:55:16 : 118> [G]:  24927 [E]: 121054 [D]:  770 [T]: 1 [TH]: 8, In
+2015-10-20 09:55:22 : 119> [G]:  13489 [E]:  64461 [D]:  155 [T]:22 [TH]:10, In
+2015-10-20 09:55:30 : 120> [G]:  27283 [E]:   3294 [D]: 2474 [T]:38 [TH]:10, In
+2015-10-20 09:55:37 : 121> [G]: 112938 [E]:  94666 [D]:  528 [T]: 7 [TH]: 8, In
+2015-10-20 09:55:41 : 122> [G]:  33903 [E]:  56413 [D]:  553 [T]:17 [TH]:10, In
+2015-10-20 09:55:47 : 123> [G]:  53595 [E]:  63897 [D]:  624 [T]:19 [TH]:10, In
+2015-10-20 09:55:49 : 124> [G]:  38731 [E]:  28808 [D]:  225 [T]: 1 [TH]: 9, In
+2015-10-20 09:55:56 : 125> [G]:  24128 [E]:  28481 [D]:  639 [T]:34 [TH]:10, In
+2015-10-20 09:55:59 : 126> [G]:  10362 [E]:  92797 [D]: 1370 [T]: 9 [TH]: 9, In
+2015-10-20 09:56:06 : 127> [G]:  89851 [E]: 101753 [D]:  924 [T]:11 [TH]: 9, In
+2015-10-20 09:56:10 : 128> [G]:  54780 [E]:  34683 [D]:  724 [T]: 4 [TH]: 8, In
+2015-10-20 09:56:13 : 129> [G]:  26534 [E]:  80512 [D]:  475 [T]: 1 [TH]: 8, In
+2015-10-20 09:56:16 : 130> [G]:  75106 [E]: 133397 [D]:  718 [T]:16 [TH]:10, In
+2015-10-20 09:56:23 : 131> [G]:  23826 [E]:  19845 [D]:  882 [T]:41 [TH]:10, In
+2015-10-20 09:56:26 : 132> [G]:   4500 [E]:   3500 [D]:  345 [T]: 1 [TH]: 9, In
+2015-10-20 09:56:34 : 133> [G]: 191160 [E]: 141047 [D]: 1300 [T]:41 [TH]:10, In
+2015-10-20 09:56:38 : 134> [G]: 129716 [E]: 148245 [D]: 1945 [T]:38 [TH]:10, In
+2015-10-20 09:56:41 : 135> [G]:  26026 [E]:  23181 [D]:  395 [T]: 2 [TH]: 9, In
+2015-10-20 09:56:48 : 136> [G]:  51170 [E]: 110316 [D]:  581 [T]: 4 [TH]: 9, In
+2015-10-20 09:56:52 : 137> [G]:  40363 [E]:  25710 [D]:  105 [T]:16 [TH]: 9, In
+2015-10-20 09:56:58 : 138> [G]:  61925 [E]:  56879 [D]:  819 [T]:43 [TH]:10, In
+2015-10-20 09:57:01 : 139> [G]:  92881 [E]: 117334 [D]:  578 [T]:12 [TH]: 9, In
+2015-10-20 09:57:10 : 140> [G]:  33815 [E]: 139286 [D]:  526 [T]:16 [TH]:10, In
+2015-10-20 09:57:13 : 141> [G]:  80795 [E]:  36795 [D]:  994 [T]:48 [TH]:10, In
+2015-10-20 09:57:21 : 142> [G]: 136672 [E]: 198481 [D]: 3006 [T]:40 [TH]:10, In
+2015-10-20 09:57:26 : 143> [G]:   1982 [E]:  54074 [D]:  803 [T]: 1 [TH]: 8, In
+2015-10-20 09:57:28 : 144> [G]:  44527 [E]:  41943 [D]:  948 [T]: 1 [TH]: 9, In
+2015-10-20 09:57:40 : 145> [G]:  21596 [E]:  79815 [D]:  212 [T]: 5 [TH]: 8, In
+2015-10-20 09:57:43 : 146> [G]: 125591 [E]:  41252 [D]:    8 [T]: 8 [TH]: 9, In
+2015-10-20 09:57:51 : 147> [G]: 137760 [E]: 222244 [D]:  373 [T]:49 [TH]:10, In
+2015-10-20 09:57:57 : 148> [G]:  10114 [E]:  68418 [D]:  136 [T]: 5 [TH]: 9, In
+2015-10-20 09:58:06 : 149> [G]:  95461 [E]:  60379 [D]: 1954 [T]:42 [TH]:10, In
+2015-10-20 09:58:10 : 150> [G]:  50425 [E]:  53838 [D]: 1021 [T]:43 [TH]:10, In
+2015-10-20 09:58:10 : Aim:           [G+E+D]: 267500 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-20 09:58:10 : Aim:           [G+E+D]: 267500 [T]: 0 [TH]: 8 for: Live Base
+2015-10-20 09:58:15 : 151> [G]: 165718 [E]: 191979 [D]:  515 [T]:18 [TH]:10, In
+2015-10-20 09:58:18 : 152> [G]:  43879 [E]:  71183 [D]:  811 [T]:43 [TH]:10, In
+2015-10-20 09:58:23 : 153> [G]:  21261 [E]:  83509 [D]:  169 [T]: 1 [TH]: 8, In
+2015-10-20 09:58:28 : 154> [G]:  49034 [E]: 140589 [D]:  325 [T]: 1 [TH]: 8, In
+2015-10-20 09:58:32 : 155> [G]:  18631 [E]:  63714 [D]: 1037 [T]: 2 [TH]: 9, In
+2015-10-20 09:58:34 : 156> [G]:  25045 [E]:  11745 [D]:  293 [T]:29 [TH]: 9, In
+2015-10-20 09:58:42 : 157> [G]: 109589 [E]:  94261 [D]: 1836 [T]: 2 [TH]: 9, In
+2015-10-20 09:58:44 : 158> [G]: 154251 [E]: 184244 [D]:  524 [T]: 2 [TH]: 9, In
+2015-10-20 09:58:53 : 159> [G]:  26733 [E]: 109451 [D]:  159 [T]:16 [TH]:10, In
+2015-10-20 09:58:59 : 160> [G]:  82381 [E]: 207888 [D]: 1303 [T]:36 [TH]:10, In
+2015-10-20 09:59:02 : 161> [G]:  45013 [E]: 197947 [D]:  907 [T]: 6 [TH]: 9, In
+2015-10-20 09:59:09 : 162> [G]:  42752 [E]:  93698 [D]: 1440 [T]:32 [TH]: 9, In
+2015-10-20 09:59:17 : 163> [G]: 208731 [E]: 165825 [D]: 1688 [T]: 6 [TH]: 9, In
+2015-10-20 09:59:20 : 164> [G]:  87449 [E]: 203108 [D]:  227 [T]:55 [TH]:10, In
+2015-10-20 09:59:26 : 165> [G]:  24703 [E]: 163409 [D]:  434 [T]:20 [TH]: 9, In
+2015-10-20 09:59:31 : 166> [G]: 265526 [E]: 314482 [D]:  855 [T]: 3 [TH]:10, In
+2015-10-20 09:59:35 : 167> [G]:  57846 [E]: 129267 [D]: 1561 [T]:37 [TH]:10, In
+2015-10-20 09:59:38 : 168> [G]:  61299 [E]:  50694 [D]:  755 [T]: 1 [TH]: 8, In
+2015-10-20 09:59:41 : 169> [G]: 126423 [E]: 113038 [D]:  968 [T]: 1 [TH]: 9, In
+2015-10-20 09:59:48 : 170> [G]:  23304 [E]: 144064 [D]: 1051 [T]: 2 [TH]: 9, In
+2015-10-20 09:59:51 : 171> [G]: 108368 [E]:  13468 [D]:  969 [T]:41 [TH]: 9, In
+2015-10-20 09:59:59 : 172> [G]:  85950 [E]: 150440 [D]:  122 [T]:24 [TH]:10, In
+2015-10-20 10:00:04 : 173> [G]:  87216 [E]:  70848 [D]: 1688 [T]:19 [TH]: 9, In
+2015-10-20 10:00:07 : 174> [G]:  86021 [E]:  56720 [D]:  745 [T]: 9 [TH]: 9, In
+2015-10-20 10:00:14 : 175> [G]:  73090 [E]:  10995 [D]:  122 [T]: 6 [TH]: 9, In
+2015-10-20 10:00:18 : 176> [G]:  31654 [E]: 321275 [D]: 1205 [T]:25 [TH]: 9, In
+2015-10-20 10:00:21 : 177> [G]:  60611 [E]: 157196 [D]: 1819 [T]: 9 [TH]: 9, In
+2015-10-20 10:00:29 : 178> [G]:  32585 [E]:  66787 [D]:  812 [T]: 5 [TH]: 9, In
+2015-10-20 10:00:35 : 179> [G]: 167913 [E]: 133149 [D]:  529 [T]: 1 [TH]: 8, In
+2015-10-20 10:00:36 : ~~~~~~~~~~~~~~ DE Side Base Found! ~~~~~~~~~~~~~~~
+2015-10-20 10:00:37 : ================ Search Complete =================
+2015-10-20 10:00:37 : Initiating attack for: Live Base
+2015-10-20 10:00:39 : -Giants 11
+2015-10-20 10:00:39 : -Wall Breakers 12
+2015-10-20 10:00:39 : -Wizards 24
+2015-10-20 10:00:39 : -King 
+2015-10-20 10:00:39 : -Queen 
+2015-10-20 10:00:39 : -Heal Spells 2
+2015-10-20 10:00:39 : -Rage Spells 2
+2015-10-20 10:00:39 : -Poison Spells 1
+2015-10-20 10:00:39 :  ====== Start Attack ====== 
+2015-10-20 10:00:41 : Attacking on Dark Elixir Side.
+2015-10-20 10:00:42 : == DE lixir Storage : [457,339] ==
+2015-10-20 10:00:43 : DE Storage Located Bottom Right... Attacking Bottom Right
+2015-10-20 10:00:44 : Dropping only wave of 11 Giants
+2015-10-20 10:00:46 : Dropping first wave of 6 Wall Breakers
+2015-10-20 10:00:48 : Spell drop point: 517, 394
+2015-10-20 10:00:48 : Dropping spell in slot 5
+2015-10-20 10:00:49 : Dropping spell in slot 6
+2015-10-20 10:00:50 : Dropping second wave of 6 Wall Breakers
+2015-10-20 10:00:52 : Dropping only wave of 24 Wizards
+2015-10-20 10:00:55 : Dropping King
+2015-10-20 10:00:56 : Dropping Queen
+2015-10-20 10:00:56 : Dropping left over troops
+2015-10-20 10:00:56 : Checking remaining unused troops for: Live Base
+2015-10-20 10:00:58 : -Giants 1
+2015-10-20 10:00:58 : -Heal Spells 1
+2015-10-20 10:00:58 : -Rage Spells 1
+2015-10-20 10:00:58 : -Poison Spells 1
+2015-10-20 10:00:59 : Dropping last wave of 1 Giants
+2015-10-20 10:01:08 : Checking remaining unused troops for: Live Base
+2015-10-20 10:01:09 : -Giants 1
+2015-10-20 10:01:09 : -Heal Spells 1
+2015-10-20 10:01:09 : -Rage Spells 1
+2015-10-20 10:01:10 : -Poison Spells 1
+2015-10-20 10:01:11 : Dropping last wave of 1 Giants
+2015-10-20 10:01:19 : Finished Attacking, waiting for the battle to end
+2015-10-20 10:01:19 : Checking if the battle has finished
+2015-10-20 10:01:21 : detected [G]: 119368 [E]: 78106 [DE]: 132 |  Exit in 58 sec.
+2015-10-20 10:01:22 : detected [G]: 119368 [E]: 78106 [DE]: 132 |  Exit in 57 sec.
+2015-10-20 10:01:23 : detected [G]: 119287 [E]: 78025 [DE]: 132 |  Exit in 56 sec.
+2015-10-20 10:01:23 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 10:01:26 : detected [G]: 110888 [E]: 69626 [DE]: 100 |  Exit in 58 sec.
+2015-10-20 10:01:26 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 10:01:29 : detected [G]: 97250 [E]: 55988 [DE]: 88 |  Exit in 58 sec.
+2015-10-20 10:01:29 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 10:01:32 : detected [G]: 91480 [E]: 55822 [DE]: 32 |  Exit in 58 sec.
+2015-10-20 10:01:32 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 10:01:34 : King is getting weak, Activating King's power
+2015-10-20 10:01:35 : detected [G]: 86533 [E]: 37497 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 10:01:35 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 10:01:38 : detected [G]: 86533 [E]: 32377 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 10:01:38 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 10:01:41 : detected [G]: 86533 [E]: 27796 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 10:01:41 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 10:01:44 : detected [G]: 83201 [E]: 27796 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 10:01:44 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 10:01:47 : detected [G]: 62909 [E]: 27796 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 10:01:47 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 10:01:49 : detected [G]: 56780 [E]: 23214 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 10:01:49 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 10:01:52 : detected [G]: 49802 [E]: 18632 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 10:01:52 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 10:01:55 : detected [G]: 40512 [E]: 18092 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 10:01:55 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 10:01:58 : detected [G]: 31651 [E]: 18092 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 10:01:58 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 10:02:01 : detected [G]: 31651 [E]: 12728 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 10:02:01 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 10:02:04 : detected [G]: 31651 [E]: 9046 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 10:02:05 : detected [G]: 26904 [E]: 9046 [DE]: 0 |  Exit in 57 sec.
+2015-10-20 10:02:05 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 10:02:08 : detected [G]: 21101 [E]: 9046 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 10:02:09 : detected [G]: 21101 [E]: 9046 [DE]: 0 |  Exit in 57 sec.
+2015-10-20 10:02:11 : detected [G]: 21101 [E]: 9046 [DE]: 0 |  Exit in 56 sec.
+2015-10-20 10:02:12 : detected [G]: 21101 [E]: 9046 [DE]: 0 |  Exit in 55 sec.
+2015-10-20 10:02:13 : detected [G]: 21101 [E]: 9046 [DE]: 0 |  Exit in 53 sec.
+2015-10-20 10:02:14 : detected [G]: 21101 [E]: 9046 [DE]: 0 |  Exit in 52 sec.
+2015-10-20 10:02:15 : detected [G]: 21101 [E]: 9046 [DE]: 0 |  Exit in 51 sec.
+2015-10-20 10:02:17 : detected [G]: 21101 [E]: 3682 [DE]: 0 |  Exit in 50 sec.
+2015-10-20 10:02:17 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 10:02:20 : detected [G]: 12882 [E]: 0 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 10:02:20 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 10:02:22 : detected [G]: 330 [E]: 0 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 10:02:23 : Gold & Elixir & DE change detected, waiting...
+2015-10-20 10:02:25 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 58 sec.
+2015-10-20 10:02:27 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 57 sec.
+2015-10-20 10:02:28 : detected [G]: 0 [E]: 0 [DE]:  |  Exit in 56 sec.
+2015-10-20 10:02:28 : Gold & Elixir & DE no change detected, exit
+2015-10-20 10:02:28 : Returning Home
+2015-10-20 10:02:33 : Bonus [G]: 100 000 [E]: 100 000 [DE]: 500
+2015-10-20 10:02:35 : Your league level is: Master III
+2015-10-20 10:02:35 : Stars earned: 3
+2015-10-20 10:02:35 : Loot: [G]: 167 913 [E]: 133 149 [DE]: 529 [T]: 1
+2015-10-20 10:02:35 : Taking snapshot of your loot
+2015-10-20 10:02:43 : Trying to locate Main Screen
+2015-10-20 10:02:43 : Main Screen Located
+2015-10-20 10:02:44 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 10:02:46 : Village Report
+2015-10-20 10:02:46 : No. of Free/Total Builders: 3/5
+2015-10-20 10:02:46 :  [T]: 2 735
+2015-10-20 10:02:46 :  [G]: 5 602 445 [E]: 235 337 [D]: 136 352 [GEM]: 5 309
+2015-10-20 10:02:47 : Collecting Resources
+2015-10-20 10:03:15 : Time Idle: 00:00:14
+2015-10-20 10:03:30 : Time Idle: 00:00:28
+2015-10-20 10:03:45 : Time Idle: 00:00:43
+2015-10-20 10:03:59 : Time Idle: 00:00:57
+2015-10-20 10:04:14 : Time Idle: 00:01:11
+2015-10-20 10:04:28 : Time Idle: 00:01:26
+2015-10-20 10:04:43 : Time Idle: 00:01:40
+2015-10-20 10:04:58 : Time Idle: 00:01:55
+2015-10-20 10:05:11 : Collecting Resources
+2015-10-20 10:05:18 : Time Idle: 00:02:15
+2015-10-20 10:05:33 : Time Idle: 00:02:29
+2015-10-20 10:05:47 : Time Idle: 00:02:43
+2015-10-20 10:06:02 : Time Idle: 00:02:58
+2015-10-20 10:06:16 : Time Idle: 00:03:12
+2015-10-20 10:06:31 : Time Idle: 00:03:27
+2015-10-20 10:06:46 : Time Idle: 00:03:41
+2015-10-20 10:07:00 : Time Idle: 00:03:55
+2015-10-20 10:07:15 : Time Idle: 00:04:10
+2015-10-20 10:07:29 : Time Idle: 00:04:24
+2015-10-20 10:07:44 : Time Idle: 00:04:39
+2015-10-20 10:07:57 : Collecting Resources
+2015-10-20 10:08:04 : Time Idle: 00:04:58
+2015-10-20 10:08:19 : Time Idle: 00:05:13
+2015-10-20 10:08:33 : Time Idle: 00:05:27
+2015-10-20 10:08:48 : Time Idle: 00:05:42
+2015-10-20 10:09:03 : Time Idle: 00:05:56
+2015-10-20 10:09:17 : Time Idle: 00:06:10
+2015-10-20 10:09:32 : Time Idle: 00:06:25
+2015-10-20 10:09:46 : Time Idle: 00:06:39
+2015-10-20 10:10:01 : Time Idle: 00:06:54
+2015-10-20 10:10:16 : Time Idle: 00:07:08
+2015-10-20 10:10:30 : Time Idle: 00:07:22
+2015-10-20 10:10:44 : Collecting Resources
+2015-10-20 10:10:50 : Time Idle: 00:07:42
+2015-10-20 10:11:05 : Time Idle: 00:07:57
+2015-10-20 10:11:20 : Time Idle: 00:08:11
+2015-10-20 10:11:34 : Time Idle: 00:08:25
+2015-10-20 10:11:49 : Time Idle: 00:08:40
+2015-10-20 10:12:03 : Time Idle: 00:08:54
+2015-10-20 10:12:18 : Time Idle: 00:09:09
+2015-10-20 10:12:33 : Time Idle: 00:09:23
+2015-10-20 10:12:47 : Time Idle: 00:09:37
+2015-10-20 10:13:02 : Time Idle: 00:09:52
+2015-10-20 10:13:16 : Time Idle: 00:10:06
+2015-10-20 10:13:30 : Collecting Resources
+2015-10-20 10:13:37 : Time Idle: 00:10:26
+2015-10-20 10:13:52 : Time Idle: 00:10:41
+2015-10-20 10:14:06 : Time Idle: 00:10:55
+2015-10-20 10:14:21 : Time Idle: 00:11:10
+2015-10-20 10:14:35 : Time Idle: 00:11:24
+2015-10-20 10:14:50 : Time Idle: 00:11:38
+2015-10-20 10:15:05 : Time Idle: 00:11:53
+2015-10-20 10:15:19 : Time Idle: 00:12:07
+2015-10-20 10:15:34 : Time Idle: 00:12:21
+2015-10-20 10:15:48 : Time Idle: 00:12:36
+2015-10-20 10:16:03 : Time Idle: 00:12:50
+2015-10-20 10:16:17 : Collecting Resources
+2015-10-20 10:16:23 : Time Idle: 00:13:10
+2015-10-20 10:16:38 : Time Idle: 00:13:25
+2015-10-20 10:16:53 : Time Idle: 00:13:39
+2015-10-20 10:17:07 : Time Idle: 00:13:53
+2015-10-20 10:17:22 : Time Idle: 00:14:08
+2015-10-20 10:17:36 : Time Idle: 00:14:22
+2015-10-20 10:17:51 : Time Idle: 00:14:37
+2015-10-20 10:18:06 : Time Idle: 00:14:51
+2015-10-20 10:18:20 : Time Idle: 00:15:06
+2015-10-20 10:18:35 : Time Idle: 00:15:20
+2015-10-20 10:18:50 : Time Idle: 00:15:34
+2015-10-20 10:19:03 : Collecting Resources
+2015-10-20 10:19:10 : Time Idle: 00:15:54
+2015-10-20 10:19:24 : Time Idle: 00:16:09
+2015-10-20 10:19:39 : Time Idle: 00:16:23
+2015-10-20 10:19:53 : Time Idle: 00:16:37
+2015-10-20 10:20:08 : Time Idle: 00:16:52
+2015-10-20 10:20:23 : Time Idle: 00:17:06
+2015-10-20 10:20:37 : Time Idle: 00:17:20
+2015-10-20 10:20:52 : Time Idle: 00:17:35
+2015-10-20 10:21:07 : Time Idle: 00:17:49
+2015-10-20 10:21:21 : Time Idle: 00:18:04
+2015-10-20 10:21:36 : Time Idle: 00:18:18
+2015-10-20 10:21:49 : Collecting Resources
+2015-10-20 10:21:56 : Time Idle: 00:18:38
+2015-10-20 10:22:11 : Time Idle: 00:18:52
+2015-10-20 10:22:25 : Time Idle: 00:19:07
+2015-10-20 10:22:40 : Time Idle: 00:19:21
+2015-10-20 10:22:54 : Time Idle: 00:19:36
+2015-10-20 10:23:09 : Time Idle: 00:19:50
+2015-10-20 10:23:23 : Time Idle: 00:20:04
+2015-10-20 10:23:38 : Time Idle: 00:20:19
+2015-10-20 10:23:53 : Time Idle: 00:20:33
+2015-10-20 10:24:07 : Time Idle: 00:20:47
+2015-10-20 10:24:22 : Time Idle: 00:21:02
+2015-10-20 10:24:35 : Collecting Resources
+2015-10-20 10:24:42 : Time Idle: 00:21:22
+2015-10-20 10:24:57 : Time Idle: 00:21:36
+2015-10-20 10:25:12 : Time Idle: 00:21:51
+2015-10-20 10:25:26 : Time Idle: 00:22:05
+2015-10-20 10:25:41 : Time Idle: 00:22:20
+2015-10-20 10:25:55 : Time Idle: 00:22:34
+2015-10-20 10:26:10 : Time Idle: 00:22:48
+2015-10-20 10:26:25 : Time Idle: 00:23:03
+2015-10-20 10:26:39 : Time Idle: 00:23:17
+2015-10-20 10:26:54 : Time Idle: 00:23:32
+2015-10-20 10:27:09 : Time Idle: 00:23:46
+2015-10-20 10:27:22 : Collecting Resources
+2015-10-20 10:27:29 : Time Idle: 00:24:06
+2015-10-20 10:27:43 : Time Idle: 00:24:20
+2015-10-20 10:27:58 : Time Idle: 00:24:35
+2015-10-20 10:28:13 : Time Idle: 00:24:49
+2015-10-20 10:28:27 : Time Idle: 00:25:04
+2015-10-20 10:28:42 : Time Idle: 00:25:18
+2015-10-20 10:28:57 : Time Idle: 00:25:32
+2015-10-20 10:29:11 : Time Idle: 00:25:47
+2015-10-20 10:29:26 : Time Idle: 00:26:01
+2015-10-20 10:29:40 : Time Idle: 00:26:16
+2015-10-20 10:29:55 : Time Idle: 00:26:30
+2015-10-20 10:30:08 : Collecting Resources
+2015-10-20 10:30:15 : Time Idle: 00:26:50
+2015-10-20 10:30:30 : Time Idle: 00:27:04
+2015-10-20 10:30:44 : Time Idle: 00:27:19
+2015-10-20 10:30:59 : Time Idle: 00:27:33
+2015-10-20 10:31:14 : Time Idle: 00:27:47
+2015-10-20 10:31:28 : Time Idle: 00:28:02
+2015-10-20 10:31:43 : Time Idle: 00:28:16
+2015-10-20 10:31:57 : Time Idle: 00:28:30
+2015-10-20 10:32:12 : Time Idle: 00:28:45
+2015-10-20 10:32:26 : Time Idle: 00:28:59
+2015-10-20 10:32:41 : Time Idle: 00:29:14
+2015-10-20 10:32:55 : Collecting Resources
+2015-10-20 10:33:01 : Time Idle: 00:29:34
+2015-10-20 10:33:16 : Time Idle: 00:29:48
+2015-10-20 10:33:31 : Time Idle: 00:30:03
+2015-10-20 10:33:45 : Time Idle: 00:30:17
+2015-10-20 10:34:00 : Time Idle: 00:30:31
+2015-10-20 10:34:14 : Time Idle: 00:30:46
+2015-10-20 10:34:29 : Time Idle: 00:31:00
+2015-10-20 10:34:44 : Time Idle: 00:31:14
+2015-10-20 10:34:58 : Time Idle: 00:31:29
+2015-10-20 10:35:13 : Time Idle: 00:31:43
+2015-10-20 10:35:27 : Time Idle: 00:31:58
+2015-10-20 10:35:41 : Collecting Resources
+2015-10-20 10:35:48 : Time Idle: 00:32:18
+2015-10-20 10:36:03 : Time Idle: 00:32:32
+2015-10-20 10:36:17 : Time Idle: 00:32:47
+2015-10-20 10:36:32 : Time Idle: 00:33:01
+2015-10-20 10:36:47 : Time Idle: 00:33:16
+2015-10-20 10:37:01 : Time Idle: 00:33:30
+2015-10-20 10:37:16 : Time Idle: 00:33:44
+2015-10-20 10:37:30 : Time Idle: 00:33:59
+2015-10-20 10:37:45 : Time Idle: 00:34:13
+2015-10-20 10:37:59 : Time Idle: 00:34:27
+2015-10-20 10:38:14 : Time Idle: 00:34:42
+2015-10-20 10:38:28 : Collecting Resources
+2015-10-20 10:38:34 : Time Idle: 00:35:02
+2015-10-20 10:38:49 : Time Idle: 00:35:16
+2015-10-20 10:39:03 : Time Idle: 00:35:30
+2015-10-20 10:39:18 : Time Idle: 00:35:45
+2015-10-20 10:39:33 : Time Idle: 00:35:59
+2015-10-20 10:39:47 : Time Idle: 00:36:14
+2015-10-20 10:40:02 : Time Idle: 00:36:28
+2015-10-20 10:40:16 : Time Idle: 00:36:42
+2015-10-20 10:40:31 : Time Idle: 00:36:57
+2015-10-20 10:40:46 : Time Idle: 00:37:11
+2015-10-20 10:41:00 : Time Idle: 00:37:25
+2015-10-20 10:41:14 : Collecting Resources
+2015-10-20 10:41:20 : Time Idle: 00:37:45
+2015-10-20 10:41:35 : Time Idle: 00:38:00
+2015-10-20 10:41:50 : Time Idle: 00:38:14
+2015-10-20 10:42:04 : Time Idle: 00:38:29
+2015-10-20 10:42:19 : Time Idle: 00:38:43
+2015-10-20 10:42:33 : Time Idle: 00:38:57
+2015-10-20 10:42:48 : Time Idle: 00:39:12
+2015-10-20 10:43:03 : Time Idle: 00:39:26
+2015-10-20 10:43:17 : Time Idle: 00:39:40
+2015-10-20 10:43:32 : Time Idle: 00:39:55
+2015-10-20 10:43:46 : Time Idle: 00:40:09
+2015-10-20 10:44:00 : Collecting Resources
+2015-10-20 10:44:06 : Time Idle: 00:40:29
+2015-10-20 10:44:21 : Time Idle: 00:40:43
+2015-10-20 10:44:36 : Time Idle: 00:40:58
+2015-10-20 10:44:50 : Time Idle: 00:41:12
+2015-10-20 10:45:05 : Time Idle: 00:41:27
+2015-10-20 10:45:20 : Time Idle: 00:41:41
+2015-10-20 10:45:34 : Time Idle: 00:41:55
+2015-10-20 10:45:49 : Time Idle: 00:42:10
+2015-10-20 10:46:03 : Time Idle: 00:42:24
+2015-10-20 10:46:18 : Time Idle: 00:42:38
+2015-10-20 10:46:32 : Time Idle: 00:42:53
+2015-10-20 10:46:46 : Collecting Resources
+2015-10-20 10:46:53 : Time Idle: 00:43:13
+2015-10-20 10:47:07 : Time Idle: 00:43:27
+2015-10-20 10:47:22 : Time Idle: 00:43:42
+2015-10-20 10:47:37 : Time Idle: 00:43:56
+2015-10-20 10:47:51 : Time Idle: 00:44:10
+2015-10-20 10:48:06 : Time Idle: 00:44:25
+2015-10-20 10:48:20 : Time Idle: 00:44:39
+2015-10-20 10:48:35 : Time Idle: 00:44:54
+2015-10-20 10:48:50 : Time Idle: 00:45:08
+2015-10-20 10:49:04 : Time Idle: 00:45:22
+2015-10-20 10:49:19 : Time Idle: 00:45:37
+2015-10-20 10:49:32 : Collecting Resources
+2015-10-20 10:49:39 : Time Idle: 00:45:57
+2015-10-20 10:49:54 : Time Idle: 00:46:11
+2015-10-20 10:50:08 : Time Idle: 00:46:25
+2015-10-20 10:50:23 : Time Idle: 00:46:40
+2015-10-20 10:50:37 : Time Idle: 00:46:54
+2015-10-20 10:50:52 : Time Idle: 00:47:09
+2015-10-20 10:51:07 : Time Idle: 00:47:23
+2015-10-20 10:51:21 : Time Idle: 00:47:37
+2015-10-20 10:51:36 : Time Idle: 00:47:52
+2015-10-20 10:51:51 : Time Idle: 00:48:06
+2015-10-20 10:52:05 : Time Idle: 00:48:21
+2015-10-20 10:52:19 : Collecting Resources
+2015-10-20 10:52:25 : Time Idle: 00:48:41
+2015-10-20 10:52:40 : Time Idle: 00:48:55
+2015-10-20 10:52:55 : Time Idle: 00:49:09
+2015-10-20 10:53:09 : Time Idle: 00:49:24
+2015-10-20 10:53:24 : Time Idle: 00:49:38
+2015-10-20 10:53:38 : Time Idle: 00:49:52
+2015-10-20 10:53:53 : Time Idle: 00:50:07
+2015-10-20 10:54:08 : Time Idle: 00:50:21
+2015-10-20 10:54:22 : Time Idle: 00:50:36
+2015-10-20 10:54:37 : Time Idle: 00:50:50
+2015-10-20 10:54:51 : Time Idle: 00:51:04
+2015-10-20 10:55:05 : Collecting Resources
+2015-10-20 10:55:11 : Time Idle: 00:51:24
+2015-10-20 10:55:26 : Time Idle: 00:51:39
+2015-10-20 10:55:41 : Time Idle: 00:51:53
+2015-10-20 10:55:55 : Time Idle: 00:52:07
+2015-10-20 10:56:10 : Time Idle: 00:52:22
+2015-10-20 10:56:24 : Time Idle: 00:52:36
+2015-10-20 10:56:39 : Time Idle: 00:52:51
+2015-10-20 10:56:54 : Time Idle: 00:53:05
+2015-10-20 10:57:08 : Time Idle: 00:53:19
+2015-10-20 10:57:23 : Time Idle: 00:53:34
+2015-10-20 10:57:38 : Time Idle: 00:53:48
+2015-10-20 10:57:51 : Collecting Resources
+2015-10-20 10:57:58 : Time Idle: 00:54:08
+2015-10-20 10:58:13 : Time Idle: 00:54:23
+2015-10-20 10:58:27 : Time Idle: 00:54:37
+2015-10-20 10:58:42 : Time Idle: 00:54:52
+2015-10-20 10:58:57 : Time Idle: 00:55:06
+2015-10-20 10:59:11 : Time Idle: 00:55:20
+2015-10-20 10:59:26 : Time Idle: 00:55:35
+2015-10-20 10:59:40 : Time Idle: 00:55:49
+2015-10-20 10:59:55 : Time Idle: 00:56:04
+2015-10-20 11:00:10 : Time Idle: 00:56:18
+2015-10-20 11:00:24 : Time Idle: 00:56:32
+2015-10-20 11:00:38 : Collecting Resources
+2015-10-20 11:00:44 : Time Idle: 00:56:52
+2015-10-20 11:00:59 : Time Idle: 00:57:07
+2015-10-20 11:01:14 : Time Idle: 00:57:21
+2015-10-20 11:01:28 : Time Idle: 00:57:36
+2015-10-20 11:01:43 : Time Idle: 00:57:50
+2015-10-20 11:01:58 : Time Idle: 00:58:04
+2015-10-20 11:02:12 : Time Idle: 00:58:19
+2015-10-20 11:02:27 : Time Idle: 00:58:33
+2015-10-20 11:02:41 : Time Idle: 00:58:47
+2015-10-20 11:02:56 : Time Idle: 00:59:02
+2015-10-20 11:03:10 : Time Idle: 00:59:16
+2015-10-20 11:03:24 : Collecting Resources
+2015-10-20 11:03:30 : Time Idle: 00:59:36
+2015-10-20 11:03:45 : Time Idle: 00:59:50
+2015-10-20 11:04:00 : Time Idle: 01:00:05
+2015-10-20 11:04:14 : Time Idle: 01:00:19
+2015-10-20 11:04:29 : Time Idle: 01:00:33
+2015-10-20 11:04:43 : Time Idle: 01:00:48
+2015-10-20 11:04:58 : Time Idle: 01:01:02
+2015-10-20 11:05:13 : Time Idle: 01:01:16
+2015-10-20 11:05:27 : Time Idle: 01:01:31
+2015-10-20 11:05:42 : Time Idle: 01:01:45
+2015-10-20 11:05:56 : Time Idle: 01:02:00
+2015-10-20 11:06:10 : Collecting Resources
+2015-10-20 11:06:17 : Time Idle: 01:02:20
+2015-10-20 11:06:31 : Time Idle: 01:02:34
+2015-10-20 11:06:46 : Time Idle: 01:02:48
+2015-10-20 11:07:00 : Time Idle: 01:03:03
+2015-10-20 11:07:15 : Time Idle: 01:03:17
+2015-10-20 11:07:30 : Time Idle: 01:03:32
+2015-10-20 11:07:44 : Time Idle: 01:03:46
+2015-10-20 11:07:59 : Time Idle: 01:04:00
+2015-10-20 11:08:14 : Time Idle: 01:04:15
+2015-10-20 11:08:28 : Time Idle: 01:04:29
+2015-10-20 11:08:43 : Time Idle: 01:04:43
+2015-10-20 11:08:56 : Collecting Resources
+2015-10-20 11:09:03 : Time Idle: 01:05:04
+2015-10-20 11:09:18 : Time Idle: 01:05:18
+2015-10-20 11:09:32 : Time Idle: 01:05:33
+2015-10-20 11:09:47 : Time Idle: 01:05:47
+2015-10-20 11:10:02 : Time Idle: 01:06:01
+2015-10-20 11:10:16 : Time Idle: 01:06:16
+2015-10-20 11:10:31 : Time Idle: 01:06:30
+2015-10-20 11:10:46 : Time Idle: 01:06:45
+2015-10-20 11:11:00 : Time Idle: 01:06:59
+2015-10-20 11:11:15 : Time Idle: 01:07:13
+2015-10-20 11:11:30 : Time Idle: 01:07:28
+2015-10-20 11:11:43 : Collecting Resources
+2015-10-20 11:11:50 : Time Idle: 01:07:48
+2015-10-20 11:12:04 : Time Idle: 01:08:02
+2015-10-20 11:12:19 : Time Idle: 01:08:17
+2015-10-20 11:12:34 : Time Idle: 01:08:31
+2015-10-20 11:12:48 : Time Idle: 01:08:45
+2015-10-20 11:13:03 : Time Idle: 01:09:00
+2015-10-20 11:13:18 : Time Idle: 01:09:14
+2015-10-20 11:13:32 : Time Idle: 01:09:29
+2015-10-20 11:13:47 : Time Idle: 01:09:43
+2015-10-20 11:14:02 : Time Idle: 01:09:58
+2015-10-20 11:14:16 : Time Idle: 01:10:12
+2015-10-20 11:14:29 : Collecting Resources
+2015-10-20 11:14:36 : Time Idle: 01:10:32
+2015-10-20 11:14:51 : Time Idle: 01:10:46
+2015-10-20 11:15:05 : Time Idle: 01:11:01
+2015-10-20 11:15:20 : Time Idle: 01:11:15
+2015-10-20 11:15:35 : Time Idle: 01:11:29
+2015-10-20 11:15:49 : Time Idle: 01:11:44
+2015-10-20 11:16:04 : Time Idle: 01:11:58
+2015-10-20 11:16:19 : Time Idle: 01:12:13
+2015-10-20 11:16:33 : Time Idle: 01:12:27
+2015-10-20 11:16:48 : Time Idle: 01:12:41
+2015-10-20 11:17:02 : Time Idle: 01:12:56
+2015-10-20 11:17:16 : Collecting Resources
+2015-10-20 11:17:23 : Time Idle: 01:13:16
+2015-10-20 11:17:37 : Time Idle: 01:13:30
+2015-10-20 11:17:52 : Time Idle: 01:13:45
+2015-10-20 11:18:07 : Time Idle: 01:13:59
+2015-10-20 11:18:21 : Time Idle: 01:14:13
+2015-10-20 11:18:36 : Time Idle: 01:14:28
+2015-10-20 11:18:50 : Time Idle: 01:14:42
+2015-10-20 11:19:05 : Time Idle: 01:14:56
+2015-10-20 11:19:19 : Time Idle: 01:15:11
+2015-10-20 11:19:34 : Time Idle: 01:15:25
+2015-10-20 11:19:49 : Time Idle: 01:15:40
+2015-10-20 11:20:02 : Collecting Resources
+2015-10-20 11:20:09 : Time Idle: 01:16:00
+2015-10-20 11:20:24 : Time Idle: 01:16:14
+2015-10-20 11:20:38 : Time Idle: 01:16:29
+2015-10-20 11:20:53 : Time Idle: 01:16:43
+2015-10-20 11:21:08 : Time Idle: 01:16:57
+2015-10-20 11:21:22 : Time Idle: 01:17:12
+2015-10-20 11:21:37 : Time Idle: 01:17:26
+2015-10-20 11:21:51 : Time Idle: 01:17:41
+2015-10-20 11:22:06 : Time Idle: 01:17:55
+2015-10-20 11:22:21 : Time Idle: 01:18:09
+2015-10-20 11:22:35 : Time Idle: 01:18:24
+2015-10-20 11:22:49 : Collecting Resources
+2015-10-20 11:22:56 : Time Idle: 01:18:44
+2015-10-20 11:23:10 : Time Idle: 01:18:58
+2015-10-20 11:23:25 : Time Idle: 01:19:13
+2015-10-20 11:23:39 : Time Idle: 01:19:27
+2015-10-20 11:23:54 : Time Idle: 01:19:41
+2015-10-20 11:24:09 : Time Idle: 01:19:56
+2015-10-20 11:24:23 : Time Idle: 01:20:10
+2015-10-20 11:24:38 : Time Idle: 01:20:24
+2015-10-20 11:24:52 : Time Idle: 01:20:39
+2015-10-20 11:25:07 : Time Idle: 01:20:53
+2015-10-20 11:25:22 : Time Idle: 01:21:08
+2015-10-20 11:25:35 : Collecting Resources
+2015-10-20 11:25:42 : Time Idle: 01:21:28
+2015-10-20 11:25:56 : Time Idle: 01:21:42
+2015-10-20 11:26:11 : Time Idle: 01:21:56
+2015-10-20 11:26:26 : Time Idle: 01:22:11
+2015-10-20 11:26:40 : Time Idle: 01:22:25
+2015-10-20 11:26:55 : Time Idle: 01:22:39
+2015-10-20 11:27:10 : Time Idle: 01:22:54
+2015-10-20 11:27:24 : Time Idle: 01:23:08
+2015-10-20 11:27:39 : Time Idle: 01:23:23
+2015-10-20 11:27:53 : Time Idle: 01:23:37
+2015-10-20 11:28:08 : Time Idle: 01:23:51
+2015-10-20 11:28:21 : Collecting Resources
+2015-10-20 11:28:28 : Time Idle: 01:24:11
+2015-10-20 11:28:43 : Time Idle: 01:24:26
+2015-10-20 11:28:57 : Time Idle: 01:24:40
+2015-10-20 11:29:12 : Time Idle: 01:24:54
+2015-10-20 11:29:26 : Time Idle: 01:25:09
+2015-10-20 11:29:41 : Time Idle: 01:25:23
+2015-10-20 11:29:56 : Time Idle: 01:25:38
+2015-10-20 11:30:10 : Time Idle: 01:25:52
+2015-10-20 11:30:25 : Time Idle: 01:26:06
+2015-10-20 11:30:39 : Time Idle: 01:26:21
+2015-10-20 11:30:54 : Time Idle: 01:26:35
+2015-10-20 11:31:08 : Collecting Resources
+2015-10-20 11:31:15 : Time Idle: 01:26:56
+2015-10-20 11:31:29 : Time Idle: 01:27:10
+2015-10-20 11:31:44 : Time Idle: 01:27:24
+2015-10-20 11:31:58 : Time Idle: 01:27:39
+2015-10-20 11:32:13 : Time Idle: 01:27:53
+2015-10-20 11:32:28 : Time Idle: 01:28:07
+2015-10-20 11:32:42 : Time Idle: 01:28:22
+2015-10-20 11:32:57 : Time Idle: 01:28:36
+2015-10-20 11:33:12 : Time Idle: 01:28:51
+2015-10-20 11:33:26 : Time Idle: 01:29:05
+2015-10-20 11:33:41 : Time Idle: 01:29:20
+2015-10-20 11:33:54 : Collecting Resources
+2015-10-20 11:34:01 : Time Idle: 01:29:39
+2015-10-20 11:34:16 : Time Idle: 01:29:54
+2015-10-20 11:34:30 : Time Idle: 01:30:08
+2015-10-20 11:34:45 : Time Idle: 01:30:23
+2015-10-20 11:34:59 : Time Idle: 01:30:37
+2015-10-20 11:35:14 : Time Idle: 01:30:51
+2015-10-20 11:35:29 : Time Idle: 01:31:06
+2015-10-20 11:35:43 : Time Idle: 01:31:20
+2015-10-20 11:35:58 : Time Idle: 01:31:35
+2015-10-20 11:36:13 : Time Idle: 01:31:49
+2015-10-20 11:36:27 : Time Idle: 01:32:03
+2015-10-20 11:36:41 : Collecting Resources
+2015-10-20 11:36:47 : Time Idle: 01:32:23
+2015-10-20 11:37:02 : Time Idle: 01:32:38
+2015-10-20 11:37:17 : Time Idle: 01:32:52
+2015-10-20 11:37:31 : Time Idle: 01:33:07
+2015-10-20 11:37:46 : Time Idle: 01:33:21
+2015-10-20 11:38:01 : Time Idle: 01:33:35
+2015-10-20 11:38:15 : Time Idle: 01:33:50
+2015-10-20 11:38:30 : Time Idle: 01:34:04
+2015-10-20 11:38:44 : Time Idle: 01:34:19
+2015-10-20 11:38:59 : Time Idle: 01:34:33
+2015-10-20 11:39:14 : Time Idle: 01:34:47
+2015-10-20 11:39:27 : Collecting Resources
+2015-10-20 11:39:34 : Time Idle: 01:35:07
+2015-10-20 11:39:48 : Time Idle: 01:35:22
+2015-10-20 11:40:03 : Time Idle: 01:35:36
+2015-10-20 11:40:17 : Time Idle: 01:35:50
+2015-10-20 11:40:32 : Time Idle: 01:36:05
+2015-10-20 11:40:47 : Time Idle: 01:36:19
+2015-10-20 11:41:01 : Time Idle: 01:36:34
+2015-10-20 11:41:16 : Time Idle: 01:36:48
+2015-10-20 11:41:31 : Time Idle: 01:37:02
+2015-10-20 11:41:45 : Time Idle: 01:37:17
+2015-10-20 11:42:00 : Time Idle: 01:37:31
+2015-10-20 11:42:13 : Collecting Resources
+2015-10-20 11:42:20 : Time Idle: 01:37:51
+2015-10-20 11:42:35 : Time Idle: 01:38:06
+2015-10-20 11:42:50 : Time Idle: 01:38:20
+2015-10-20 11:43:04 : Time Idle: 01:38:35
+2015-10-20 11:43:19 : Time Idle: 01:38:49
+2015-10-20 11:43:33 : Time Idle: 01:39:03
+2015-10-20 11:43:48 : Time Idle: 01:39:18
+2015-10-20 11:44:03 : Time Idle: 01:39:32
+2015-10-20 11:44:17 : Time Idle: 01:39:46
+2015-10-20 11:44:32 : Time Idle: 01:40:01
+2015-10-20 11:44:46 : Time Idle: 01:40:15
+2015-10-20 11:45:00 : Collecting Resources
+2015-10-20 11:45:07 : Time Idle: 01:40:35
+2015-10-20 11:45:21 : Time Idle: 01:40:50
+2015-10-20 11:45:36 : Time Idle: 01:41:04
+2015-10-20 11:45:50 : Time Idle: 01:41:18
+2015-10-20 11:46:05 : Time Idle: 01:41:33
+2015-10-20 11:46:20 : Time Idle: 01:41:47
+2015-10-20 11:46:34 : Time Idle: 01:42:01
+2015-10-20 11:46:49 : Time Idle: 01:42:16
+2015-10-20 11:47:03 : Time Idle: 01:42:30
+2015-10-20 11:47:18 : Time Idle: 01:42:45
+2015-10-20 11:47:33 : Time Idle: 01:42:59
+2015-10-20 11:47:46 : Collecting Resources
+2015-10-20 11:47:53 : Time Idle: 01:43:19
+2015-10-20 11:48:07 : Time Idle: 01:43:33
+2015-10-20 11:48:22 : Time Idle: 01:43:48
+2015-10-20 11:48:37 : Time Idle: 01:44:02
+2015-10-20 11:48:51 : Time Idle: 01:44:17
+2015-10-20 11:49:06 : Time Idle: 01:44:31
+2015-10-20 11:49:21 : Time Idle: 01:44:45
+2015-10-20 11:49:35 : Time Idle: 01:45:00
+2015-10-20 11:49:50 : Time Idle: 01:45:14
+2015-10-20 11:50:04 : Time Idle: 01:45:28
+2015-10-20 11:50:19 : Time Idle: 01:45:43
+2015-10-20 11:50:32 : Collecting Resources
+2015-10-20 11:50:39 : Time Idle: 01:46:03
+2015-10-20 11:50:54 : Time Idle: 01:46:17
+2015-10-20 11:51:08 : Time Idle: 01:46:32
+2015-10-20 11:51:23 : Time Idle: 01:46:46
+2015-10-20 11:51:38 : Time Idle: 01:47:00
+2015-10-20 11:51:52 : Time Idle: 01:47:15
+2015-10-20 11:52:07 : Time Idle: 01:47:29
+2015-10-20 11:52:21 : Time Idle: 01:47:44
+2015-10-20 11:52:36 : Time Idle: 01:47:58
+2015-10-20 11:52:51 : Time Idle: 01:48:12
+2015-10-20 11:53:05 : Time Idle: 01:48:27
+2015-10-20 11:53:19 : Collecting Resources
+2015-10-20 11:53:26 : Time Idle: 01:48:47
+2015-10-20 11:53:41 : Time Idle: 01:49:02
+2015-10-20 11:53:55 : Time Idle: 01:49:16
+2015-10-20 11:54:10 : Time Idle: 01:49:30
+2015-10-20 11:54:24 : Time Idle: 01:49:45
+2015-10-20 11:54:39 : Time Idle: 01:49:59
+2015-10-20 11:54:54 : Time Idle: 01:50:13
+2015-10-20 11:55:08 : Time Idle: 01:50:28
+2015-10-20 11:55:23 : Time Idle: 01:50:42
+2015-10-20 11:55:37 : Time Idle: 01:50:56
+2015-10-20 11:55:52 : Time Idle: 01:51:11
+2015-10-20 11:56:05 : Collecting Resources
+2015-10-20 11:56:12 : Time Idle: 01:51:31
+2015-10-20 11:56:26 : Time Idle: 01:51:45
+2015-10-20 11:56:41 : Time Idle: 01:51:59
+2015-10-20 11:56:55 : Time Idle: 01:52:14
+2015-10-20 11:57:10 : Time Idle: 01:52:28
+2015-10-20 11:57:24 : Time Idle: 01:52:42
+2015-10-20 11:57:39 : Time Idle: 01:52:56
+2015-10-20 11:57:54 : Time Idle: 01:53:11
+2015-10-20 11:58:08 : Waiting for Main Screen
+2015-10-20 11:58:14 : Trying to locate Main Screen
+2015-10-20 11:58:14 : Main Screen Located
+2015-10-20 11:58:15 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 11:58:17 : Village Report
+2015-10-20 11:58:17 : No. of Free/Total Builders: 3/5
+2015-10-20 11:58:17 :  [T]: 2 735
+2015-10-20 11:58:17 :  [G]: 5 649 909 [E]: 282 797 [D]: 136 742 [GEM]: 5 309
+2015-10-20 11:58:18 : Collecting Resources
+2015-10-20 11:58:46 : Time Idle: 00:00:14
+2015-10-20 11:59:01 : Time Idle: 00:00:28
+2015-10-20 11:59:15 : Time Idle: 00:00:43
+2015-10-20 11:59:29 : Collecting Resources
+2015-10-20 11:59:36 : Time Idle: 00:01:03
+2015-10-20 11:59:50 : Time Idle: 00:01:17
+2015-10-20 12:00:05 : Time Idle: 00:01:31
+2015-10-20 12:00:19 : Time Idle: 00:01:46
+2015-10-20 12:00:34 : Time Idle: 00:02:00
+2015-10-20 12:00:48 : Time Idle: 00:02:14
+2015-10-20 12:01:03 : Time Idle: 00:02:29
+2015-10-20 12:01:17 : Time Idle: 00:02:43
+2015-10-20 12:01:32 : Time Idle: 00:02:57
+2015-10-20 12:01:46 : Time Idle: 00:03:11
+2015-10-20 12:02:01 : Time Idle: 00:03:26
+2015-10-20 12:02:14 : Collecting Resources
+2015-10-20 12:02:21 : Time Idle: 00:03:46
+2015-10-20 12:02:36 : Time Idle: 00:04:00
+2015-10-20 12:02:50 : Time Idle: 00:04:14
+2015-10-20 12:03:05 : Time Idle: 00:04:28
+2015-10-20 12:03:19 : Time Idle: 00:04:43
+2015-10-20 12:03:34 : Waiting for Main Screen
+2015-10-20 12:03:40 : Trying to locate Main Screen
+2015-10-20 12:03:40 : Main Screen Located
+2015-10-20 12:03:40 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 12:03:43 : Village Report
+2015-10-20 12:03:43 : No. of Free/Total Builders: 3/5
+2015-10-20 12:03:43 :  [T]: 2 735
+2015-10-20 12:03:43 :  [G]: 5 649 909 [E]: 282 797 [D]: 136 759 [GEM]: 5 309
+2015-10-20 12:03:43 : Collecting Resources
+2015-10-20 12:04:12 : Time Idle: 00:00:14
+2015-10-20 12:04:27 : Time Idle: 00:00:28
+2015-10-20 12:04:40 : Training Overview Window didn't open
+2015-10-20 12:04:42 : Time Idle: 00:00:43
+2015-10-20 12:04:57 : Time Idle: 00:00:58
+2015-10-20 12:05:11 : Time Idle: 00:01:12
+2015-10-20 12:05:26 : Time Idle: 00:01:26
+2015-10-20 12:05:39 : Collecting Resources
+2015-10-20 12:05:46 : Time Idle: 00:01:46
+2015-10-20 12:06:00 : Time Idle: 00:02:00
+2015-10-20 12:06:15 : Time Idle: 00:02:15
+2015-10-20 12:06:29 : Time Idle: 00:02:29
+2015-10-20 12:06:44 : Time Idle: 00:02:43
+2015-10-20 12:06:59 : Time Idle: 00:02:58
+2015-10-20 12:07:13 : Time Idle: 00:03:12
+2015-10-20 12:07:28 : Time Idle: 00:03:26
+2015-10-20 12:07:42 : Time Idle: 00:03:41
+2015-10-20 12:07:57 : Time Idle: 00:03:55
+2015-10-20 12:08:12 : Time Idle: 00:04:10
+2015-10-20 12:08:25 : Collecting Resources
+2015-10-20 12:08:32 : Time Idle: 00:04:29
+2015-10-20 12:08:46 : Time Idle: 00:04:44
+2015-10-20 12:09:01 : Time Idle: 00:04:58
+2015-10-20 12:09:15 : Time Idle: 00:05:12
+2015-10-20 12:09:30 : Waiting for Main Screen
+2015-10-20 12:09:36 : Trying to locate Main Screen
+2015-10-20 12:09:36 : Main Screen Located
+2015-10-20 12:09:37 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 12:09:39 : Village Report
+2015-10-20 12:09:39 : No. of Free/Total Builders: 3/5
+2015-10-20 12:09:39 :  [T]: 2 735
+2015-10-20 12:09:39 :  [G]: 5 653 548 [E]: 286 433 [D]: 136 777 [GEM]: 5 309
+2015-10-20 12:09:40 : Collecting Resources
+2015-10-20 12:10:08 : Time Idle: 00:00:14
+2015-10-20 12:10:22 : Time Idle: 00:00:28
+2015-10-20 12:10:37 : Time Idle: 00:00:42
+2015-10-20 12:10:52 : Time Idle: 00:00:57
+2015-10-20 12:11:06 : Time Idle: 00:01:11
+2015-10-20 12:11:21 : Time Idle: 00:01:25
+2015-10-20 12:11:35 : Time Idle: 00:01:39
+2015-10-20 12:11:48 : Collecting Resources
+2015-10-20 12:11:55 : Time Idle: 00:01:59
+2015-10-20 12:12:10 : Time Idle: 00:02:14
+2015-10-20 12:12:24 : Time Idle: 00:02:28
+2015-10-20 12:12:39 : Time Idle: 00:02:42
+2015-10-20 12:12:52 : Training Overview Window didn't open
+2015-10-20 12:12:54 : Time Idle: 00:02:57
+2015-10-20 12:13:09 : Time Idle: 00:03:12
+2015-10-20 12:13:23 : Time Idle: 00:03:26
+2015-10-20 12:13:38 : Time Idle: 00:03:40
+2015-10-20 12:13:52 : Time Idle: 00:03:55
+2015-10-20 12:14:07 : Time Idle: 00:04:09
+2015-10-20 12:14:21 : Time Idle: 00:04:23
+2015-10-20 12:14:35 : Collecting Resources
+2015-10-20 12:14:42 : Time Idle: 00:04:44
+2015-10-20 12:14:56 : Time Idle: 00:04:58
+2015-10-20 12:15:11 : Time Idle: 00:05:12
+2015-10-20 12:15:25 : Time Idle: 00:05:26
+2015-10-20 12:15:40 : Time Idle: 00:05:41
+2015-10-20 12:15:54 : Time Idle: 00:05:55
+2015-10-20 12:16:09 : Time Idle: 00:06:09
+2015-10-20 12:16:24 : Time Idle: 00:06:24
+2015-10-20 12:16:38 : Time Idle: 00:06:38
+2015-10-20 12:16:53 : Time Idle: 00:06:52
+2015-10-20 12:17:07 : Time Idle: 00:07:07
+2015-10-20 12:17:21 : Collecting Resources
+2015-10-20 12:17:27 : Time Idle: 00:07:26
+2015-10-20 12:17:42 : Time Idle: 00:07:41
+2015-10-20 12:17:56 : Time Idle: 00:07:55
+2015-10-20 12:18:10 : Training Overview Window didn't open
+2015-10-20 12:18:12 : Time Idle: 00:08:10
+2015-10-20 12:18:26 : Time Idle: 00:08:25
+2015-10-20 12:18:41 : Time Idle: 00:08:39
+2015-10-20 12:18:55 : Time Idle: 00:08:53
+2015-10-20 12:19:10 : Time Idle: 00:09:08
+2015-10-20 12:19:24 : Time Idle: 00:09:22
+2015-10-20 12:19:39 : Time Idle: 00:09:36
+2015-10-20 12:19:53 : Time Idle: 00:09:50
+2015-10-20 12:20:07 : Collecting Resources
+2015-10-20 12:20:14 : Time Idle: 00:10:10
+2015-10-20 12:20:28 : Time Idle: 00:10:25
+2015-10-20 12:20:43 : Time Idle: 00:10:39
+2015-10-20 12:20:57 : Time Idle: 00:10:53
+2015-10-20 12:21:12 : Time Idle: 00:11:08
+2015-10-20 12:21:26 : Time Idle: 00:11:22
+2015-10-20 12:21:41 : Time Idle: 00:11:36
+2015-10-20 12:21:56 : Time Idle: 00:11:51
+2015-10-20 12:22:10 : Time Idle: 00:12:05
+2015-10-20 12:22:25 : Time Idle: 00:12:19
+2015-10-20 12:22:39 : Time Idle: 00:12:34
+2015-10-20 12:22:52 : Collecting Resources
+2015-10-20 12:22:59 : Time Idle: 00:12:54
+2015-10-20 12:23:14 : Time Idle: 00:13:08
+2015-10-20 12:23:28 : Time Idle: 00:13:22
+2015-10-20 12:23:43 : Time Idle: 00:13:37
+2015-10-20 12:23:58 : Time Idle: 00:13:51
+2015-10-20 12:24:12 : Time Idle: 00:14:05
+2015-10-20 12:24:27 : Time Idle: 00:14:20
+2015-10-20 12:24:41 : Time Idle: 00:14:34
+2015-10-20 12:24:55 : Training Overview Window didn't open
+2015-10-20 12:24:57 : Time Idle: 00:14:49
+2015-10-20 12:25:11 : Time Idle: 00:15:03
+2015-10-20 12:25:25 : Time Idle: 00:15:18
+2015-10-20 12:25:39 : Collecting Resources
+2015-10-20 12:25:46 : Time Idle: 00:15:38
+2015-10-20 12:26:00 : Time Idle: 00:15:52
+2015-10-20 12:26:15 : Time Idle: 00:16:06
+2015-10-20 12:26:29 : Time Idle: 00:16:21
+2015-10-20 12:26:44 : Time Idle: 00:16:35
+2015-10-20 12:26:58 : Time Idle: 00:16:49
+2015-10-20 12:27:13 : Time Idle: 00:17:03
+2015-10-20 12:27:27 : Time Idle: 00:17:18
+2015-10-20 12:27:42 : Time Idle: 00:17:32
+2015-10-20 12:27:56 : Time Idle: 00:17:46
+2015-10-20 12:28:11 : Time Idle: 00:18:01
+2015-10-20 12:28:24 : Collecting Resources
+2015-10-20 12:28:31 : Time Idle: 00:18:21
+2015-10-20 12:28:46 : Time Idle: 00:18:35
+2015-10-20 12:29:00 : Time Idle: 00:18:49
+2015-10-20 12:29:15 : Time Idle: 00:19:04
+2015-10-20 12:29:29 : Time Idle: 00:19:18
+2015-10-20 12:29:44 : Time Idle: 00:19:32
+2015-10-20 12:29:58 : Time Idle: 00:19:46
+2015-10-20 12:30:13 : Time Idle: 00:20:01
+2015-10-20 12:30:27 : Time Idle: 00:20:15
+2015-10-20 12:30:42 : Time Idle: 00:20:29
+2015-10-20 12:30:56 : Time Idle: 00:20:43
+2015-10-20 12:31:10 : Collecting Resources
+2015-10-20 12:31:16 : Time Idle: 00:21:03
+2015-10-20 12:31:31 : Time Idle: 00:21:18
+2015-10-20 12:31:45 : Time Idle: 00:21:32
+2015-10-20 12:32:00 : Time Idle: 00:21:46
+2015-10-20 12:32:14 : Time Idle: 00:22:00
+2015-10-20 12:32:29 : Time Idle: 00:22:15
+2015-10-20 12:32:43 : Time Idle: 00:22:29
+2015-10-20 12:32:58 : Time Idle: 00:22:43
+2015-10-20 12:33:12 : Time Idle: 00:22:58
+2015-10-20 12:33:27 : Time Idle: 00:23:12
+2015-10-20 12:33:41 : Time Idle: 00:23:26
+2015-10-20 12:33:55 : Collecting Resources
+2015-10-20 12:34:02 : Time Idle: 00:23:46
+2015-10-20 12:34:16 : Time Idle: 00:24:01
+2015-10-20 12:34:31 : Time Idle: 00:24:15
+2015-10-20 12:34:45 : Time Idle: 00:24:29
+2015-10-20 12:35:00 : Time Idle: 00:24:44
+2015-10-20 12:35:15 : Time Idle: 00:24:58
+2015-10-20 12:35:29 : Time Idle: 00:25:12
+2015-10-20 12:35:44 : Time Idle: 00:25:27
+2015-10-20 12:35:58 : Time Idle: 00:25:41
+2015-10-20 12:36:13 : Time Idle: 00:25:55
+2015-10-20 12:36:27 : Waiting for Main Screen
+2015-10-20 12:36:33 : Trying to locate Main Screen
+2015-10-20 12:36:33 : Main Screen Located
+2015-10-20 12:36:34 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 12:36:36 : Village Report
+2015-10-20 12:36:36 : No. of Free/Total Builders: 3/5
+2015-10-20 12:36:36 :  [T]: 2 735
+2015-10-20 12:36:36 :  [G]: 5 661 197 [E]: 294 085 [D]: 136 851 [GEM]: 5 309
+2015-10-20 12:36:37 : Collecting Resources
+2015-10-20 12:37:06 : Time Idle: 00:00:14
+2015-10-20 12:37:19 : Collecting Resources
+2015-10-20 12:37:26 : Time Idle: 00:00:34
+2015-10-20 12:37:41 : Time Idle: 00:00:48
+2015-10-20 12:37:55 : Time Idle: 00:01:03
+2015-10-20 12:38:10 : Time Idle: 00:01:17
+2015-10-20 12:38:24 : Time Idle: 00:01:31
+2015-10-20 12:38:39 : Time Idle: 00:01:45
+2015-10-20 12:38:53 : Time Idle: 00:02:00
+2015-10-20 12:39:08 : Time Idle: 00:02:14
+2015-10-20 12:39:22 : Time Idle: 00:02:28
+2015-10-20 12:39:37 : Time Idle: 00:02:43
+2015-10-20 12:39:51 : Time Idle: 00:02:57
+2015-10-20 12:40:05 : Collecting Resources
+2015-10-20 12:40:11 : Time Idle: 00:03:17
+2015-10-20 12:40:26 : Time Idle: 00:03:31
+2015-10-20 12:40:40 : Time Idle: 00:03:46
+2015-10-20 12:40:55 : Time Idle: 00:04:00
+2015-10-20 12:41:10 : Time Idle: 00:04:14
+2015-10-20 12:41:24 : Time Idle: 00:04:28
+2015-10-20 12:41:39 : Time Idle: 00:04:43
+2015-10-20 12:41:53 : Time Idle: 00:04:57
+2015-10-20 12:42:08 : Time Idle: 00:05:11
+2015-10-20 12:42:22 : Time Idle: 00:05:25
+2015-10-20 12:42:36 : Time Idle: 00:05:40
+2015-10-20 12:42:50 : Collecting Resources
+2015-10-20 12:42:57 : Time Idle: 00:06:00
+2015-10-20 12:43:11 : Time Idle: 00:06:14
+2015-10-20 12:43:26 : Time Idle: 00:06:28
+2015-10-20 12:43:40 : Time Idle: 00:06:42
+2015-10-20 12:43:55 : Time Idle: 00:06:57
+2015-10-20 12:44:09 : Time Idle: 00:07:11
+2015-10-20 12:44:24 : Time Idle: 00:07:25
+2015-10-20 12:44:38 : Time Idle: 00:07:40
+2015-10-20 12:44:53 : Time Idle: 00:07:54
+2015-10-20 12:45:07 : Time Idle: 00:08:08
+2015-10-20 12:45:22 : Time Idle: 00:08:22
+2015-10-20 12:45:35 : Collecting Resources
+2015-10-20 12:45:42 : Time Idle: 00:08:42
+2015-10-20 12:45:56 : Time Idle: 00:08:57
+2015-10-20 12:46:11 : Time Idle: 00:09:11
+2015-10-20 12:46:25 : Time Idle: 00:09:25
+2015-10-20 12:46:40 : Time Idle: 00:09:40
+2015-10-20 12:46:54 : Time Idle: 00:09:54
+2015-10-20 12:47:09 : Time Idle: 00:10:08
+2015-10-20 12:47:23 : Time Idle: 00:10:22
+2015-10-20 12:47:38 : Time Idle: 00:10:37
+2015-10-20 12:47:52 : Time Idle: 00:10:51
+2015-10-20 12:48:07 : Time Idle: 00:11:05
+2015-10-20 12:48:20 : Collecting Resources
+2015-10-20 12:48:28 : Time Idle: 00:11:26
+2015-10-20 12:48:42 : Time Idle: 00:11:40
+2015-10-20 12:48:57 : Time Idle: 00:11:54
+2015-10-20 12:49:11 : Time Idle: 00:12:09
+2015-10-20 12:49:26 : Time Idle: 00:12:23
+2015-10-20 12:49:40 : Time Idle: 00:12:37
+2015-10-20 12:49:55 : Time Idle: 00:12:52
+2015-10-20 12:50:09 : Time Idle: 00:13:06
+2015-10-20 12:50:24 : Time Idle: 00:13:20
+2015-10-20 12:50:39 : Time Idle: 00:13:35
+2015-10-20 12:50:53 : Time Idle: 00:13:49
+2015-10-20 12:51:07 : Collecting Resources
+2015-10-20 12:51:13 : Time Idle: 00:14:09
+2015-10-20 12:51:28 : Time Idle: 00:14:23
+2015-10-20 12:51:42 : Time Idle: 00:14:37
+2015-10-20 12:51:57 : Time Idle: 00:14:52
+2015-10-20 12:52:11 : Time Idle: 00:15:06
+2015-10-20 12:52:26 : Time Idle: 00:15:20
+2015-10-20 12:52:40 : Time Idle: 00:15:35
+2015-10-20 12:52:55 : Time Idle: 00:15:49
+2015-10-20 12:53:08 : Training Overview Window didn't open
+2015-10-20 12:53:10 : Time Idle: 00:16:04
+2015-10-20 12:53:25 : Time Idle: 00:16:18
+2015-10-20 12:53:39 : Time Idle: 00:16:33
+2015-10-20 12:53:53 : Collecting Resources
+2015-10-20 12:54:00 : Time Idle: 00:16:53
+2015-10-20 12:54:14 : Time Idle: 00:17:07
+2015-10-20 12:54:29 : Time Idle: 00:17:21
+2015-10-20 12:54:44 : Time Idle: 00:17:36
+2015-10-20 12:54:58 : Waiting for Main Screen
+2015-10-20 12:55:04 : Trying to locate Main Screen
+2015-10-20 12:55:04 : Main Screen Located
+2015-10-20 12:55:05 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 12:55:07 : Village Report
+2015-10-20 12:55:07 : No. of Free/Total Builders: 3/5
+2015-10-20 12:55:07 :  [T]: 2 735
+2015-10-20 12:55:07 :  [G]: 5 669 123 [E]: 302 011 [D]: 136 909 [GEM]: 5 309
+2015-10-20 12:55:08 : Collecting Resources
+2015-10-20 12:55:36 : Time Idle: 00:00:14
+2015-10-20 12:55:51 : Time Idle: 00:00:28
+2015-10-20 12:56:05 : Time Idle: 00:00:42
+2015-10-20 12:56:20 : Time Idle: 00:00:57
+2015-10-20 12:56:34 : Time Idle: 00:01:11
+2015-10-20 12:56:49 : Time Idle: 00:01:25
+2015-10-20 12:57:03 : Time Idle: 00:01:40
+2015-10-20 12:57:17 : Collecting Resources
+2015-10-20 12:57:23 : Time Idle: 00:01:59
+2015-10-20 12:57:38 : Time Idle: 00:02:14
+2015-10-20 12:57:52 : Time Idle: 00:02:28
+2015-10-20 12:58:07 : Time Idle: 00:02:42
+2015-10-20 12:58:21 : Time Idle: 00:02:57
+2015-10-20 12:58:36 : Time Idle: 00:03:11
+2015-10-20 12:58:51 : Time Idle: 00:03:25
+2015-10-20 12:59:05 : Time Idle: 00:03:40
+2015-10-20 12:59:20 : Time Idle: 00:03:54
+2015-10-20 12:59:34 : Time Idle: 00:04:08
+2015-10-20 12:59:49 : Time Idle: 00:04:23
+2015-10-20 13:00:02 : Collecting Resources
+2015-10-20 13:00:09 : Time Idle: 00:04:43
+2015-10-20 13:00:24 : Time Idle: 00:04:57
+2015-10-20 13:00:38 : Time Idle: 00:05:11
+2015-10-20 13:00:53 : Time Idle: 00:05:26
+2015-10-20 13:01:07 : Time Idle: 00:05:40
+2015-10-20 13:01:22 : Time Idle: 00:05:54
+2015-10-20 13:01:36 : Time Idle: 00:06:09
+2015-10-20 13:01:51 : Time Idle: 00:06:23
+2015-10-20 13:02:06 : Time Idle: 00:06:37
+2015-10-20 13:02:20 : Time Idle: 00:06:52
+2015-10-20 13:02:35 : Time Idle: 00:07:06
+2015-10-20 13:02:48 : Collecting Resources
+2015-10-20 13:02:55 : Time Idle: 00:07:26
+2015-10-20 13:03:09 : Time Idle: 00:07:40
+2015-10-20 13:03:24 : Time Idle: 00:07:54
+2015-10-20 13:03:38 : Time Idle: 00:08:09
+2015-10-20 13:03:53 : Time Idle: 00:08:23
+2015-10-20 13:04:07 : Time Idle: 00:08:37
+2015-10-20 13:04:22 : Time Idle: 00:08:52
+2015-10-20 13:04:36 : Time Idle: 00:09:06
+2015-10-20 13:04:51 : Time Idle: 00:09:20
+2015-10-20 13:05:04 : Training Overview Window didn't open
+2015-10-20 13:05:06 : Time Idle: 00:09:35
+2015-10-20 13:05:21 : Time Idle: 00:09:50
+2015-10-20 13:05:34 : Collecting Resources
+2015-10-20 13:05:41 : Time Idle: 00:10:10
+2015-10-20 13:05:56 : Time Idle: 00:10:24
+2015-10-20 13:06:09 : Training Overview Window didn't open
+2015-10-20 13:06:11 : Time Idle: 00:10:39
+2015-10-20 13:06:24 : Training Overview Window didn't open
+2015-10-20 13:06:26 : Time Idle: 00:10:55
+2015-10-20 13:06:41 : Time Idle: 00:11:09
+2015-10-20 13:06:55 : Time Idle: 00:11:23
+2015-10-20 13:07:10 : Time Idle: 00:11:37
+2015-10-20 13:07:24 : Time Idle: 00:11:52
+2015-10-20 13:07:39 : Time Idle: 00:12:06
+2015-10-20 13:07:53 : Time Idle: 00:12:20
+2015-10-20 13:08:08 : Time Idle: 00:12:34
+2015-10-20 13:08:21 : Collecting Resources
+2015-10-20 13:08:28 : Time Idle: 00:12:54
+2015-10-20 13:08:43 : Time Idle: 00:13:09
+2015-10-20 13:08:57 : Time Idle: 00:13:23
+2015-10-20 13:09:12 : Time Idle: 00:13:37
+2015-10-20 13:09:26 : Time Idle: 00:13:51
+2015-10-20 13:09:41 : Time Idle: 00:14:06
+2015-10-20 13:09:55 : Time Idle: 00:14:20
+2015-10-20 13:10:09 : Time Idle: 00:14:34
+2015-10-20 13:10:24 : Time Idle: 00:14:48
+2015-10-20 13:10:39 : Time Idle: 00:15:03
+2015-10-20 13:10:53 : Time Idle: 00:15:17
+2015-10-20 13:11:06 : Collecting Resources
+2015-10-20 13:11:14 : Time Idle: 00:15:38
+2015-10-20 13:11:28 : Waiting for Main Screen
+2015-10-20 13:11:34 : Trying to locate Main Screen
+2015-10-20 13:11:34 : Main Screen Located
+2015-10-20 13:11:35 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 13:11:37 : Village Report
+2015-10-20 13:11:37 : No. of Free/Total Builders: 3/5
+2015-10-20 13:11:37 :  [T]: 2 735
+2015-10-20 13:11:37 :  [G]: 5 677 067 [E]: 309 958 [D]: 136 959 [GEM]: 5 309
+2015-10-20 13:11:38 : Collecting Resources
+2015-10-20 13:12:06 : Time Idle: 00:00:14
+2015-10-20 13:12:21 : Time Idle: 00:00:28
+2015-10-20 13:12:34 : Training Overview Window didn't open
+2015-10-20 13:12:36 : Time Idle: 00:00:43
+2015-10-20 13:12:51 : Time Idle: 00:00:58
+2015-10-20 13:13:05 : Time Idle: 00:01:12
+2015-10-20 13:13:20 : Time Idle: 00:01:26
+2015-10-20 13:13:35 : Time Idle: 00:01:41
+2015-10-20 13:13:49 : Time Idle: 00:01:55
+2015-10-20 13:14:04 : Time Idle: 00:02:09
+2015-10-20 13:14:18 : Time Idle: 00:02:24
+2015-10-20 13:14:31 : Collecting Resources
+2015-10-20 13:14:38 : Time Idle: 00:02:43
+2015-10-20 13:14:53 : Time Idle: 00:02:58
+2015-10-20 13:15:07 : Time Idle: 00:03:12
+2015-10-20 13:15:22 : Time Idle: 00:03:26
+2015-10-20 13:15:36 : Time Idle: 00:03:41
+2015-10-20 13:15:51 : Time Idle: 00:03:55
+2015-10-20 13:16:05 : Time Idle: 00:04:09
+2015-10-20 13:16:20 : Time Idle: 00:04:24
+2015-10-20 13:16:34 : Time Idle: 00:04:38
+2015-10-20 13:16:49 : Time Idle: 00:04:52
+2015-10-20 13:17:03 : Time Idle: 00:05:06
+2015-10-20 13:17:17 : Collecting Resources
+2015-10-20 13:17:23 : Time Idle: 00:05:26
+2015-10-20 13:17:38 : Time Idle: 00:05:40
+2015-10-20 13:17:52 : Time Idle: 00:05:55
+2015-10-20 13:18:07 : Time Idle: 00:06:09
+2015-10-20 13:18:22 : Time Idle: 00:06:23
+2015-10-20 13:18:36 : Time Idle: 00:06:38
+2015-10-20 13:18:51 : Time Idle: 00:06:52
+2015-10-20 13:19:05 : Time Idle: 00:07:06
+2015-10-20 13:19:20 : Time Idle: 00:07:21
+2015-10-20 13:19:34 : Time Idle: 00:07:35
+2015-10-20 13:19:49 : Time Idle: 00:07:49
+2015-10-20 13:20:02 : Collecting Resources
+2015-10-20 13:20:09 : Time Idle: 00:08:09
+2015-10-20 13:20:23 : Time Idle: 00:08:23
+2015-10-20 13:20:38 : Time Idle: 00:08:38
+2015-10-20 13:20:52 : Time Idle: 00:08:52
+2015-10-20 13:21:07 : Time Idle: 00:09:06
+2015-10-20 13:21:21 : Time Idle: 00:09:21
+2015-10-20 13:21:36 : Time Idle: 00:09:35
+2015-10-20 13:21:50 : Time Idle: 00:09:49
+2015-10-20 13:22:05 : Time Idle: 00:10:04
+2015-10-20 13:22:19 : Time Idle: 00:10:18
+2015-10-20 13:22:34 : Time Idle: 00:10:32
+2015-10-20 13:22:47 : Collecting Resources
+2015-10-20 13:22:54 : Time Idle: 00:10:52
+2015-10-20 13:23:09 : Time Idle: 00:11:06
+2015-10-20 13:23:23 : Time Idle: 00:11:21
+2015-10-20 13:23:37 : Time Idle: 00:11:35
+2015-10-20 13:23:52 : Time Idle: 00:11:49
+2015-10-20 13:24:07 : Time Idle: 00:12:03
+2015-10-20 13:24:21 : Time Idle: 00:12:18
+2015-10-20 13:24:36 : Time Idle: 00:12:32
+2015-10-20 13:24:50 : Time Idle: 00:12:46
+2015-10-20 13:25:05 : Time Idle: 00:13:01
+2015-10-20 13:25:19 : Time Idle: 00:13:15
+2015-10-20 13:25:33 : Collecting Resources
+2015-10-20 13:25:39 : Time Idle: 00:13:35
+2015-10-20 13:25:54 : Time Idle: 00:13:49
+2015-10-20 13:26:08 : Time Idle: 00:14:03
+2015-10-20 13:26:23 : Time Idle: 00:14:18
+2015-10-20 13:26:37 : Time Idle: 00:14:32
+2015-10-20 13:26:52 : Time Idle: 00:14:46
+2015-10-20 13:27:06 : Time Idle: 00:15:01
+2015-10-20 13:27:21 : Time Idle: 00:15:15
+2015-10-20 13:27:35 : Time Idle: 00:15:29
+2015-10-20 13:27:50 : Time Idle: 00:15:44
+2015-10-20 13:28:05 : Time Idle: 00:15:58
+2015-10-20 13:28:18 : Collecting Resources
+2015-10-20 13:28:25 : Time Idle: 00:16:18
+2015-10-20 13:28:39 : Time Idle: 00:16:32
+2015-10-20 13:28:54 : Time Idle: 00:16:46
+2015-10-20 13:29:09 : Time Idle: 00:17:01
+2015-10-20 13:29:23 : Time Idle: 00:17:15
+2015-10-20 13:29:37 : Time Idle: 00:17:29
+2015-10-20 13:29:52 : Time Idle: 00:17:44
+2015-10-20 13:30:07 : Time Idle: 00:17:58
+2015-10-20 13:30:21 : Time Idle: 00:18:12
+2015-10-20 13:30:36 : Time Idle: 00:18:27
+2015-10-20 13:30:50 : Time Idle: 00:18:41
+2015-10-20 13:31:04 : Collecting Resources
+2015-10-20 13:31:11 : Time Idle: 00:19:01
+2015-10-20 13:31:25 : Time Idle: 00:19:15
+2015-10-20 13:31:40 : Time Idle: 00:19:30
+2015-10-20 13:31:54 : Waiting for Main Screen
+2015-10-20 13:32:00 : Trying to locate Main Screen
+2015-10-20 13:32:00 : Main Screen Located
+2015-10-20 13:32:01 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 13:32:03 : Village Report
+2015-10-20 13:32:03 : No. of Free/Total Builders: 3/5
+2015-10-20 13:32:03 :  [T]: 2 735
+2015-10-20 13:32:03 :  [G]: 5 681 141 [E]: 314 030 [D]: 137 017 [GEM]: 5 309
+2015-10-20 13:32:04 : Collecting Resources
+2015-10-20 13:32:32 : Time Idle: 00:00:14
+2015-10-20 13:32:47 : Time Idle: 00:00:28
+2015-10-20 13:33:01 : Time Idle: 00:00:42
+2015-10-20 13:33:16 : Time Idle: 00:00:57
+2015-10-20 13:33:30 : Time Idle: 00:01:11
+2015-10-20 13:33:45 : Time Idle: 00:01:25
+2015-10-20 13:33:59 : Time Idle: 00:01:40
+2015-10-20 13:34:14 : Time Idle: 00:01:54
+2015-10-20 13:34:27 : Collecting Resources
+2015-10-20 13:34:34 : Time Idle: 00:02:14
+2015-10-20 13:34:49 : Time Idle: 00:02:29
+2015-10-20 13:35:03 : Time Idle: 00:02:43
+2015-10-20 13:35:18 : Time Idle: 00:02:57
+2015-10-20 13:35:32 : Time Idle: 00:03:11
+2015-10-20 13:35:47 : Time Idle: 00:03:26
+2015-10-20 13:36:01 : Time Idle: 00:03:40
+2015-10-20 13:36:16 : Time Idle: 00:03:54
+2015-10-20 13:36:30 : Time Idle: 00:04:08
+2015-10-20 13:36:45 : Time Idle: 00:04:23
+2015-10-20 13:36:59 : Time Idle: 00:04:37
+2015-10-20 13:37:13 : Collecting Resources
+2015-10-20 13:37:19 : Time Idle: 00:04:57
+2015-10-20 13:37:34 : Time Idle: 00:05:11
+2015-10-20 13:37:49 : Time Idle: 00:05:26
+2015-10-20 13:38:03 : Time Idle: 00:05:40
+2015-10-20 13:38:18 : Time Idle: 00:05:54
+2015-10-20 13:38:32 : Time Idle: 00:06:09
+2015-10-20 13:38:47 : Time Idle: 00:06:23
+2015-10-20 13:39:02 : Time Idle: 00:06:37
+2015-10-20 13:39:16 : Time Idle: 00:06:52
+2015-10-20 13:39:31 : Waiting for Main Screen
+2015-10-20 13:39:37 : Trying to locate Main Screen
+2015-10-20 13:39:37 : Main Screen Located
+2015-10-20 13:39:37 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 13:39:40 : Village Report
+2015-10-20 13:39:40 : No. of Free/Total Builders: 3/5
+2015-10-20 13:39:40 :  [T]: 2 735
+2015-10-20 13:39:40 :  [G]: 5 685 209 [E]: 318 098 [D]: 137 035 [GEM]: 5 309
+2015-10-20 13:39:40 : Collecting Resources
+2015-10-20 13:40:09 : Time Idle: 00:00:14
+2015-10-20 13:40:23 : Time Idle: 00:00:28
+2015-10-20 13:40:37 : Collecting Resources
+2015-10-20 13:40:43 : Time Idle: 00:00:48
+2015-10-20 13:40:58 : Time Idle: 00:01:02
+2015-10-20 13:41:12 : Time Idle: 00:01:17
+2015-10-20 13:41:27 : Time Idle: 00:01:31
+2015-10-20 13:41:41 : Time Idle: 00:01:45
+2015-10-20 13:41:56 : Time Idle: 00:01:59
+2015-10-20 13:42:10 : Time Idle: 00:02:14
+2015-10-20 13:42:25 : Time Idle: 00:02:28
+2015-10-20 13:42:39 : Time Idle: 00:02:42
+2015-10-20 13:42:54 : Time Idle: 00:02:56
+2015-10-20 13:43:08 : Time Idle: 00:03:11
+2015-10-20 13:43:22 : Collecting Resources
+2015-10-20 13:43:28 : Time Idle: 00:03:31
+2015-10-20 13:43:43 : Time Idle: 00:03:45
+2015-10-20 13:43:58 : Time Idle: 00:03:59
+2015-10-20 13:44:12 : Time Idle: 00:04:14
+2015-10-20 13:44:27 : Time Idle: 00:04:28
+2015-10-20 13:44:41 : Time Idle: 00:04:42
+2015-10-20 13:44:56 : Time Idle: 00:04:56
+2015-10-20 13:45:10 : Time Idle: 00:05:11
+2015-10-20 13:45:25 : Time Idle: 00:05:25
+2015-10-20 13:45:39 : Time Idle: 00:05:39
+2015-10-20 13:45:54 : Time Idle: 00:05:54
+2015-10-20 13:46:07 : Collecting Resources
+2015-10-20 13:46:14 : Time Idle: 00:06:14
+2015-10-20 13:46:29 : Time Idle: 00:06:28
+2015-10-20 13:46:43 : Time Idle: 00:06:42
+2015-10-20 13:46:58 : Time Idle: 00:06:57
+2015-10-20 13:47:12 : Time Idle: 00:07:11
+2015-10-20 13:47:27 : Time Idle: 00:07:25
+2015-10-20 13:47:41 : Time Idle: 00:07:39
+2015-10-20 13:47:56 : Time Idle: 00:07:54
+2015-10-20 13:48:10 : Time Idle: 00:08:08
+2015-10-20 13:48:25 : Time Idle: 00:08:22
+2015-10-20 13:48:39 : Time Idle: 00:08:37
+2015-10-20 13:48:52 : Collecting Resources
+2015-10-20 13:48:59 : Time Idle: 00:08:57
+2015-10-20 13:49:14 : Time Idle: 00:09:11
+2015-10-20 13:49:28 : Time Idle: 00:09:25
+2015-10-20 13:49:43 : Time Idle: 00:09:39
+2015-10-20 13:49:57 : Time Idle: 00:09:54
+2015-10-20 13:50:12 : Time Idle: 00:10:08
+2015-10-20 13:50:26 : Time Idle: 00:10:22
+2015-10-20 13:50:41 : Time Idle: 00:10:36
+2015-10-20 13:50:55 : Time Idle: 00:10:51
+2015-10-20 13:51:10 : Time Idle: 00:11:05
+2015-10-20 13:51:24 : Time Idle: 00:11:19
+2015-10-20 13:51:38 : Training Overview Window didn't open
+2015-10-20 13:51:38 : Collecting Resources
+2015-10-20 13:51:45 : Time Idle: 00:11:40
+2015-10-20 13:52:00 : Time Idle: 00:11:54
+2015-10-20 13:52:14 : Time Idle: 00:12:09
+2015-10-20 13:52:29 : Time Idle: 00:12:23
+2015-10-20 13:52:44 : Time Idle: 00:12:38
+2015-10-20 13:52:58 : Time Idle: 00:12:52
+2015-10-20 13:53:13 : Time Idle: 00:13:06
+2015-10-20 13:53:27 : Time Idle: 00:13:20
+2015-10-20 13:53:42 : Time Idle: 00:13:35
+2015-10-20 13:53:56 : Time Idle: 00:13:49
+2015-10-20 13:54:11 : Time Idle: 00:14:03
+2015-10-20 13:54:24 : Collecting Resources
+2015-10-20 13:54:31 : Time Idle: 00:14:23
+2015-10-20 13:54:45 : Time Idle: 00:14:37
+2015-10-20 13:55:00 : Waiting for Main Screen
+2015-10-20 13:55:06 : Trying to locate Main Screen
+2015-10-20 13:55:06 : Main Screen Located
+2015-10-20 13:55:06 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 13:55:09 : Village Report
+2015-10-20 13:55:09 : No. of Free/Total Builders: 3/5
+2015-10-20 13:55:09 :  [T]: 2 735
+2015-10-20 13:55:09 :  [G]: 5 689 277 [E]: 322 168 [D]: 137 085 [GEM]: 5 309
+2015-10-20 13:55:09 : Collecting Resources
+2015-10-20 13:55:38 : Time Idle: 00:00:14
+2015-10-20 13:55:52 : Time Idle: 00:00:28
+2015-10-20 13:56:07 : Time Idle: 00:00:42
+2015-10-20 13:56:21 : Time Idle: 00:00:56
+2015-10-20 13:56:36 : Time Idle: 00:01:11
+2015-10-20 13:56:50 : Time Idle: 00:01:25
+2015-10-20 13:57:05 : Time Idle: 00:01:39
+2015-10-20 13:57:18 : Training Overview Window didn't open
+2015-10-20 13:57:20 : Time Idle: 00:01:54
+2015-10-20 13:57:34 : Time Idle: 00:02:09
+2015-10-20 13:57:48 : Collecting Resources
+2015-10-20 13:57:55 : Time Idle: 00:02:29
+2015-10-20 13:58:09 : Time Idle: 00:02:43
+2015-10-20 13:58:24 : Time Idle: 00:02:57
+2015-10-20 13:58:38 : Time Idle: 00:03:12
+2015-10-20 13:58:53 : Time Idle: 00:03:26
+2015-10-20 13:59:07 : Time Idle: 00:03:40
+2015-10-20 13:59:22 : Time Idle: 00:03:55
+2015-10-20 13:59:36 : Time Idle: 00:04:09
+2015-10-20 13:59:51 : Time Idle: 00:04:23
+2015-10-20 14:00:06 : Time Idle: 00:04:38
+2015-10-20 14:00:20 : Time Idle: 00:04:52
+2015-10-20 14:00:33 : Collecting Resources
+2015-10-20 14:00:40 : Time Idle: 00:05:12
+2015-10-20 14:00:55 : Time Idle: 00:05:26
+2015-10-20 14:01:09 : Time Idle: 00:05:40
+2015-10-20 14:01:24 : Time Idle: 00:05:55
+2015-10-20 14:01:38 : Time Idle: 00:06:09
+2015-10-20 14:01:53 : Waiting for Main Screen
+2015-10-20 14:01:59 : Trying to locate Main Screen
+2015-10-20 14:01:59 : Main Screen Located
+2015-10-20 14:02:00 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 14:02:02 : Village Report
+2015-10-20 14:02:02 : No. of Free/Total Builders: 3/5
+2015-10-20 14:02:02 :  [T]: 2 735
+2015-10-20 14:02:02 :  [G]: 5 693 351 [E]: 326 240 [D]: 137 103 [GEM]: 5 309
+2015-10-20 14:02:03 : Collecting Resources
+2015-10-20 14:02:31 : Time Idle: 00:00:14
+2015-10-20 14:02:46 : Time Idle: 00:00:28
+2015-10-20 14:03:00 : Time Idle: 00:00:43
+2015-10-20 14:03:15 : Time Idle: 00:00:57
+2015-10-20 14:03:29 : Time Idle: 00:01:11
+2015-10-20 14:03:44 : Time Idle: 00:01:26
+2015-10-20 14:03:57 : Collecting Resources
+2015-10-20 14:04:04 : Time Idle: 00:01:46
+2015-10-20 14:04:19 : Time Idle: 00:02:00
+2015-10-20 14:04:33 : Time Idle: 00:02:14
+2015-10-20 14:04:48 : Time Idle: 00:02:29
+2015-10-20 14:05:02 : Time Idle: 00:02:43
+2015-10-20 14:05:17 : Time Idle: 00:02:57
+2015-10-20 14:05:31 : Time Idle: 00:03:11
+2015-10-20 14:05:46 : Time Idle: 00:03:26
+2015-10-20 14:06:00 : Time Idle: 00:03:40
+2015-10-20 14:06:15 : Time Idle: 00:03:54
+2015-10-20 14:06:29 : Time Idle: 00:04:08
+2015-10-20 14:06:43 : Collecting Resources
+2015-10-20 14:06:49 : Time Idle: 00:04:28
+2015-10-20 14:07:04 : Time Idle: 00:04:43
+2015-10-20 14:07:19 : Time Idle: 00:04:57
+2015-10-20 14:07:33 : Time Idle: 00:05:11
+2015-10-20 14:07:48 : Time Idle: 00:05:26
+2015-10-20 14:08:02 : Time Idle: 00:05:40
+2015-10-20 14:08:17 : Time Idle: 00:05:54
+2015-10-20 14:08:31 : Time Idle: 00:06:09
+2015-10-20 14:08:46 : Time Idle: 00:06:23
+2015-10-20 14:09:00 : Time Idle: 00:06:37
+2015-10-20 14:09:15 : Time Idle: 00:06:51
+2015-10-20 14:09:28 : Collecting Resources
+2015-10-20 14:09:35 : Time Idle: 00:07:12
+2015-10-20 14:09:50 : Time Idle: 00:07:26
+2015-10-20 14:10:04 : Time Idle: 00:07:40
+2015-10-20 14:10:19 : Time Idle: 00:07:55
+2015-10-20 14:10:33 : Time Idle: 00:08:09
+2015-10-20 14:10:47 : Training Overview Window didn't open
+2015-10-20 14:10:49 : Time Idle: 00:08:24
+2015-10-20 14:11:03 : Time Idle: 00:08:38
+2015-10-20 14:11:18 : Time Idle: 00:08:53
+2015-10-20 14:11:32 : Time Idle: 00:09:07
+2015-10-20 14:11:47 : Time Idle: 00:09:21
+2015-10-20 14:12:01 : Time Idle: 00:09:35
+2015-10-20 14:12:14 : Collecting Resources
+2015-10-20 14:12:21 : Time Idle: 00:09:55
+2015-10-20 14:12:36 : Time Idle: 00:10:10
+2015-10-20 14:12:50 : Time Idle: 00:10:24
+2015-10-20 14:13:05 : Time Idle: 00:10:38
+2015-10-20 14:13:18 : Training Overview Window didn't open
+2015-10-20 14:13:20 : Time Idle: 00:10:53
+2015-10-20 14:13:35 : Time Idle: 00:11:08
+2015-10-20 14:13:49 : Time Idle: 00:11:22
+2015-10-20 14:14:04 : Time Idle: 00:11:36
+2015-10-20 14:14:18 : Time Idle: 00:11:50
+2015-10-20 14:14:33 : Time Idle: 00:12:05
+2015-10-20 14:14:47 : Time Idle: 00:12:19
+2015-10-20 14:15:01 : Collecting Resources
+2015-10-20 14:15:07 : Time Idle: 00:12:39
+2015-10-20 14:15:22 : Time Idle: 00:12:53
+2015-10-20 14:15:36 : Time Idle: 00:13:07
+2015-10-20 14:15:51 : Time Idle: 00:13:22
+2015-10-20 14:16:05 : Time Idle: 00:13:36
+2015-10-20 14:16:20 : Time Idle: 00:13:50
+2015-10-20 14:16:34 : Time Idle: 00:14:04
+2015-10-20 14:16:49 : Time Idle: 00:14:19
+2015-10-20 14:17:03 : Time Idle: 00:14:33
+2015-10-20 14:17:18 : Time Idle: 00:14:47
+2015-10-20 14:17:32 : Time Idle: 00:15:02
+2015-10-20 14:17:46 : Collecting Resources
+2015-10-20 14:17:52 : Time Idle: 00:15:22
+2015-10-20 14:18:07 : Time Idle: 00:15:36
+2015-10-20 14:18:22 : Time Idle: 00:15:50
+2015-10-20 14:18:36 : Time Idle: 00:16:05
+2015-10-20 14:18:51 : Time Idle: 00:16:19
+2015-10-20 14:19:05 : Time Idle: 00:16:33
+2015-10-20 14:19:20 : Time Idle: 00:16:47
+2015-10-20 14:19:34 : Time Idle: 00:17:02
+2015-10-20 14:19:48 : Time Idle: 00:17:16
+2015-10-20 14:20:03 : Time Idle: 00:17:30
+2015-10-20 14:20:18 : Time Idle: 00:17:45
+2015-10-20 14:20:31 : Collecting Resources
+2015-10-20 14:20:38 : Time Idle: 00:18:05
+2015-10-20 14:20:52 : Training Overview Window didn't open
+2015-10-20 14:20:53 : Time Idle: 00:18:20
+2015-10-20 14:21:08 : Time Idle: 00:18:34
+2015-10-20 14:21:22 : Time Idle: 00:18:49
+2015-10-20 14:21:37 : Time Idle: 00:19:03
+2015-10-20 14:21:52 : Waiting for Main Screen
+2015-10-20 14:21:58 : Trying to locate Main Screen
+2015-10-20 14:21:58 : Main Screen Located
+2015-10-20 14:21:59 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 14:22:01 : Village Report
+2015-10-20 14:22:01 : No. of Free/Total Builders: 3/5
+2015-10-20 14:22:01 :  [T]: 2 735
+2015-10-20 14:22:01 :  [G]: 5 701 277 [E]: 334 166 [D]: 137 161 [GEM]: 5 309
+2015-10-20 14:22:01 : Collecting Resources
+2015-10-20 14:22:30 : Time Idle: 00:00:14
+2015-10-20 14:22:44 : Time Idle: 00:00:28
+2015-10-20 14:22:59 : Time Idle: 00:00:43
+2015-10-20 14:23:14 : Time Idle: 00:00:57
+2015-10-20 14:23:28 : Time Idle: 00:01:11
+2015-10-20 14:23:43 : Time Idle: 00:01:25
+2015-10-20 14:23:56 : Collecting Resources
+2015-10-20 14:24:03 : Time Idle: 00:01:45
+2015-10-20 14:24:17 : Time Idle: 00:01:59
+2015-10-20 14:24:32 : Time Idle: 00:02:14
+2015-10-20 14:24:46 : Time Idle: 00:02:28
+2015-10-20 14:25:01 : Time Idle: 00:02:42
+2015-10-20 14:25:15 : Time Idle: 00:02:57
+2015-10-20 14:25:30 : Time Idle: 00:03:11
+2015-10-20 14:25:44 : Time Idle: 00:03:25
+2015-10-20 14:25:59 : Time Idle: 00:03:39
+2015-10-20 14:26:13 : Time Idle: 00:03:54
+2015-10-20 14:26:28 : Time Idle: 00:04:08
+2015-10-20 14:26:41 : Collecting Resources
+2015-10-20 14:26:48 : Time Idle: 00:04:28
+2015-10-20 14:27:02 : Time Idle: 00:04:42
+2015-10-20 14:27:17 : Time Idle: 00:04:57
+2015-10-20 14:27:31 : Time Idle: 00:05:11
+2015-10-20 14:27:46 : Time Idle: 00:05:25
+2015-10-20 14:28:00 : Time Idle: 00:05:40
+2015-10-20 14:28:15 : Time Idle: 00:05:54
+2015-10-20 14:28:29 : Time Idle: 00:06:08
+2015-10-20 14:28:44 : Time Idle: 00:06:22
+2015-10-20 14:28:58 : Time Idle: 00:06:37
+2015-10-20 14:29:13 : Time Idle: 00:06:51
+2015-10-20 14:29:26 : Collecting Resources
+2015-10-20 14:29:33 : Time Idle: 00:07:11
+2015-10-20 14:29:48 : Time Idle: 00:07:25
+2015-10-20 14:30:02 : Time Idle: 00:07:40
+2015-10-20 14:30:17 : Time Idle: 00:07:54
+2015-10-20 14:30:31 : Time Idle: 00:08:08
+2015-10-20 14:30:46 : Time Idle: 00:08:22
+2015-10-20 14:31:01 : Time Idle: 00:08:37
+2015-10-20 14:31:15 : Time Idle: 00:08:51
+2015-10-20 14:31:30 : Waiting for Main Screen
+2015-10-20 14:31:36 : Trying to locate Main Screen
+2015-10-20 14:31:36 : Main Screen Located
+2015-10-20 14:31:36 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 14:31:39 : Village Report
+2015-10-20 14:31:39 : No. of Free/Total Builders: 3/5
+2015-10-20 14:31:39 :  [T]: 2 735
+2015-10-20 14:31:39 :  [G]: 5 701 277 [E]: 334 166 [D]: 137 187 [GEM]: 5 309
+2015-10-20 14:31:39 : Collecting Resources
+2015-10-20 14:32:08 : Time Idle: 00:00:14
+2015-10-20 14:32:23 : Time Idle: 00:00:28
+2015-10-20 14:32:37 : Time Idle: 00:00:42
+2015-10-20 14:32:50 : Collecting Resources
+2015-10-20 14:32:58 : Time Idle: 00:01:03
+2015-10-20 14:33:12 : Time Idle: 00:01:17
+2015-10-20 14:33:27 : Time Idle: 00:01:31
+2015-10-20 14:33:41 : Time Idle: 00:01:45
+2015-10-20 14:33:56 : Time Idle: 00:02:00
+2015-10-20 14:34:10 : Time Idle: 00:02:14
+2015-10-20 14:34:25 : Time Idle: 00:02:29
+2015-10-20 14:34:40 : Time Idle: 00:02:43
+2015-10-20 14:34:54 : Time Idle: 00:02:57
+2015-10-20 14:35:09 : Time Idle: 00:03:12
+2015-10-20 14:35:23 : Time Idle: 00:03:26
+2015-10-20 14:35:37 : Collecting Resources
+2015-10-20 14:35:43 : Time Idle: 00:03:46
+2015-10-20 14:35:58 : Time Idle: 00:04:00
+2015-10-20 14:36:12 : Time Idle: 00:04:14
+2015-10-20 14:36:27 : Time Idle: 00:04:29
+2015-10-20 14:36:41 : Time Idle: 00:04:43
+2015-10-20 14:36:56 : Time Idle: 00:04:57
+2015-10-20 14:37:10 : Time Idle: 00:05:11
+2015-10-20 14:37:25 : Time Idle: 00:05:26
+2015-10-20 14:37:39 : Time Idle: 00:05:40
+2015-10-20 14:37:54 : Time Idle: 00:05:54
+2015-10-20 14:38:09 : Time Idle: 00:06:09
+2015-10-20 14:38:22 : Collecting Resources
+2015-10-20 14:38:29 : Time Idle: 00:06:29
+2015-10-20 14:38:43 : Time Idle: 00:06:43
+2015-10-20 14:38:58 : Time Idle: 00:06:57
+2015-10-20 14:39:12 : Time Idle: 00:07:12
+2015-10-20 14:39:27 : Time Idle: 00:07:26
+2015-10-20 14:39:41 : Time Idle: 00:07:40
+2015-10-20 14:39:55 : Training Overview Window didn't open
+2015-10-20 14:39:57 : Time Idle: 00:07:55
+2015-10-20 14:40:11 : Time Idle: 00:08:10
+2015-10-20 14:40:26 : Time Idle: 00:08:24
+2015-10-20 14:40:40 : Time Idle: 00:08:38
+2015-10-20 14:40:55 : Time Idle: 00:08:53
+2015-10-20 14:41:08 : Collecting Resources
+2015-10-20 14:41:15 : Time Idle: 00:09:12
+2015-10-20 14:41:29 : Time Idle: 00:09:27
+2015-10-20 14:41:44 : Time Idle: 00:09:41
+2015-10-20 14:41:58 : Time Idle: 00:09:55
+2015-10-20 14:42:13 : Time Idle: 00:10:10
+2015-10-20 14:42:28 : Time Idle: 00:10:24
+2015-10-20 14:42:42 : Time Idle: 00:10:38
+2015-10-20 14:42:57 : Time Idle: 00:10:53
+2015-10-20 14:43:11 : Time Idle: 00:11:07
+2015-10-20 14:43:26 : Time Idle: 00:11:21
+2015-10-20 14:43:40 : Time Idle: 00:11:36
+2015-10-20 14:43:53 : Collecting Resources
+2015-10-20 14:44:01 : Time Idle: 00:11:56
+2015-10-20 14:44:15 : Time Idle: 00:12:10
+2015-10-20 14:44:30 : Time Idle: 00:12:24
+2015-10-20 14:44:44 : Time Idle: 00:12:39
+2015-10-20 14:44:59 : Time Idle: 00:12:53
+2015-10-20 14:45:13 : Time Idle: 00:13:07
+2015-10-20 14:45:28 : Time Idle: 00:13:22
+2015-10-20 14:45:42 : Time Idle: 00:13:36
+2015-10-20 14:45:57 : Time Idle: 00:13:50
+2015-10-20 14:46:11 : Time Idle: 00:14:05
+2015-10-20 14:46:26 : Time Idle: 00:14:19
+2015-10-20 14:46:39 : Collecting Resources
+2015-10-20 14:46:46 : Time Idle: 00:14:39
+2015-10-20 14:47:00 : Training Overview Window didn't open
+2015-10-20 14:47:02 : Time Idle: 00:14:54
+2015-10-20 14:47:16 : Time Idle: 00:15:08
+2015-10-20 14:47:31 : Time Idle: 00:15:23
+2015-10-20 14:47:45 : Time Idle: 00:15:37
+2015-10-20 14:48:03 : Waiting for Main Screen
+2015-10-20 14:48:05 : Village must take a break, wait ...
+2015-10-20 14:50:08 : Village must take a break, wait ...
+2015-10-20 14:52:19 : Trying to locate Main Screen
+2015-10-20 14:52:19 : Main Screen Located
+2015-10-20 14:52:20 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 14:52:22 : Village Report
+2015-10-20 14:52:22 : No. of Free/Total Builders: 3/5
+2015-10-20 14:52:22 :  [T]: 2 734
+2015-10-20 14:52:22 :  [G]: 5 708 443 [E]: 341 330 [D]: 137 236 [GEM]: 5 309
+2015-10-20 14:52:23 : Collecting Resources
+2015-10-20 14:52:51 : Time Idle: 00:00:14
+2015-10-20 14:53:06 : Time Idle: 00:00:28
+2015-10-20 14:53:20 : Time Idle: 00:00:43
+2015-10-20 14:53:35 : Time Idle: 00:00:57
+2015-10-20 14:53:49 : Time Idle: 00:01:11
+2015-10-20 14:54:04 : Time Idle: 00:01:25
+2015-10-20 14:54:17 : Collecting Resources
+2015-10-20 14:54:24 : Time Idle: 00:01:46
+2015-10-20 14:54:39 : Time Idle: 00:02:00
+2015-10-20 14:54:53 : Time Idle: 00:02:14
+2015-10-20 14:55:08 : Time Idle: 00:02:29
+2015-10-20 14:55:22 : Time Idle: 00:02:43
+2015-10-20 14:55:37 : Time Idle: 00:02:57
+2015-10-20 14:55:51 : Time Idle: 00:03:11
+2015-10-20 14:56:06 : Time Idle: 00:03:26
+2015-10-20 14:56:20 : Time Idle: 00:03:40
+2015-10-20 14:56:35 : Time Idle: 00:03:55
+2015-10-20 14:56:50 : Time Idle: 00:04:09
+2015-10-20 14:57:03 : Collecting Resources
+2015-10-20 14:57:10 : Time Idle: 00:04:29
+2015-10-20 14:57:25 : Time Idle: 00:04:44
+2015-10-20 14:57:39 : Time Idle: 00:04:58
+2015-10-20 14:57:54 : Time Idle: 00:05:12
+2015-10-20 14:58:08 : Time Idle: 00:05:26
+2015-10-20 14:58:23 : Time Idle: 00:05:41
+2015-10-20 14:58:37 : Time Idle: 00:05:55
+2015-10-20 14:58:52 : Time Idle: 00:06:09
+2015-10-20 14:59:07 : Time Idle: 00:06:24
+2015-10-20 14:59:21 : Time Idle: 00:06:38
+2015-10-20 14:59:36 : Time Idle: 00:06:52
+2015-10-20 14:59:49 : Training Overview Window didn't open
+2015-10-20 14:59:50 : Collecting Resources
+2015-10-20 14:59:56 : Time Idle: 00:07:13
+2015-10-20 15:00:11 : Time Idle: 00:07:27
+2015-10-20 15:00:26 : Time Idle: 00:07:42
+2015-10-20 15:00:40 : Time Idle: 00:07:56
+2015-10-20 15:00:55 : Time Idle: 00:08:10
+2015-10-20 15:01:09 : Time Idle: 00:08:25
+2015-10-20 15:01:24 : Time Idle: 00:08:39
+2015-10-20 15:01:38 : Time Idle: 00:08:53
+2015-10-20 15:01:53 : Time Idle: 00:09:08
+2015-10-20 15:02:07 : Time Idle: 00:09:22
+2015-10-20 15:02:22 : Time Idle: 00:09:36
+2015-10-20 15:02:35 : Collecting Resources
+2015-10-20 15:02:42 : Time Idle: 00:09:56
+2015-10-20 15:02:56 : Time Idle: 00:10:10
+2015-10-20 15:03:11 : Waiting for Main Screen
+2015-10-20 15:03:17 : Trying to locate Main Screen
+2015-10-20 15:03:17 : Main Screen Located
+2015-10-20 15:03:18 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 15:03:20 : Village Report
+2015-10-20 15:03:20 : No. of Free/Total Builders: 3/5
+2015-10-20 15:03:20 :  [T]: 2 734
+2015-10-20 15:03:20 :  [G]: 5 712 182 [E]: 345 084 [D]: 137 284 [GEM]: 5 309
+2015-10-20 15:03:20 : Collecting Resources
+2015-10-20 15:03:49 : Time Idle: 00:00:14
+2015-10-20 15:04:03 : Time Idle: 00:00:28
+2015-10-20 15:04:18 : Time Idle: 00:00:42
+2015-10-20 15:04:32 : Time Idle: 00:00:56
+2015-10-20 15:04:47 : Time Idle: 00:01:11
+2015-10-20 15:05:01 : Time Idle: 00:01:25
+2015-10-20 15:05:16 : Time Idle: 00:01:39
+2015-10-20 15:05:30 : Time Idle: 00:01:54
+2015-10-20 15:05:45 : Time Idle: 00:02:08
+2015-10-20 15:05:58 : Collecting Resources
+2015-10-20 15:06:05 : Time Idle: 00:02:28
+2015-10-20 15:06:20 : Time Idle: 00:02:42
+2015-10-20 15:06:34 : Time Idle: 00:02:57
+2015-10-20 15:06:49 : Time Idle: 00:03:11
+2015-10-20 15:07:03 : Time Idle: 00:03:25
+2015-10-20 15:07:18 : Time Idle: 00:03:39
+2015-10-20 15:07:32 : Time Idle: 00:03:54
+2015-10-20 15:07:47 : Time Idle: 00:04:08
+2015-10-20 15:08:01 : Time Idle: 00:04:22
+2015-10-20 15:08:16 : Time Idle: 00:04:37
+2015-10-20 15:08:30 : Time Idle: 00:04:51
+2015-10-20 15:08:44 : Collecting Resources
+2015-10-20 15:08:51 : Time Idle: 00:05:11
+2015-10-20 15:09:05 : Time Idle: 00:05:25
+2015-10-20 15:09:20 : Time Idle: 00:05:40
+2015-10-20 15:09:34 : Time Idle: 00:05:54
+2015-10-20 15:09:49 : Time Idle: 00:06:08
+2015-10-20 15:10:04 : Time Idle: 00:06:23
+2015-10-20 15:10:18 : Time Idle: 00:06:37
+2015-10-20 15:10:33 : Time Idle: 00:06:52
+2015-10-20 15:10:47 : Time Idle: 00:07:06
+2015-10-20 15:11:02 : Time Idle: 00:07:20
+2015-10-20 15:11:16 : Time Idle: 00:07:35
+2015-10-20 15:11:31 : Waiting for Main Screen
+2015-10-20 15:11:37 : Trying to locate Main Screen
+2015-10-20 15:11:37 : Main Screen Located
+2015-10-20 15:11:38 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 15:11:40 : Village Report
+2015-10-20 15:11:40 : No. of Free/Total Builders: 3/5
+2015-10-20 15:11:40 :  [T]: 2 734
+2015-10-20 15:11:40 :  [G]: 5 715 575 [E]: 349 159 [D]: 137 302 [GEM]: 5 309
+2015-10-20 15:11:41 : Collecting Resources
+2015-10-20 15:12:08 : Collecting Resources
+2015-10-20 15:12:14 : Time Idle: 00:00:19
+2015-10-20 15:12:29 : Time Idle: 00:00:34
+2015-10-20 15:12:44 : Time Idle: 00:00:48
+2015-10-20 15:12:58 : Time Idle: 00:01:02
+2015-10-20 15:13:13 : Time Idle: 00:01:17
+2015-10-20 15:13:27 : Time Idle: 00:01:31
+2015-10-20 15:13:42 : Time Idle: 00:01:45
+2015-10-20 15:13:56 : Time Idle: 00:02:00
+2015-10-20 15:14:11 : Time Idle: 00:02:14
+2015-10-20 15:14:26 : Time Idle: 00:02:28
+2015-10-20 15:14:40 : Time Idle: 00:02:43
+2015-10-20 15:14:53 : Collecting Resources
+2015-10-20 15:15:00 : Time Idle: 00:03:02
+2015-10-20 15:15:15 : Time Idle: 00:03:17
+2015-10-20 15:15:29 : Time Idle: 00:03:31
+2015-10-20 15:15:44 : Time Idle: 00:03:45
+2015-10-20 15:15:58 : Time Idle: 00:04:00
+2015-10-20 15:16:13 : Time Idle: 00:04:14
+2015-10-20 15:16:27 : Time Idle: 00:04:28
+2015-10-20 15:16:42 : Time Idle: 00:04:42
+2015-10-20 15:16:56 : Time Idle: 00:04:57
+2015-10-20 15:17:11 : Time Idle: 00:05:11
+2015-10-20 15:17:24 : Training Overview Window didn't open
+2015-10-20 15:17:26 : Time Idle: 00:05:26
+2015-10-20 15:17:40 : Collecting Resources
+2015-10-20 15:17:47 : Time Idle: 00:05:46
+2015-10-20 15:18:01 : Time Idle: 00:06:01
+2015-10-20 15:18:15 : Time Idle: 00:06:15
+2015-10-20 15:18:30 : Time Idle: 00:06:29
+2015-10-20 15:18:45 : Time Idle: 00:06:44
+2015-10-20 15:18:59 : Time Idle: 00:06:58
+2015-10-20 15:19:14 : Time Idle: 00:07:12
+2015-10-20 15:19:28 : Time Idle: 00:07:26
+2015-10-20 15:19:43 : Time Idle: 00:07:41
+2015-10-20 15:19:57 : Time Idle: 00:07:55
+2015-10-20 15:20:12 : Time Idle: 00:08:09
+2015-10-20 15:20:25 : Collecting Resources
+2015-10-20 15:20:32 : Time Idle: 00:08:29
+2015-10-20 15:20:46 : Time Idle: 00:08:44
+2015-10-20 15:21:01 : Time Idle: 00:08:58
+2015-10-20 15:21:16 : Time Idle: 00:09:12
+2015-10-20 15:21:30 : Time Idle: 00:09:27
+2015-10-20 15:21:45 : Time Idle: 00:09:41
+2015-10-20 15:21:59 : Time Idle: 00:09:55
+2015-10-20 15:22:14 : Time Idle: 00:10:10
+2015-10-20 15:22:28 : Time Idle: 00:10:24
+2015-10-20 15:22:43 : Time Idle: 00:10:38
+2015-10-20 15:22:57 : Time Idle: 00:10:53
+2015-10-20 15:23:11 : Collecting Resources
+2015-10-20 15:23:17 : Time Idle: 00:11:12
+2015-10-20 15:23:32 : Time Idle: 00:11:27
+2015-10-20 15:23:47 : Waiting for Main Screen
+2015-10-20 15:23:53 : Trying to locate Main Screen
+2015-10-20 15:23:53 : Main Screen Located
+2015-10-20 15:23:53 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 15:23:55 : Village Report
+2015-10-20 15:23:55 : No. of Free/Total Builders: 3/5
+2015-10-20 15:23:56 :  [T]: 2 734
+2015-10-20 15:23:56 :  [G]: 5 720 334 [E]: 353 239 [D]: 137 344 [GEM]: 5 309
+2015-10-20 15:23:56 : Collecting Resources
+2015-10-20 15:24:25 : Time Idle: 00:00:14
+2015-10-20 15:24:39 : Time Idle: 00:00:28
+2015-10-20 15:24:54 : Time Idle: 00:00:42
+2015-10-20 15:25:08 : Time Idle: 00:00:57
+2015-10-20 15:25:23 : Time Idle: 00:01:11
+2015-10-20 15:25:37 : Time Idle: 00:01:25
+2015-10-20 15:25:52 : Time Idle: 00:01:40
+2015-10-20 15:26:06 : Time Idle: 00:01:54
+2015-10-20 15:26:21 : Waiting for Main Screen
+2015-10-20 15:26:27 : Trying to locate Main Screen
+2015-10-20 15:26:27 : Main Screen Located
+2015-10-20 15:26:28 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 15:26:30 : Village Report
+2015-10-20 15:26:30 : No. of Free/Total Builders: 3/5
+2015-10-20 15:26:30 :  [T]: 2 734
+2015-10-20 15:26:30 :  [G]: 5 720 334 [E]: 353 239 [D]: 137 344 [GEM]: 5 309
+2015-10-20 15:26:31 : Collecting Resources
+2015-10-20 15:26:59 : Time Idle: 00:00:14
+2015-10-20 15:27:13 : Collecting Resources
+2015-10-20 15:27:19 : Time Idle: 00:00:34
+2015-10-20 15:27:34 : Time Idle: 00:00:48
+2015-10-20 15:27:48 : Time Idle: 00:01:02
+2015-10-20 15:28:03 : Time Idle: 00:01:17
+2015-10-20 15:28:17 : Time Idle: 00:01:31
+2015-10-20 15:28:32 : Time Idle: 00:01:45
+2015-10-20 15:28:46 : Time Idle: 00:01:59
+2015-10-20 15:29:01 : Time Idle: 00:02:14
+2015-10-20 15:29:15 : Time Idle: 00:02:28
+2015-10-20 15:29:30 : Time Idle: 00:02:42
+2015-10-20 15:29:45 : Time Idle: 00:02:57
+2015-10-20 15:29:58 : Collecting Resources
+2015-10-20 15:30:05 : Time Idle: 00:03:17
+2015-10-20 15:30:19 : Time Idle: 00:03:31
+2015-10-20 15:30:34 : Time Idle: 00:03:45
+2015-10-20 15:30:48 : Time Idle: 00:04:00
+2015-10-20 15:31:03 : Time Idle: 00:04:14
+2015-10-20 15:31:17 : Time Idle: 00:04:28
+2015-10-20 15:31:32 : Time Idle: 00:04:43
+2015-10-20 15:31:47 : Time Idle: 00:04:57
+2015-10-20 15:32:01 : Time Idle: 00:05:11
+2015-10-20 15:32:16 : Time Idle: 00:05:26
+2015-10-20 15:32:30 : Time Idle: 00:05:40
+2015-10-20 15:32:44 : Collecting Resources
+2015-10-20 15:32:51 : Time Idle: 00:06:00
+2015-10-20 15:33:05 : Time Idle: 00:06:15
+2015-10-20 15:33:20 : Time Idle: 00:06:29
+2015-10-20 15:33:34 : Time Idle: 00:06:43
+2015-10-20 15:33:49 : Time Idle: 00:06:57
+2015-10-20 15:34:03 : Time Idle: 00:07:12
+2015-10-20 15:34:18 : Time Idle: 00:07:26
+2015-10-20 15:34:32 : Time Idle: 00:07:40
+2015-10-20 15:34:47 : Time Idle: 00:07:54
+2015-10-20 15:35:01 : Time Idle: 00:08:09
+2015-10-20 15:35:16 : Time Idle: 00:08:23
+2015-10-20 15:35:29 : Collecting Resources
+2015-10-20 15:35:36 : Time Idle: 00:08:43
+2015-10-20 15:35:50 : Time Idle: 00:08:57
+2015-10-20 15:36:05 : Time Idle: 00:09:12
+2015-10-20 15:36:19 : Time Idle: 00:09:26
+2015-10-20 15:36:34 : Time Idle: 00:09:40
+2015-10-20 15:36:49 : Time Idle: 00:09:54
+2015-10-20 15:37:03 : Time Idle: 00:10:09
+2015-10-20 15:37:17 : Time Idle: 00:10:23
+2015-10-20 15:37:32 : Waiting for Main Screen
+2015-10-20 15:37:38 : Trying to locate Main Screen
+2015-10-20 15:37:38 : Main Screen Located
+2015-10-20 15:37:39 : Halt Attack, Stay Online/Collect/Donate...
+2015-10-20 15:37:41 : Village Report
+2015-10-20 15:37:41 : No. of Free/Total Builders: 3/5
+2015-10-20 15:37:41 :  [T]: 2 734
+2015-10-20 15:37:41 :  [G]: 5 724 636 [E]: 357 541 [D]: 137 380 [GEM]: 5 309
+2015-10-20 15:37:42 : Collecting Resources
+2015-10-20 15:38:10 : Time Idle: 00:00:14
+2015-10-20 15:38:25 : Time Idle: 00:00:28
+2015-10-20 15:38:39 : Time Idle: 00:00:43
+2015-10-20 15:38:53 : Collecting Resources
+2015-10-20 15:39:00 : Time Idle: 00:01:03
+2015-10-20 15:39:14 : Time Idle: 00:01:17
+2015-10-20 15:39:29 : Time Idle: 00:01:31
+2015-10-20 15:39:42 : Training Overview Window didn't open
+2015-10-20 15:39:44 : Time Idle: 00:01:47
+2015-10-20 15:39:59 : Time Idle: 00:02:01
+2015-10-20 15:40:13 : Time Idle: 00:02:15
+2015-10-20 15:40:28 : Time Idle: 00:02:29
+2015-10-20 15:40:42 : Time Idle: 00:02:44
+2015-10-20 15:40:57 : Time Idle: 00:02:58
+2015-10-20 15:41:11 : Time Idle: 00:03:12
+2015-10-20 15:41:26 : Time Idle: 00:03:27
+2015-10-20 15:41:39 : Collecting Resources
+2015-10-20 15:41:46 : Time Idle: 00:03:47
+2015-10-20 15:42:01 : Time Idle: 00:04:01
+2015-10-20 15:42:15 : Time Idle: 00:04:15
+2015-10-20 15:42:30 : Time Idle: 00:04:30
+2015-10-20 15:42:44 : Time Idle: 00:04:44
+2015-10-20 15:42:59 : Time Idle: 00:04:58
+2015-10-20 15:43:14 : Time Idle: 00:05:13
+2015-10-20 15:43:28 : Time Idle: 00:05:27
+2015-10-20 15:43:43 : Time Idle: 00:05:41
+2015-10-20 15:43:57 : Time Idle: 00:05:56
+2015-10-20 15:44:12 : Time Idle: 00:06:10
+2015-10-20 15:44:25 : Collecting Resources
+2015-10-20 15:44:32 : Time Idle: 00:06:30
+2015-10-20 15:44:47 : Time Idle: 00:06:44
+2015-10-20 15:45:01 : Time Idle: 00:06:59
+2015-10-20 15:45:16 : Time Idle: 00:07:13
+2015-10-20 15:45:29 : Training Overview Window didn't open
+2015-10-20 15:45:31 : Time Idle: 00:07:28
+2015-10-20 15:45:46 : Time Idle: 00:07:43
+2015-10-20 15:46:00 : Time Idle: 00:07:57
+2015-10-20 15:46:15 : Time Idle: 00:08:11
+2015-10-20 15:46:30 : Time Idle: 00:08:26
+2015-10-20 15:46:44 : Time Idle: 00:08:40
+2015-10-20 15:46:58 : Time Idle: 00:08:54
+2015-10-20 15:47:12 : Collecting Resources
+2015-10-20 15:47:19 : Time Idle: 00:09:14
+2015-10-20 15:47:33 : Time Idle: 00:09:28
+2015-10-20 15:47:48 : Time Idle: 00:09:43
+2015-10-20 15:48:02 : Time Idle: 00:09:57
+2015-10-20 15:48:17 : Time Idle: 00:10:11
+2015-10-20 15:48:31 : Time Idle: 00:10:26
+2015-10-20 15:48:46 : Time Idle: 00:10:40
+2015-10-20 15:49:00 : Time Idle: 00:10:54
+2015-10-20 15:49:15 : Time Idle: 00:11:09
+2015-10-20 15:49:30 : Time Idle: 00:11:23
+2015-10-20 15:49:44 : Time Idle: 00:11:37
+2015-10-20 15:49:57 : Collecting Resources
+2015-10-20 15:50:04 : Time Idle: 00:11:57
+2015-10-20 15:50:19 : Time Idle: 00:12:11
+2015-10-20 15:50:33 : Time Idle: 00:12:26
+2015-10-20 15:50:48 : Time Idle: 00:12:40
+2015-10-20 15:51:02 : Time Idle: 00:12:54
+2015-10-20 15:51:17 : Time Idle: 00:13:09
+2015-10-20 15:51:30 : Training Overview Window didn't open
+2015-10-20 15:51:32 : Time Idle: 00:13:24
+2015-10-20 15:51:47 : Time Idle: 00:13:38
+2015-10-20 15:52:01 : Time Idle: 00:13:52
+2015-10-20 15:52:16 : Time Idle: 00:14:06
+2015-10-20 15:52:30 : Time Idle: 00:14:21
+2015-10-20 15:52:43 : Collecting Resources
+2015-10-20 15:52:50 : Time Idle: 00:14:41
+2015-10-20 15:53:05 : Time Idle: 00:14:55
+2015-10-20 15:53:19 : Time Idle: 00:15:09
+2015-10-20 15:53:34 : Time Idle: 00:15:24
+2015-10-20 15:53:48 : Time Idle: 00:15:38
+2015-10-20 15:53:58 : ClashGameBot was Paused!

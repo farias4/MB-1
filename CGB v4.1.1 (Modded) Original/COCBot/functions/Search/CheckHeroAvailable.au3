@@ -46,11 +46,12 @@
 			$LBsave[9] = $iMinGold[$LB]
 			$LBsave[10] = $iMinElixir[$LB]
 			$LBsave[11] = $iMinGoldPlusElixir[$LB]
-			$LBsave[12] = $iMinDark[$LB]
-			$LBsave[13] = $iMinTrophy[$LB]
-			$LBsave[14] = $iCmbTH[$LB]
-			$LBsave[15] = $iCmbWeakMortar[$LB]
-			$LBsave[16] = $iCmbWeakWizTower[$LB]
+			$LBsave[12] = $iMinGoldPlusElixirPlusDE[$LB]
+			$LBsave[13] = $iMinDark[$LB]
+			$LBsave[14] = $iMinTrophy[$LB]
+			$LBsave[15] = $iCmbTH[$LB]
+			$LBsave[16] = $iCmbWeakMortar[$LB]
+			$LBsave[17] = $iCmbWeakWizTower[$LB]
 
 			;Enable hero healing search mode.
 			$iMaxTH[$LB] =				$iMaxTHHero
@@ -64,6 +65,7 @@
 			$iMinGold[$LB] = 			$iMinGoldHero
 			$iMinElixir[$LB] = 			$iMinElixirHero
 			$iMinGoldPlusElixir[$LB] = 	$iMinGoldPlusElixirHero
+			$iMinGoldPlusElixirPlusDE[$LB] = 	$iMinGoldPlusElixirPlusDEHero
 			$iMinDark[$LB] = 			$iMinDarkHero
 			$iMinTrophy[$LB] = 			$iMinTrophyHero
 			$iCmbTH[$LB] = 				$iCmbTHHero
@@ -86,9 +88,10 @@
 			$iMinGold[$LB] = 			$LBsave[9]
 			$iMinElixir[$LB] = 			$LBsave[10]
 			$iMinGoldPlusElixir[$LB] = 	$LBsave[11]
-			$iMinDark[$LB] = 			$LBsave[12]
-			$iMinTrophy[$LB] = 			$LBsave[13]
-			$iCmbTH[$LB] = 				$LBsave[14]
-			$iCmbWeakMortar[$LB] = 		$LBsave[15]
-			$iCmbWeakWizTower[$LB] = 	$LBsave[16]
+			$iMinGoldPlusElixirPlusDE[$LB] = 	$LBsave[12]
+			$iMinDark[$LB] = 			$LBsave[13]
+			$iMinTrophy[$LB] = 			$LBsave[14]
+			$iCmbTH[$LB] = 				$LBsave[15]
+			$iCmbWeakMortar[$LB] = 		$LBsave[16]
+			$iCmbWeakWizTower[$LB] = 	$LBsave[17]
 	EndFunc

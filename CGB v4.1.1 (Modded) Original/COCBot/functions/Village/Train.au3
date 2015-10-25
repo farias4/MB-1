@@ -437,7 +437,7 @@ Func Train()
 					$BarrackStatus[$brrNum - 1] = True
 				EndIf
 			Next
-			
+
 			Local $TempTroopName = ""
 			;Balanced troops train in normal order
 			For $i = 0 To UBound($TroopName) - 1
@@ -472,7 +472,7 @@ Func Train()
 				   $TempTroopName = ""
 			   EndIf
 			Next
-			
+
 			For $i = 0 To UBound($TroopName) - 1 ; put troops at end of queue if there are too many
 				If Eval("tooMany" & $TroopName[$i]) = 1 Then
 					If Not (IsTrainPage()) Then Return ;exit from train
@@ -713,10 +713,10 @@ Func Train()
 		WEnd
 		If isSpellFactory() Then
 			Local $x = 0
-			local $Spellslot = -1			
+			local $Spellslot = -1
 			If $optSpellNone = 1 Then
 			   $Spellslot = $optSpellType
-			EndIf			
+			EndIf
 			If $ichkSmartLightSpell = 1 Then
 				$Spellslot = 0
 			ElseIf $iChkDEUseSpell = 1 Then
@@ -734,7 +734,11 @@ Func Train()
 					setlog("Spell Factory Full", $COLOR_RED)
 					ExitLoop
 				Else
-							GemClick(252 + ($Spellslot * 105), 354, 1, 20, "#0290")
+							; GemClick(252 + ($Spellslot * 105), 354, 1, 20, "#0290") previous code
+							GemClick(252 + (2 * 105), 354, 1, 20, "#0290") ; rage
+							GemClick(252 + (105), 354, 1, 20, "#0290") ; heal
+							GemClick(252 + (2 * 105), 354, 1, 20, "#0290") ; rage
+							GemClick(252 + (105), 354, 2, 20, "#0290") ; heal x 2
 					$x = $x + 1
 				EndIf
 				If $x = 5 Then

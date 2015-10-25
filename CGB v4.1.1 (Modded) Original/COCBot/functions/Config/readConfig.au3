@@ -100,6 +100,7 @@ Func readConfig() ;Reads config and sets it to the variables
 		$iMinGold[$DB] = IniRead($config, "search", "DBsearchGold", "80000")
 		$iMinElixir[$DB] = IniRead($config, "search", "DBsearchElixir", "80000")
 		$iMinGoldPlusElixir[$DB] = IniRead($config, "search", "DBsearchGoldPlusElixir", "160000")
+		$iMinGoldPlusElixirPlusDE[$DB] = IniRead($config, "search", "DBsearchGoldPlusElixirPlusDE", "160000")
 		$iMinDark[$DB] = IniRead($config, "search", "DBsearchDark", "0")
 		$iMinTrophy[$DB] = IniRead($config, "search", "DBsearchTrophy", "0")
 		$iCmbTH[$DB] = IniRead($config, "search", "DBTHLevel", "0")
@@ -119,6 +120,7 @@ Func readConfig() ;Reads config and sets it to the variables
 		$iMinGold[$LB] = IniRead($config, "search", "ABsearchGold", "80000")
 		$iMinElixir[$LB] = IniRead($config, "search", "ABsearchElixir", "80000")
 		$iMinGoldPlusElixir[$LB] = IniRead($config, "search", "ABsearchGoldPlusElixir", "160000")
+		$iMinGoldPlusElixirPlusDE[$LB] = IniRead($config, "search", "ABsearchGoldPlusElixirPlusDE", "160000")
 		$iMinDark[$LB] = IniRead($config, "search", "ABsearchDark", "0")
 		$iMinTrophy[$LB] = IniRead($config, "search", "ABsearchTrophy", "0")
 		$iCmbTH[$LB] = IniRead($config, "search", "ABTHLevel", "0")
@@ -139,6 +141,7 @@ Func readConfig() ;Reads config and sets it to the variables
 		$iMinGoldHero = IniRead($config, "search", "ABsearchGoldHero", "80000")
 		$iMinElixirHero = IniRead($config, "search", "ABsearchElixirHero", "80000")
 		$iMinGoldPlusElixirHero = IniRead($config, "search", "ABsearchGoldPlusElixirHero", "160000")
+		$iMinGoldPlusElixirPlusDEHero = IniRead($config, "search", "ABsearchGoldPlusElixirPlusDEHero", "160000")
 		$iMinDarkHero = IniRead($config, "search", "ABsearchDarkHero", "0")
 		$iMinTrophyHero = IniRead($config, "search", "ABsearchTrophyHero", "0")
 		$iCmbTHHero = IniRead($config, "search", "ABTHLevelHero", "0")
@@ -151,6 +154,7 @@ Func readConfig() ;Reads config and sets it to the variables
 		$ReduceGold = IniRead($config, "search", "reduceGold", "2000")
 		$ReduceElixir = IniRead($config, "search", "reduceElixir", "2000")
 		$ReduceGoldPlusElixir = IniRead($config, "search", "reduceGoldPlusElixir", "4000")
+		$ReduceGoldPlusElixirPlusDE = IniRead($config, "search", "reduceGoldPlusElixirPlusDE", "4000")
 		$ReduceDark = IniRead($config, "search", "reduceDark", "100")
 		$ReduceTrophy = IniRead($config, "search", "reduceTrophy", "2")
 
@@ -209,12 +213,13 @@ Func readConfig() ;Reads config and sets it to the variables
 		$ichkAttackNow =  IniRead($config, "advanced", "AttackNow", "0")
 		$iAttackNowDelay = IniRead($config, "advanced", "attacknowdelay", "3")
 
+		$iChkAttackWhileTrain = IniRead($config, "advanced", "chkAttackWhileTrain", "0") ; Attack While Train MOD by farias
 		$chkATH = IniRead($config, "advanced", "townhall", "0")
 		$ichkSmartLightSpell = IniRead($config, "advanced", "SmartLightSpell", "0")
 		$itxtMinDark = IniRead($config, "advanced", "txtMinDark", "1000")
-		
+
 		$icmbDetectITBase = IniRead($config, "advanced", "DetectITBase", "0")
-		
+
 		;$iChkLightSpell = IniRead($config, "advanced", "hitDElightning", "0")
 ;		$iLSpellQ = IniRead($config, "advanced", "QLSpell", "3")
 
@@ -228,10 +233,10 @@ Func readConfig() ;Reads config and sets it to the variables
 		$AttackTHType = IniRead($config, "advanced", "AttackTHType", "0")
         $BottomTHType = IniRead($config, "advanced", "BottomTHType", "0")
 		$icmbDetectTrapedTH = IniRead($config, "advanced", "DetectTrapedTH", "0")
-	
+
 		$optSpellNone = IniRead($config,"advanced","SpellNone","0")
 		$optSpellType = IniRead($config, "advanced", "Spelltype", "0")
-	
+
 		$PushToken = IniRead($config, "advanced", "AccountToken", "")
 
 		$iAlertPBVillage = IniRead($config, "advanced", "AlertPBVillage", "0")

@@ -126,6 +126,7 @@ Func applyConfig() ;Applies the data from config to the controls in GUI
 	GUICtrlSetData($txtDBMinGold, $iMinGold[$DB])
 	GUICtrlSetData($txtDBMinElixir, $iMinElixir[$DB])
 	GUICtrlSetData($txtDBMinGoldPlusElixir, $iMinGoldPlusElixir[$DB])
+	GUICtrlSetData($txtDBMinGoldPlusElixirPlusDE, $iMinGoldPlusElixirPlusDE[$DB])
 	GUICtrlSetData($txtDBMinDarkElixir, $iMinDark[$DB])
 	GUICtrlSetData($txtDBMinTrophy, $iMinTrophy[$DB])
 
@@ -187,6 +188,7 @@ Func applyConfig() ;Applies the data from config to the controls in GUI
 	GUICtrlSetData($txtABMinGold, $iMinGold[$LB])
 	GUICtrlSetData($txtABMinElixir, $iMinElixir[$LB])
 	GUICtrlSetData($txtABMinGoldPlusElixir, $iMinGoldPlusElixir[$LB])
+	GUICtrlSetData($txtABMinGoldPlusElixirPlusDE, $iMinGoldPlusElixirPlusDE[$LB])
 	GUICtrlSetData($txtABMinDarkElixir, $iMinDark[$LB])
 	GUICtrlSetData($txtABMinTrophy, $iMinTrophy[$LB])
 	GUICtrlSetData($txtABEnableAfter, $iEnableAfterCount[$LB])
@@ -245,6 +247,7 @@ Func applyConfig() ;Applies the data from config to the controls in GUI
 	GUICtrlSetData($txtABMinGoldHero, $iMinGoldHero)
 	GUICtrlSetData($txtABMinElixirHero, $iMinElixirHero)
 	GUICtrlSetData($txtABMinGoldPlusElixirHero, $iMinGoldPlusElixirHero)
+	GUICtrlSetData($txtABMinGoldPlusElixirPlusDEHero, $iMinGoldPlusElixirPlusDEHero)
 	GUICtrlSetData($txtABMinDarkElixirHero, $iMinDarkHero)
 	GUICtrlSetData($txtABMinTrophyHero, $iMinTrophyHero)
 
@@ -276,6 +279,7 @@ Func applyConfig() ;Applies the data from config to the controls in GUI
 	GUICtrlSetData($txtSearchReduceGold, $ReduceGold)
 	GUICtrlSetData($txtSearchReduceElixir, $ReduceElixir)
 	GUICtrlSetData($txtSearchReduceGoldPlusElixir, $ReduceGoldPlusElixir)
+	GUICtrlSetData($txtSearchReduceGoldPlusElixirPlusDE, $ReduceGoldPlusElixirPlusDE)
 	GUICtrlSetData($txtSearchReduceDark, $ReduceDark)
 	GUICtrlSetData($txtSearchReduceTrophy, $ReduceTrophy)
 
@@ -462,8 +466,8 @@ Func applyConfig() ;Applies the data from config to the controls in GUI
 	EndIf
 	SmartLightSpell()
         GUICtrlSetData($txtMinDark, $itxtMinDark)
-		
-	_GUICtrlComboBox_SetCurSel($cmbDetectITBase, $icmbDetectITBase)		
+
+	_GUICtrlComboBox_SetCurSel($cmbDetectITBase, $icmbDetectITBase)
 
 	If $OptBullyMode = 1 Then
 		GUICtrlSetState($chkBullyMode, $GUI_CHECKED)
@@ -496,7 +500,7 @@ Func applyConfig() ;Applies the data from config to the controls in GUI
 	Else
 		GUICtrlSetState($chkSpellNone, $GUI_UNCHECKED)
 	Endif
-	_GUICtrlComboBox_SetCurSel($cmbTHSpellType, $optSpellType)	
+	_GUICtrlComboBox_SetCurSel($cmbTHSpellType, $optSpellType)
 
 	If $iAlertPBVillage = 1 Then
 		GUICtrlSetState($chkAlertPBVillage, $GUI_CHECKED)
@@ -1126,8 +1130,8 @@ Func applyConfig() ;Applies the data from config to the controls in GUI
 
 	GUICtrlSetData($txtMaxTrophy, $itxtMaxTrophy)
 	GUICtrlSetData($txtdropTrophy, $itxtdropTrophy)
-	
-	_GUICtrlComboBox_SetCurSel($cmbRecSetting, $icmbRecSetting)	
+
+	_GUICtrlComboBox_SetCurSel($cmbRecSetting, $icmbRecSetting)
 
 	If $iChkTrophyHeroes = 1 Then
 		GUICtrlSetState($chkTrophyHeroes, $GUI_CHECKED)

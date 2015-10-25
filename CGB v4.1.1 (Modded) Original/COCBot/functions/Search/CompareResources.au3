@@ -22,9 +22,12 @@ Func CompareResources($pMode) ;Compares resources and returns true if conditions
 			If $iAimDark[$pMode] - $ReduceDark >= 0 Then $iAimDark[$pMode] -= $ReduceDark
 			If $iAimTrophy[$pMode] - $ReduceTrophy >= 0 Then $iAimTrophy[$pMode] -= $ReduceTrophy
 			If $iAimGoldPlusElixir[$pMode] - $ReduceGoldPlusElixir >= 0 Then $iAimGoldPlusElixir[$pMode] -= $ReduceGoldPlusElixir
+			If $iAimGoldPlusElixirPlusDE[$pMode] - $ReduceGoldPlusElixirPlusDE >= 0 Then $iAimGoldPlusElixirPlusDE[$pMode] -= $ReduceGoldPlusElixirPlusDE
 
 			If $iCmbMeetGE[$pMode] = 2 Then
 				SetLog("Aim:           [G+E]:" & StringFormat("%7s", $iAimGoldPlusElixir[$pMode]) & " [D]:" & StringFormat("%5s", $iAimDark[$pMode]) & " [T]:" & StringFormat("%2s", $iAimTrophy[$pMode]) & $iAimTHtext[$pMode] & " for: " & $sModeText[$pMode], $COLOR_GREEN, "Lucida Console", 7.5)
+			ElseIf $iCmbMeetGE[$pMode] = 3 Then
+				SetLog("Aim:           [G+E+D]:" & StringFormat("%7s", $iAimGoldPlusElixirPlusDE[$pMode]) & " [T]:" & StringFormat("%2s", $iAimTrophy[$pMode]) & $iAimTHtext[$pMode] & " for: " & $sModeText[$pMode], $COLOR_GREEN, "Lucida Console", 7.5)
 			Else
 				SetLog("Aim: [G]:" & StringFormat("%7s", $iAimGold[$pMode]) & " [E]:" & StringFormat("%7s", $iAimElixir[$pMode]) & " [D]:" & StringFormat("%5s", $iAimDark[$pMode]) & " [T]:" & StringFormat("%2s", $iAimTrophy[$pMode]) & $iAimTHtext[$pMode] & " for: " & $sModeText[$pMode], $COLOR_GREEN, "Lucida Console", 7.5)
 			EndIf
@@ -32,6 +35,7 @@ Func CompareResources($pMode) ;Compares resources and returns true if conditions
 	EndIf
 
 	Local $G = (Number($searchGold) >= Number($iAimGold[$pMode])), $E = (Number($searchElixir) >= Number($iAimElixir[$pMode])), $D = (Number($searchDark) >= Number($iAimDark[$pMode])), $T = (Number($searchTrophy) >= Number($iAimTrophy[$pMode])), $GPE = ((Number($searchGold) + Number($searchElixir)) >= Number($iAimGoldPlusElixir[$pMode]))
+	Local $GPED = ((Number($searchGold) + Number($searchElixir) + 150 * Number($searchDark)) >= Number($iAimGoldPlusElixirPlusDE[$pMode]))
 	Local $THL = -1, $THLO = -1
 
 	For $i = 0 To 4
@@ -124,6 +128,11 @@ Func CompareResources($pMode) ;Compares resources and returns true if conditions
 		If $iCmbMeetGE[$pMode] = 2 Then
 			If $GPE = False Then Return False
 			;SetLog("[G + E]:" & StringFormat("%7s", $searchGold + $searchElixir), $COLOR_GREEN, "Lucida Console", 7.5)
+		EndIf
+
+		If $iCmbMeetGE[$pMode] = 3 Then
+			;SetLog("[G + E + D]:" & StringFormat("%7s", $searchGold + $searchElixir + 150 * $searchDark), $COLOR_GREEN, "Lucida Console", 7.5)
+			If $GPED = False Then Return False
 		EndIf
 	EndIf
 	Return True

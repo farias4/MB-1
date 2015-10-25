@@ -1,0 +1,1768 @@
+2015-10-19 09:44:58 :  Clash Game Bot v4.1.1 Modded Powered by GameBot.org ~
+2015-10-19 09:44:58 : GameBot.org.exe Executable running on WIN_81  X64
+2015-10-19 09:44:58 : =================== Bot Start ====================
+2015-10-19 09:44:58 : -------------------------  Current Profile: 01 --------------------------
+2015-10-19 09:44:58 : Trying to locate Main Screen
+2015-10-19 09:44:58 : Main Screen Located
+2015-10-19 09:44:59 : Detecting your Buildings..
+2015-10-19 09:45:07 : Language setting is English: Correct.
+2015-10-19 09:45:08 : Trying to locate Main Screen
+2015-10-19 09:45:08 : Main Screen Located
+2015-10-19 09:45:09 : Village Report
+2015-10-19 09:45:09 : No. of Free/Total Builders: 1/5
+2015-10-19 09:45:09 :  [T]: 2 680
+2015-10-19 09:45:10 :  [G]: 3 048 264 [E]: 5 059 321 [D]: 121 166 [GEM]: 5 304
+2015-10-19 09:45:10 : Collecting Resources
+2015-10-19 09:45:19 : Checking Army Camp...
+2015-10-19 09:45:21 : Total Army Camp capacity: 64/220
+2015-10-19 09:45:23 :  - No. of Balloons: 4
+2015-10-19 09:45:23 :  - No. of Minions: 22
+2015-10-19 09:45:24 : Barracks and Spell factory status: 
+2015-10-19 09:45:24 : - Barracks detected: 4 | Available: 4 | Upgrading: 0
+2015-10-19 09:45:24 : - Dark Barracks detected: 2 | Available: 2 | Upgrading: 0
+2015-10-19 09:45:24 : - Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2015-10-19 09:45:24 : - Dark Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2015-10-19 09:45:24 : Training Troops...
+2015-10-19 09:45:58 : Spell Factory Full
+2015-10-19 09:45:58 : Created 1 Spell(s)
+2015-10-19 09:46:05 : ClashGameBot was Paused!
+2015-10-19 09:47:25 : ClashGameBot was Resumed.
+2015-10-19 09:47:26 : ====== Waiting for full army ======
+2015-10-19 09:47:38 : Checking Army Camp...
+2015-10-19 09:47:40 : Total Army Camp capacity: 76/220
+2015-10-19 09:47:40 :  - No. of Balloons: 4
+2015-10-19 09:47:41 :  - No. of Minions: 28
+2015-10-19 09:47:41 : Training Troops...
+2015-10-19 09:48:02 : Spell Factory Full
+2015-10-19 09:48:05 : Time Idle: 00:00:38
+2015-10-19 09:48:05 : ====== Waiting for full army ======
+2015-10-19 09:48:17 : Checking Army Camp...
+2015-10-19 09:48:19 : Total Army Camp capacity: 80/220
+2015-10-19 09:48:19 :  - No. of Balloons: 4
+2015-10-19 09:48:20 :  - No. of Minions: 30
+2015-10-19 09:48:20 : Training Troops...
+2015-10-19 09:48:41 : Spell Factory Full
+2015-10-19 09:48:43 : Time Idle: 00:01:17
+2015-10-19 09:48:43 : ====== Waiting for full army ======
+2015-10-19 09:48:55 : Checking Army Camp...
+2015-10-19 09:48:57 : Total Army Camp capacity: 84/220
+2015-10-19 09:48:58 :  - No. of Balloons: 4
+2015-10-19 09:48:58 :  - No. of Minions: 32
+2015-10-19 09:48:58 : Training Troops...
+2015-10-19 09:49:19 : Spell Factory Full
+2015-10-19 09:49:22 : Time Idle: 00:01:55
+2015-10-19 09:49:22 : ====== Waiting for full army ======
+2015-10-19 09:49:34 : Checking Army Camp...
+2015-10-19 09:49:36 : Total Army Camp capacity: 88/220
+2015-10-19 09:49:37 :  - No. of Balloons: 4
+2015-10-19 09:49:37 :  - No. of Minions: 34
+2015-10-19 09:49:37 : Training Troops...
+2015-10-19 09:49:58 : Spell Factory Full
+2015-10-19 09:50:00 : Time Idle: 00:02:33
+2015-10-19 09:50:01 : ====== Waiting for full army ======
+2015-10-19 09:50:13 : Checking Army Camp...
+2015-10-19 09:50:14 : Total Army Camp capacity: 90/220
+2015-10-19 09:50:15 :  - No. of Balloons: 4
+2015-10-19 09:50:15 :  - No. of Minions: 35
+2015-10-19 09:50:16 : Training Troops...
+2015-10-19 09:50:36 : Spell Factory Full
+2015-10-19 09:50:39 : Time Idle: 00:03:12
+2015-10-19 09:50:39 : ====== Waiting for full army ======
+2015-10-19 09:50:51 : Checking Army Camp...
+2015-10-19 09:50:53 : Total Army Camp capacity: 92/220
+2015-10-19 09:50:54 :  - No. of Balloons: 4
+2015-10-19 09:50:54 :  - No. of Minions: 36
+2015-10-19 09:50:54 : Training Troops...
+2015-10-19 09:51:15 : Spell Factory Full
+2015-10-19 09:51:18 : Time Idle: 00:03:50
+2015-10-19 09:51:18 : ====== Waiting for full army ======
+2015-10-19 09:51:30 : Checking Army Camp...
+2015-10-19 09:51:32 : Total Army Camp capacity: 96/220
+2015-10-19 09:51:33 :  - No. of Balloons: 4
+2015-10-19 09:51:33 :  - No. of Minions: 38
+2015-10-19 09:51:33 : Training Troops...
+2015-10-19 09:51:54 : Spell Factory Full
+2015-10-19 09:51:57 : Time Idle: 00:04:29
+2015-10-19 09:51:57 : ====== Waiting for full army ======
+2015-10-19 09:52:09 : Checking Army Camp...
+2015-10-19 09:52:11 : Total Army Camp capacity: 100/220
+2015-10-19 09:52:12 :  - No. of Balloons: 4
+2015-10-19 09:52:12 :  - No. of Minions: 40
+2015-10-19 09:52:12 : Training Troops...
+2015-10-19 09:52:33 : Spell Factory Full
+2015-10-19 09:52:36 : Time Idle: 00:05:08
+2015-10-19 09:52:36 : ====== Waiting for full army ======
+2015-10-19 09:52:48 : Checking Army Camp...
+2015-10-19 09:52:50 : Total Army Camp capacity: 100/220
+2015-10-19 09:52:51 :  - No. of Balloons: 4
+2015-10-19 09:52:51 :  - No. of Minions: 40
+2015-10-19 09:52:51 : Training Troops...
+2015-10-19 09:53:12 : Spell Factory Full
+2015-10-19 09:53:15 : Time Idle: 00:05:47
+2015-10-19 09:53:15 : ====== Waiting for full army ======
+2015-10-19 09:53:27 : Checking Army Camp...
+2015-10-19 09:53:29 : Total Army Camp capacity: 105/220
+2015-10-19 09:53:30 :  - No. of Balloons: 5
+2015-10-19 09:53:30 :  - No. of Minions: 40
+2015-10-19 09:53:30 : Training Troops...
+2015-10-19 09:53:52 : Spell Factory Full
+2015-10-19 09:53:55 : Time Idle: 00:06:26
+2015-10-19 09:53:55 : ====== Waiting for full army ======
+2015-10-19 09:54:07 : Checking Army Camp...
+2015-10-19 09:54:09 : Total Army Camp capacity: 120/220
+2015-10-19 09:54:09 :  - No. of Balloons: 8
+2015-10-19 09:54:10 :  - No. of Minions: 40
+2015-10-19 09:54:10 : Training Troops...
+2015-10-19 09:54:31 : Spell Factory Full
+2015-10-19 09:54:34 : Time Idle: 00:07:05
+2015-10-19 09:54:34 : ====== Waiting for full army ======
+2015-10-19 09:54:45 : Collecting Resources
+2015-10-19 09:54:51 : Checking Army Camp...
+2015-10-19 09:54:53 : Total Army Camp capacity: 120/220
+2015-10-19 09:54:54 :  - No. of Balloons: 8
+2015-10-19 09:54:54 :  - No. of Minions: 40
+2015-10-19 09:54:54 : Training Troops...
+2015-10-19 09:55:16 : Spell Factory Full
+2015-10-19 09:55:18 : Time Idle: 00:07:49
+2015-10-19 09:55:18 : ====== Waiting for full army ======
+2015-10-19 09:55:30 : Checking Army Camp...
+2015-10-19 09:55:32 : Total Army Camp capacity: 120/220
+2015-10-19 09:55:33 :  - No. of Balloons: 8
+2015-10-19 09:55:33 :  - No. of Minions: 40
+2015-10-19 09:55:34 : Training Troops...
+2015-10-19 09:55:55 : Spell Factory Full
+2015-10-19 09:55:57 : Time Idle: 00:08:28
+2015-10-19 09:55:58 : ====== Waiting for full army ======
+2015-10-19 09:56:03 : ClashGameBot was Paused!
+2015-10-19 09:56:12 : ClashGameBot was Resumed.
+2015-10-19 09:56:18 : Checking Army Camp...
+2015-10-19 09:56:20 : Total Army Camp capacity: 120/220
+2015-10-19 09:56:21 :  - No. of Balloons: 8
+2015-10-19 09:56:21 :  - No. of Minions: 40
+2015-10-19 09:56:21 : Training Troops...
+2015-10-19 09:56:44 : Spell Factory Full
+2015-10-19 09:56:46 : Time Idle: 00:09:17
+2015-10-19 09:56:47 : ====== Waiting for full army ======
+2015-10-19 09:56:58 : Checking Army Camp...
+2015-10-19 09:57:00 : Total Army Camp capacity: 120/220
+2015-10-19 09:57:01 :  - No. of Balloons: 8
+2015-10-19 09:57:01 :  - No. of Minions: 40
+2015-10-19 09:57:02 : Training Troops...
+2015-10-19 09:57:23 : Spell Factory Full
+2015-10-19 09:57:25 : Time Idle: 00:09:56
+2015-10-19 09:57:26 : ====== Waiting for full army ======
+2015-10-19 09:57:38 : Checking Army Camp...
+2015-10-19 09:57:39 : Total Army Camp capacity: 120/220
+2015-10-19 09:57:40 :  - No. of Balloons: 8
+2015-10-19 09:57:40 :  - No. of Minions: 40
+2015-10-19 09:57:41 : Training Troops...
+2015-10-19 09:58:02 : Spell Factory Full
+2015-10-19 09:58:05 : Time Idle: 00:10:35
+2015-10-19 09:58:05 : ====== Waiting for full army ======
+2015-10-19 09:58:17 : Checking Army Camp...
+2015-10-19 09:58:19 : Total Army Camp capacity: 120/220
+2015-10-19 09:58:20 :  - No. of Balloons: 8
+2015-10-19 09:58:20 :  - No. of Minions: 40
+2015-10-19 09:58:20 : Training Troops...
+2015-10-19 09:58:41 : Spell Factory Full
+2015-10-19 09:58:44 : Time Idle: 00:11:14
+2015-10-19 09:58:44 : ====== Waiting for full army ======
+2015-10-19 09:58:56 : Checking Army Camp...
+2015-10-19 09:58:58 : Total Army Camp capacity: 120/220
+2015-10-19 09:58:59 :  - No. of Balloons: 8
+2015-10-19 09:58:59 :  - No. of Minions: 40
+2015-10-19 09:58:59 : Training Troops...
+2015-10-19 09:59:20 : Spell Factory Full
+2015-10-19 09:59:23 : Time Idle: 00:11:53
+2015-10-19 09:59:23 : ====== Waiting for full army ======
+2015-10-19 09:59:35 : Checking Army Camp...
+2015-10-19 09:59:37 : Total Army Camp capacity: 120/220
+2015-10-19 09:59:38 :  - No. of Balloons: 8
+2015-10-19 09:59:38 :  - No. of Minions: 40
+2015-10-19 09:59:38 : Training Troops...
+2015-10-19 10:00:00 : Spell Factory Full
+2015-10-19 10:00:02 : Time Idle: 00:12:32
+2015-10-19 10:00:03 : ====== Waiting for full army ======
+2015-10-19 10:00:14 : Checking Army Camp...
+2015-10-19 10:00:16 : Total Army Camp capacity: 120/220
+2015-10-19 10:00:17 :  - No. of Balloons: 8
+2015-10-19 10:00:17 :  - No. of Minions: 40
+2015-10-19 10:00:18 : Training Troops...
+2015-10-19 10:00:39 : Spell Factory Full
+2015-10-19 10:00:42 : Time Idle: 00:13:11
+2015-10-19 10:00:42 : ====== Waiting for full army ======
+2015-10-19 10:00:54 : Checking Army Camp...
+2015-10-19 10:00:56 : Total Army Camp capacity: 120/220
+2015-10-19 10:00:56 :  - No. of Balloons: 8
+2015-10-19 10:00:57 :  - No. of Minions: 40
+2015-10-19 10:00:57 : Training Troops...
+2015-10-19 10:01:18 : Spell Factory Full
+2015-10-19 10:01:21 : Time Idle: 00:13:50
+2015-10-19 10:01:21 : ====== Waiting for full army ======
+2015-10-19 10:01:33 : Checking Army Camp...
+2015-10-19 10:01:35 : Total Army Camp capacity: 135/220
+2015-10-19 10:01:36 :  - No. of Balloons: 11
+2015-10-19 10:01:36 :  - No. of Minions: 40
+2015-10-19 10:01:36 : Training Troops...
+2015-10-19 10:01:58 : Spell Factory Full
+2015-10-19 10:02:00 : Time Idle: 00:14:29
+2015-10-19 10:02:01 : ====== Waiting for full army ======
+2015-10-19 10:02:12 : Collecting Resources
+2015-10-19 10:02:18 : Checking Army Camp...
+2015-10-19 10:02:20 : Total Army Camp capacity: 140/220
+2015-10-19 10:02:21 :  - No. of Balloons: 12
+2015-10-19 10:02:21 :  - No. of Minions: 40
+2015-10-19 10:02:22 : Training Troops...
+2015-10-19 10:02:43 : Spell Factory Full
+2015-10-19 10:02:45 : Time Idle: 00:15:14
+2015-10-19 10:02:46 : ====== Waiting for full army ======
+2015-10-19 10:02:58 : Checking Army Camp...
+2015-10-19 10:02:59 : Total Army Camp capacity: 140/220
+2015-10-19 10:03:00 :  - No. of Balloons: 12
+2015-10-19 10:03:00 :  - No. of Minions: 40
+2015-10-19 10:03:01 : Training Troops...
+2015-10-19 10:03:22 : Spell Factory Full
+2015-10-19 10:03:25 : Time Idle: 00:15:53
+2015-10-19 10:03:25 : ====== Waiting for full army ======
+2015-10-19 10:03:37 : Checking Army Camp...
+2015-10-19 10:03:39 : Total Army Camp capacity: 140/220
+2015-10-19 10:03:40 :  - No. of Balloons: 12
+2015-10-19 10:03:40 :  - No. of Minions: 40
+2015-10-19 10:03:40 : Training Troops...
+2015-10-19 10:04:01 : Spell Factory Full
+2015-10-19 10:04:04 : Time Idle: 00:16:32
+2015-10-19 10:04:04 : ====== Waiting for full army ======
+2015-10-19 10:04:16 : Checking Army Camp...
+2015-10-19 10:04:18 : Total Army Camp capacity: 140/220
+2015-10-19 10:04:19 :  - No. of Balloons: 12
+2015-10-19 10:04:19 :  - No. of Minions: 40
+2015-10-19 10:04:19 : Training Troops...
+2015-10-19 10:04:41 : Spell Factory Full
+2015-10-19 10:04:43 : Time Idle: 00:17:11
+2015-10-19 10:04:43 : ====== Waiting for full army ======
+2015-10-19 10:04:55 : Checking Army Camp...
+2015-10-19 10:04:57 : Total Army Camp capacity: 140/220
+2015-10-19 10:04:58 :  - No. of Balloons: 12
+2015-10-19 10:04:58 :  - No. of Minions: 40
+2015-10-19 10:04:59 : Training Troops...
+2015-10-19 10:05:20 : Spell Factory Full
+2015-10-19 10:05:22 : Time Idle: 00:17:50
+2015-10-19 10:05:23 : ====== Waiting for full army ======
+2015-10-19 10:05:35 : Checking Army Camp...
+2015-10-19 10:05:36 : Total Army Camp capacity: 140/220
+2015-10-19 10:05:37 :  - No. of Balloons: 12
+2015-10-19 10:05:37 :  - No. of Minions: 40
+2015-10-19 10:05:38 : Training Troops...
+2015-10-19 10:05:59 : Spell Factory Full
+2015-10-19 10:06:02 : Time Idle: 00:18:29
+2015-10-19 10:06:02 : ====== Waiting for full army ======
+2015-10-19 10:06:14 : Checking Army Camp...
+2015-10-19 10:06:16 : Total Army Camp capacity: 140/220
+2015-10-19 10:06:17 :  - No. of Balloons: 12
+2015-10-19 10:06:17 :  - No. of Minions: 40
+2015-10-19 10:06:17 : Training Troops...
+2015-10-19 10:06:38 : Spell Factory Full
+2015-10-19 10:06:41 : Time Idle: 00:19:08
+2015-10-19 10:06:41 : ====== Waiting for full army ======
+2015-10-19 10:06:53 : Checking Army Camp...
+2015-10-19 10:06:55 : Total Army Camp capacity: 140/220
+2015-10-19 10:06:56 :  - No. of Balloons: 12
+2015-10-19 10:06:56 :  - No. of Minions: 40
+2015-10-19 10:06:56 : Training Troops...
+2015-10-19 10:07:22 : Spell Factory Full
+2015-10-19 10:07:22 : Created 1 Spell(s)
+2015-10-19 10:07:25 : Time Idle: 00:19:52
+2015-10-19 10:07:25 : ====== Waiting for full army ======
+2015-10-19 10:07:37 : Checking Army Camp...
+2015-10-19 10:07:39 : Total Army Camp capacity: 140/220
+2015-10-19 10:07:40 :  - No. of Balloons: 12
+2015-10-19 10:07:40 :  - No. of Minions: 40
+2015-10-19 10:07:40 : Training Troops...
+2015-10-19 10:08:02 : Spell Factory Full
+2015-10-19 10:08:04 : Time Idle: 00:20:31
+2015-10-19 10:08:04 : ====== Waiting for full army ======
+2015-10-19 10:08:16 : Checking Army Camp...
+2015-10-19 10:08:18 : Total Army Camp capacity: 140/220
+2015-10-19 10:08:19 :  - No. of Balloons: 12
+2015-10-19 10:08:19 :  - No. of Minions: 40
+2015-10-19 10:08:20 : Training Troops...
+2015-10-19 10:08:41 : Spell Factory Full
+2015-10-19 10:08:44 : Time Idle: 00:21:10
+2015-10-19 10:08:44 : ====== Waiting for full army ======
+2015-10-19 10:08:56 : Checking Army Camp...
+2015-10-19 10:08:58 : Total Army Camp capacity: 140/220
+2015-10-19 10:08:58 :  - No. of Balloons: 12
+2015-10-19 10:08:59 :  - No. of Minions: 40
+2015-10-19 10:08:59 : Training Troops...
+2015-10-19 10:09:20 : Spell Factory Full
+2015-10-19 10:09:23 : Time Idle: 00:21:49
+2015-10-19 10:09:23 : ====== Waiting for full army ======
+2015-10-19 10:09:35 : Collecting Resources
+2015-10-19 10:09:40 : Checking Army Camp...
+2015-10-19 10:09:42 : Total Army Camp capacity: 160/220
+2015-10-19 10:09:43 :  - No. of Balloons: 16
+2015-10-19 10:09:43 :  - No. of Minions: 40
+2015-10-19 10:09:44 : Training Troops...
+2015-10-19 10:10:05 : Spell Factory Full
+2015-10-19 10:10:08 : Time Idle: 00:22:34
+2015-10-19 10:10:08 : ====== Waiting for full army ======
+2015-10-19 10:10:20 : Checking Army Camp...
+2015-10-19 10:10:22 : Total Army Camp capacity: 160/220
+2015-10-19 10:10:23 :  - No. of Balloons: 16
+2015-10-19 10:10:23 :  - No. of Minions: 40
+2015-10-19 10:10:23 : Training Troops...
+2015-10-19 10:10:45 : Spell Factory Full
+2015-10-19 10:10:47 : Time Idle: 00:23:13
+2015-10-19 10:10:47 : ====== Waiting for full army ======
+2015-10-19 10:10:59 : Checking Army Camp...
+2015-10-19 10:11:01 : Total Army Camp capacity: 160/220
+2015-10-19 10:11:02 :  - No. of Balloons: 16
+2015-10-19 10:11:02 :  - No. of Minions: 40
+2015-10-19 10:11:03 : Training Troops...
+2015-10-19 10:11:24 : Spell Factory Full
+2015-10-19 10:11:27 : Time Idle: 00:23:52
+2015-10-19 10:11:27 : ====== Waiting for full army ======
+2015-10-19 10:11:39 : Checking Army Camp...
+2015-10-19 10:11:41 : Total Army Camp capacity: 160/220
+2015-10-19 10:11:41 :  - No. of Balloons: 16
+2015-10-19 10:11:42 :  - No. of Minions: 40
+2015-10-19 10:11:42 : Training Troops...
+2015-10-19 10:12:03 : Spell Factory Full
+2015-10-19 10:12:06 : Time Idle: 00:24:31
+2015-10-19 10:12:06 : ====== Waiting for full army ======
+2015-10-19 10:12:18 : Checking Army Camp...
+2015-10-19 10:12:20 : Total Army Camp capacity: 160/220
+2015-10-19 10:12:21 :  - No. of Balloons: 16
+2015-10-19 10:12:21 :  - No. of Minions: 40
+2015-10-19 10:12:21 : Training Troops...
+2015-10-19 10:12:43 : Spell Factory Full
+2015-10-19 10:12:45 : Time Idle: 00:25:10
+2015-10-19 10:12:45 : ====== Waiting for full army ======
+2015-10-19 10:12:57 : Checking Army Camp...
+2015-10-19 10:12:59 : Total Army Camp capacity: 160/220
+2015-10-19 10:13:00 :  - No. of Balloons: 16
+2015-10-19 10:13:00 :  - No. of Minions: 40
+2015-10-19 10:13:00 : Training Troops...
+2015-10-19 10:13:22 : Spell Factory Full
+2015-10-19 10:13:24 : Time Idle: 00:25:49
+2015-10-19 10:13:25 : ====== Waiting for full army ======
+2015-10-19 10:13:37 : Checking Army Camp...
+2015-10-19 10:13:39 : Total Army Camp capacity: 160/220
+2015-10-19 10:13:39 :  - No. of Balloons: 16
+2015-10-19 10:13:40 :  - No. of Minions: 40
+2015-10-19 10:13:40 : Training Troops...
+2015-10-19 10:14:01 : Spell Factory Full
+2015-10-19 10:14:04 : Time Idle: 00:26:28
+2015-10-19 10:14:04 : ====== Waiting for full army ======
+2015-10-19 10:14:16 : Checking Army Camp...
+2015-10-19 10:14:18 : Total Army Camp capacity: 160/220
+2015-10-19 10:14:19 :  - No. of Balloons: 16
+2015-10-19 10:14:19 :  - No. of Minions: 40
+2015-10-19 10:14:19 : Training Troops...
+2015-10-19 10:14:40 : Spell Factory Full
+2015-10-19 10:14:43 : Time Idle: 00:27:07
+2015-10-19 10:14:43 : ====== Waiting for full army ======
+2015-10-19 10:14:55 : Checking Army Camp...
+2015-10-19 10:14:57 : Total Army Camp capacity: 160/220
+2015-10-19 10:14:58 :  - No. of Balloons: 16
+2015-10-19 10:14:58 :  - No. of Minions: 40
+2015-10-19 10:14:58 : Training Troops...
+2015-10-19 10:15:20 : Spell Factory Full
+2015-10-19 10:15:22 : Time Idle: 00:27:46
+2015-10-19 10:15:22 : ====== Waiting for full army ======
+2015-10-19 10:15:34 : Checking Army Camp...
+2015-10-19 10:15:36 : Total Army Camp capacity: 160/220
+2015-10-19 10:15:37 :  - No. of Balloons: 16
+2015-10-19 10:15:37 :  - No. of Minions: 40
+2015-10-19 10:15:37 : Training Troops...
+2015-10-19 10:15:59 : Spell Factory Full
+2015-10-19 10:16:01 : Time Idle: 00:28:25
+2015-10-19 10:16:02 : ====== Waiting for full army ======
+2015-10-19 10:16:14 : Checking Army Camp...
+2015-10-19 10:16:15 : Total Army Camp capacity: 160/220
+2015-10-19 10:16:16 :  - No. of Balloons: 16
+2015-10-19 10:16:16 :  - No. of Minions: 40
+2015-10-19 10:16:17 : Training Troops...
+2015-10-19 10:16:38 : Spell Factory Full
+2015-10-19 10:16:41 : Time Idle: 00:29:04
+2015-10-19 10:16:41 : ====== Waiting for full army ======
+2015-10-19 10:16:52 : Collecting Resources
+2015-10-19 10:16:59 : Checking Army Camp...
+2015-10-19 10:17:00 : Total Army Camp capacity: 160/220
+2015-10-19 10:17:01 :  - No. of Balloons: 16
+2015-10-19 10:17:01 :  - No. of Minions: 40
+2015-10-19 10:17:02 : Training Troops...
+2015-10-19 10:17:23 : Spell Factory Full
+2015-10-19 10:17:26 : Time Idle: 00:29:49
+2015-10-19 10:17:26 : ====== Waiting for full army ======
+2015-10-19 10:17:38 : Checking Army Camp...
+2015-10-19 10:17:40 : Total Army Camp capacity: 180/220
+2015-10-19 10:17:40 :  - No. of Balloons: 20
+2015-10-19 10:17:41 :  - No. of Minions: 40
+2015-10-19 10:17:41 : Training Troops...
+2015-10-19 10:18:03 : Spell Factory Full
+2015-10-19 10:18:05 : Time Idle: 00:30:28
+2015-10-19 10:18:05 : ====== Waiting for full army ======
+2015-10-19 10:18:17 : Checking Army Camp...
+2015-10-19 10:18:19 : Total Army Camp capacity: 180/220
+2015-10-19 10:18:20 :  - No. of Balloons: 20
+2015-10-19 10:18:20 :  - No. of Minions: 40
+2015-10-19 10:18:21 : Training Troops...
+2015-10-19 10:18:42 : Spell Factory Full
+2015-10-19 10:18:45 : Time Idle: 00:31:07
+2015-10-19 10:18:45 : ====== Waiting for full army ======
+2015-10-19 10:18:57 : Checking Army Camp...
+2015-10-19 10:18:59 : Total Army Camp capacity: 180/220
+2015-10-19 10:18:59 :  - No. of Balloons: 20
+2015-10-19 10:19:00 :  - No. of Minions: 40
+2015-10-19 10:19:00 : Training Troops...
+2015-10-19 10:19:21 : Spell Factory Full
+2015-10-19 10:19:24 : Time Idle: 00:31:46
+2015-10-19 10:19:24 : ====== Waiting for full army ======
+2015-10-19 10:19:36 : Checking Army Camp...
+2015-10-19 10:19:38 : Total Army Camp capacity: 180/220
+2015-10-19 10:19:39 :  - No. of Balloons: 20
+2015-10-19 10:19:39 :  - No. of Minions: 40
+2015-10-19 10:19:39 : Training Troops...
+2015-10-19 10:20:01 : Spell Factory Full
+2015-10-19 10:20:03 : Time Idle: 00:32:25
+2015-10-19 10:20:03 : ====== Waiting for full army ======
+2015-10-19 10:20:15 : Checking Army Camp...
+2015-10-19 10:20:17 : Total Army Camp capacity: 180/220
+2015-10-19 10:20:18 :  - No. of Balloons: 20
+2015-10-19 10:20:18 :  - No. of Minions: 40
+2015-10-19 10:20:18 : Training Troops...
+2015-10-19 10:20:40 : Spell Factory Full
+2015-10-19 10:20:42 : Time Idle: 00:33:04
+2015-10-19 10:20:42 : ====== Waiting for full army ======
+2015-10-19 10:20:54 : Checking Army Camp...
+2015-10-19 10:20:56 : Total Army Camp capacity: 180/220
+2015-10-19 10:20:57 :  - No. of Balloons: 20
+2015-10-19 10:20:57 :  - No. of Minions: 40
+2015-10-19 10:20:58 : Training Troops...
+2015-10-19 10:21:19 : Spell Factory Full
+2015-10-19 10:21:22 : Time Idle: 00:33:43
+2015-10-19 10:21:22 : ====== Waiting for full army ======
+2015-10-19 10:21:34 : Checking Army Camp...
+2015-10-19 10:21:36 : Total Army Camp capacity: 180/220
+2015-10-19 10:21:37 :  - No. of Balloons: 20
+2015-10-19 10:21:37 :  - No. of Minions: 40
+2015-10-19 10:21:37 : Training Troops...
+2015-10-19 10:21:58 : Spell Factory Full
+2015-10-19 10:22:01 : Time Idle: 00:34:22
+2015-10-19 10:22:01 : ====== Waiting for full army ======
+2015-10-19 10:22:13 : Checking Army Camp...
+2015-10-19 10:22:15 : Total Army Camp capacity: 180/220
+2015-10-19 10:22:16 :  - No. of Balloons: 20
+2015-10-19 10:22:16 :  - No. of Minions: 40
+2015-10-19 10:22:16 : Training Troops...
+2015-10-19 10:22:37 : Spell Factory Full
+2015-10-19 10:22:40 : Time Idle: 00:35:01
+2015-10-19 10:22:40 : ====== Waiting for full army ======
+2015-10-19 10:22:52 : Checking Army Camp...
+2015-10-19 10:22:54 : Total Army Camp capacity: 180/220
+2015-10-19 10:22:55 :  - No. of Balloons: 20
+2015-10-19 10:22:55 :  - No. of Minions: 40
+2015-10-19 10:22:55 : Training Troops...
+2015-10-19 10:23:17 : Spell Factory Full
+2015-10-19 10:23:19 : Time Idle: 00:35:40
+2015-10-19 10:23:20 : ====== Waiting for full army ======
+2015-10-19 10:23:31 : Checking Army Camp...
+2015-10-19 10:23:33 : Total Army Camp capacity: 180/220
+2015-10-19 10:23:34 :  - No. of Balloons: 20
+2015-10-19 10:23:34 :  - No. of Minions: 40
+2015-10-19 10:23:35 : Training Troops...
+2015-10-19 10:23:56 : Spell Factory Full
+2015-10-19 10:23:58 : Time Idle: 00:36:19
+2015-10-19 10:23:59 : ====== Waiting for full army ======
+2015-10-19 10:24:10 : Collecting Resources
+2015-10-19 10:24:16 : Checking Army Camp...
+2015-10-19 10:24:18 : Total Army Camp capacity: 180/220
+2015-10-19 10:24:19 :  - No. of Balloons: 20
+2015-10-19 10:24:19 :  - No. of Minions: 40
+2015-10-19 10:24:19 : Training Troops...
+2015-10-19 10:24:41 : Spell Factory Full
+2015-10-19 10:24:43 : Time Idle: 00:37:04
+2015-10-19 10:24:43 : ====== Waiting for full army ======
+2015-10-19 10:24:55 : Checking Army Camp...
+2015-10-19 10:24:57 : Total Army Camp capacity: 180/220
+2015-10-19 10:24:58 :  - No. of Balloons: 20
+2015-10-19 10:24:58 :  - No. of Minions: 40
+2015-10-19 10:24:59 : Training Troops...
+2015-10-19 10:25:20 : Spell Factory Full
+2015-10-19 10:25:22 : Time Idle: 00:37:43
+2015-10-19 10:25:23 : ====== Waiting for full army ======
+2015-10-19 10:25:35 : Checking Army Camp...
+2015-10-19 10:25:36 : Total Army Camp capacity: 195/220
+2015-10-19 10:25:37 :  - No. of Balloons: 23
+2015-10-19 10:25:37 :  - No. of Minions: 40
+2015-10-19 10:25:38 : Training Troops...
+2015-10-19 10:25:59 : Spell Factory Full
+2015-10-19 10:26:02 : Time Idle: 00:38:22
+2015-10-19 10:26:02 : ====== Waiting for full army ======
+2015-10-19 10:26:14 : Checking Army Camp...
+2015-10-19 10:26:16 : Total Army Camp capacity: 200/220
+2015-10-19 10:26:17 :  - No. of Balloons: 24
+2015-10-19 10:26:17 :  - No. of Minions: 40
+2015-10-19 10:26:17 : Training Troops...
+2015-10-19 10:26:39 : Spell Factory Full
+2015-10-19 10:26:41 : Time Idle: 00:39:01
+2015-10-19 10:26:41 : ====== Waiting for full army ======
+2015-10-19 10:26:53 : Checking Army Camp...
+2015-10-19 10:26:55 : Total Army Camp capacity: 200/220
+2015-10-19 10:26:56 :  - No. of Balloons: 24
+2015-10-19 10:26:56 :  - No. of Minions: 40
+2015-10-19 10:26:57 : Training Troops...
+2015-10-19 10:27:18 : Spell Factory Full
+2015-10-19 10:27:20 : Time Idle: 00:39:40
+2015-10-19 10:27:21 : ====== Waiting for full army ======
+2015-10-19 10:27:33 : Checking Army Camp...
+2015-10-19 10:27:34 : Total Army Camp capacity: 200/220
+2015-10-19 10:27:35 :  - No. of Balloons: 24
+2015-10-19 10:27:36 :  - No. of Minions: 40
+2015-10-19 10:27:36 : Training Troops...
+2015-10-19 10:27:57 : Spell Factory Full
+2015-10-19 10:28:00 : Time Idle: 00:40:19
+2015-10-19 10:28:00 : ====== Waiting for full army ======
+2015-10-19 10:28:12 : Checking Army Camp...
+2015-10-19 10:28:14 : Total Army Camp capacity: 200/220
+2015-10-19 10:28:15 :  - No. of Balloons: 24
+2015-10-19 10:28:15 :  - No. of Minions: 40
+2015-10-19 10:28:15 : Training Troops...
+2015-10-19 10:28:36 : Spell Factory Full
+2015-10-19 10:28:39 : Time Idle: 00:40:58
+2015-10-19 10:28:39 : ====== Waiting for full army ======
+2015-10-19 10:28:51 : Checking Army Camp...
+2015-10-19 10:28:53 : Total Army Camp capacity: 200/220
+2015-10-19 10:28:54 :  - No. of Balloons: 24
+2015-10-19 10:28:54 :  - No. of Minions: 40
+2015-10-19 10:28:54 : Training Troops...
+2015-10-19 10:29:16 : Spell Factory Full
+2015-10-19 10:29:18 : Time Idle: 00:41:37
+2015-10-19 10:29:18 : ====== Waiting for full army ======
+2015-10-19 10:29:30 : Checking Army Camp...
+2015-10-19 10:29:32 : Total Army Camp capacity: 200/220
+2015-10-19 10:29:33 :  - No. of Balloons: 24
+2015-10-19 10:29:33 :  - No. of Minions: 40
+2015-10-19 10:29:33 : Training Troops...
+2015-10-19 10:29:55 : Spell Factory Full
+2015-10-19 10:29:57 : Time Idle: 00:42:16
+2015-10-19 10:29:57 : ====== Waiting for full army ======
+2015-10-19 10:30:09 : Checking Army Camp...
+2015-10-19 10:30:11 : Total Army Camp capacity: 200/220
+2015-10-19 10:30:12 :  - No. of Balloons: 24
+2015-10-19 10:30:12 :  - No. of Minions: 40
+2015-10-19 10:30:13 : Training Troops...
+2015-10-19 10:30:34 : Spell Factory Full
+2015-10-19 10:30:37 : Time Idle: 00:42:55
+2015-10-19 10:30:37 : ====== Waiting for full army ======
+2015-10-19 10:30:49 : Checking Army Camp...
+2015-10-19 10:30:51 : Total Army Camp capacity: 200/220
+2015-10-19 10:30:52 :  - No. of Balloons: 24
+2015-10-19 10:30:52 :  - No. of Minions: 40
+2015-10-19 10:30:52 : Training Troops...
+2015-10-19 10:31:13 : Spell Factory Full
+2015-10-19 10:31:16 : Time Idle: 00:43:34
+2015-10-19 10:31:16 : ====== Waiting for full army ======
+2015-10-19 10:31:28 : Collecting Resources
+2015-10-19 10:31:34 : Checking Army Camp...
+2015-10-19 10:31:36 : Total Army Camp capacity: 200/220
+2015-10-19 10:31:37 :  - No. of Balloons: 24
+2015-10-19 10:31:37 :  - No. of Minions: 40
+2015-10-19 10:31:37 : Training Troops...
+2015-10-19 10:31:58 : Spell Factory Full
+2015-10-19 10:32:01 : Time Idle: 00:44:19
+2015-10-19 10:32:01 : ====== Waiting for full army ======
+2015-10-19 10:32:13 : Checking Army Camp...
+2015-10-19 10:32:15 : Total Army Camp capacity: 200/220
+2015-10-19 10:32:16 :  - No. of Balloons: 24
+2015-10-19 10:32:16 :  - No. of Minions: 40
+2015-10-19 10:32:16 : Training Troops...
+2015-10-19 10:32:37 : Spell Factory Full
+2015-10-19 10:32:40 : Time Idle: 00:44:58
+2015-10-19 10:32:40 : ====== Waiting for full army ======
+2015-10-19 10:32:52 : Checking Army Camp...
+2015-10-19 10:32:54 : Total Army Camp capacity: 200/220
+2015-10-19 10:32:55 :  - No. of Balloons: 24
+2015-10-19 10:32:55 :  - No. of Minions: 40
+2015-10-19 10:32:55 : Training Troops...
+2015-10-19 10:33:17 : Spell Factory Full
+2015-10-19 10:33:19 : Time Idle: 00:45:37
+2015-10-19 10:33:19 : ====== Waiting for full army ======
+2015-10-19 10:33:31 : Checking Army Camp...
+2015-10-19 10:33:33 : Total Army Camp capacity: 210/220
+2015-10-19 10:33:34 :  - No. of Balloons: 26
+2015-10-19 10:33:34 :  - No. of Minions: 40
+2015-10-19 10:33:35 : Training Troops...
+2015-10-19 10:33:56 : Spell Factory Full
+2015-10-19 10:33:59 : Time Idle: 00:46:16
+2015-10-19 10:33:59 : ====== Waiting for full army ======
+2015-10-19 10:34:11 : Checking Army Camp...
+2015-10-19 10:34:13 : Total Army Camp capacity: 220/220
+2015-10-19 10:34:14 :  - No. of Balloons: 28
+2015-10-19 10:34:14 :  - No. of Minions: 40
+2015-10-19 10:34:14 : Training Troops...
+2015-10-19 10:34:15 : Your Army Camps are now Full
+2015-10-19 10:34:38 : Spell Factory Full
+2015-10-19 10:34:40 : Going to Attack...
+2015-10-19 10:34:46 : ============== Searching For Dead Base ===============
+2015-10-19 10:34:46 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-19 10:34:46 : , Max TH 8
+2015-10-19 10:34:46 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-19 10:34:46 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-19 10:34:46 : ============== Searching For Live Base ===============
+2015-10-19 10:34:46 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-19 10:34:46 : , Max TH 8
+2015-10-19 10:34:46 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-19 10:34:46 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Live Base
+2015-10-19 10:34:46 : ==================================================
+2015-10-19 10:34:48 :   1> [G]: 144563 [E]:  15696 [D]:  517 [T]:14 [TH]: 9, In
+2015-10-19 10:34:54 :   2> [G]:  23871 [E]:  31149 [D]:  478 [T]:28 [TH]: 9, In
+2015-10-19 10:34:57 :   3> [G]:  39586 [E]: 118216 [D]:  783 [T]:16 [TH]: 9, In
+2015-10-19 10:35:05 :   4> [G]:  77543 [E]:  50388 [D]: 2447 [T]:13 [TH]:10, In
+2015-10-19 10:35:09 :   5> [G]: 163208 [E]:  29709 [D]:  275 [T]:21 [TH]:10, In
+2015-10-19 10:35:12 :   6> [G]:  52032 [E]: 128772 [D]: 1771 [T]:22 [TH]: 9, In
+2015-10-19 10:35:20 :   7> [G]:  40508 [E]:   2859 [D]: 1851 [T]:17 [TH]:10, In
+2015-10-19 10:35:23 :   8> [G]:  36177 [E]: 215379 [D]:  353 [T]:31 [TH]:10, In
+2015-10-19 10:35:25 :   9> [G]:  58534 [E]:  73824 [D]:   94 [T]:16 [TH]: 9, In
+2015-10-19 10:35:33 :  10> [G]: 107653 [E]:  34472 [D]:  710 [T]:31 [TH]: 9, In
+2015-10-19 10:35:35 :  11> [G]:  86363 [E]:  86304 [D]:  339 [T]:33 [TH]:10, In
+2015-10-19 10:35:43 :  12> [G]: 256633 [E]: 255227 [D]: 2070 [T]:27 [TH]:10, In
+2015-10-19 10:35:46 :  13> [G]:  44614 [E]:  96559 [D]:  722 [T]:19 [TH]: 9, In
+2015-10-19 10:35:53 :  14> [G]: 199401 [E]:  77491 [D]: 1006 [T]:27 [TH]:10, In
+2015-10-19 10:35:57 :  15> [G]:  95029 [E]: 135103 [D]: 2199 [T]:22 [TH]:10, In
+2015-10-19 10:36:00 :  16> [G]: 115936 [E]:  47289 [D]:  843 [T]:24 [TH]: 9, In
+2015-10-19 10:36:08 :  17> [G]: 231536 [E]: 186940 [D]: 3308 [T]:25 [TH]: 9, In
+2015-10-19 10:36:11 :  18> [G]:  39500 [E]:  93683 [D]: 1089 [T]:22 [TH]: 9, In
+2015-10-19 10:36:18 :  19> [G]: 112880 [E]:  22597 [D]: 2362 [T]:17 [TH]:10, In
+2015-10-19 10:36:22 :  20> [G]:  66352 [E]:  59016 [D]:  437 [T]:32 [TH]:10, In
+2015-10-19 10:36:25 :  21> [G]:  27641 [E]: 123693 [D]:  612 [T]:19 [TH]: 9, In
+2015-10-19 10:36:32 :  22> [G]:  57337 [E]: 103251 [D]: 1083 [T]:20 [TH]: 9, In
+2015-10-19 10:36:36 :  23> [G]:  11800 [E]:   2576 [D]: 2858 [T]:32 [TH]:10, In
+2015-10-19 10:36:39 :  24> [G]:  42281 [E]:  73063 [D]:  856 [T]:16 [TH]: 9, In
+2015-10-19 10:36:42 :  25> [G]: 103023 [E]: 154609 [D]: 1035 [T]:15 [TH]: 9, In
+2015-10-19 10:36:50 :  26> [G]:  62543 [E]: 113541 [D]: 2371 [T]:22 [TH]:10, In
+2015-10-19 10:36:54 :  27> [G]: 105607 [E]:  21804 [D]:  778 [T]:11 [TH]: 9, In
+2015-10-19 10:36:59 :  28> [G]:  59421 [E]: 128398 [D]:  832 [T]:28 [TH]: 9, In
+2015-10-19 10:37:02 :  29> [G]:  18376 [E]:  90547 [D]:  781 [T]:13 [TH]: 9, In
+2015-10-19 10:37:09 :  30> [G]:  71867 [E]:  63888 [D]:  356 [T]:30 [TH]:10, In
+2015-10-19 10:37:13 :  31> [G]:  74026 [E]: 165388 [D]: 1203 [T]:33 [TH]:10, In
+2015-10-19 10:37:16 :  32> [G]:  64786 [E]: 123471 [D]:  458 [T]:11 [TH]: 9, In
+2015-10-19 10:37:23 :  33> [G]:  16922 [E]:  84575 [D]:  438 [T]:21 [TH]:10, In
+2015-10-19 10:37:27 :  34> [G]:  84825 [E]: 185725 [D]: 3210 [T]:29 [TH]:10, In
+2015-10-19 10:37:30 :  35> [G]:  11502 [E]:  31332 [D]: 1345 [T]:15 [TH]: 9, In
+2015-10-19 10:37:36 :  36> [G]:  79517 [E]:  54002 [D]:  930 [T]: 7 [TH]: 9, In
+2015-10-19 10:37:39 :  37> [G]:  63624 [E]:  41919 [D]: 1219 [T]:13 [TH]: 9, In
+2015-10-19 10:37:43 :  38> [G]:  71284 [E]:  22360 [D]:  143 [T]:17 [TH]: 9, In
+2015-10-19 10:37:46 :  39> [G]:  44908 [E]:   1271 [D]:   31 [T]:23 [TH]: 9, In
+2015-10-19 10:37:53 :  40> [G]: 222830 [E]: 214900 [D]: 2511 [T]:21 [TH]:10, In
+2015-10-19 10:37:56 :  41> [G]:  39076 [E]:  50624 [D]:  706 [T]:12 [TH]: 9, In
+2015-10-19 10:38:03 :  42> [G]:   7874 [E]:   3912 [D]: 1182 [T]:31 [TH]:10, In
+2015-10-19 10:38:06 :  43> [G]:   5422 [E]: 123798 [D]:  679 [T]:22 [TH]: 9, In
+2015-10-19 10:38:14 :  44> [G]:  69194 [E]:  72020 [D]:  499 [T]: 7 [TH]: 9, In
+2015-10-19 10:38:17 :  45> [G]: 271493 [E]: 118433 [D]: 1084 [T]:33 [TH]:10, In
+2015-10-19 10:38:23 :  46> [G]:  73581 [E]:  59723 [D]:  678 [T]: 7 [TH]: 9, In
+2015-10-19 10:38:28 :  47> [G]: 173040 [E]: 110062 [D]: 1195 [T]:13 [TH]:10, In
+2015-10-19 10:38:31 :  48> [G]:  23349 [E]:  60931 [D]:  674 [T]:22 [TH]: 9, In
+2015-10-19 10:38:38 :  49> [G]:  11956 [E]:  47021 [D]:   29 [T]: 7 [TH]: 9, In
+2015-10-19 10:38:42 :  50> [G]: 126637 [E]:  52111 [D]:  824 [T]:21 [TH]: 9, In
+2015-10-19 10:38:42 : Aim:           [G+E+D]: 372500 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-19 10:38:42 : Aim:           [G+E+D]: 372500 [T]: 0 [TH]: 8 for: Live Base
+2015-10-19 10:38:45 :  51> [G]:  31016 [E]:   9732 [D]:  702 [T]: 9 [TH]: 9, In
+2015-10-19 10:38:52 :  52> [G]:  99080 [E]: 131726 [D]: 2088 [T]:27 [TH]:10, In
+2015-10-19 10:38:55 :  53> [G]:  12578 [E]:  97878 [D]:  456 [T]:19 [TH]:10, In
+2015-10-19 10:39:02 :  54> [G]:  12912 [E]:   8026 [D]:  400 [T]:35 [TH]:10, In
+2015-10-19 10:39:04 :  55> [G]: 314088 [E]:  58205 [D]: 2059 [T]:21 [TH]:10, In
+2015-10-19 10:39:11 :  56> [G]: 156199 [E]:  51686 [D]: 1823 [T]:37 [TH]:10, In
+2015-10-19 10:39:14 :  57> [G]:  43630 [E]: 149079 [D]: 1019 [T]: 7 [TH]: 9, In
+2015-10-19 10:39:20 :  58> [G]: 128156 [E]:  62674 [D]:  221 [T]:32 [TH]: 9, In
+2015-10-19 10:39:24 :  59> [G]:  31432 [E]: 131161 [D]:  855 [T]:10 [TH]: 9, In
+2015-10-19 10:39:27 :  60> [G]:  48594 [E]:  22848 [D]:  270 [T]:13 [TH]: 9, In
+2015-10-19 10:39:33 :  61> [G]:  13694 [E]:  98662 [D]:  218 [T]:24 [TH]:10, In
+2015-10-19 10:39:35 :  62> [G]: 189018 [E]:  55710 [D]: 3114 [T]:22 [TH]:10, In
+2015-10-19 10:39:42 :  63> [G]:  48081 [E]:  33021 [D]:  310 [T]: 6 [TH]: 9, In
+2015-10-19 10:39:46 :  64> [G]: 253226 [E]:  85543 [D]: 1296 [T]:28 [TH]:10, In
+2015-10-19 10:39:48 :  65> [G]:  44746 [E]:  58404 [D]:  370 [T]:11 [TH]: 9, In
+2015-10-19 10:39:56 :  66> [G]:  78053 [E]: 172850 [D]:  517 [T]: 4 [TH]: 8, In
+2015-10-19 10:39:58 :  67> [G]:  23604 [E]:   2095 [D]:  789 [T]:18 [TH]: 9, In
+2015-10-19 10:40:04 :  68> [G]:  17151 [E]:  26730 [D]: 1561 [T]:25 [TH]:10, In
+2015-10-19 10:40:07 :  69> [G]: 146728 [E]:  26685 [D]: 2278 [T]:20 [TH]: 9, In
+2015-10-19 10:40:14 :  70> [G]:  72765 [E]:  74930 [D]:  272 [T]:12 [TH]:10, In
+2015-10-19 10:40:17 :  71> [G]:  33373 [E]:  34357 [D]:  909 [T]:18 [TH]: 9, In
+2015-10-19 10:40:24 :  72> [G]:  53043 [E]:  80543 [D]:  632 [T]: 5 [TH]: 9, In
+2015-10-19 10:40:27 :  73> [G]:  14753 [E]:  62071 [D]: 1200 [T]: 9 [TH]: 9, In
+2015-10-19 10:40:30 :  74> [G]:  21500 [E]:  23355 [D]:  747 [T]: 5 [TH]: 9, In
+2015-10-19 10:40:36 :  75> [G]:  44032 [E]:  93730 [D]: 1542 [T]: 9 [TH]: 9, In
+2015-10-19 10:40:39 :  76> [G]:  78997 [E]: 130564 [D]:  554 [T]:10 [TH]: 9, In
+2015-10-19 10:40:46 :  77> [G]:  47118 [E]:   6888 [D]: 1360 [T]:39 [TH]: 9, In
+2015-10-19 10:40:49 :  78> [G]:  25136 [E]: 114040 [D]:  826 [T]: 4 [TH]: 8, In
+2015-10-19 10:40:52 :  79> [G]:  26221 [E]:  71402 [D]:  186 [T]:19 [TH]: 9, In
+2015-10-19 10:41:00 :  80> [G]:  25730 [E]: 155999 [D]: 1184 [T]:17 [TH]:10, In
+2015-10-19 10:41:02 :  81> [G]:  91774 [E]:  25363 [D]:  811 [T]:37 [TH]: 9, In
+2015-10-19 10:41:06 :  82> [G]:  22606 [E]:  93066 [D]: 1634 [T]:24 [TH]:10, In
+2015-10-19 10:41:13 :  83> [G]:  59035 [E]:  65244 [D]:  136 [T]:12 [TH]:10, In
+2015-10-19 10:41:17 :  84> [G]:  51660 [E]: 100000 [D]:  313 [T]:15 [TH]: 9, In
+2015-10-19 10:41:20 :  85> [G]:  40665 [E]:  12135 [D]:  389 [T]: 7 [TH]: 8, In
+2015-10-19 10:41:25 :  86> [G]: 310996 [E]: 155669 [D]: 1170 [T]:14 [TH]:10, In
+2015-10-19 10:41:28 :  87> [G]:  47795 [E]:  58707 [D]:  500 [T]: 9 [TH]: 9, In
+2015-10-19 10:41:35 :  88> [G]: 360276 [E]: 347494 [D]: 1710 [T]:17 [TH]: 9, In
+2015-10-19 10:41:38 :  89> [G]: 110972 [E]: 276669 [D]: 2496 [T]:10 [TH]: 9, In
+2015-10-19 10:41:41 :  90> [G]: 260260 [E]: 247736 [D]: 1016 [T]: 5 [TH]: 9, In
+2015-10-19 10:41:48 :  91> [G]:  11751 [E]:  42149 [D]:  596 [T]: 3 [TH]: 8, In
+2015-10-19 10:41:50 :  92> [G]: 176069 [E]: 236067 [D]:  713 [T]:20 [TH]:10, In
+2015-10-19 10:41:57 :  93> [G]:  86392 [E]: 121757 [D]:  534 [T]: 6 [TH]: 9, In
+2015-10-19 10:42:00 :  94> [G]:   7071 [E]:  38144 [D]:  779 [T]:17 [TH]: 9, In
+2015-10-19 10:42:06 :  95> [G]:  37779 [E]: 285091 [D]: 1726 [T]:23 [TH]:10, In
+2015-10-19 10:42:09 :  96> [G]: 109423 [E]: 123588 [D]: 1065 [T]:16 [TH]: 9, In
+2015-10-19 10:42:12 :  97> [G]: 111832 [E]:  69935 [D]: 1962 [T]: 3 [TH]: 9, In
+2015-10-19 10:42:19 :  98> [G]: 256421 [E]:  85415 [D]: 1213 [T]:18 [TH]:10, In
+2015-10-19 10:42:22 :  99> [G]:  20786 [E]:  27438 [D]:  760 [T]: 6 [TH]: 9, In
+2015-10-19 10:42:29 : 100> [G]:  22234 [E]:  81242 [D]:  646 [T]: 6 [TH]: 9, In
+2015-10-19 10:42:30 : Aim:           [G+E+D]: 320000 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-19 10:42:30 : Aim:           [G+E+D]: 320000 [T]: 0 [TH]: 8 for: Live Base
+2015-10-19 10:42:33 : 101> [G]:  33987 [E]:  83800 [D]:  986 [T]:20 [TH]: 9, In
+2015-10-19 10:42:40 : 102> [G]:  55698 [E]: 100384 [D]:  800 [T]:27 [TH]:10, In
+2015-10-19 10:42:43 : 103> [G]: 134637 [E]:   8298 [D]:  185 [T]:25 [TH]:10, In
+2015-10-19 10:42:51 : 104> [G]:  18582 [E]:  40545 [D]:  400 [T]:21 [TH]: 9, In
+2015-10-19 10:42:53 : 105> [G]:  73390 [E]:  81807 [D]:  207 [T]:26 [TH]:10, In
+2015-10-19 10:43:00 : 106> [G]:  34208 [E]:  40857 [D]:  305 [T]:40 [TH]:10, In
+2015-10-19 10:43:03 : 107> [G]:  35450 [E]:  50514 [D]:  883 [T]: 5 [TH]: 9, In
+2015-10-19 10:43:10 : 108> [G]: 350994 [E]: 354956 [D]:  101 [T]: 3 [TH]: 9, Out
+2015-10-19 10:43:13 : 109> [G]:  38705 [E]:  29540 [D]:  158 [T]:12 [TH]: 9, In
+2015-10-19 10:43:19 : 110> [G]:  44127 [E]:  33910 [D]:  182 [T]: 4 [TH]: 9, In
+2015-10-19 10:43:23 : 111> [G]: 141896 [E]:  72523 [D]: 1660 [T]:32 [TH]:10, In
+2015-10-19 10:43:26 : 112> [G]:  43735 [E]:  89093 [D]:  380 [T]: 3 [TH]: 8, In
+2015-10-19 10:43:29 : 113> [G]:  26948 [E]:  78334 [D]:  881 [T]:18 [TH]: 9, In
+2015-10-19 10:43:36 : 114> [G]:  71004 [E]: 132215 [D]:  240 [T]:14 [TH]: 9, In
+2015-10-19 10:43:39 : 115> [G]:  60317 [E]:  13296 [D]:  662 [T]:13 [TH]: 9, In
+2015-10-19 10:43:41 : 116> [G]: 320952 [E]:   9688 [D]:   29 [T]:31 [TH]:10, In
+2015-10-19 10:43:48 : 117> [G]: 131146 [E]:  51680 [D]:  299 [T]:10 [TH]: 9, In
+2015-10-19 10:43:53 : 118> [G]:  53763 [E]:  35466 [D]: 1625 [T]:12 [TH]: 9, In
+2015-10-19 10:43:56 : 119> [G]:  18226 [E]: 144982 [D]: 1600 [T]:11 [TH]:10, In
+2015-10-19 10:43:59 : 120> [G]:  74050 [E]: 115955 [D]: 1111 [T]:15 [TH]: 9, In
+2015-10-19 10:44:06 : 121> [G]:  13377 [E]:  60575 [D]:  966 [T]: 9 [TH]: 9, In
+2015-10-19 10:44:09 : 122> [G]:  33266 [E]: 160173 [D]: 1366 [T]:11 [TH]: 9, In
+2015-10-19 10:44:16 : 123> [G]: 294471 [E]: 225526 [D]: 1053 [T]:22 [TH]: 9, In
+2015-10-19 10:44:19 : 124> [G]: 116720 [E]:   3071 [D]:  859 [T]: 2 [TH]: 8, In
+2015-10-19 10:44:22 : 125> [G]: 101058 [E]:  91622 [D]: 1387 [T]:14 [TH]: 9, In
+2015-10-19 10:44:28 : 126> [G]:  41716 [E]:  15031 [D]: 1031 [T]: 4 [TH]: 9, In
+2015-10-19 10:44:32 : 127> [G]:   6920 [E]:  61857 [D]:  731 [T]: 6 [TH]: 8, In
+2015-10-19 10:44:37 : 128> [G]:  10943 [E]:  60375 [D]:  836 [T]: 5 [TH]: 9, In
+2015-10-19 10:44:40 : 129> [G]:   9615 [E]:  76494 [D]:  479 [T]: 1 [TH]: 8, In
+2015-10-19 10:44:44 : 130> [G]:  59517 [E]:  21414 [D]: 1581 [T]:13 [TH]:10, In
+2015-10-19 10:44:48 : 131> [G]: 521907 [E]: 316358 [D]: 2059 [T]: 3 [TH]: 8, Out
+2015-10-19 10:44:48 : ~~~~~~~~~~~~~~ DE Side Base Found! ~~~~~~~~~~~~~~~
+2015-10-19 10:44:50 : ================ Search Complete =================
+2015-10-19 10:44:50 : Initiating attack for: Live Base
+2015-10-19 10:44:52 : -Balloons 28
+2015-10-19 10:44:52 : -Minions 40
+2015-10-19 10:44:52 : -Clan Castle 
+2015-10-19 10:44:52 : -King 
+2015-10-19 10:44:52 : -Heal Spells 2
+2015-10-19 10:44:52 : -Rage Spells 2
+2015-10-19 10:44:52 : -Poison Spells 1
+2015-10-19 10:44:52 :  ====== Start Attack ====== 
+2015-10-19 10:44:54 : Attacking on Dark Elixir Side.
+2015-10-19 10:44:55 : == DE lixir Storage : [428,318] ==
+2015-10-19 10:44:56 : DE Storage Located Bottom Left... Attacking Bottom Left
+2015-10-19 10:44:57 : Dropping Clan Castle
+2015-10-19 10:44:58 : Dropping only wave of 28 Balloons
+2015-10-19 10:45:01 : Spell drop point: 368, 373
+2015-10-19 10:45:01 : Dropping spell in slot 4
+2015-10-19 10:45:02 : Dropping spell in slot 5
+2015-10-19 10:45:02 : Dropping only wave of 40 Minions
+2015-10-19 10:45:07 : Dropping King
+2015-10-19 10:45:08 : Dropping left over troops
+2015-10-19 10:45:08 : Checking remaining unused troops for: Live Base
+2015-10-19 10:45:10 : -Balloons 1
+2015-10-19 10:45:10 : -Minions 1
+2015-10-19 10:45:10 : -Clan Castle 
+2015-10-19 10:45:10 : -Heal Spells 1
+2015-10-19 10:45:10 : -Rage Spells 1
+2015-10-19 10:45:10 : -Poison Spells 1
+2015-10-19 10:45:13 : Dropping last wave of 1 Balloons
+2015-10-19 10:45:16 : Dropping last wave of 1 Minions
+2015-10-19 10:45:20 : Checking remaining unused troops for: Live Base
+2015-10-19 10:45:22 : -Minions 0
+2015-10-19 10:45:22 : -Clan Castle 
+2015-10-19 10:45:22 : -Heal Spells 1
+2015-10-19 10:45:22 : -Rage Spells 1
+2015-10-19 10:45:22 : -Poison Spells 1
+2015-10-19 10:45:31 : Finished Attacking, waiting for the battle to end
+2015-10-19 10:45:31 : Checking if the battle has finished
+2015-10-19 10:45:31 : King is getting weak, Activating King's power
+2015-10-19 10:45:33 : detected [G]: 279830 [E]: 271721 [DE]: 2015 |  Exit in 58 sec.
+2015-10-19 10:45:33 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:45:37 : detected [G]: 276571 [E]: 209315 [DE]: 1960 |  Exit in 58 sec.
+2015-10-19 10:45:37 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:45:40 : detected [G]: 248800 [E]: 189605 [DE]: 1331 |  Exit in 58 sec.
+2015-10-19 10:45:40 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:45:43 : detected [G]: 214329 [E]: 189605 [DE]: 222 |  Exit in 58 sec.
+2015-10-19 10:45:44 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:45:47 : detected [G]: 169395 [E]: 189605 [DE]: 130 |  Exit in 58 sec.
+2015-10-19 10:45:47 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:45:50 : detected [G]: 160966 [E]: 154892 [DE]: 130 |  Exit in 58 sec.
+2015-10-19 10:45:50 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:45:54 : detected [G]: 151111 [E]: 145978 [DE]: 130 |  Exit in 58 sec.
+2015-10-19 10:45:54 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:45:57 : detected [G]: 107749 [E]: 94673 [DE]: 130 |  Exit in 58 sec.
+2015-10-19 10:45:57 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:46:01 : detected [G]: 70966 [E]: 92741 [DE]: 130 |  Exit in 58 sec.
+2015-10-19 10:46:01 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:46:04 : detected [G]: 70966 [E]: 84857 [DE]: 130 |  Exit in 58 sec.
+2015-10-19 10:46:04 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:46:07 : detected [G]: 70966 [E]: 71388 [DE]: 130 |  Exit in 58 sec.
+2015-10-19 10:46:08 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:46:11 : detected [G]: 70966 [E]: 64195 [DE]: 130 |  Exit in 58 sec.
+2015-10-19 10:46:11 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:46:14 : detected [G]: 67432 [E]: 64195 [DE]: 130 |  Exit in 58 sec.
+2015-10-19 10:46:14 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:46:18 : detected [G]: 47404 [E]: 64195 [DE]: 130 |  Exit in 58 sec.
+2015-10-19 10:46:18 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:46:21 : detected [G]: 46378 [E]: 64195 [DE]: 130 |  Exit in 58 sec.
+2015-10-19 10:46:23 : detected [G]: 46378 [E]: 64195 [DE]: 130 |  Exit in 56 sec.
+2015-10-19 10:46:25 : detected [G]: 46378 [E]: 64195 [DE]: 130 |  Exit in 54 sec.
+2015-10-19 10:46:26 : detected [G]: 46378 [E]: 64195 [DE]: 130 |  Exit in 53 sec.
+2015-10-19 10:46:28 : detected [G]: 46378 [E]: 64195 [DE]: 130 |  Exit in 51 sec.
+2015-10-19 10:46:30 : detected [G]: 45289 [E]: 64195 [DE]: 118 |  Exit in 49 sec.
+2015-10-19 10:46:30 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:46:33 : detected [G]: 34396 [E]: 64195 [DE]: 82 |  Exit in 58 sec.
+2015-10-19 10:46:33 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:46:37 : detected [G]: 23638 [E]: 64195 [DE]: 35 |  Exit in 58 sec.
+2015-10-19 10:46:37 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:46:40 : detected [G]: 23598 [E]: 64155 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 10:46:40 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:46:44 : detected [G]: 23538 [E]: 64095 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 10:46:44 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:46:47 : detected [G]: 23478 [E]: 64025 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 10:46:47 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:46:50 : detected [G]: 23398 [E]: 63955 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 10:46:50 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:46:54 : detected [G]: 23338 [E]: 63895 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 10:46:54 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:46:57 : detected [G]: 23275 [E]: 63832 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 10:46:57 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:47:01 : detected [G]: 23187 [E]: 63744 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 10:47:01 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:47:04 : detected [G]: 23121 [E]: 62363 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 10:47:04 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:47:08 : detected [G]: 23055 [E]: 61310 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 10:47:08 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:47:11 : detected [G]: 22989 [E]: 59928 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 10:47:11 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:47:14 : detected [G]: 22901 [E]: 58853 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 10:47:14 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:47:18 : detected [G]: 22835 [E]: 57800 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 10:47:18 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:47:21 : detected [G]: 22769 [E]: 56747 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 10:47:21 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:47:25 : detected [G]: 22738 [E]: 56429 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 10:47:26 : detected [G]: 22738 [E]: 56101 [DE]: 0 |  Exit in 56 sec.
+2015-10-19 10:47:26 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:47:30 : detected [G]: 22738 [E]: 54785 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 10:47:30 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 10:47:33 : detected [G]: 22738 [E]: 54785 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 10:47:35 : detected [G]: 22738 [E]: 54785 [DE]: 0 |  Exit in 56 sec.
+2015-10-19 10:47:37 : detected [G]: 22738 [E]: 54785 [DE]: 0 |  Exit in 54 sec.
+2015-10-19 10:47:38 : detected [G]: 22738 [E]: 54785 [DE]: 0 |  Exit in 53 sec.
+2015-10-19 10:47:40 : detected [G]: 22738 [E]: 54785 [DE]: 0 |  Exit in 51 sec.
+2015-10-19 10:47:42 : detected [G]: 22738 [E]: 54785 [DE]: 0 |  Exit in 49 sec.
+2015-10-19 10:47:43 : detected [G]: 22738 [E]: 54785 [DE]: 0 |  Exit in 48 sec.
+2015-10-19 10:47:45 : detected [G]: 22738 [E]: 54785 [DE]: 0 |  Exit in 46 sec.
+2015-10-19 10:47:47 : detected [G]: 22738 [E]: 54785 [DE]: 0 |  Exit in 44 sec.
+2015-10-19 10:47:49 : detected [G]: 22738 [E]: 54785 [DE]: 0 |  Exit in 42 sec.
+2015-10-19 10:47:50 : detected [G]: 22738 [E]: 54785 [DE]: 0 |  Exit in 41 sec.
+2015-10-19 10:47:52 : detected [G]: 22738 [E]: 54785 [DE]: 0 |  Exit in 39 sec.
+2015-10-19 10:47:54 : detected [G]: 22738 [E]: 54785 [DE]: 0 |  Exit in 37 sec.
+2015-10-19 10:47:55 : detected [G]: 22738 [E]: 54785 [DE]: 0 |  Exit in 35 sec.
+2015-10-19 10:47:57 : detected [G]: 22738 [E]: 54785 [DE]: 0 |  Exit in 34 sec.
+2015-10-19 10:47:59 : detected [G]: 22738 [E]: 54785 [DE]: 0 |  Exit in 32 sec.
+2015-10-19 10:48:01 : detected [G]: 22738 [E]: 54785 [DE]:  |  Exit in 30 sec.
+2015-10-19 10:48:01 : Gold & Elixir & DE no change detected, exit
+2015-10-19 10:48:01 : Returning Home
+2015-10-19 10:48:06 : Bonus [G]: 100 000 [E]: 100 000 [DE]: 500
+2015-10-19 10:48:08 : Your league level is: Master III
+2015-10-19 10:48:08 : Stars earned: 2
+2015-10-19 10:48:08 : Loot: [G]: 499 169 [E]: 261 573 [DE]: 2 059 [T]: 2
+2015-10-19 10:48:08 : Taking snapshot of your loot
+2015-10-19 10:48:14 : Trying to locate Main Screen
+2015-10-19 10:48:14 : Main Screen Located
+2015-10-19 10:48:16 : Village Report
+2015-10-19 10:48:16 : No. of Free/Total Builders: 1/5
+2015-10-19 10:48:16 :  [T]: 2 682
+2015-10-19 10:48:16 :  [G]: 3 569 205 [E]: 5 240 801 [D]: 123 535 [GEM]: 5 304
+2015-10-19 10:48:16 : Collecting Resources
+2015-10-19 10:48:26 : Checking Army Camp...
+2015-10-19 10:48:28 : Total Army Camp capacity: 92/220
+2015-10-19 10:48:29 :  - No. of Balloons: 4
+2015-10-19 10:48:29 :  - No. of Minions: 36
+2015-10-19 10:48:29 : Training Troops...
+2015-10-19 10:48:55 : Spell Factory Full
+2015-10-19 10:48:55 : Created 1 Spell(s)
+2015-10-19 10:49:02 : ====== Waiting for full army ======
+2015-10-19 10:49:14 : Checking Army Camp...
+2015-10-19 10:49:16 : Total Army Camp capacity: 96/220
+2015-10-19 10:49:17 :  - No. of Balloons: 4
+2015-10-19 10:49:17 :  - No. of Minions: 38
+2015-10-19 10:49:17 : Training Troops...
+2015-10-19 10:49:39 : Spell Factory Full
+2015-10-19 10:49:41 : Time Idle: 00:00:38
+2015-10-19 10:49:42 : ====== Waiting for full army ======
+2015-10-19 10:49:54 : Checking Army Camp...
+2015-10-19 10:49:55 : Total Army Camp capacity: 120/220
+2015-10-19 10:49:56 :  - No. of Balloons: 8
+2015-10-19 10:49:56 :  - No. of Minions: 40
+2015-10-19 10:49:57 : Training Troops...
+2015-10-19 10:50:18 : Spell Factory Full
+2015-10-19 10:50:21 : Time Idle: 00:01:18
+2015-10-19 10:50:21 : ====== Waiting for full army ======
+2015-10-19 10:50:33 : Checking Army Camp...
+2015-10-19 10:50:35 : Total Army Camp capacity: 120/220
+2015-10-19 10:50:36 :  - No. of Balloons: 8
+2015-10-19 10:50:36 :  - No. of Minions: 40
+2015-10-19 10:50:36 : Training Troops...
+2015-10-19 10:50:57 : Spell Factory Full
+2015-10-19 10:51:00 : Time Idle: 00:01:57
+2015-10-19 10:51:00 : ====== Waiting for full army ======
+2015-10-19 10:51:12 : Checking Army Camp...
+2015-10-19 10:51:14 : Total Army Camp capacity: 120/220
+2015-10-19 10:51:15 :  - No. of Balloons: 8
+2015-10-19 10:51:15 :  - No. of Minions: 40
+2015-10-19 10:51:15 : Training Troops...
+2015-10-19 10:51:37 : Spell Factory Full
+2015-10-19 10:51:39 : Time Idle: 00:02:36
+2015-10-19 10:51:39 : ====== Waiting for full army ======
+2015-10-19 10:51:51 : Checking Army Camp...
+2015-10-19 10:51:53 : Total Army Camp capacity: 120/220
+2015-10-19 10:51:54 :  - No. of Balloons: 8
+2015-10-19 10:51:54 :  - No. of Minions: 40
+2015-10-19 10:51:55 : Training Troops...
+2015-10-19 10:52:16 : Spell Factory Full
+2015-10-19 10:52:18 : Time Idle: 00:03:15
+2015-10-19 10:52:19 : ====== Waiting for full army ======
+2015-10-19 10:52:31 : Checking Army Camp...
+2015-10-19 10:52:32 : Total Army Camp capacity: 120/220
+2015-10-19 10:52:33 :  - No. of Balloons: 8
+2015-10-19 10:52:33 :  - No. of Minions: 40
+2015-10-19 10:52:34 : Training Troops...
+2015-10-19 10:52:55 : Spell Factory Full
+2015-10-19 10:52:58 : Time Idle: 00:03:53
+2015-10-19 10:52:58 : ====== Waiting for full army ======
+2015-10-19 10:53:09 : Collecting Resources
+2015-10-19 10:53:15 : Checking Army Camp...
+2015-10-19 10:53:17 : Total Army Camp capacity: 120/220
+2015-10-19 10:53:18 :  - No. of Balloons: 8
+2015-10-19 10:53:18 :  - No. of Minions: 40
+2015-10-19 10:53:18 : Training Troops...
+2015-10-19 10:53:40 : Spell Factory Full
+2015-10-19 10:53:42 : Time Idle: 00:04:38
+2015-10-19 10:53:42 : ====== Waiting for full army ======
+2015-10-19 10:53:54 : Checking Army Camp...
+2015-10-19 10:53:56 : Total Army Camp capacity: 120/220
+2015-10-19 10:53:57 :  - No. of Balloons: 8
+2015-10-19 10:53:57 :  - No. of Minions: 40
+2015-10-19 10:53:58 : Training Troops...
+2015-10-19 10:54:19 : Spell Factory Full
+2015-10-19 10:54:22 : Time Idle: 00:05:17
+2015-10-19 10:54:22 : ====== Waiting for full army ======
+2015-10-19 10:54:34 : Checking Army Camp...
+2015-10-19 10:54:36 : Total Army Camp capacity: 120/220
+2015-10-19 10:54:36 :  - No. of Balloons: 8
+2015-10-19 10:54:37 :  - No. of Minions: 40
+2015-10-19 10:54:37 : Training Troops...
+2015-10-19 10:54:58 : Spell Factory Full
+2015-10-19 10:55:01 : Time Idle: 00:05:56
+2015-10-19 10:55:01 : ====== Waiting for full army ======
+2015-10-19 10:55:13 : Checking Army Camp...
+2015-10-19 10:55:15 : Total Army Camp capacity: 120/220
+2015-10-19 10:55:16 :  - No. of Balloons: 8
+2015-10-19 10:55:16 :  - No. of Minions: 40
+2015-10-19 10:55:16 : Training Troops...
+2015-10-19 10:55:37 : Spell Factory Full
+2015-10-19 10:55:40 : Time Idle: 00:06:35
+2015-10-19 10:55:40 : ====== Waiting for full army ======
+2015-10-19 10:55:52 : Checking Army Camp...
+2015-10-19 10:55:54 : Total Army Camp capacity: 120/220
+2015-10-19 10:55:55 :  - No. of Balloons: 8
+2015-10-19 10:55:55 :  - No. of Minions: 40
+2015-10-19 10:55:55 : Training Troops...
+2015-10-19 10:56:16 : Spell Factory Full
+2015-10-19 10:56:19 : Time Idle: 00:07:14
+2015-10-19 10:56:19 : ====== Waiting for full army ======
+2015-10-19 10:56:31 : Checking Army Camp...
+2015-10-19 10:56:33 : Total Army Camp capacity: 120/220
+2015-10-19 10:56:34 :  - No. of Balloons: 8
+2015-10-19 10:56:34 :  - No. of Minions: 40
+2015-10-19 10:56:34 : Training Troops...
+2015-10-19 10:56:56 : Spell Factory Full
+2015-10-19 10:56:58 : Time Idle: 00:07:53
+2015-10-19 10:56:58 : ====== Waiting for full army ======
+2015-10-19 10:57:10 : Checking Army Camp...
+2015-10-19 10:57:12 : Total Army Camp capacity: 120/220
+2015-10-19 10:57:13 :  - No. of Balloons: 8
+2015-10-19 10:57:13 :  - No. of Minions: 40
+2015-10-19 10:57:13 : Training Troops...
+2015-10-19 10:57:35 : Spell Factory Full
+2015-10-19 10:57:37 : Time Idle: 00:08:32
+2015-10-19 10:57:38 : ====== Waiting for full army ======
+2015-10-19 10:57:50 : Checking Army Camp...
+2015-10-19 10:57:51 : Total Army Camp capacity: 140/220
+2015-10-19 10:57:52 :  - No. of Balloons: 12
+2015-10-19 10:57:52 :  - No. of Minions: 40
+2015-10-19 10:57:53 : Training Troops...
+2015-10-19 10:58:14 : Spell Factory Full
+2015-10-19 10:58:17 : Time Idle: 00:09:11
+2015-10-19 10:58:17 : ====== Waiting for full army ======
+2015-10-19 10:58:29 : Checking Army Camp...
+2015-10-19 10:58:31 : Total Army Camp capacity: 140/220
+2015-10-19 10:58:32 :  - No. of Balloons: 12
+2015-10-19 10:58:32 :  - No. of Minions: 40
+2015-10-19 10:58:32 : Training Troops...
+2015-10-19 10:58:54 : Spell Factory Full
+2015-10-19 10:58:56 : Time Idle: 00:09:50
+2015-10-19 10:58:57 : ====== Waiting for full army ======
+2015-10-19 10:59:08 : Checking Army Camp...
+2015-10-19 10:59:10 : Total Army Camp capacity: 140/220
+2015-10-19 10:59:11 :  - No. of Balloons: 12
+2015-10-19 10:59:11 :  - No. of Minions: 40
+2015-10-19 10:59:12 : Training Troops...
+2015-10-19 10:59:33 : Spell Factory Full
+2015-10-19 10:59:36 : Time Idle: 00:10:29
+2015-10-19 10:59:36 : ====== Waiting for full army ======
+2015-10-19 10:59:48 : Checking Army Camp...
+2015-10-19 10:59:50 : Total Army Camp capacity: 140/220
+2015-10-19 10:59:50 :  - No. of Balloons: 12
+2015-10-19 10:59:51 :  - No. of Minions: 40
+2015-10-19 10:59:51 : Training Troops...
+2015-10-19 11:00:12 : Spell Factory Full
+2015-10-19 11:00:15 : Time Idle: 00:11:08
+2015-10-19 11:00:15 : ====== Waiting for full army ======
+2015-10-19 11:00:27 : Collecting Resources
+2015-10-19 11:00:33 : Checking Army Camp...
+2015-10-19 11:00:35 : Total Army Camp capacity: 140/220
+2015-10-19 11:00:35 :  - No. of Balloons: 12
+2015-10-19 11:00:36 :  - No. of Minions: 40
+2015-10-19 11:00:36 : Training Troops...
+2015-10-19 11:00:57 : Spell Factory Full
+2015-10-19 11:01:00 : Time Idle: 00:11:53
+2015-10-19 11:01:00 : ====== Waiting for full army ======
+2015-10-19 11:01:12 : Checking Army Camp...
+2015-10-19 11:01:14 : Total Army Camp capacity: 140/220
+2015-10-19 11:01:15 :  - No. of Balloons: 12
+2015-10-19 11:01:15 :  - No. of Minions: 40
+2015-10-19 11:01:15 : Training Troops...
+2015-10-19 11:01:36 : Spell Factory Full
+2015-10-19 11:01:39 : Time Idle: 00:12:32
+2015-10-19 11:01:39 : ====== Waiting for full army ======
+2015-10-19 11:01:51 : Checking Army Camp...
+2015-10-19 11:01:53 : Total Army Camp capacity: 140/220
+2015-10-19 11:01:54 :  - No. of Balloons: 12
+2015-10-19 11:01:54 :  - No. of Minions: 40
+2015-10-19 11:01:54 : Training Troops...
+2015-10-19 11:02:16 : Spell Factory Full
+2015-10-19 11:02:18 : Time Idle: 00:13:11
+2015-10-19 11:02:18 : ====== Waiting for full army ======
+2015-10-19 11:02:30 : Checking Army Camp...
+2015-10-19 11:02:32 : Total Army Camp capacity: 140/220
+2015-10-19 11:02:33 :  - No. of Balloons: 12
+2015-10-19 11:02:33 :  - No. of Minions: 40
+2015-10-19 11:02:33 : Training Troops...
+2015-10-19 11:02:55 : Spell Factory Full
+2015-10-19 11:02:57 : Time Idle: 00:13:49
+2015-10-19 11:02:57 : ====== Waiting for full army ======
+2015-10-19 11:03:09 : Checking Army Camp...
+2015-10-19 11:03:11 : Total Army Camp capacity: 140/220
+2015-10-19 11:03:12 :  - No. of Balloons: 12
+2015-10-19 11:03:12 :  - No. of Minions: 40
+2015-10-19 11:03:12 : Training Troops...
+2015-10-19 11:03:34 : Spell Factory Full
+2015-10-19 11:03:36 : Time Idle: 00:14:28
+2015-10-19 11:03:37 : ====== Waiting for full army ======
+2015-10-19 11:03:48 : Checking Army Camp...
+2015-10-19 11:03:50 : Total Army Camp capacity: 140/220
+2015-10-19 11:03:51 :  - No. of Balloons: 12
+2015-10-19 11:03:51 :  - No. of Minions: 40
+2015-10-19 11:03:52 : Training Troops...
+2015-10-19 11:04:13 : Spell Factory Full
+2015-10-19 11:04:16 : Time Idle: 00:15:07
+2015-10-19 11:04:16 : ====== Waiting for full army ======
+2015-10-19 11:04:28 : Checking Army Camp...
+2015-10-19 11:04:30 : Total Army Camp capacity: 140/220
+2015-10-19 11:04:30 :  - No. of Balloons: 12
+2015-10-19 11:04:31 :  - No. of Minions: 40
+2015-10-19 11:04:31 : Training Troops...
+2015-10-19 11:04:52 : Spell Factory Full
+2015-10-19 11:04:55 : Time Idle: 00:15:46
+2015-10-19 11:04:55 : ====== Waiting for full army ======
+2015-10-19 11:05:07 : Checking Army Camp...
+2015-10-19 11:05:09 : Total Army Camp capacity: 140/220
+2015-10-19 11:05:10 :  - No. of Balloons: 12
+2015-10-19 11:05:10 :  - No. of Minions: 40
+2015-10-19 11:05:10 : Training Troops...
+2015-10-19 11:05:31 : Spell Factory Full
+2015-10-19 11:05:34 : Time Idle: 00:16:25
+2015-10-19 11:05:34 : ====== Waiting for full army ======
+2015-10-19 11:05:46 : Checking Army Camp...
+2015-10-19 11:05:48 : Total Army Camp capacity: 160/220
+2015-10-19 11:05:49 :  - No. of Balloons: 16
+2015-10-19 11:05:49 :  - No. of Minions: 40
+2015-10-19 11:05:49 : Training Troops...
+2015-10-19 11:06:11 : Spell Factory Full
+2015-10-19 11:06:13 : Time Idle: 00:17:05
+2015-10-19 11:06:14 : ====== Waiting for full army ======
+2015-10-19 11:06:26 : Checking Army Camp...
+2015-10-19 11:06:28 : Total Army Camp capacity: 160/220
+2015-10-19 11:06:28 :  - No. of Balloons: 16
+2015-10-19 11:06:29 :  - No. of Minions: 40
+2015-10-19 11:06:29 : Training Troops...
+2015-10-19 11:06:50 : Spell Factory Full
+2015-10-19 11:06:53 : Time Idle: 00:17:44
+2015-10-19 11:06:53 : ====== Waiting for full army ======
+2015-10-19 11:07:05 : Checking Army Camp...
+2015-10-19 11:07:07 : Total Army Camp capacity: 160/220
+2015-10-19 11:07:08 :  - No. of Balloons: 16
+2015-10-19 11:07:08 :  - No. of Minions: 40
+2015-10-19 11:07:08 : Training Troops...
+2015-10-19 11:07:34 : Spell Factory Full
+2015-10-19 11:07:34 : Created 1 Spell(s)
+2015-10-19 11:07:37 : Time Idle: 00:18:27
+2015-10-19 11:07:37 : ====== Waiting for full army ======
+2015-10-19 11:07:49 : Collecting Resources
+2015-10-19 11:07:54 : Checking Army Camp...
+2015-10-19 11:07:56 : Total Army Camp capacity: 160/220
+2015-10-19 11:07:57 :  - No. of Balloons: 16
+2015-10-19 11:07:57 :  - No. of Minions: 40
+2015-10-19 11:07:57 : Training Troops...
+2015-10-19 11:08:19 : Spell Factory Full
+2015-10-19 11:08:21 : Time Idle: 00:19:12
+2015-10-19 11:08:22 : ====== Waiting for full army ======
+2015-10-19 11:08:33 : Checking Army Camp...
+2015-10-19 11:08:35 : Total Army Camp capacity: 160/220
+2015-10-19 11:08:36 :  - No. of Balloons: 16
+2015-10-19 11:08:36 :  - No. of Minions: 40
+2015-10-19 11:08:37 : Training Troops...
+2015-10-19 11:08:58 : Spell Factory Full
+2015-10-19 11:09:01 : Time Idle: 00:19:51
+2015-10-19 11:09:01 : ====== Waiting for full army ======
+2015-10-19 11:09:13 : Checking Army Camp...
+2015-10-19 11:09:15 : Total Army Camp capacity: 160/220
+2015-10-19 11:09:15 :  - No. of Balloons: 16
+2015-10-19 11:09:16 :  - No. of Minions: 40
+2015-10-19 11:09:16 : Training Troops...
+2015-10-19 11:09:37 : Spell Factory Full
+2015-10-19 11:09:40 : Time Idle: 00:20:30
+2015-10-19 11:09:40 : ====== Waiting for full army ======
+2015-10-19 11:09:52 : Checking Army Camp...
+2015-10-19 11:09:54 : Total Army Camp capacity: 160/220
+2015-10-19 11:09:55 :  - No. of Balloons: 16
+2015-10-19 11:09:55 :  - No. of Minions: 40
+2015-10-19 11:09:55 : Training Troops...
+2015-10-19 11:10:16 : Spell Factory Full
+2015-10-19 11:10:19 : Time Idle: 00:21:09
+2015-10-19 11:10:19 : ====== Waiting for full army ======
+2015-10-19 11:10:31 : Checking Army Camp...
+2015-10-19 11:10:33 : Total Army Camp capacity: 160/220
+2015-10-19 11:10:34 :  - No. of Balloons: 16
+2015-10-19 11:10:34 :  - No. of Minions: 40
+2015-10-19 11:10:34 : Training Troops...
+2015-10-19 11:10:55 : Spell Factory Full
+2015-10-19 11:10:58 : Time Idle: 00:21:48
+2015-10-19 11:10:58 : ====== Waiting for full army ======
+2015-10-19 11:11:10 : Checking Army Camp...
+2015-10-19 11:11:12 : Total Army Camp capacity: 160/220
+2015-10-19 11:11:13 :  - No. of Balloons: 16
+2015-10-19 11:11:13 :  - No. of Minions: 40
+2015-10-19 11:11:13 : Training Troops...
+2015-10-19 11:11:35 : Spell Factory Full
+2015-10-19 11:11:37 : Time Idle: 00:22:26
+2015-10-19 11:11:37 : ====== Waiting for full army ======
+2015-10-19 11:11:49 : Checking Army Camp...
+2015-10-19 11:11:51 : Total Army Camp capacity: 160/220
+2015-10-19 11:11:52 :  - No. of Balloons: 16
+2015-10-19 11:11:52 :  - No. of Minions: 40
+2015-10-19 11:11:52 : Training Troops...
+2015-10-19 11:12:14 : Spell Factory Full
+2015-10-19 11:12:16 : Time Idle: 00:23:05
+2015-10-19 11:12:17 : ====== Waiting for full army ======
+2015-10-19 11:12:28 : Checking Army Camp...
+2015-10-19 11:12:30 : Total Army Camp capacity: 160/220
+2015-10-19 11:12:31 :  - No. of Balloons: 16
+2015-10-19 11:12:31 :  - No. of Minions: 40
+2015-10-19 11:12:32 : Training Troops...
+2015-10-19 11:12:53 : Spell Factory Full
+2015-10-19 11:12:55 : Time Idle: 00:23:44
+2015-10-19 11:12:56 : ====== Waiting for full army ======
+2015-10-19 11:13:08 : Checking Army Camp...
+2015-10-19 11:13:09 : Total Army Camp capacity: 160/220
+2015-10-19 11:13:10 :  - No. of Balloons: 16
+2015-10-19 11:13:10 :  - No. of Minions: 40
+2015-10-19 11:13:11 : Training Troops...
+2015-10-19 11:13:32 : Spell Factory Full
+2015-10-19 11:13:35 : Time Idle: 00:24:23
+2015-10-19 11:13:35 : ====== Waiting for full army ======
+2015-10-19 11:13:47 : Checking Army Camp...
+2015-10-19 11:13:49 : Total Army Camp capacity: 180/220
+2015-10-19 11:13:50 :  - No. of Balloons: 20
+2015-10-19 11:13:50 :  - No. of Minions: 40
+2015-10-19 11:13:50 : Training Troops...
+2015-10-19 11:14:12 : Spell Factory Full
+2015-10-19 11:14:14 : Time Idle: 00:25:02
+2015-10-19 11:14:14 : ====== Waiting for full army ======
+2015-10-19 11:14:26 : Checking Army Camp...
+2015-10-19 11:14:28 : Total Army Camp capacity: 180/220
+2015-10-19 11:14:29 :  - No. of Balloons: 20
+2015-10-19 11:14:29 :  - No. of Minions: 40
+2015-10-19 11:14:29 : Training Troops...
+2015-10-19 11:14:51 : Spell Factory Full
+2015-10-19 11:14:53 : Time Idle: 00:25:41
+2015-10-19 11:14:54 : ====== Waiting for full army ======
+2015-10-19 11:15:05 : Collecting Resources
+2015-10-19 11:15:11 : Checking Army Camp...
+2015-10-19 11:15:13 : Total Army Camp capacity: 180/220
+2015-10-19 11:15:14 :  - No. of Balloons: 20
+2015-10-19 11:15:14 :  - No. of Minions: 40
+2015-10-19 11:15:15 : Training Troops...
+2015-10-19 11:15:36 : Spell Factory Full
+2015-10-19 11:15:39 : Time Idle: 00:26:26
+2015-10-19 11:15:39 : ====== Waiting for full army ======
+2015-10-19 11:15:51 : Checking Army Camp...
+2015-10-19 11:15:53 : Total Army Camp capacity: 180/220
+2015-10-19 11:15:53 :  - No. of Balloons: 20
+2015-10-19 11:15:54 :  - No. of Minions: 40
+2015-10-19 11:15:54 : Training Troops...
+2015-10-19 11:16:15 : Spell Factory Full
+2015-10-19 11:16:18 : Time Idle: 00:27:05
+2015-10-19 11:16:18 : ====== Waiting for full army ======
+2015-10-19 11:16:30 : Checking Army Camp...
+2015-10-19 11:16:32 : Total Army Camp capacity: 180/220
+2015-10-19 11:16:33 :  - No. of Balloons: 20
+2015-10-19 11:16:33 :  - No. of Minions: 40
+2015-10-19 11:16:33 : Training Troops...
+2015-10-19 11:16:54 : Spell Factory Full
+2015-10-19 11:16:57 : Time Idle: 00:27:44
+2015-10-19 11:16:57 : ====== Waiting for full army ======
+2015-10-19 11:17:09 : Checking Army Camp...
+2015-10-19 11:17:11 : Total Army Camp capacity: 180/220
+2015-10-19 11:17:12 :  - No. of Balloons: 20
+2015-10-19 11:17:12 :  - No. of Minions: 40
+2015-10-19 11:17:12 : Training Troops...
+2015-10-19 11:17:34 : Spell Factory Full
+2015-10-19 11:17:36 : Time Idle: 00:28:23
+2015-10-19 11:17:36 : ====== Waiting for full army ======
+2015-10-19 11:17:48 : Checking Army Camp...
+2015-10-19 11:17:50 : Total Army Camp capacity: 180/220
+2015-10-19 11:17:51 :  - No. of Balloons: 20
+2015-10-19 11:17:51 :  - No. of Minions: 40
+2015-10-19 11:17:51 : Training Troops...
+2015-10-19 11:18:13 : Spell Factory Full
+2015-10-19 11:18:15 : Time Idle: 00:29:02
+2015-10-19 11:18:15 : ====== Waiting for full army ======
+2015-10-19 11:18:27 : Checking Army Camp...
+2015-10-19 11:18:29 : Total Army Camp capacity: 180/220
+2015-10-19 11:18:30 :  - No. of Balloons: 20
+2015-10-19 11:18:30 :  - No. of Minions: 40
+2015-10-19 11:18:31 : Training Troops...
+2015-10-19 11:18:52 : Spell Factory Full
+2015-10-19 11:18:54 : Time Idle: 00:29:41
+2015-10-19 11:18:55 : ====== Waiting for full army ======
+2015-10-19 11:19:07 : Checking Army Camp...
+2015-10-19 11:19:08 : Total Army Camp capacity: 180/220
+2015-10-19 11:19:09 :  - No. of Balloons: 20
+2015-10-19 11:19:09 :  - No. of Minions: 40
+2015-10-19 11:19:10 : Training Troops...
+2015-10-19 11:19:31 : Spell Factory Full
+2015-10-19 11:19:34 : Time Idle: 00:30:20
+2015-10-19 11:19:34 : ====== Waiting for full army ======
+2015-10-19 11:19:46 : Checking Army Camp...
+2015-10-19 11:19:48 : Total Army Camp capacity: 180/220
+2015-10-19 11:19:49 :  - No. of Balloons: 20
+2015-10-19 11:19:49 :  - No. of Minions: 40
+2015-10-19 11:19:49 : Training Troops...
+2015-10-19 11:20:10 : Spell Factory Full
+2015-10-19 11:20:13 : Time Idle: 00:30:59
+2015-10-19 11:20:13 : ====== Waiting for full army ======
+2015-10-19 11:20:25 : Checking Army Camp...
+2015-10-19 11:20:27 : Total Army Camp capacity: 180/220
+2015-10-19 11:20:28 :  - No. of Balloons: 20
+2015-10-19 11:20:28 :  - No. of Minions: 40
+2015-10-19 11:20:28 : Training Troops...
+2015-10-19 11:20:49 : Spell Factory Full
+2015-10-19 11:20:52 : Time Idle: 00:31:38
+2015-10-19 11:20:52 : ====== Waiting for full army ======
+2015-10-19 11:21:04 : Checking Army Camp...
+2015-10-19 11:21:06 : Total Army Camp capacity: 180/220
+2015-10-19 11:21:07 :  - No. of Balloons: 20
+2015-10-19 11:21:07 :  - No. of Minions: 40
+2015-10-19 11:21:07 : Training Troops...
+2015-10-19 11:21:29 : Spell Factory Full
+2015-10-19 11:21:31 : Time Idle: 00:32:17
+2015-10-19 11:21:31 : ====== Waiting for full army ======
+2015-10-19 11:21:43 : Checking Army Camp...
+2015-10-19 11:21:45 : Total Army Camp capacity: 200/220
+2015-10-19 11:21:46 :  - No. of Balloons: 24
+2015-10-19 11:21:46 :  - No. of Minions: 40
+2015-10-19 11:21:46 : Training Troops...
+2015-10-19 11:22:08 : Spell Factory Full
+2015-10-19 11:22:11 : Time Idle: 00:32:56
+2015-10-19 11:22:11 : ====== Waiting for full army ======
+2015-10-19 11:22:23 : Collecting Resources
+2015-10-19 11:22:29 : Checking Army Camp...
+2015-10-19 11:22:30 : Total Army Camp capacity: 200/220
+2015-10-19 11:22:31 :  - No. of Balloons: 24
+2015-10-19 11:22:32 :  - No. of Minions: 40
+2015-10-19 11:22:32 : Training Troops...
+2015-10-19 11:22:53 : Spell Factory Full
+2015-10-19 11:22:56 : Time Idle: 00:33:41
+2015-10-19 11:22:56 : ====== Waiting for full army ======
+2015-10-19 11:23:08 : Checking Army Camp...
+2015-10-19 11:23:10 : Total Army Camp capacity: 200/220
+2015-10-19 11:23:10 :  - No. of Balloons: 24
+2015-10-19 11:23:11 :  - No. of Minions: 40
+2015-10-19 11:23:11 : Training Troops...
+2015-10-19 11:23:22 : ClashGameBot was Paused!
+2015-10-19 11:23:53 : ClashGameBot was Resumed.
+2015-10-19 11:23:55 : Cannot find train page, return home.
+2015-10-19 11:23:56 : Time Idle: 00:34:41
+2015-10-19 11:23:57 : ====== Waiting for full army ======
+2015-10-19 11:24:08 : Checking Army Camp...
+2015-10-19 11:24:10 : Total Army Camp capacity: 200/220
+2015-10-19 11:24:11 :  - No. of Balloons: 24
+2015-10-19 11:24:11 :  - No. of Minions: 40
+2015-10-19 11:24:12 : Training Troops...
+2015-10-19 11:24:35 : Spell Factory not found...
+2015-10-19 11:24:44 : Waiting for Main Screen
+2015-10-19 11:31:42 : Unable to load CoC, attempt to fix it...
+2015-10-19 11:31:42 : Stopping BlueStacks ....
+2015-10-19 11:31:49 : Please wait for full BS shutdown....
+2015-10-19 11:31:53 : BS stopped succesfully
+2015-10-19 11:31:53 : Visible tray Count: 4
+2015-10-19 11:31:53 : Hidden tray Count: 6
+2015-10-19 11:31:54 : Starting BlueStacks and Clash Of Clans
+2015-10-19 11:31:54 : Please wait while BS/CoC starts....
+2015-10-19 11:32:08 : BlueStacks Loaded, took 13.53 seconds to begin.
+2015-10-19 11:32:08 : Waiting for Main Screen after BS restart
+2015-10-19 11:33:59 : Unable to load CoC, attempt to fix it...
+2015-10-19 11:33:59 : Stopping BlueStacks ....
+2015-10-19 11:34:06 : Please wait for full BS shutdown....
+2015-10-19 11:34:10 : BS stopped succesfully
+2015-10-19 11:34:10 : Visible tray Count: 4
+2015-10-19 11:34:10 : Hidden tray Count: 6
+2015-10-19 11:34:11 : Starting BlueStacks and Clash Of Clans
+2015-10-19 11:34:11 : Please wait while BS/CoC starts....
+2015-10-19 11:34:25 : BlueStacks Loaded, took 13.5 seconds to begin.
+2015-10-19 11:34:25 : Waiting for Main Screen after BS restart
+2015-10-19 11:36:16 : Unable to load CoC, attempt to fix it...
+2015-10-19 11:36:16 : Stopping BlueStacks ....
+2015-10-19 11:36:22 : Please wait for full BS shutdown....
+2015-10-19 11:36:27 : BS stopped succesfully
+2015-10-19 11:36:27 : Visible tray Count: 4
+2015-10-19 11:36:27 : Hidden tray Count: 6
+2015-10-19 11:36:28 : Starting BlueStacks and Clash Of Clans
+2015-10-19 11:36:28 : Please wait while BS/CoC starts....
+2015-10-19 11:36:41 : BlueStacks Loaded, took 13.52 seconds to begin.
+2015-10-19 11:36:41 : Waiting for Main Screen after BS restart
+2015-10-19 11:38:31 : Stuck trying to Restart BS...
+2015-10-19 11:38:35 : Please wait for CoC restart......
+2015-10-19 11:38:55 : Waiting for Main Screen
+2015-10-19 11:43:52 : Unable to load CoC, attempt to fix it...
+2015-10-19 11:43:52 : Stopping BlueStacks ....
+2015-10-19 11:43:59 : Please wait for full BS shutdown....
+2015-10-19 11:44:03 : BS stopped succesfully
+2015-10-19 11:44:03 : Visible tray Count: 4
+2015-10-19 11:44:03 : Hidden tray Count: 6
+2015-10-19 11:44:04 : Starting BlueStacks and Clash Of Clans
+2015-10-19 11:44:04 : Please wait while BS/CoC starts....
+2015-10-19 11:44:17 : BlueStacks Loaded, took 13.54 seconds to begin.
+2015-10-19 11:44:18 : Waiting for Main Screen after BS restart
+2015-10-19 11:46:08 : Unable to load CoC, attempt to fix it...
+2015-10-19 11:46:08 : Stopping BlueStacks ....
+2015-10-19 11:46:15 : Please wait for full BS shutdown....
+2015-10-19 11:46:19 : BS stopped succesfully
+2015-10-19 11:46:19 : Visible tray Count: 4
+2015-10-19 11:46:19 : Hidden tray Count: 6
+2015-10-19 11:46:20 : Starting BlueStacks and Clash Of Clans
+2015-10-19 11:46:20 : Please wait while BS/CoC starts....
+2015-10-19 11:46:34 : BlueStacks Loaded, took 13.54 seconds to begin.
+2015-10-19 11:46:34 : Waiting for Main Screen after BS restart
+2015-10-19 11:48:24 : Unable to load CoC, attempt to fix it...
+2015-10-19 11:48:24 : Stopping BlueStacks ....
+2015-10-19 11:48:31 : Please wait for full BS shutdown....
+2015-10-19 11:48:35 : BS stopped succesfully
+2015-10-19 11:48:35 : Visible tray Count: 4
+2015-10-19 11:48:35 : Hidden tray Count: 6
+2015-10-19 11:48:36 : Starting BlueStacks and Clash Of Clans
+2015-10-19 11:48:36 : Please wait while BS/CoC starts....
+2015-10-19 11:48:50 : BlueStacks Loaded, took 13.51 seconds to begin.
+2015-10-19 11:48:50 : Waiting for Main Screen after BS restart
+2015-10-19 11:50:40 : Stuck trying to Restart BS...
+2015-10-19 11:50:43 : Please wait for CoC restart......
+2015-10-19 11:51:04 : Waiting for Main Screen
+2015-10-19 11:56:01 : Unable to load CoC, attempt to fix it...
+2015-10-19 11:56:01 : Stopping BlueStacks ....
+2015-10-19 11:56:08 : Please wait for full BS shutdown....
+2015-10-19 11:56:12 : BS stopped succesfully
+2015-10-19 11:56:12 : Visible tray Count: 4
+2015-10-19 11:56:13 : Hidden tray Count: 6
+2015-10-19 11:56:14 : Starting BlueStacks and Clash Of Clans
+2015-10-19 11:56:14 : Please wait while BS/CoC starts....
+2015-10-19 11:56:27 : BlueStacks Loaded, took 13.54 seconds to begin.
+2015-10-19 11:56:27 : Waiting for Main Screen after BS restart
+2015-10-19 11:58:17 : Unable to load CoC, attempt to fix it...
+2015-10-19 11:58:17 : Stopping BlueStacks ....
+2015-10-19 11:58:24 : Please wait for full BS shutdown....
+2015-10-19 11:58:28 : BS stopped succesfully
+2015-10-19 11:58:28 : Visible tray Count: 4
+2015-10-19 11:58:28 : Hidden tray Count: 6
+2015-10-19 11:58:29 : Starting BlueStacks and Clash Of Clans
+2015-10-19 11:58:29 : Please wait while BS/CoC starts....
+2015-10-19 11:58:43 : BlueStacks Loaded, took 13.52 seconds to begin.
+2015-10-19 11:58:43 : Waiting for Main Screen after BS restart
+2015-10-19 12:00:33 : Unable to load CoC, attempt to fix it...
+2015-10-19 12:00:33 : Stopping BlueStacks ....
+2015-10-19 12:00:40 : Please wait for full BS shutdown....
+2015-10-19 12:00:44 : BS stopped succesfully
+2015-10-19 12:00:44 : Visible tray Count: 4
+2015-10-19 12:00:44 : Hidden tray Count: 6
+2015-10-19 12:00:45 : Starting BlueStacks and Clash Of Clans
+2015-10-19 12:00:45 : Please wait while BS/CoC starts....
+2015-10-19 12:00:59 : BlueStacks Loaded, took 13.54 seconds to begin.
+2015-10-19 12:00:59 : Waiting for Main Screen after BS restart
+2015-10-19 12:02:50 : Stuck trying to Restart BS...
+2015-10-19 12:02:50 : Unable to fix the window error
+2015-10-19 12:02:51 : Trying to locate Main Screen
+2015-10-19 12:02:54 : Please wait for CoC restart......
+2015-10-19 12:03:14 : Waiting for Main Screen
+2015-10-19 12:08:12 : Unable to load CoC, attempt to fix it...
+2015-10-19 12:08:12 : Stopping BlueStacks ....
+2015-10-19 12:08:19 : Please wait for full BS shutdown....
+2015-10-19 12:08:23 : BS stopped succesfully
+2015-10-19 12:08:23 : Visible tray Count: 4
+2015-10-19 12:08:23 : Hidden tray Count: 6
+2015-10-19 12:08:24 : Starting BlueStacks and Clash Of Clans
+2015-10-19 12:08:24 : Please wait while BS/CoC starts....
+2015-10-19 12:08:37 : BlueStacks Loaded, took 13.56 seconds to begin.
+2015-10-19 12:08:38 : Waiting for Main Screen after BS restart
+2015-10-19 12:10:28 : Unable to load CoC, attempt to fix it...
+2015-10-19 12:10:28 : Stopping BlueStacks ....
+2015-10-19 12:10:35 : Please wait for full BS shutdown....
+2015-10-19 12:10:39 : BS stopped succesfully
+2015-10-19 12:10:39 : Visible tray Count: 4
+2015-10-19 12:10:39 : Hidden tray Count: 6
+2015-10-19 12:10:40 : Starting BlueStacks and Clash Of Clans
+2015-10-19 12:10:40 : Please wait while BS/CoC starts....
+2015-10-19 12:10:54 : BlueStacks Loaded, took 13.53 seconds to begin.
+2015-10-19 12:10:54 : Waiting for Main Screen after BS restart
+2015-10-19 12:12:45 : Unable to load CoC, attempt to fix it...
+2015-10-19 12:12:45 : Stopping BlueStacks ....
+2015-10-19 12:12:51 : Please wait for full BS shutdown....
+2015-10-19 12:12:56 : BS stopped succesfully
+2015-10-19 12:12:56 : Visible tray Count: 4
+2015-10-19 12:12:56 : Hidden tray Count: 6
+2015-10-19 12:12:57 : Starting BlueStacks and Clash Of Clans
+2015-10-19 12:12:57 : Please wait while BS/CoC starts....
+2015-10-19 12:13:10 : BlueStacks Loaded, took 13.52 seconds to begin.
+2015-10-19 12:13:10 : Waiting for Main Screen after BS restart
+2015-10-19 12:15:01 : Stuck trying to Restart BS...
+2015-10-19 12:15:04 : Please wait for CoC restart......
+2015-10-19 12:15:24 : Waiting for Main Screen
+2015-10-19 12:20:22 : Unable to load CoC, attempt to fix it...
+2015-10-19 12:20:22 : Stopping BlueStacks ....
+2015-10-19 12:20:29 : Please wait for full BS shutdown....
+2015-10-19 12:20:33 : BS stopped succesfully
+2015-10-19 12:20:33 : Visible tray Count: 4
+2015-10-19 12:20:33 : Hidden tray Count: 6
+2015-10-19 12:20:34 : Starting BlueStacks and Clash Of Clans
+2015-10-19 12:20:34 : Please wait while BS/CoC starts....
+2015-10-19 12:20:48 : BlueStacks Loaded, took 13.58 seconds to begin.
+2015-10-19 12:20:48 : Waiting for Main Screen after BS restart
+2015-10-19 12:22:39 : Unable to load CoC, attempt to fix it...
+2015-10-19 12:22:39 : Stopping BlueStacks ....
+2015-10-19 12:22:45 : Please wait for full BS shutdown....
+2015-10-19 12:22:50 : BS stopped succesfully
+2015-10-19 12:22:50 : Visible tray Count: 4
+2015-10-19 12:22:50 : Hidden tray Count: 6
+2015-10-19 12:22:51 : Starting BlueStacks and Clash Of Clans
+2015-10-19 12:22:51 : Please wait while BS/CoC starts....
+2015-10-19 12:23:04 : BlueStacks Loaded, took 13.51 seconds to begin.
+2015-10-19 12:23:04 : Waiting for Main Screen after BS restart
+2015-10-19 12:24:55 : Unable to load CoC, attempt to fix it...
+2015-10-19 12:24:55 : Stopping BlueStacks ....
+2015-10-19 12:25:01 : Please wait for full BS shutdown....
+2015-10-19 12:25:06 : BS stopped succesfully
+2015-10-19 12:25:06 : Visible tray Count: 4
+2015-10-19 12:25:06 : Hidden tray Count: 6
+2015-10-19 12:25:07 : Starting BlueStacks and Clash Of Clans
+2015-10-19 12:25:07 : Please wait while BS/CoC starts....
+2015-10-19 12:25:20 : BlueStacks Loaded, took 13.52 seconds to begin.
+2015-10-19 12:25:20 : Waiting for Main Screen after BS restart
+2015-10-19 12:27:11 : Stuck trying to Restart BS...
+2015-10-19 12:27:14 : Please wait for CoC restart......
+2015-10-19 12:27:34 : Waiting for Main Screen
+2015-10-19 12:32:31 : Unable to load CoC, attempt to fix it...
+2015-10-19 12:32:31 : Stopping BlueStacks ....
+2015-10-19 12:32:38 : Please wait for full BS shutdown....
+2015-10-19 12:32:42 : BS stopped succesfully
+2015-10-19 12:32:42 : Visible tray Count: 4
+2015-10-19 12:32:42 : Hidden tray Count: 6
+2015-10-19 12:32:43 : Starting BlueStacks and Clash Of Clans
+2015-10-19 12:32:43 : Please wait while BS/CoC starts....
+2015-10-19 12:32:57 : BlueStacks Loaded, took 13.55 seconds to begin.
+2015-10-19 12:32:57 : Waiting for Main Screen after BS restart
+2015-10-19 12:34:48 : Unable to load CoC, attempt to fix it...
+2015-10-19 12:34:48 : Stopping BlueStacks ....
+2015-10-19 12:34:54 : Please wait for full BS shutdown....
+2015-10-19 12:34:59 : BS stopped succesfully
+2015-10-19 12:34:59 : Visible tray Count: 4
+2015-10-19 12:34:59 : Hidden tray Count: 6
+2015-10-19 12:35:00 : Starting BlueStacks and Clash Of Clans
+2015-10-19 12:35:00 : Please wait while BS/CoC starts....
+2015-10-19 12:35:13 : BlueStacks Loaded, took 13.54 seconds to begin.
+2015-10-19 12:35:13 : Waiting for Main Screen after BS restart
+2015-10-19 12:37:04 : Unable to load CoC, attempt to fix it...
+2015-10-19 12:37:04 : Stopping BlueStacks ....
+2015-10-19 12:37:11 : Please wait for full BS shutdown....
+2015-10-19 12:37:15 : BS stopped succesfully
+2015-10-19 12:37:15 : Visible tray Count: 4
+2015-10-19 12:37:15 : Hidden tray Count: 6
+2015-10-19 12:37:16 : Starting BlueStacks and Clash Of Clans
+2015-10-19 12:37:16 : Please wait while BS/CoC starts....
+2015-10-19 12:37:30 : BlueStacks Loaded, took 13.52 seconds to begin.
+2015-10-19 12:37:30 : Waiting for Main Screen after BS restart
+2015-10-19 12:39:20 : Stuck trying to Restart BS...
+2015-10-19 12:39:20 : Unable to fix the window error
+2015-10-19 12:39:20 : Main Screen Located
+2015-10-19 12:39:21 : Trying to locate Main Screen
+2015-10-19 12:39:24 : Please wait for CoC restart......
+2015-10-19 12:39:45 : Waiting for Main Screen
+2015-10-19 12:44:42 : Unable to load CoC, attempt to fix it...
+2015-10-19 12:44:42 : Stopping BlueStacks ....
+2015-10-19 12:44:51 : Please wait for full BS shutdown....
+2015-10-19 12:44:55 : BS stopped succesfully
+2015-10-19 12:44:55 : Visible tray Count: 4
+2015-10-19 12:44:55 : Hidden tray Count: 6
+2015-10-19 12:44:56 : Starting BlueStacks and Clash Of Clans
+2015-10-19 12:44:56 : Please wait while BS/CoC starts....
+2015-10-19 12:45:06 : BlueStacks Loaded, took 10.39 seconds to begin.
+2015-10-19 12:45:07 : Waiting for Main Screen after BS restart
+2015-10-19 12:46:57 : Unable to load CoC, attempt to fix it...
+2015-10-19 12:46:57 : Stopping BlueStacks ....
+2015-10-19 12:47:02 : Please wait for full BS shutdown....
+2015-10-19 12:47:06 : BS stopped succesfully
+2015-10-19 12:47:06 : Visible tray Count: 4
+2015-10-19 12:47:06 : Hidden tray Count: 6
+2015-10-19 12:47:07 : Starting BlueStacks and Clash Of Clans
+2015-10-19 12:47:07 : Please wait while BS/CoC starts....
+2015-10-19 12:47:21 : BlueStacks Loaded, took 13.51 seconds to begin.
+2015-10-19 12:47:21 : Waiting for Main Screen after BS restart
+2015-10-19 12:49:12 : Unable to load CoC, attempt to fix it...
+2015-10-19 12:49:12 : Stopping BlueStacks ....
+2015-10-19 12:49:18 : Please wait for full BS shutdown....
+2015-10-19 12:49:23 : BS stopped succesfully
+2015-10-19 12:49:23 : Visible tray Count: 4
+2015-10-19 12:49:23 : Hidden tray Count: 5
+2015-10-19 12:49:24 : Starting BlueStacks and Clash Of Clans
+2015-10-19 12:49:24 : Please wait while BS/CoC starts....
+2015-10-19 12:49:37 : BlueStacks Loaded, took 13.49 seconds to begin.
+2015-10-19 12:49:37 : Waiting for Main Screen after BS restart
+2015-10-19 12:51:28 : Stuck trying to Restart BS...
+2015-10-19 12:51:31 : Please wait for CoC restart......
+2015-10-19 12:51:51 : Waiting for Main Screen
+2015-10-19 12:56:49 : Unable to load CoC, attempt to fix it...
+2015-10-19 12:56:49 : Stopping BlueStacks ....
+2015-10-19 12:56:56 : Please wait for full BS shutdown....
+2015-10-19 12:57:00 : BS stopped succesfully
+2015-10-19 12:57:00 : Visible tray Count: 4
+2015-10-19 12:57:01 : Hidden tray Count: 6
+2015-10-19 12:57:02 : Starting BlueStacks and Clash Of Clans
+2015-10-19 12:57:02 : Please wait while BS/CoC starts....
+2015-10-19 12:57:15 : BlueStacks Loaded, took 13.52 seconds to begin.
+2015-10-19 12:57:15 : Waiting for Main Screen after BS restart
+2015-10-19 12:59:06 : Unable to load CoC, attempt to fix it...
+2015-10-19 12:59:06 : Stopping BlueStacks ....
+2015-10-19 12:59:13 : Please wait for full BS shutdown....
+2015-10-19 12:59:17 : BS stopped succesfully
+2015-10-19 12:59:17 : Visible tray Count: 4
+2015-10-19 12:59:17 : Hidden tray Count: 6
+2015-10-19 12:59:18 : Starting BlueStacks and Clash Of Clans
+2015-10-19 12:59:18 : Please wait while BS/CoC starts....
+2015-10-19 12:59:32 : BlueStacks Loaded, took 13.5 seconds to begin.
+2015-10-19 12:59:32 : Waiting for Main Screen after BS restart
+2015-10-19 13:01:22 : Unable to load CoC, attempt to fix it...
+2015-10-19 13:01:22 : Stopping BlueStacks ....
+2015-10-19 13:01:29 : Please wait for full BS shutdown....
+2015-10-19 13:01:33 : BS stopped succesfully
+2015-10-19 13:01:33 : Visible tray Count: 4
+2015-10-19 13:01:33 : Hidden tray Count: 6
+2015-10-19 13:01:34 : Starting BlueStacks and Clash Of Clans
+2015-10-19 13:01:34 : Please wait while BS/CoC starts....
+2015-10-19 13:01:48 : BlueStacks Loaded, took 13.5 seconds to begin.
+2015-10-19 13:01:48 : Waiting for Main Screen after BS restart
+2015-10-19 13:03:38 : Stuck trying to Restart BS...
+2015-10-19 13:03:41 : Please wait for CoC restart......
+2015-10-19 13:04:01 : Waiting for Main Screen
+2015-10-19 13:08:59 : Unable to load CoC, attempt to fix it...
+2015-10-19 13:08:59 : Stopping BlueStacks ....
+2015-10-19 13:09:05 : Please wait for full BS shutdown....
+2015-10-19 13:09:10 : BS stopped succesfully
+2015-10-19 13:09:10 : Visible tray Count: 4
+2015-10-19 13:09:10 : Hidden tray Count: 6
+2015-10-19 13:09:11 : Starting BlueStacks and Clash Of Clans
+2015-10-19 13:09:11 : Please wait while BS/CoC starts....
+2015-10-19 13:09:23 : BlueStacks Loaded, took 12.5 seconds to begin.
+2015-10-19 13:09:23 : Waiting for Main Screen after BS restart
+2015-10-19 13:11:14 : Unable to load CoC, attempt to fix it...
+2015-10-19 13:11:14 : Stopping BlueStacks ....
+2015-10-19 13:11:21 : Please wait for full BS shutdown....
+2015-10-19 13:11:25 : BS stopped succesfully
+2015-10-19 13:11:25 : Visible tray Count: 4
+2015-10-19 13:11:25 : Hidden tray Count: 6
+2015-10-19 13:11:26 : Starting BlueStacks and Clash Of Clans
+2015-10-19 13:11:26 : Please wait while BS/CoC starts....
+2015-10-19 13:11:39 : BlueStacks Loaded, took 12.49 seconds to begin.
+2015-10-19 13:11:39 : Waiting for Main Screen after BS restart
+2015-10-19 13:13:30 : Unable to load CoC, attempt to fix it...
+2015-10-19 13:13:30 : Stopping BlueStacks ....
+2015-10-19 13:13:37 : Please wait for full BS shutdown....
+2015-10-19 13:13:41 : BS stopped succesfully
+2015-10-19 13:13:41 : Visible tray Count: 4
+2015-10-19 13:13:41 : Hidden tray Count: 6
+2015-10-19 13:13:42 : Starting BlueStacks and Clash Of Clans
+2015-10-19 13:13:42 : Please wait while BS/CoC starts....
+2015-10-19 13:13:55 : BlueStacks Loaded, took 13.5 seconds to begin.
+2015-10-19 13:13:55 : Waiting for Main Screen after BS restart
+2015-10-19 13:15:46 : Stuck trying to Restart BS...
+2015-10-19 13:15:46 : Unable to fix the window error
+2015-10-19 13:15:46 : Main Screen Located
+2015-10-19 13:15:47 : Trying to locate Main Screen
+2015-10-19 13:15:50 : Please wait for CoC restart......
+2015-10-19 13:16:10 : Waiting for Main Screen
+2015-10-19 13:21:08 : Unable to load CoC, attempt to fix it...
+2015-10-19 13:21:08 : Stopping BlueStacks ....
+2015-10-19 13:21:15 : Please wait for full BS shutdown....
+2015-10-19 13:21:19 : BS stopped succesfully
+2015-10-19 13:21:19 : Visible tray Count: 4
+2015-10-19 13:21:19 : Hidden tray Count: 6
+2015-10-19 13:21:20 : Starting BlueStacks and Clash Of Clans
+2015-10-19 13:21:20 : Please wait while BS/CoC starts....
+2015-10-19 13:21:34 : BlueStacks Loaded, took 13.57 seconds to begin.
+2015-10-19 13:21:34 : Waiting for Main Screen after BS restart
+2015-10-19 13:23:25 : Unable to load CoC, attempt to fix it...
+2015-10-19 13:23:25 : Stopping BlueStacks ....
+2015-10-19 13:23:32 : Please wait for full BS shutdown....
+2015-10-19 13:23:36 : BS stopped succesfully
+2015-10-19 13:23:36 : Visible tray Count: 4
+2015-10-19 13:23:36 : Hidden tray Count: 6
+2015-10-19 13:23:37 : Starting BlueStacks and Clash Of Clans
+2015-10-19 13:23:37 : Please wait while BS/CoC starts....
+2015-10-19 13:23:51 : BlueStacks Loaded, took 13.52 seconds to begin.
+2015-10-19 13:23:51 : Waiting for Main Screen after BS restart
+2015-10-19 13:25:41 : Unable to load CoC, attempt to fix it...
+2015-10-19 13:25:42 : Stopping BlueStacks ....
+2015-10-19 13:25:48 : Please wait for full BS shutdown....
+2015-10-19 13:25:53 : BS stopped succesfully
+2015-10-19 13:25:53 : Visible tray Count: 4
+2015-10-19 13:25:53 : Hidden tray Count: 6
+2015-10-19 13:25:54 : Starting BlueStacks and Clash Of Clans
+2015-10-19 13:25:54 : Please wait while BS/CoC starts....
+2015-10-19 13:26:07 : BlueStacks Loaded, took 13.51 seconds to begin.
+2015-10-19 13:26:07 : Waiting for Main Screen after BS restart
+2015-10-19 13:27:58 : Stuck trying to Restart BS...
+2015-10-19 13:28:01 : Please wait for CoC restart......
+2015-10-19 13:28:21 : Waiting for Main Screen
+2015-10-19 13:33:19 : Unable to load CoC, attempt to fix it...
+2015-10-19 13:33:19 : Stopping BlueStacks ....
+2015-10-19 13:33:26 : Please wait for full BS shutdown....
+2015-10-19 13:33:30 : BS stopped succesfully
+2015-10-19 13:33:30 : Visible tray Count: 4
+2015-10-19 13:33:30 : Hidden tray Count: 6
+2015-10-19 13:33:31 : Starting BlueStacks and Clash Of Clans
+2015-10-19 13:33:31 : Please wait while BS/CoC starts....
+2015-10-19 13:33:45 : BlueStacks Loaded, took 13.55 seconds to begin.
+2015-10-19 13:33:45 : Waiting for Main Screen after BS restart
+2015-10-19 13:35:36 : Unable to load CoC, attempt to fix it...
+2015-10-19 13:35:36 : Stopping BlueStacks ....
+2015-10-19 13:35:42 : Please wait for full BS shutdown....
+2015-10-19 13:35:47 : BS stopped succesfully
+2015-10-19 13:35:47 : Visible tray Count: 4
+2015-10-19 13:35:47 : Hidden tray Count: 6
+2015-10-19 13:35:48 : Starting BlueStacks and Clash Of Clans
+2015-10-19 13:35:48 : Please wait while BS/CoC starts....
+2015-10-19 13:36:01 : BlueStacks Loaded, took 13.52 seconds to begin.
+2015-10-19 13:36:01 : Waiting for Main Screen after BS restart
+2015-10-19 13:37:52 : Unable to load CoC, attempt to fix it...
+2015-10-19 13:37:52 : Stopping BlueStacks ....
+2015-10-19 13:37:59 : Please wait for full BS shutdown....
+2015-10-19 13:38:03 : BS stopped succesfully
+2015-10-19 13:38:03 : Visible tray Count: 4
+2015-10-19 13:38:03 : Hidden tray Count: 6
+2015-10-19 13:38:04 : Starting BlueStacks and Clash Of Clans
+2015-10-19 13:38:04 : Please wait while BS/CoC starts....
+2015-10-19 13:38:18 : BlueStacks Loaded, took 13.53 seconds to begin.
+2015-10-19 13:38:18 : Waiting for Main Screen after BS restart
+2015-10-19 13:40:09 : Stuck trying to Restart BS...
+2015-10-19 13:40:12 : Please wait for CoC restart......
+2015-10-19 13:40:32 : Waiting for Main Screen
+2015-10-19 13:45:30 : Unable to load CoC, attempt to fix it...
+2015-10-19 13:45:30 : Stopping BlueStacks ....
+2015-10-19 13:45:36 : Please wait for full BS shutdown....
+2015-10-19 13:45:41 : BS stopped succesfully
+2015-10-19 13:45:41 : Visible tray Count: 4
+2015-10-19 13:45:41 : Hidden tray Count: 6
+2015-10-19 13:45:42 : Starting BlueStacks and Clash Of Clans
+2015-10-19 13:45:42 : Please wait while BS/CoC starts....
+2015-10-19 13:45:55 : BlueStacks Loaded, took 13.56 seconds to begin.
+2015-10-19 13:45:56 : Waiting for Main Screen after BS restart
+2015-10-19 13:47:46 : Unable to load CoC, attempt to fix it...
+2015-10-19 13:47:46 : Stopping BlueStacks ....
+2015-10-19 13:47:53 : Please wait for full BS shutdown....
+2015-10-19 13:47:57 : BS stopped succesfully
+2015-10-19 13:47:57 : Visible tray Count: 4
+2015-10-19 13:47:57 : Hidden tray Count: 6
+2015-10-19 13:47:58 : Starting BlueStacks and Clash Of Clans
+2015-10-19 13:47:58 : Please wait while BS/CoC starts....
+2015-10-19 13:48:12 : BlueStacks Loaded, took 13.5 seconds to begin.
+2015-10-19 13:48:12 : Waiting for Main Screen after BS restart
+2015-10-19 13:50:02 : Unable to load CoC, attempt to fix it...
+2015-10-19 13:50:02 : Stopping BlueStacks ....
+2015-10-19 13:50:09 : Please wait for full BS shutdown....
+2015-10-19 13:50:13 : BS stopped succesfully
+2015-10-19 13:50:13 : Visible tray Count: 4
+2015-10-19 13:50:13 : Hidden tray Count: 6
+2015-10-19 13:50:14 : Starting BlueStacks and Clash Of Clans
+2015-10-19 13:50:14 : Please wait while BS/CoC starts....
+2015-10-19 13:50:28 : BlueStacks Loaded, took 13.5 seconds to begin.
+2015-10-19 13:50:28 : Waiting for Main Screen after BS restart
+2015-10-19 13:52:18 : Stuck trying to Restart BS...
+2015-10-19 13:52:18 : Unable to fix the window error
+2015-10-19 13:52:18 : Main Screen Located
+2015-10-19 13:52:20 : Trying to locate Main Screen
+2015-10-19 13:52:23 : Please wait for CoC restart......
+2015-10-19 13:52:43 : Waiting for Main Screen
+2015-10-19 13:57:40 : Unable to load CoC, attempt to fix it...
+2015-10-19 13:57:40 : Stopping BlueStacks ....
+2015-10-19 13:57:47 : Please wait for full BS shutdown....
+2015-10-19 13:57:52 : BS stopped succesfully
+2015-10-19 13:57:52 : Visible tray Count: 4
+2015-10-19 13:57:52 : Hidden tray Count: 6
+2015-10-19 13:57:53 : Starting BlueStacks and Clash Of Clans
+2015-10-19 13:57:53 : Please wait while BS/CoC starts....
+2015-10-19 13:58:06 : BlueStacks Loaded, took 13.55 seconds to begin.
+2015-10-19 13:58:06 : Waiting for Main Screen after BS restart
+2015-10-19 13:59:57 : Unable to load CoC, attempt to fix it...
+2015-10-19 13:59:57 : Stopping BlueStacks ....
+2015-10-19 14:00:03 : Please wait for full BS shutdown....
+2015-10-19 14:00:08 : BS stopped succesfully
+2015-10-19 14:00:08 : Visible tray Count: 4
+2015-10-19 14:00:08 : Hidden tray Count: 6
+2015-10-19 14:00:09 : Starting BlueStacks and Clash Of Clans
+2015-10-19 14:00:09 : Please wait while BS/CoC starts....
+2015-10-19 14:00:22 : BlueStacks Loaded, took 13.52 seconds to begin.
+2015-10-19 14:00:22 : Waiting for Main Screen after BS restart
+2015-10-19 14:02:13 : Unable to load CoC, attempt to fix it...
+2015-10-19 14:02:13 : Stopping BlueStacks ....
+2015-10-19 14:02:20 : Please wait for full BS shutdown....
+2015-10-19 14:02:24 : BS stopped succesfully
+2015-10-19 14:02:24 : Visible tray Count: 4
+2015-10-19 14:02:24 : Hidden tray Count: 6
+2015-10-19 14:02:25 : Starting BlueStacks and Clash Of Clans
+2015-10-19 14:02:25 : Please wait while BS/CoC starts....

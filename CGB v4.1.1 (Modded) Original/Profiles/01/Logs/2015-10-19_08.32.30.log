@@ -1,0 +1,251 @@
+2015-10-19 08:32:31 :  Clash Game Bot v4.1.1 Modded Powered by GameBot.org ~
+2015-10-19 08:32:31 : GameBot.org.au3 Script running on WIN_81  X64
+2015-10-19 08:32:31 : =================== Bot Start ====================
+2015-10-19 08:32:31 : -------------------------  Current Profile: 01 --------------------------
+2015-10-19 08:32:31 : Trying to locate Main Screen
+2015-10-19 08:32:31 : Main Screen Located
+2015-10-19 08:32:32 : Detecting your Buildings..
+2015-10-19 08:32:38 : Language setting is English: Correct.
+2015-10-19 08:32:39 : Trying to locate Main Screen
+2015-10-19 08:32:39 : Main Screen Located
+2015-10-19 08:32:40 : Village Report
+2015-10-19 08:32:40 : No. of Free/Total Builders: 1/5
+2015-10-19 08:32:40 :  [T]: 2 675
+2015-10-19 08:32:41 :  [G]: 2 906 749 [E]: 5 003 047 [D]: 121 700 [GEM]: 5 304
+2015-10-19 08:32:41 : Collecting Resources
+2015-10-19 08:32:50 : Checking Army Camp...
+2015-10-19 08:32:52 : Total Army Camp capacity: 220/220
+2015-10-19 08:32:53 :  - No. of Balloons: 28
+2015-10-19 08:32:53 :  - No. of Minions: 40
+2015-10-19 08:32:53 : Barracks and Spell factory status: 
+2015-10-19 08:32:53 : - Barracks detected: 4 | Available: 4 | Upgrading: 0
+2015-10-19 08:32:53 : - Dark Barracks detected: 2 | Available: 2 | Upgrading: 0
+2015-10-19 08:32:53 : - Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2015-10-19 08:32:53 : - Dark Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2015-10-19 08:32:53 : Training Troops...
+2015-10-19 08:32:54 : Your Army Camps are now Full
+2015-10-19 08:33:11 : Cannot find train page, return home.
+2015-10-19 08:33:17 : Going to Attack...
+2015-10-19 08:33:23 : ============== Searching For Dead Base ===============
+2015-10-19 08:33:23 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-19 08:33:23 : , Max TH 8
+2015-10-19 08:33:23 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-19 08:33:23 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-19 08:33:23 : ============== Searching For Live Base ===============
+2015-10-19 08:33:23 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-19 08:33:23 : , Max TH 8
+2015-10-19 08:33:23 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-19 08:33:23 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Live Base
+2015-10-19 08:33:23 : ==================================================
+2015-10-19 08:33:27 :   1> [G]: 204292 [E]:  32582 [D]: 1428 [T]:15 [TH]:10, In
+2015-10-19 08:33:32 :   2> [G]:   4839 [E]:  38586 [D]:  315 [T]:23 [TH]:10, In
+2015-10-19 08:33:35 :   3> [G]:  33497 [E]: 160888 [D]: 1218 [T]:22 [TH]: 9, In
+2015-10-19 08:33:38 :   4> [G]:  41693 [E]:  35367 [D]:  482 [T]:14 [TH]: 9, In
+2015-10-19 08:33:46 :   5> [G]:  49552 [E]:  23319 [D]: 2610 [T]:15 [TH]:10, In
+2015-10-19 08:33:49 :   6> [G]:  98594 [E]:  81934 [D]:  776 [T]:22 [TH]: 9, In
+2015-10-19 08:33:56 :   7> [G]: 102261 [E]:  10969 [D]:   83 [T]:21 [TH]:10, In
+2015-10-19 08:33:59 :   8> [G]: 121176 [E]:  58528 [D]:  181 [T]:12 [TH]: 9, In
+2015-10-19 08:34:07 :   9> [G]:  56877 [E]:  85487 [D]:  317 [T]:28 [TH]: 9, In
+2015-10-19 08:34:10 :  10> [G]: 196999 [E]: 258530 [D]: 1842 [T]:11 [TH]: 9, In
+2015-10-19 08:34:15 :  11> [G]:  34661 [E]:  52410 [D]: 1574 [T]:32 [TH]:10, In
+2015-10-19 08:34:25 :  12> [G]:  31908 [E]: 133051 [D]:  196 [T]:27 [TH]:10, In
+2015-10-19 08:34:27 :  13> [G]:  93014 [E]:  59144 [D]:  286 [T]:20 [TH]: 9, In
+2015-10-19 08:34:36 :  14> [G]:   9587 [E]: 181409 [D]:  559 [T]:25 [TH]:10, In
+2015-10-19 08:34:39 :  15> [G]:  65232 [E]:  30302 [D]: 1789 [T]:32 [TH]: 9, In
+2015-10-19 08:34:46 :  16> [G]:  85819 [E]:  64042 [D]:  292 [T]: 9 [TH]:10, In
+2015-10-19 08:34:49 :  17> [G]:  22823 [E]:  46982 [D]: 1274 [T]:22 [TH]: 9, In
+2015-10-19 08:34:57 :  18> [G]:  46652 [E]: 264098 [D]: 3020 [T]:29 [TH]:10, In
+2015-10-19 08:34:59 :  19> [G]:  31903 [E]: 122565 [D]: 1020 [T]:18 [TH]:10, In
+2015-10-19 08:35:07 :  20> [G]: 112712 [E]:  74457 [D]: 1229 [T]:29 [TH]:10, In
+2015-10-19 08:35:10 :  21> [G]:  45040 [E]: 124012 [D]: 1132 [T]:13 [TH]:10, In
+2015-10-19 08:35:17 :  22> [G]:  47230 [E]:  33715 [D]:  605 [T]:14 [TH]:10, In
+2015-10-19 08:35:20 :  23> [G]:  22112 [E]: 227920 [D]: 1495 [T]:26 [TH]:10, In
+2015-10-19 08:35:28 :  24> [G]:  78111 [E]:  76203 [D]:  620 [T]:10 [TH]:10, In
+2015-10-19 08:35:30 :  25> [G]:  28371 [E]: 167682 [D]:  482 [T]:19 [TH]: 9, In
+2015-10-19 08:35:38 :  26> [G]:  30178 [E]:  80713 [D]:   50 [T]:18 [TH]: 9, In
+2015-10-19 08:35:42 :  27> [G]: 280558 [E]: 326598 [D]: 2711 [T]:38 [TH]:10, In
+2015-10-19 08:35:47 :  28> [G]: 196579 [E]: 105372 [D]:  936 [T]:39 [TH]:10, In
+2015-10-19 08:35:52 :  29> [G]:  28820 [E]: 119646 [D]:  480 [T]:38 [TH]:10, In
+2015-10-19 08:35:54 :  30> [G]: 144212 [E]: 152621 [D]: 1084 [T]:21 [TH]: 9, In
+2015-10-19 08:36:02 :  31> [G]: 134487 [E]: 252516 [D]: 1184 [T]:22 [TH]:10, In
+2015-10-19 08:36:05 :  32> [G]:  70017 [E]:  85516 [D]:  528 [T]:20 [TH]: 9, In
+2015-10-19 08:36:12 :  33> [G]: 105663 [E]: 151011 [D]:  475 [T]:19 [TH]:10, In
+2015-10-19 08:36:15 :  34> [G]:  55731 [E]: 123065 [D]:  426 [T]: 6 [TH]: 9, In
+2015-10-19 08:36:22 :  35> [G]:   6920 [E]: 101001 [D]:  135 [T]:21 [TH]:10, In
+2015-10-19 08:36:25 :  36> [G]: 402412 [E]: 389858 [D]: 3027 [T]:28 [TH]:10, In
+2015-10-19 08:36:32 :  37> [G]:   8499 [E]:  46151 [D]:  346 [T]:13 [TH]:10, In
+2015-10-19 08:36:34 :  38> [G]:  30627 [E]:  31318 [D]: 1697 [T]:15 [TH]: 9, In
+2015-10-19 08:36:42 :  39> [G]: 160839 [E]:  44929 [D]:  108 [T]:12 [TH]:10, In
+2015-10-19 08:36:45 :  40> [G]:  53328 [E]:   2579 [D]:  144 [T]:10 [TH]: 9, In
+2015-10-19 08:36:51 :  41> [G]:  89665 [E]: 110430 [D]:  984 [T]:25 [TH]:10, In
+2015-10-19 08:36:54 :  42> [G]: 110371 [E]:  51952 [D]: 2497 [T]:14 [TH]: 9, In
+2015-10-19 08:37:01 :  43> [G]:  75215 [E]:  83062 [D]:  457 [T]:10 [TH]: 9, In
+2015-10-19 08:37:04 :  44> [G]: 141178 [E]:  37022 [D]:  889 [T]:19 [TH]: 9, In
+2015-10-19 08:37:11 :  45> [G]:  55299 [E]:  45360 [D]:  497 [T]:23 [TH]:10, In
+2015-10-19 08:37:16 :  46> [G]:  82866 [E]:  98942 [D]:  851 [T]:16 [TH]:10, In
+2015-10-19 08:37:19 :  47> [G]:  45769 [E]:  17960 [D]: 1176 [T]:21 [TH]: 9, In
+2015-10-19 08:37:25 :  48> [G]:  70250 [E]:  45429 [D]: 1159 [T]:21 [TH]:10, In
+2015-10-19 08:37:28 :  49> [G]:  44284 [E]:  39926 [D]:   50 [T]:20 [TH]:10, In
+2015-10-19 08:37:35 :  50> [G]:   9328 [E]:   6736 [D]:  319 [T]:43 [TH]:10, In
+2015-10-19 08:37:35 : Aim:           [G+E+D]: 372500 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-19 08:37:35 : Aim:           [G+E+D]: 372500 [T]: 0 [TH]: 8 for: Live Base
+2015-10-19 08:37:40 :  51> [G]: 141429 [E]: 207436 [D]:  294 [T]:16 [TH]:10, In
+2015-10-19 08:37:43 :  52> [G]:  14989 [E]:   6094 [D]:  576 [T]:15 [TH]: 9, In
+2015-10-19 08:37:51 :  53> [G]: 164455 [E]: 174218 [D]:  202 [T]:22 [TH]: 9, In
+2015-10-19 08:37:54 :  54> [G]:  52662 [E]:  24039 [D]: 1641 [T]:21 [TH]: 9, In
+2015-10-19 08:38:00 :  55> [G]:  53785 [E]:  54145 [D]:  487 [T]:22 [TH]: 9, In
+2015-10-19 08:38:03 :  56> [G]: 101819 [E]:  69985 [D]:  740 [T]: 6 [TH]: 9, In
+2015-10-19 08:38:10 :  57> [G]:  48036 [E]:  19846 [D]:  996 [T]:17 [TH]: 9, In
+2015-10-19 08:38:14 :  58> [G]:  68413 [E]: 135994 [D]: 3155 [T]:18 [TH]:10, In
+2015-10-19 08:38:19 :  59> [G]: 202205 [E]: 271867 [D]: 1045 [T]: 6 [TH]: 8, In
+2015-10-19 08:38:19 : ~~~~~~~~~~~~~~ DE Side Base Found! ~~~~~~~~~~~~~~~
+2015-10-19 08:38:21 : ================ Search Complete =================
+2015-10-19 08:38:21 : Initiating attack for: Live Base
+2015-10-19 08:38:23 : -Balloons 28
+2015-10-19 08:38:23 : -Minions 40
+2015-10-19 08:38:23 : -Clan Castle 
+2015-10-19 08:38:23 : -King 
+2015-10-19 08:38:23 : -Heal Spells 2
+2015-10-19 08:38:23 : -Rage Spells 2
+2015-10-19 08:38:23 : -Poison Spells 1
+2015-10-19 08:38:23 :  ====== Start Attack ====== 
+2015-10-19 08:38:25 : Attacking on Dark Elixir Side.
+2015-10-19 08:38:26 : == DE lixir Storage : [429,318] ==
+2015-10-19 08:38:28 : DE Storage Located Bottom Left... Attacking Bottom Left
+2015-10-19 08:38:29 : Dropping Clan Castle
+2015-10-19 08:38:29 : Dropping only wave of 28 Balloons
+2015-10-19 08:38:32 : Spell drop point: 369, 373
+2015-10-19 08:38:32 : Dropping spell in slot 4
+2015-10-19 08:38:33 : Dropping spell in slot 5
+2015-10-19 08:38:33 : Dropping only wave of 40 Minions
+2015-10-19 08:38:37 : Dropping King
+2015-10-19 08:38:38 : Dropping left over troops
+2015-10-19 08:38:38 : Checking remaining unused troops for: Live Base
+2015-10-19 08:38:40 : -Balloons 1
+2015-10-19 08:38:40 : -Minions 1
+2015-10-19 08:38:40 : -Clan Castle 
+2015-10-19 08:38:40 : -Heal Spells 1
+2015-10-19 08:38:40 : -Rage Spells 1
+2015-10-19 08:38:40 : -Poison Spells 1
+2015-10-19 08:38:43 : Dropping last wave of 1 Balloons
+2015-10-19 08:38:46 : Dropping last wave of 1 Minions
+2015-10-19 08:38:50 : Checking remaining unused troops for: Live Base
+2015-10-19 08:38:52 : -Minions 0
+2015-10-19 08:38:52 : -Clan Castle 
+2015-10-19 08:38:52 : -Heal Spells 1
+2015-10-19 08:38:52 : -Rage Spells 1
+2015-10-19 08:38:52 : -Poison Spells 1
+2015-10-19 08:39:01 : Finished Attacking, waiting for the battle to end
+2015-10-19 08:39:01 : Checking if the battle has finished
+2015-10-19 08:39:02 : detected [G]: 134032 [E]: 90658 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 08:39:02 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 08:39:05 : detected [G]: 116416 [E]: 83716 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 08:39:05 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 08:39:08 : detected [G]: 107403 [E]: 83716 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 08:39:08 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 08:39:11 : detected [G]: 101534 [E]: 76774 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 08:39:11 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 08:39:14 : detected [G]: 98608 [E]: 35068 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 08:39:14 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 08:39:17 : detected [G]: 94219 [E]: 34899 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 08:39:17 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 08:39:20 : detected [G]: 84678 [E]: 19020 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 08:39:20 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 08:39:22 : detected [G]: 80289 [E]: 215 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 08:39:22 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 08:39:25 : detected [G]: 77363 [E]: 178 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 08:39:25 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 08:39:28 : detected [G]: 74355 [E]: 178 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 08:39:28 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 08:39:31 : detected [G]: 74285 [E]: 178 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 08:39:31 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 08:39:34 : detected [G]: 66975 [E]: 178 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 08:39:34 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 08:39:37 : detected [G]: 66975 [E]: 178 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 08:39:38 : detected [G]: 66975 [E]: 178 [DE]: 0 |  Exit in 57 sec.
+2015-10-19 08:39:39 : detected [G]: 66975 [E]: 178 [DE]: 0 |  Exit in 56 sec.
+2015-10-19 08:39:40 : detected [G]: 66975 [E]: 178 [DE]: 0 |  Exit in 55 sec.
+2015-10-19 08:39:42 : detected [G]: 66975 [E]: 178 [DE]: 0 |  Exit in 54 sec.
+2015-10-19 08:39:43 : detected [G]: 66975 [E]: 178 [DE]: 0 |  Exit in 52 sec.
+2015-10-19 08:39:44 : detected [G]: 66975 [E]: 178 [DE]: 0 |  Exit in 51 sec.
+2015-10-19 08:39:45 : detected [G]: 66975 [E]: 178 [DE]: 0 |  Exit in 50 sec.
+2015-10-19 08:39:46 : detected [G]: 66975 [E]: 112 [DE]: 0 |  Exit in 49 sec.
+2015-10-19 08:39:46 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 08:39:49 : detected [G]: 66975 [E]: 0 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 08:39:49 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 08:39:52 : detected [G]: 66975 [E]: 0 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 08:39:53 : detected [G]: 66975 [E]: 0 [DE]: 0 |  Exit in 57 sec.
+2015-10-19 08:39:54 : detected [G]: 66975 [E]: 0 [DE]: 0 |  Exit in 56 sec.
+2015-10-19 08:39:54 : King is getting weak, Activating King's power
+2015-10-19 08:39:56 : detected [G]: 66975 [E]: 0 [DE]: 0 |  Exit in 54 sec.
+2015-10-19 08:39:58 : detected [G]: 66975 [E]: 0 [DE]: 0 |  Exit in 53 sec.
+2015-10-19 08:39:59 : detected [G]: 66975 [E]: 0 [DE]: 0 |  Exit in 51 sec.
+2015-10-19 08:40:01 : detected [G]: 66975 [E]: 0 [DE]: 0 |  Exit in 49 sec.
+2015-10-19 08:40:03 : detected [G]: 66975 [E]: 0 [DE]: 0 |  Exit in 48 sec.
+2015-10-19 08:40:04 : detected [G]: 66975 [E]: 0 [DE]: 0 |  Exit in 46 sec.
+2015-10-19 08:40:06 : detected [G]: 66975 [E]: 0 [DE]: 0 |  Exit in 44 sec.
+2015-10-19 08:40:08 : detected [G]: 66975 [E]: 0 [DE]: 0 |  Exit in 43 sec.
+2015-10-19 08:40:10 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 41 sec.
+2015-10-19 08:40:10 : Gold & Elixir & DE change detected, waiting...
+2015-10-19 08:40:13 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 58 sec.
+2015-10-19 08:40:15 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 56 sec.
+2015-10-19 08:40:16 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 55 sec.
+2015-10-19 08:40:18 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 53 sec.
+2015-10-19 08:40:20 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 51 sec.
+2015-10-19 08:40:21 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 49 sec.
+2015-10-19 08:40:23 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 48 sec.
+2015-10-19 08:40:25 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 46 sec.
+2015-10-19 08:40:26 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 44 sec.
+2015-10-19 08:40:28 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 43 sec.
+2015-10-19 08:40:30 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 41 sec.
+2015-10-19 08:40:31 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 39 sec.
+2015-10-19 08:40:33 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 38 sec.
+2015-10-19 08:40:35 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 36 sec.
+2015-10-19 08:40:36 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 34 sec.
+2015-10-19 08:40:38 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 33 sec.
+2015-10-19 08:40:40 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 31 sec.
+2015-10-19 08:40:41 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 29 sec.
+2015-10-19 08:40:43 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 28 sec.
+2015-10-19 08:40:45 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 26 sec.
+2015-10-19 08:40:46 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 24 sec.
+2015-10-19 08:40:48 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 23 sec.
+2015-10-19 08:40:50 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 21 sec.
+2015-10-19 08:40:51 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 19 sec.
+2015-10-19 08:40:53 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 18 sec.
+2015-10-19 08:40:55 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 16 sec.
+2015-10-19 08:40:56 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 14 sec.
+2015-10-19 08:40:58 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 13 sec.
+2015-10-19 08:41:00 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in 11 sec.
+2015-10-19 08:41:01 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in  9 sec.
+2015-10-19 08:41:03 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in  8 sec.
+2015-10-19 08:41:05 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in  6 sec.
+2015-10-19 08:41:06 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in  4 sec.
+2015-10-19 08:41:08 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in  3 sec.
+2015-10-19 08:41:10 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in  1 sec.
+2015-10-19 08:41:11 : detected [G]: 64051 [E]: 0 [DE]: 0 |  Exit in  0 sec.
+2015-10-19 08:41:11 : Gold & Elixir & DE no change detected, exit
+2015-10-19 08:41:12 : Returning Home
+2015-10-19 08:41:17 : Bonus [G]: 100 000 [E]: 100 000 [DE]: 500
+2015-10-19 08:41:19 : Your league level is: Master III
+2015-10-19 08:41:19 : Stars earned: 2
+2015-10-19 08:41:19 : Loot: [G]: 138 154 [E]: 271 867 [DE]: 1 045 [T]: 4
+2015-10-19 08:41:19 : Taking snapshot of your loot
+2015-10-19 08:41:24 : Trying to locate Main Screen
+2015-10-19 08:41:24 : Main Screen Located
+2015-10-19 08:41:26 : Village Report
+2015-10-19 08:41:26 : No. of Free/Total Builders: 1/5
+2015-10-19 08:41:26 :  [T]: 2 679
+2015-10-19 08:41:26 :  [G]: 3 100 653 [E]: 5 374 914 [D]: 123 254 [GEM]: 5 304
+2015-10-19 08:41:27 : Collecting Resources
+2015-10-19 08:41:36 : Checking Army Camp...
+2015-10-19 08:41:38 : Total Army Camp capacity: 64/220
+2015-10-19 08:41:39 :  - No. of Balloons: 4
+2015-10-19 08:41:39 :  - No. of Minions: 22
+2015-10-19 08:41:39 : Barracks and Spell factory status: 
+2015-10-19 08:41:39 : - Barracks detected: 4 | Available: 4 | Upgrading: 0
+2015-10-19 08:41:39 : - Dark Barracks detected: 2 | Available: 2 | Upgrading: 0
+2015-10-19 08:41:39 : - Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2015-10-19 08:41:39 : - Dark Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2015-10-19 08:41:39 : Training Troops...
+2015-10-19 08:50:10 : Waiting for Main Screen
+2015-10-19 08:50:17 : ClashGameBot was Paused!

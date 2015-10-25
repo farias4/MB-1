@@ -117,6 +117,7 @@ Func saveConfig() ;Saves the controls settings to the config
 	IniWrite($config, "search", "DBsearchGold", GUICtrlRead($txtDBMinGold))
 	IniWrite($config, "search", "DBsearchElixir", GUICtrlRead($txtDBMinElixir))
 	IniWrite($config, "search", "DBsearchGoldPlusElixir", GUICtrlRead($txtDBMinGoldPlusElixir))
+	IniWrite($config, "search", "DBsearchGoldPlusElixirPlusDE", GUICtrlRead($txtDBMinGoldPlusElixirPlusDE))
 	IniWrite($config, "search", "DBsearchDark", GUICtrlRead($txtDBMinDarkElixir))
 	IniWrite($config, "search", "DBsearchTrophy", GUICtrlRead($txtDBMinTrophy))
 	IniWrite($config, "search", "DBTHLevel", _GUICtrlComboBox_GetCurSel($cmbDBTH))
@@ -168,6 +169,7 @@ Func saveConfig() ;Saves the controls settings to the config
 	IniWrite($config, "search", "ABsearchGoldHero", GUICtrlRead($txtABMinGoldHero))
 	IniWrite($config, "search", "ABsearchElixirHero", GUICtrlRead($txtABMinElixirHero))
 	IniWrite($config, "search", "ABsearchGoldPlusElixirHero", GUICtrlRead($txtABMinGoldPlusElixirHero))
+	IniWrite($config, "search", "ABsearchGoldPlusElixirPlusDEHero", GUICtrlRead($txtABMinGoldPlusElixirPlusDEHero))
 	IniWrite($config, "search", "ABsearchDarkHero", GUICtrlRead($txtABMinDarkElixirHero))
 	IniWrite($config, "search", "ABsearchTrophyHero", GUICtrlRead($txtABMinTrophyHero))
 	IniWrite($config, "search", "ABTHLevelHero", _GUICtrlComboBox_GetCurSel($cmbABTHHero))
@@ -235,6 +237,7 @@ Func saveConfig() ;Saves the controls settings to the config
 	IniWrite($config, "search", "ABsearchGold", GUICtrlRead($txtABMinGold))
 	IniWrite($config, "search", "ABsearchElixir", GUICtrlRead($txtABMinElixir))
 	IniWrite($config, "search", "ABsearchGoldPlusElixir", GUICtrlRead($txtABMinGoldPlusElixir))
+	IniWrite($config, "search", "ABsearchGoldPlusElixirPlusDE", GUICtrlRead($txtABMinGoldPlusElixirPlusDE))
 	IniWrite($config, "search", "ABsearchDark", GUICtrlRead($txtABMinDarkElixir))
 	IniWrite($config, "search", "ABsearchTrophy", GUICtrlRead($txtABMinTrophy))
 	IniWrite($config, "search", "ABTHLevel", _GUICtrlComboBox_GetCurSel($cmbABTH))
@@ -251,6 +254,7 @@ Func saveConfig() ;Saves the controls settings to the config
 	IniWrite($config, "search", "reduceGold", GUICtrlRead($txtSearchReduceGold))
 	IniWrite($config, "search", "reduceElixir", GUICtrlRead($txtSearchReduceElixir))
 	IniWrite($config, "search", "reduceGoldPlusElixir", GUICtrlRead($txtSearchReduceGoldPlusElixir))
+	IniWrite($config, "search", "reduceGoldPlusElixirPlusDE", GUICtrlRead($txtSearchReduceGoldPlusElixirPlusDE))
 	IniWrite($config, "search", "reduceDark", GUICtrlRead($txtSearchReduceDark))
 	IniWrite($config, "search", "reduceTrophy", GUICtrlRead($txtSearchReduceTrophy))
 
@@ -447,6 +451,11 @@ Func saveConfig() ;Saves the controls settings to the config
 	EndIf
 	IniWrite($config, "advanced", "attacknowdelay", _GUICtrlComboBox_GetCurSel($cmbAttackNowDelay) + 1)
 
+	If GUICtrlRead($chkAttackWhileTrain) = $GUI_CHECKED Then
+		IniWrite($config, "advanced", "chkAttackWhileTrain", 1)
+	Else
+		IniWrite($config, "advanced", "chkAttackWhileTrain", 0)
+	EndIf
 	If GUICtrlRead($chkAttackTH) = $GUI_CHECKED Then
 		IniWrite($config, "advanced", "townhall", 1)
 	Else
@@ -460,9 +469,9 @@ Func saveConfig() ;Saves the controls settings to the config
 		IniWrite($config, "advanced", "SmartLightSpell", "0")
     EndIf
 	 IniWrite($config, "advanced", "txtMinDark", GUICtrlRead($txtMinDark))
-	 
+
 	IniWrite($config, "advanced", "DetectITBase", _GUICtrlComboBox_GetCurSel($cmbDetectITBase))
-	
+
 	;	If GUICtrlRead($chkLightSpell) = $GUI_CHECKED Then
 	;		IniWrite($config, "advanced", "hitDElightning", 1)
 	;	Else
@@ -493,7 +502,7 @@ Func saveConfig() ;Saves the controls settings to the config
 	IniWrite($config, "advanced", "AttackTHType", _GUICtrlComboBox_GetCurSel($cmbAttackTHType))
     IniWrite($config, "advanced", "BottomTHType", _GUICtrlComboBox_GetCurSel($cmbAttackbottomType))
 	IniWrite($config, "advanced", "DetectTrapedTH", _GUICtrlComboBox_GetCurSel($cmbDetectTrapedTH))
-	
+
 	If GUICtrlRead($chkSpellNone) = $GUI_CHECKED Then
 		IniWrite($config, "advanced", "SpellNone",1)
 	Else
@@ -502,7 +511,7 @@ Func saveConfig() ;Saves the controls settings to the config
 
 	IniWrite($config, "advanced", "Spelltype", _GUICtrlComboBox_GetCurSel($cmbTHSpellType))
 
-	
+
 	If GUICtrlRead($chkAlertPBVillage) = $GUI_CHECKED Then
 		IniWrite($config, "advanced", "AlertPBVillage", 1)
 	Else
@@ -867,7 +876,7 @@ Func saveConfig() ;Saves the controls settings to the config
 	IniWrite($config, "other", "minrestartdark", GUICtrlRead($txtRestartDark ))
 
 	IniWrite($config, "other", "cmbRecSetting", _GUICtrlComboBox_GetCurSel($cmbRecSetting))
-	
+
 	If GUICtrlRead($chkTrap) = $GUI_CHECKED Then
 		IniWrite($config, "other", "chkTrap", 1)
 	Else
@@ -936,7 +945,7 @@ Func saveConfig() ;Saves the controls settings to the config
 
 	IniWrite($building, "other", "xKingPos", $KingPos[0])
 	IniWrite($building, "other", "yKingPos", $KingPos[1])
-	
+
 	IniWrite($building, "other", "xQueenPos", $QueenPos[0])
 	IniWrite($building, "other", "yQueenPos", $QueenPos[1])
 
@@ -948,7 +957,7 @@ Func saveConfig() ;Saves the controls settings to the config
 	Else
 	    IniWrite($building, "other", "UpKing", 0)
 	EndIf
-	 
+
 	If GUICtrlRead($chkUpgradeQueen) = $GUI_CHECKED Then ;==>upgradequeen
 	    IniWrite($building, "other", "UpQueen", 1)
 	Else

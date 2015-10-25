@@ -82,7 +82,7 @@ Func LaunchTroop2($listInfoDeploy, $CC, $King, $Queen)
 				Local $listInfoDeployTroopPixel = $listListInfoDeployTroopPixel[$numWave]
 				For $i = 0 To UBound($listInfoDeployTroopPixel) - 1
 					Local $infoPixelDropTroop = $listInfoDeployTroopPixel[$i]
-					If (IsString($infoPixelDropTroop[0]) And ($infoPixelDropTroop[0] = "CC" Or $infoPixelDropTroop[0] = "HEROES")) Then
+					If (IsString($infoPixelDropTroop[0]) And ($infoPixelDropTroop[0] = "CC" Or $infoPixelDropTroop[0] = "HEROES" Or $infoPixelDropTroop[0] = "SPELL")) Then
 						;TEMP FIX NEED TO IMPROVED... IF NO PIXELREDAREA DEPLOY IN A PRECISE POINT
 						;Local $pixelRandomDrop = $PixelRedArea[Round(Random(0, UBound($PixelRedArea) - 1))]
 						If Ubound($PixelRedArea) > 0 Then
@@ -97,6 +97,24 @@ Func LaunchTroop2($listInfoDeploy, $CC, $King, $Queen)
 						ElseIf ($infoPixelDropTroop[0] = "HEROES") Then
 							dropHeroes($pixelRandomDrop[0], $pixelRandomDrop[1], $King, $Queen)
 							$isHeroesDropped = True
+						EndIf
+						If ($infoPixelDropTroop[0] = "SPELL") Then
+							Local $xLimit = 0
+							Local $yLimit = 0
+							Local $HSDist[2] = [60, 55]
+							Local $MaxDist[2] = [90, 90]
+							$SpellDP[0] = 0
+							$SpellDP[1] = 0
+							$xLimit = $MapCenter[0] + $MaxDist[0]
+							$yLimit = $MapCenter[1] - $MaxDist[1]
+							$SpellDP[0] = $DESLocx + $HSDist[0]
+							$SpellDP[1] = $DESLocy - $HSDist[1]
+							If $SpellDP[0] > $xLimit Then
+								$SpellDP[0] = $xLimit
+							EndIf
+							If $SpellDP[1] < $yLimit  Then
+								$SpellDP[1] = $yLimit
+							EndIf
 						EndIf
 					Else
 						If _Sleep($iDelayLaunchTroop21) Then Return
@@ -138,7 +156,7 @@ Func LaunchTroop2($listInfoDeploy, $CC, $King, $Queen)
 						For $i = 0 To $numberSidesDropTroop - 1
 							For $j = 0 To UBound($listInfoDeployTroopPixel) - 1
 								$infoTroopListArrPixel = $listInfoDeployTroopPixel[$j]
-								If (IsString($infoTroopListArrPixel[0]) And ($infoTroopListArrPixel[0] = "CC" Or $infoTroopListArrPixel[0] = "HEROES")) Then
+								If (IsString($infoTroopListArrPixel[0]) And ($infoTroopListArrPixel[0] = "CC" Or $infoTroopListArrPixel[0] = "HEROES" Or $infoTroopListArrPixel[0] = "SPELL")) Then
 									;TEMP FIX NEED TO IMPROVED... IF NO PIXELREDAREA DEPLOY IN A PRECISE POINT
 									;Local $pixelRandomDrop = $PixelRedArea[Round(Random(0, UBound($PixelRedArea) - 1))]
 									If Ubound($PixelRedArea) > 0 Then
@@ -154,6 +172,23 @@ Func LaunchTroop2($listInfoDeploy, $CC, $King, $Queen)
 									ElseIf ($isHeroesDropped = False And $infoTroopListArrPixel[0] = "HEROES" And $i = $numberSidesDropTroop - 1) Then
 										dropHeroes($pixelRandomDrop[0], $pixelRandomDrop[1], $King, $Queen)
 										$isHeroesDropped = True
+									ElseIf ($infoTroopListArrPixel[0] = "SPELL") Then
+										Local $xLimit = 0
+										Local $yLimit = 0
+										Local $HSDist[2] = [60, 55]
+										Local $MaxDist[2] = [90, 90]
+										$SpellDP[0] = 0
+										$SpellDP[1] = 0
+										$xLimit = $MapCenter[0] + $MaxDist[0]
+										$yLimit = $MapCenter[1] - $MaxDist[1]
+										$SpellDP[0] = $DESLocx + $HSDist[0]
+										$SpellDP[1] = $DESLocy - $HSDist[1]
+										If $SpellDP[0] > $xLimit Then
+											$SpellDP[0] = $xLimit
+										EndIf
+										If $SpellDP[1] < $yLimit  Then
+											$SpellDP[1] = $yLimit
+										EndIf
 									EndIf
 								Else
 									$infoListArrPixel = $infoTroopListArrPixel[1]
@@ -197,7 +232,7 @@ Func LaunchTroop2($listInfoDeploy, $CC, $King, $Queen)
 		Next
 	Else
 		For $i = 0 To UBound($listInfoDeploy) - 1
-			If (IsString($listInfoDeploy[$i][0]) And ($listInfoDeploy[$i][0] = "CC" Or $listInfoDeploy[$i][0] = "HEROES" Or $listInfoDeploy[$i][0] = "SPELL")) Then
+			If (IsString($listInfoDeploy[$i][0]) And ($listInfoDeploy[$i][0] = "CC" Or $listInfoDeploy[$i][0] = "HEROES" Or $listInfoDeploy[$i][0] = "SPELL" Or $listInfoDeploy[$i][0] = "FSPELL")) Then
 				If $DESideFound = True Then
 					Local $RandomEdge = $Edges[$DEEdge]
 					Local $RandomXY = 2
@@ -217,7 +252,20 @@ Func LaunchTroop2($listInfoDeploy, $CC, $King, $Queen)
 							local $spell = $eRSpell
 						EndIf
 						DESpellDP()
-						dropSpell($SpellDP[0], $SpellDP[1], $spell)
+						;dropSpell($SpellDP[0], $SpellDP[1], $spell)
+						dropSpell($SpellDP[0], $SpellDP[1], $eHspell)
+						dropSpell($SpellDP[0], $SpellDP[1], $eRspell)
+					EndIf
+				ElseIf ($listInfoDeploy[$i][0] = "FSPELL") Then
+					If $iChkDEUseSpell = 1 Then
+						DESpellDP()
+						If $iChkDEUseSpellType = 0 Then
+							local $spell = $eRSpell
+						ElseIf $iChkDEUseSpellType = 1 Then
+							local $spell = $eHSpell
+						EndIf
+						;dropSpell($SpellDP[0], $SpellDP[1], $spell)
+						;dropSpell($SpellDP[0], $SpellDP[1], $eRspell)
 					EndIf
 				EndIf
 			Else

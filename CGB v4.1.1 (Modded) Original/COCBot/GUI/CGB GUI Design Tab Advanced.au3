@@ -18,7 +18,8 @@
 ;~ -------------------------------------------------------------
  $tabAttackAdv = GUICtrlCreateTabItem("Attack Adv.")
 	Local $x = 30, $y = 150
-	$grpAtkOptions = GUICtrlCreateGroup("Attack Options", $x - 20, $y - 20, 450, 100)
+	$grpAtkOptions = GUICtrlCreateGroup("Attack Options", $x - 20, $y - 20, 450, 107)
+	$y -= 5
 		$chkAttackNow = GUICtrlCreateCheckbox("Attack Now! option.", $x, $y, -1, -1)
 			$txtTip = "Check this if you want the option to have an 'Attack Now!' button next to" & @CRLF & _
 				"the Start and Pause buttons to bypass the dead base or all base search values." & @CRLF & _
@@ -38,7 +39,9 @@
 			GUICtrlSetTip(-1, $txtTip)
 			GUICtrlSetState(-1, $GUI_DISABLE)
 		$y +=22
-		$chkAttackTH = GUICtrlCreateCheckbox("Attack Townhall Outside", $x, $y, -1, -1)
+		$chkAttackWhileTrain = GUICtrlCreateCheckbox("Attack while training army", $x, $y, -1, -1) ; Attack While Train MOD by farias
+			GUICtrlSetTip(-1, "Bot will attack with partial army.")
+		$chkAttackTH = GUICtrlCreateCheckbox("Attack Townhall Outside", $x, $y + 22, -1, -1)
 			GUICtrlSetTip(-1, "Check this to Attack an exposed Townhall first. (Townhall outside of Walls)" & @CRLF & "TIP: Also tick 'Meet Townhall Outside' on the Search tab if you only want to search for bases with exposed Townhalls.")
 		$chkSmartLightSpell =  GUICtrlCreateCheckbox("Smart Drills Zap", $x + 210, $y - 47, -1, -1)
 			$txtTip = "Check this to drop lightning spells on DE drills"
@@ -51,12 +54,12 @@
 			GUICtrlSetOnEvent(-1, "txtMinDark")
 			GUICtrlSetState(-1, $GUI_DISABLE)
 			GUICtrlSetTip(-1, $txtTip)
-		GUICtrlCreateIcon ($LibDir & "\CGBBOT.dll", 32, $x + 400, $y + 6, 22, 22)		
+		GUICtrlCreateIcon ($LibDir & "\CGBBOT.dll", 32, $x + 400, $y + 6, 22, 22)
 		$lblDetectITBase = GUICtrlCreateLabel("Inferno Tower :", $x + 210 , $y + 6, -1, 17, $SS_LEFT)
 		$cmbDetectITBase = GUICtrlCreateCombo("", $x + 290, $y + 4, 105, 21, BitOR($CBS_DROPDOWNLIST, $CBS_AUTOHSCROLL))
 			$txtTip = "Select an action to be done when the bot detected Inferno Tower."
 			GUICtrlSetData(-1, "1:Dont Detect|2:Skip base|3:Attack", "1:Dont Detect")
-			GUICtrlSetOnEvent(-1, "cmbDetectITBase")			
+			GUICtrlSetOnEvent(-1, "cmbDetectITBase")
 			GUICtrlSetTip(-1, $txtTip)
 
 ;		$y +=22

@@ -37,6 +37,7 @@ Func VillageSearch() ;Control for searching a village that meets conditions
 			$iAimGold[$i] = $iMinGold[$i]
 			$iAimElixir[$i] = $iMinElixir[$i]
 			$iAimGoldPlusElixir[$i] = $iMinGoldPlusElixir[$i]
+			$iAimGoldPlusElixirPlusDE[$i] = $iMinGoldPlusElixirPlusDE[$i]
 			$iAimDark[$i] = $iMinDark[$i]
 			$iAimTrophy[$i] = $iMinTrophy[$i]
 		Next
@@ -81,6 +82,8 @@ Func VillageSearch() ;Control for searching a village that meets conditions
 
 			If $iCmbMeetGE[$x] = 2 Then
 				SetLog("Aim:           [G+E]:" & StringFormat("%7s", $iAimGoldPlusElixir[$x]) & " [D]:" & StringFormat("%5s", $iAimDark[$x]) & " [T]:" & StringFormat("%2s", $iAimTrophy[$x]) & $iAimTHtext[$x] & " for: " & $sModeText[$x], $COLOR_GREEN, "Lucida Console", 7.5)
+			ElseIf $iCmbMeetGE[$x] = 3 Then
+				SetLog("Aim:           [G+E+D]:" & StringFormat("%7s", $iAimGoldPlusElixirPlusDE[$x]) & " [T]:" & StringFormat("%2s", $iAimTrophy[$x]) & $iAimTHtext[$x] & " for: " & $sModeText[$x], $COLOR_GREEN, "Lucida Console", 7.5)
 			Else
 				SetLog("Aim: [G]:" & StringFormat("%7s", $iAimGold[$x]) & " [E]:" & StringFormat("%7s", $iAimElixir[$x]) & " [D]:" & StringFormat("%5s", $iAimDark[$x]) & " [T]:" & StringFormat("%2s", $iAimTrophy[$x]) & $iAimTHtext[$x] & " for: " & $sModeText[$x], $COLOR_GREEN, "Lucida Console", 7.5)
 			EndIf
@@ -125,7 +128,7 @@ Func VillageSearch() ;Control for searching a village that meets conditions
 	EndIf
 
 	While 1
-        SearchCost()	
+        SearchCost()
 		If $iVSDelay > 0 Then
 			If _Sleep(1000 * $iVSDelay) Then Return
 		EndIf
@@ -178,7 +181,7 @@ Func VillageSearch() ;Control for searching a village that meets conditions
 				EndIf
 			EndIf
 		Next
-	
+
 		If $match[$DB] Or $match[$LB] Then
 			$dbBase = checkDeadBase()
 		EndIf
@@ -186,7 +189,7 @@ Func VillageSearch() ;Control for searching a village that meets conditions
 		If $match[$LB] Then
 			$cITBase = checkITBase()
 		EndIf
-		
+
 		If $match[$DB] And $dbBase Then
 			SetLog(_PadStringCenter(" Dead Base Found! ", 50, "~"), $COLOR_GREEN)
 			$iMatchMode = $DB
@@ -208,8 +211,8 @@ Func VillageSearch() ;Control for searching a village that meets conditions
 				SetLog(_PadStringCenter(" DE Side Base Found! ", 50, "~"), $COLOR_GREEN)
 				$iMatchMode = $LB
 				$DESideFound = True
-				ExitLoop		
-			Else 
+				ExitLoop
+			Else
 				SetLog(_PadStringCenter(" Live Base Found! ", 50, "~"), $COLOR_GREEN)
 				$iMatchMode = $LB
 				ExitLoop
@@ -224,6 +227,8 @@ Func VillageSearch() ;Control for searching a village that meets conditions
 			EndIf
 		EndIf
 
+
+
 		If $OptTrophyMode = 1 Then ;Enables Triple Mode Settings ;---compare resources
 			If SearchTownHallLoc() Then ; attack this base anyway because outside TH found to snipe
 				SetLog(_PadStringCenter(" TH Outside Found! ", 50, "~"), $COLOR_GREEN)
@@ -231,7 +236,8 @@ Func VillageSearch() ;Control for searching a village that meets conditions
 				ExitLoop
 			EndIf
 		EndIf
-		
+
+
 		If $match[$DB] And Not $dbBase Then
 			$noMatchTxt &= ", Not a " & $sModeText[$DB]
 			If $debugDeadBaseImage = 1 Then
@@ -280,6 +286,14 @@ Func VillageSearch() ;Control for searching a village that meets conditions
 			_Sleep($iDelayVillageSearch2)
 	    WEnd
 
+
+		; break every Limit searches when Attack While Train mode is active
+        If $isAttackWhileTrain And $iSkipped >= 10 Then ;Number(GUICtrlRead($txtSearchlimit)) Then
+               Click(62, 519) ; Click End Battle
+                 $Restart = True ; To Prevent Initiation of Attack
+            ExitLoop
+		EndIf
+
 		If _Sleep($iDelayVillageSearch3) Then Return
 
 		If isGemOpen(True) = True Then
@@ -318,7 +332,7 @@ Func VillageSearch() ;Control for searching a village that meets conditions
 	 EndIf
 
 	SetLog(_PadStringCenter(" Search Complete ", 50, "="), $COLOR_BLUE)
-		
+
 	PushMsg("MatchFound")
 
 	; TH Detection Check Once Conditions

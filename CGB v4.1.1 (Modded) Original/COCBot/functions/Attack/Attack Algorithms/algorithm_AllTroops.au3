@@ -151,14 +151,14 @@ Func algorithm_AllTroops() ;Attack Algorithm for all existing troops
 	If _Sleep($iDelayalgorithm_AllTroops2) Then Return
 
 	If $DESideFound = True Then   ; Customise DE side wave deployment here
-		Local $listInfoDeploy[16][5] = [[$eGiant, $nbSides, 1, 1, 0] _
+		Local $listInfoDeploy[17][5] = [[$eGiant, $nbSides, 1, 1, 0] _
 			, [$eWall, $nbSides, 1, 2, 1] _
 			, [$eBarb, $nbSides, 1, 3, 0] _
 			, [$eArch, $nbSides, 1, 3, 0] _
 			, [$eBarb, $nbSides, 2, 3, 0] _
 			, [$eArch, $nbSides, 2, 3, 0] _
 			, ["CC", 1, 1, 1, 1] _
-			, ["HEROES", 1, 2, 1, 0] _
+			, [$eBall, $nbSides, 1, 1, 0] _
 			, ["SPELL", 1, 1, 1, 1] _
 			, [$eWall, $nbSides, 2, 2, 1] _
 			, [$eHogs, $nbSides, 1, 1, 1] _
@@ -167,16 +167,17 @@ Func algorithm_AllTroops() ;Attack Algorithm for all existing troops
 			, [$eBarb, $nbSides, 3, 3, 1] _
 			, [$eArch, $nbSides, 3, 3, 1] _
 			, [$eGobl, $nbSides, 1, 1, 0] _
+			, ["HEROES", 1, 2, 1, 0] _
 			]
-
 	ElseIf $nbSides = 5 then ; Customise Four Finger wave Deployment here
-	    Local $listInfoDeploy[11][5] = [[$eGiant, $nbSides, 1, 1, 0] _
+	    Local $listInfoDeploy[12][5] = [[$eGiant, $nbSides, 1, 1, 0] _
 			, [$eBarb, $nbSides, 1, 1, 0] _
 			, [$eArch, $nbSides, 1, 1, 0] _
 			, [$eMini, $nbSides, 1, 1, 0] _
 			, [$eWall, $nbSides, 1, 1, 1] _
 			, [$eGobl, $nbSides, 1, 2, 0] _
 			, ["CC", 1, 1, 1, 1] _
+			, [$eBall, $nbSides, 1, 1, 0] _
 			, [$eHogs, $nbSides, 1, 1, 1] _
 			, [$eWiza, $nbSides, 1, 1, 0] _
 			, [$eGobl, $nbSides, 2, 2, 0] _
@@ -184,13 +185,15 @@ Func algorithm_AllTroops() ;Attack Algorithm for all existing troops
 			]
 
 	Else
-		Local $listInfoDeploy[13][5] = [[$eGiant, $nbSides, 1, 1, 2] _
+		Local $listInfoDeploy[15][5] = [[$eGiant, $nbSides, 1, 1, 2] _
 			, [$eBarb, $nbSides, 1, 2, 0] _
 			, [$eWall, $nbSides, 1, 1, 1] _
 			, [$eArch, $nbSides, 1, 2, 0] _
 			, [$eBarb, $nbSides, 2, 2, 0] _
 			, [$eGobl, $nbSides, 1, 2, 0] _
 			, ["CC", 1, 1, 1, 1] _
+			, [$eBall, $nbSides, 1, 1, 0] _
+			, ["SPELL", 1, 1, 1, 1] _
 			, [$eHogs, $nbSides, 1, 1, 1] _
 			, [$eWiza, $nbSides, 1, 1, 0] _
 			, [$eMini, $nbSides, 1, 1, 0] _

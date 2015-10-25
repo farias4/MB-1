@@ -1,0 +1,62 @@
+2015-10-19 22:42:53 :  Clash Game Bot v4.1.1 Modded Powered by GameBot.org ~
+2015-10-19 22:42:53 : GameBot.org.exe Executable running on WIN_81  X64
+2015-10-19 22:42:53 : =================== Bot Start ====================
+2015-10-19 22:42:53 : -------------------------  Current Profile: 01 --------------------------
+2015-10-19 22:42:53 : Trying to locate Main Screen
+2015-10-19 22:42:53 : Main Screen Located
+2015-10-19 22:42:54 : Detecting your Buildings..
+2015-10-19 22:43:00 : Language setting is English: Correct.
+2015-10-19 22:43:01 : Trying to locate Main Screen
+2015-10-19 22:43:01 : Main Screen Located
+2015-10-19 22:43:02 : Village Report
+2015-10-19 22:43:02 : No. of Free/Total Builders: 3/5
+2015-10-19 22:43:02 :  [T]: 2 731
+2015-10-19 22:43:03 :  [G]: 4 872 432 [E]: 44 730 [D]: 135 037 [GEM]: 5 309
+2015-10-19 22:43:03 : Collecting Resources
+2015-10-19 22:43:13 : Checking Army Camp...
+2015-10-19 22:43:14 : Total Army Camp capacity: 220/220
+2015-10-19 22:43:15 :  - No. of Balloons: 28
+2015-10-19 22:43:15 :  - No. of Minions: 40
+2015-10-19 22:43:15 : Barracks and Spell factory status: 
+2015-10-19 22:43:15 : - Barracks detected: 4 | Available: 4 | Upgrading: 0
+2015-10-19 22:43:15 : - Dark Barracks detected: 2 | Available: 2 | Upgrading: 0
+2015-10-19 22:43:15 : - Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2015-10-19 22:43:15 : - Dark Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2015-10-19 22:43:16 : Training Troops...
+2015-10-19 22:43:16 : Your Army Camps are now Full
+2015-10-19 22:43:49 : Spell Factory Full
+2015-10-19 22:43:49 : Created 1 Spell(s)
+2015-10-19 22:43:56 : Going to Attack...
+2015-10-19 22:44:02 : ============== Searching For Dead Base ===============
+2015-10-19 22:44:02 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-19 22:44:02 : , Max TH 8
+2015-10-19 22:44:02 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-19 22:44:02 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-19 22:44:02 : ============== Searching For Live Base ===============
+2015-10-19 22:44:02 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-19 22:44:02 : , Max TH 8
+2015-10-19 22:44:02 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-19 22:44:02 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Live Base
+2015-10-19 22:44:02 : ==================================================
+2015-10-19 22:44:03 :   1> [G]:  61295 [E]: 215701 [D]: 1305 [T]:22 [TH]:10, In
+2015-10-19 22:44:08 :   2> [G]:  48456 [E]: 128441 [D]:  805 [T]:22 [TH]:10, In
+2015-10-19 22:44:10 :   3> [G]: 289520 [E]: 268420 [D]: 1400 [T]:15 [TH]:10, In
+2015-10-19 22:44:17 :   4> [G]:  50630 [E]:   2357 [D]: 1486 [T]:31 [TH]:10, In
+2015-10-19 22:44:24 :   5> [G]:  93468 [E]: 112516 [D]:  730 [T]:12 [TH]:10, In
+2015-10-19 22:44:27 :   6> [G]:  58944 [E]: 147678 [D]: 1513 [T]:13 [TH]: 9, In
+2015-10-19 22:44:35 :   7> [G]:  26380 [E]:  74657 [D]:  807 [T]:31 [TH]:10, In
+2015-10-19 22:44:42 :   8> [G]:  47780 [E]: 146853 [D]: 1217 [T]:18 [TH]: 9, In
+2015-10-19 22:44:45 :   9> [G]:   4039 [E]: 102361 [D]: 1078 [T]:20 [TH]:10, In
+2015-10-19 22:44:48 :  10> [G]: 182313 [E]: 192938 [D]: 2299 [T]:21 [TH]:10, In
+2015-10-19 22:44:54 :  11> [G]: 289547 [E]: 335637 [D]: 2777 [T]:24 [TH]:10, In
+2015-10-19 22:44:58 :  12> [G]: 181309 [E]: 199081 [D]: 3244 [T]:20 [TH]:10, In
+2015-10-19 22:45:01 :  13> [G]:  62529 [E]: 137627 [D]:  681 [T]: 7 [TH]: 9, In
+2015-10-19 22:45:08 :  14> [G]:  19996 [E]: 114411 [D]:  321 [T]:13 [TH]: 9, In
+2015-10-19 22:45:13 :  15> [G]:  42170 [E]: 113626 [D]:  112 [T]:30 [TH]:10, In
+2015-10-19 22:45:18 :  16> [G]:  77803 [E]: 107653 [D]:  972 [T]:30 [TH]:10, In
+2015-10-19 22:45:21 :  17> [G]: 120909 [E]:  68096 [D]:  513 [T]:16 [TH]: 9, In
+2015-10-19 22:45:27 : Trying to locate Main Screen
+2015-10-19 22:45:28 : Another Device has connected, waiting 2 minutes 0 seconds
+2015-10-19 22:45:46 : ClashGameBot was Paused!
+2015-10-19 22:45:47 : ClashGameBot was Resumed.
+2015-10-19 22:45:47 : Zooming Out

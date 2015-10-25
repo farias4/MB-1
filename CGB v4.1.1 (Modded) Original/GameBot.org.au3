@@ -91,6 +91,8 @@ While 1
 WEnd
 
 Func runBot() ;Bot that runs everything in order
+	;$DESideFound = True ; Debug
+	;AttackMain() ; Debug
 	$TotalTrainedTroops = 0
 	While 1
 		$Restart = False
@@ -290,6 +292,9 @@ Func Idle() ;Sequence that runs until Full Army
 		If _Sleep($iDelayIdle1) Then Return
 		If _Sleep($iDelayIdle1) Then Return
 		If $Restart = True Then ExitLoop
+		If($isAttackWhileTrain) Then
+			AttackWhileTrain() ;; attack while training army MOD by farias
+		EndIf
 		$TimeIdle += Round(TimerDiff($hTimer) / 1000, 2) ;In Seconds
 		SetLog("Time Idle: " & StringFormat("%02i", Floor(Floor($TimeIdle / 60) / 60)) & ":" & StringFormat("%02i", Floor(Mod(Floor($TimeIdle / 60), 60))) & ":" & StringFormat("%02i", Floor(Mod($TimeIdle, 60))))
 		If $OutOfGold = 1 Then Return

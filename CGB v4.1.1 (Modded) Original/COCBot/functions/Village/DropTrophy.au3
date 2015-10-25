@@ -57,7 +57,8 @@ Func DropTrophy()
 						Local $G = (Number($searchGold) >= Number($iAimGold[$DB]))
 						Local $E = (Number($searchElixir) >= Number($iAimElixir[$DB]))
 						Local $GPE = ((Number($searchElixir) + Number($searchGold)) >= Number($iAimGoldPlusElixir[$DB]))
-						If $G = True And $E = True And $GPE = True Then
+						Local $GPED = ((Number($searchElixir) + Number($searchGold) + 150*(Number($searchDark)) >= Number($AimGoldPlusElixirPlusDE($DB))))
+						If $G = True And $E = True And $GPE = True And $GPED = True Then
 							SetLog("Found [G]: " & _NumberFormat($searchGold) & " [E]: " & _NumberFormat($searchElixir) & " [T]: " & _NumberFormat($searchTrophy), $COLOR_BLACK, "Lucida Console")
 							If checkDeadBase() Then
 								; _BlockInputEx(0, "", "", $HWnD) ; block all keyboard keys

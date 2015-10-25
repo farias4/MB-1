@@ -1,0 +1,2287 @@
+2015-10-17 18:03:14 :  Clash Game Bot v4.1.1 Modded Powered by GameBot.org ~
+2015-10-17 18:03:14 : GameBot.org.au3 Script running on WIN_81  X64
+2015-10-17 18:03:14 : =================== Bot Start ====================
+2015-10-17 18:03:14 : -------------------------  Current Profile: 01 --------------------------
+2015-10-17 18:03:14 : Trying to locate Main Screen
+2015-10-17 18:03:14 : Main Screen Located
+2015-10-17 18:03:15 : Detecting your Buildings..
+2015-10-17 18:03:21 : Language setting is English: Correct.
+2015-10-17 18:03:22 : Trying to locate Main Screen
+2015-10-17 18:03:22 : Main Screen Located
+2015-10-17 18:03:23 : Village Report
+2015-10-17 18:03:23 : No. of Free/Total Builders: 1/5
+2015-10-17 18:03:24 :  [T]: 2 605
+2015-10-17 18:03:24 :  [G]: 2 160 651 [E]: 1 838 080 [D]: 89 665 [GEM]: 5 300
+2015-10-17 18:03:24 : Collecting Resources
+2015-10-17 18:03:33 : Checking Army Camp...
+2015-10-17 18:03:35 : Total Army Camp capacity: 180/220
+2015-10-17 18:03:36 :  - No. of Balloons: 20
+2015-10-17 18:03:36 :  - No. of Minions: 40
+2015-10-17 18:03:36 : Barracks and Spell factory status: 
+2015-10-17 18:03:36 : - Barracks detected: 4 | Available: 4 | Upgrading: 0
+2015-10-17 18:03:36 : - Dark Barracks detected: 2 | Available: 2 | Upgrading: 0
+2015-10-17 18:03:36 : - Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2015-10-17 18:03:36 : - Dark Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2015-10-17 18:03:36 : Training Troops...
+2015-10-17 18:04:00 : Spell Factory Full
+2015-10-17 18:04:07 : ====== Waiting for full army ======
+2015-10-17 18:04:19 : Checking Army Camp...
+2015-10-17 18:04:21 : Total Army Camp capacity: 180/220
+2015-10-17 18:04:22 :  - No. of Balloons: 20
+2015-10-17 18:04:22 :  - No. of Minions: 40
+2015-10-17 18:04:22 : Training Troops...
+2015-10-17 18:04:42 : Spell Factory Full
+2015-10-17 18:04:45 : Time Idle: 00:00:37
+2015-10-17 18:04:45 : ====== Waiting for full army ======
+2015-10-17 18:04:57 : Checking Army Camp...
+2015-10-17 18:04:58 : Total Army Camp capacity: 180/220
+2015-10-17 18:04:59 :  - No. of Balloons: 20
+2015-10-17 18:04:59 :  - No. of Minions: 40
+2015-10-17 18:05:00 : Training Troops...
+2015-10-17 18:05:20 : Spell Factory Full
+2015-10-17 18:05:22 : Time Idle: 00:01:15
+2015-10-17 18:05:23 : ====== Waiting for full army ======
+2015-10-17 18:05:34 : Checking Army Camp...
+2015-10-17 18:05:36 : Total Army Camp capacity: 180/220
+2015-10-17 18:05:37 :  - No. of Balloons: 20
+2015-10-17 18:05:37 :  - No. of Minions: 40
+2015-10-17 18:05:37 : Training Troops...
+2015-10-17 18:05:58 : Spell Factory Full
+2015-10-17 18:06:00 : Time Idle: 00:01:52
+2015-10-17 18:06:00 : ====== Waiting for full army ======
+2015-10-17 18:06:12 : Checking Army Camp...
+2015-10-17 18:06:14 : Total Army Camp capacity: 180/220
+2015-10-17 18:06:15 :  - No. of Balloons: 20
+2015-10-17 18:06:15 :  - No. of Minions: 40
+2015-10-17 18:06:15 : Training Troops...
+2015-10-17 18:06:35 : Spell Factory Full
+2015-10-17 18:06:38 : Time Idle: 00:02:30
+2015-10-17 18:06:38 : ====== Waiting for full army ======
+2015-10-17 18:06:50 : Checking Army Camp...
+2015-10-17 18:06:52 : Total Army Camp capacity: 180/220
+2015-10-17 18:06:52 :  - No. of Balloons: 20
+2015-10-17 18:06:53 :  - No. of Minions: 40
+2015-10-17 18:06:53 : Training Troops...
+2015-10-17 18:07:13 : Spell Factory Full
+2015-10-17 18:07:15 : Time Idle: 00:03:07
+2015-10-17 18:07:16 : ====== Waiting for full army ======
+2015-10-17 18:07:27 : Collecting Resources
+2015-10-17 18:07:33 : Checking Army Camp...
+2015-10-17 18:07:35 : Total Army Camp capacity: 180/220
+2015-10-17 18:07:36 :  - No. of Balloons: 20
+2015-10-17 18:07:36 :  - No. of Minions: 40
+2015-10-17 18:07:36 : Training Troops...
+2015-10-17 18:07:56 : Spell Factory Full
+2015-10-17 18:07:59 : Time Idle: 00:03:50
+2015-10-17 18:07:59 : ====== Waiting for full army ======
+2015-10-17 18:08:11 : Checking Army Camp...
+2015-10-17 18:08:12 : Total Army Camp capacity: 180/220
+2015-10-17 18:08:13 :  - No. of Balloons: 20
+2015-10-17 18:08:13 :  - No. of Minions: 40
+2015-10-17 18:08:14 : Training Troops...
+2015-10-17 18:08:34 : Spell Factory Full
+2015-10-17 18:08:36 : Time Idle: 00:04:28
+2015-10-17 18:08:37 : ====== Waiting for full army ======
+2015-10-17 18:08:48 : Checking Army Camp...
+2015-10-17 18:08:50 : Total Army Camp capacity: 180/220
+2015-10-17 18:08:51 :  - No. of Balloons: 20
+2015-10-17 18:08:51 :  - No. of Minions: 40
+2015-10-17 18:08:51 : Training Troops...
+2015-10-17 18:09:12 : Spell Factory Full
+2015-10-17 18:09:14 : Time Idle: 00:05:05
+2015-10-17 18:09:14 : ====== Waiting for full army ======
+2015-10-17 18:09:26 : Checking Army Camp...
+2015-10-17 18:09:28 : Total Army Camp capacity: 180/220
+2015-10-17 18:09:29 :  - No. of Balloons: 20
+2015-10-17 18:09:29 :  - No. of Minions: 40
+2015-10-17 18:09:29 : Training Troops...
+2015-10-17 18:09:49 : Spell Factory Full
+2015-10-17 18:09:52 : Time Idle: 00:05:43
+2015-10-17 18:09:52 : ====== Waiting for full army ======
+2015-10-17 18:10:04 : Checking Army Camp...
+2015-10-17 18:10:06 : Total Army Camp capacity: 180/220
+2015-10-17 18:10:07 :  - No. of Balloons: 20
+2015-10-17 18:10:07 :  - No. of Minions: 40
+2015-10-17 18:10:07 : Training Troops...
+2015-10-17 18:10:27 : Spell Factory Full
+2015-10-17 18:10:30 : Time Idle: 00:06:20
+2015-10-17 18:10:30 : ====== Waiting for full army ======
+2015-10-17 18:10:42 : Checking Army Camp...
+2015-10-17 18:10:43 : Total Army Camp capacity: 180/220
+2015-10-17 18:10:44 :  - No. of Balloons: 20
+2015-10-17 18:10:44 :  - No. of Minions: 40
+2015-10-17 18:10:45 : Training Troops...
+2015-10-17 18:11:05 : Spell Factory Full
+2015-10-17 18:11:07 : Time Idle: 00:06:58
+2015-10-17 18:11:07 : ====== Waiting for full army ======
+2015-10-17 18:11:19 : Checking Army Camp...
+2015-10-17 18:11:21 : Total Army Camp capacity: 180/220
+2015-10-17 18:11:22 :  - No. of Balloons: 20
+2015-10-17 18:11:22 :  - No. of Minions: 40
+2015-10-17 18:11:22 : Training Troops...
+2015-10-17 18:11:43 : Spell Factory Full
+2015-10-17 18:11:45 : Time Idle: 00:07:35
+2015-10-17 18:11:45 : ====== Waiting for full army ======
+2015-10-17 18:11:57 : Checking Army Camp...
+2015-10-17 18:11:59 : Total Army Camp capacity: 200/220
+2015-10-17 18:12:00 :  - No. of Balloons: 24
+2015-10-17 18:12:00 :  - No. of Minions: 40
+2015-10-17 18:12:00 : Training Troops...
+2015-10-17 18:12:21 : Spell Factory Full
+2015-10-17 18:12:23 : Time Idle: 00:08:13
+2015-10-17 18:12:23 : ====== Waiting for full army ======
+2015-10-17 18:12:35 : Checking Army Camp...
+2015-10-17 18:12:37 : Total Army Camp capacity: 200/220
+2015-10-17 18:12:38 :  - No. of Balloons: 24
+2015-10-17 18:12:38 :  - No. of Minions: 40
+2015-10-17 18:12:38 : Training Troops...
+2015-10-17 18:12:58 : Spell Factory Full
+2015-10-17 18:13:01 : Time Idle: 00:08:50
+2015-10-17 18:13:01 : ====== Waiting for full army ======
+2015-10-17 18:13:13 : Checking Army Camp...
+2015-10-17 18:13:15 : Total Army Camp capacity: 200/220
+2015-10-17 18:13:16 :  - No. of Balloons: 24
+2015-10-17 18:13:16 :  - No. of Minions: 40
+2015-10-17 18:13:16 : Training Troops...
+2015-10-17 18:13:36 : Spell Factory Full
+2015-10-17 18:13:39 : Time Idle: 00:09:28
+2015-10-17 18:13:39 : ====== Waiting for full army ======
+2015-10-17 18:13:51 : Checking Army Camp...
+2015-10-17 18:13:52 : Total Army Camp capacity: 200/220
+2015-10-17 18:13:53 :  - No. of Balloons: 24
+2015-10-17 18:13:53 :  - No. of Minions: 40
+2015-10-17 18:13:54 : Training Troops...
+2015-10-17 18:14:14 : Spell Factory Full
+2015-10-17 18:14:16 : Time Idle: 00:10:05
+2015-10-17 18:14:16 : ====== Waiting for full army ======
+2015-10-17 18:14:28 : Collecting Resources
+2015-10-17 18:14:34 : Checking Army Camp...
+2015-10-17 18:14:36 : Total Army Camp capacity: 200/220
+2015-10-17 18:14:37 :  - No. of Balloons: 24
+2015-10-17 18:14:37 :  - No. of Minions: 40
+2015-10-17 18:14:37 : Training Troops...
+2015-10-17 18:14:57 : Spell Factory Full
+2015-10-17 18:15:00 : Time Idle: 00:10:49
+2015-10-17 18:15:00 : ====== Waiting for full army ======
+2015-10-17 18:15:12 : Checking Army Camp...
+2015-10-17 18:15:14 : Total Army Camp capacity: 200/220
+2015-10-17 18:15:14 :  - No. of Balloons: 24
+2015-10-17 18:15:15 :  - No. of Minions: 40
+2015-10-17 18:15:15 : Training Troops...
+2015-10-17 18:15:35 : Spell Factory Full
+2015-10-17 18:15:37 : Time Idle: 00:11:26
+2015-10-17 18:15:38 : ====== Waiting for full army ======
+2015-10-17 18:15:49 : Checking Army Camp...
+2015-10-17 18:15:51 : Total Army Camp capacity: 200/220
+2015-10-17 18:15:52 :  - No. of Balloons: 24
+2015-10-17 18:15:52 :  - No. of Minions: 40
+2015-10-17 18:15:52 : Training Troops...
+2015-10-17 18:16:13 : Spell Factory Full
+2015-10-17 18:16:15 : Time Idle: 00:12:04
+2015-10-17 18:16:15 : ====== Waiting for full army ======
+2015-10-17 18:16:27 : Checking Army Camp...
+2015-10-17 18:16:29 : Total Army Camp capacity: 200/220
+2015-10-17 18:16:30 :  - No. of Balloons: 24
+2015-10-17 18:16:30 :  - No. of Minions: 40
+2015-10-17 18:16:30 : Training Troops...
+2015-10-17 18:16:50 : Spell Factory Full
+2015-10-17 18:16:53 : Time Idle: 00:12:41
+2015-10-17 18:16:53 : ====== Waiting for full army ======
+2015-10-17 18:17:05 : Checking Army Camp...
+2015-10-17 18:17:07 : Total Army Camp capacity: 200/220
+2015-10-17 18:17:08 :  - No. of Balloons: 24
+2015-10-17 18:17:08 :  - No. of Minions: 40
+2015-10-17 18:17:08 : Training Troops...
+2015-10-17 18:17:28 : Spell Factory Full
+2015-10-17 18:17:31 : Time Idle: 00:13:19
+2015-10-17 18:17:31 : ====== Waiting for full army ======
+2015-10-17 18:17:43 : Checking Army Camp...
+2015-10-17 18:17:45 : Total Army Camp capacity: 200/220
+2015-10-17 18:17:45 :  - No. of Balloons: 24
+2015-10-17 18:17:46 :  - No. of Minions: 40
+2015-10-17 18:17:46 : Training Troops...
+2015-10-17 18:18:06 : Spell Factory Full
+2015-10-17 18:18:08 : Time Idle: 00:13:56
+2015-10-17 18:18:09 : ====== Waiting for full army ======
+2015-10-17 18:18:21 : Checking Army Camp...
+2015-10-17 18:18:22 : Total Army Camp capacity: 200/220
+2015-10-17 18:18:23 :  - No. of Balloons: 24
+2015-10-17 18:18:23 :  - No. of Minions: 40
+2015-10-17 18:18:23 : Training Troops...
+2015-10-17 18:18:44 : Spell Factory Full
+2015-10-17 18:18:46 : Time Idle: 00:14:34
+2015-10-17 18:18:46 : ====== Waiting for full army ======
+2015-10-17 18:18:58 : Checking Army Camp...
+2015-10-17 18:19:00 : Total Army Camp capacity: 200/220
+2015-10-17 18:19:01 :  - No. of Balloons: 24
+2015-10-17 18:19:01 :  - No. of Minions: 40
+2015-10-17 18:19:01 : Training Troops...
+2015-10-17 18:19:21 : Spell Factory Full
+2015-10-17 18:19:24 : Time Idle: 00:15:11
+2015-10-17 18:19:24 : ====== Waiting for full army ======
+2015-10-17 18:19:36 : Checking Army Camp...
+2015-10-17 18:19:38 : Total Army Camp capacity: 200/220
+2015-10-17 18:19:39 :  - No. of Balloons: 24
+2015-10-17 18:19:39 :  - No. of Minions: 40
+2015-10-17 18:19:39 : Training Troops...
+2015-10-17 18:19:59 : Spell Factory Full
+2015-10-17 18:20:02 : Time Idle: 00:15:49
+2015-10-17 18:20:02 : ====== Waiting for full army ======
+2015-10-17 18:20:14 : Checking Army Camp...
+2015-10-17 18:20:16 : Total Army Camp capacity: 220/220
+2015-10-17 18:20:16 :  - No. of Balloons: 28
+2015-10-17 18:20:17 :  - No. of Minions: 40
+2015-10-17 18:20:17 : Training Troops...
+2015-10-17 18:20:18 : Your Army Camps are now Full
+2015-10-17 18:20:39 : Spell Factory Full
+2015-10-17 18:20:41 : Going to Attack...
+2015-10-17 18:20:46 : ============== Searching For Dead Base ===============
+2015-10-17 18:20:46 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-17 18:20:46 : , Max TH 8
+2015-10-17 18:20:47 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-17 18:20:47 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-17 18:20:47 : ============== Searching For Live Base ===============
+2015-10-17 18:20:47 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-17 18:20:47 : , Max TH 8
+2015-10-17 18:20:47 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-17 18:20:47 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Live Base
+2015-10-17 18:20:47 : ==================================================
+2015-10-17 18:20:47 :   1> [G]:  72335 [E]:  77778 [D]:  672 [T]:23 [TH]:10, In
+2015-10-17 18:20:54 :   2> [G]:  56346 [E]:  83861 [D]: 1138 [T]:22 [TH]: 9, In
+2015-10-17 18:20:57 :   3> [G]: 226133 [E]: 168492 [D]: 1935 [T]:17 [TH]: 9, In
+2015-10-17 18:21:04 :   4> [G]: 124145 [E]:  31311 [D]:  923 [T]:13 [TH]: 9, In
+2015-10-17 18:21:09 :   5> [G]:  86157 [E]: 206212 [D]: 2563 [T]:34 [TH]:10, In
+2015-10-17 18:21:13 :   6> [G]: 115428 [E]:  82438 [D]: 2252 [T]:12 [TH]:10, In
+2015-10-17 18:21:15 :   7> [G]:  15006 [E]: 197803 [D]:  347 [T]:32 [TH]: 9, In
+2015-10-17 18:21:23 :   8> [G]: 217102 [E]: 116064 [D]:  214 [T]:19 [TH]: 9, In
+2015-10-17 18:21:25 :   9> [G]:  18228 [E]:   5754 [D]: 1406 [T]:27 [TH]: 9, In
+2015-10-17 18:21:32 :  10> [G]:  30774 [E]:  80255 [D]:  350 [T]:13 [TH]:10, In
+2015-10-17 18:21:35 :  11> [G]:  23299 [E]: 129918 [D]:  772 [T]:19 [TH]: 9, In
+2015-10-17 18:21:42 :  12> [G]: 126018 [E]:  93264 [D]:  951 [T]:18 [TH]: 9, In
+2015-10-17 18:21:45 :  13> [G]: 122783 [E]:  90225 [D]: 1104 [T]:19 [TH]: 9, In
+2015-10-17 18:21:52 :  14> [G]:  46801 [E]:  90433 [D]:  680 [T]:33 [TH]:10, In
+2015-10-17 18:21:55 :  15> [G]: 100421 [E]: 149263 [D]:  583 [T]:14 [TH]: 9, In
+2015-10-17 18:22:01 :  16> [G]: 146573 [E]:  78137 [D]:  715 [T]:21 [TH]: 9, In
+2015-10-17 18:22:04 :  17> [G]: 121364 [E]:  17621 [D]: 1113 [T]:30 [TH]: 9, In
+2015-10-17 18:22:11 :  18> [G]:   8561 [E]: 116473 [D]:   90 [T]:19 [TH]: 9, In
+2015-10-17 18:22:14 :  19> [G]:  17462 [E]:   8431 [D]:  745 [T]:38 [TH]: 9, In
+2015-10-17 18:22:21 :  20> [G]:  60269 [E]:  43455 [D]:  213 [T]:20 [TH]: 9, In
+2015-10-17 18:22:23 :  21> [G]:  70100 [E]:  90658 [D]:  787 [T]:17 [TH]: 9, In
+2015-10-17 18:22:30 :  22> [G]:  37520 [E]:  86206 [D]: 1177 [T]:19 [TH]: 9, In
+2015-10-17 18:22:35 :  23> [G]: 110214 [E]: 121339 [D]: 2793 [T]:32 [TH]:10, In
+2015-10-17 18:22:39 :  24> [G]: 150738 [E]:  91855 [D]: 1544 [T]:28 [TH]: 9, In
+2015-10-17 18:22:44 :  25> [G]:  93105 [E]:  87380 [D]:  671 [T]:16 [TH]: 9, In
+2015-10-17 18:22:47 :  26> [G]:  35732 [E]: 119265 [D]:  257 [T]:31 [TH]: 9, In
+2015-10-17 18:22:50 :  27> [G]:  65908 [E]:  35958 [D]:  357 [T]:28 [TH]: 9, In
+2015-10-17 18:22:57 :  28> [G]:  50735 [E]:  14059 [D]:  942 [T]:10 [TH]: 9, In
+2015-10-17 18:22:59 :  29> [G]:  56597 [E]:  24675 [D]:  784 [T]:13 [TH]: 9, In
+2015-10-17 18:23:06 :  30> [G]:  42649 [E]:  29029 [D]:  545 [T]:15 [TH]:10, In
+2015-10-17 18:23:09 :  31> [G]:   8332 [E]:  93939 [D]: 1323 [T]:27 [TH]: 9, In
+2015-10-17 18:23:16 :  32> [G]: 338087 [E]: 373452 [D]: 2375 [T]:33 [TH]:10, In
+2015-10-17 18:23:18 :  33> [G]:  43404 [E]:  54715 [D]: 1240 [T]: 8 [TH]: 9, In
+2015-10-17 18:23:25 :  34> [G]: 114956 [E]: 109559 [D]: 1142 [T]: 9 [TH]: 9, In
+2015-10-17 18:23:29 :  35> [G]:  51164 [E]:  21254 [D]: 1863 [T]:31 [TH]:10, In
+2015-10-17 18:23:34 :  36> [G]:  18704 [E]:  15723 [D]: 1979 [T]:23 [TH]:10, In
+2015-10-17 18:23:37 :  37> [G]: 222807 [E]: 130605 [D]: 3039 [T]:21 [TH]:10, In
+2015-10-17 18:23:40 :  38> [G]:  63269 [E]:  36429 [D]:  521 [T]:11 [TH]: 9, In
+2015-10-17 18:23:46 :  39> [G]:  55107 [E]:  74145 [D]: 1979 [T]:27 [TH]:10, In
+2015-10-17 18:23:48 :  40> [G]:  24749 [E]:  31089 [D]:  158 [T]: 9 [TH]: 9, In
+2015-10-17 18:23:55 :  41> [G]:  66348 [E]:  18671 [D]:  378 [T]:11 [TH]: 9, In
+2015-10-17 18:24:00 :  42> [G]:  91615 [E]: 162699 [D]:  673 [T]:22 [TH]:10, In
+2015-10-17 18:24:03 :  43> [G]:  43236 [E]:  33428 [D]:  580 [T]:26 [TH]:10, In
+2015-10-17 18:24:06 :  44> [G]:  58629 [E]:  19863 [D]:  653 [T]:17 [TH]: 9, In
+2015-10-17 18:24:13 :  45> [G]: 134064 [E]:   3656 [D]:    6 [T]:13 [TH]: 9, In
+2015-10-17 18:24:18 :  46> [G]:  56767 [E]: 115398 [D]:  424 [T]:12 [TH]: 9, In
+2015-10-17 18:24:21 :  47> [G]: 107726 [E]: 109815 [D]: 2066 [T]:15 [TH]: 9, In
+2015-10-17 18:24:27 :  48> [G]:  93759 [E]:  93677 [D]:  236 [T]:17 [TH]: 9, In
+2015-10-17 18:24:29 :  49> [G]: 303803 [E]: 405924 [D]: 2733 [T]:28 [TH]:10, In
+2015-10-17 18:24:38 :  50> [G]:  27143 [E]:  29825 [D]:  927 [T]:23 [TH]: 9, In
+2015-10-17 18:24:38 : Aim:           [G+E+D]: 372500 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-17 18:24:38 : Aim:           [G+E+D]: 372500 [T]: 0 [TH]: 8 for: Live Base
+2015-10-17 18:24:40 :  51> [G]:  45536 [E]:  12789 [D]: 1426 [T]:23 [TH]:10, In
+2015-10-17 18:24:48 :  52> [G]: 150322 [E]:  34340 [D]:  200 [T]:24 [TH]:10, In
+2015-10-17 18:24:52 :  53> [G]: 108188 [E]:  61417 [D]: 1052 [T]:11 [TH]: 9, In
+2015-10-17 18:24:55 :  54> [G]: 145760 [E]: 147075 [D]: 1662 [T]:33 [TH]:10, In
+2015-10-17 18:25:02 :  55> [G]:  30704 [E]:  14357 [D]:  154 [T]: 9 [TH]: 9, In
+2015-10-17 18:25:05 :  56> [G]:   5455 [E]:   5462 [D]:  902 [T]:23 [TH]: 9, In
+2015-10-17 18:25:11 :  57> [G]:  31365 [E]:  48110 [D]:   60 [T]:11 [TH]: 9, In
+2015-10-17 18:25:15 :  58> [G]:  90870 [E]:  19263 [D]:  550 [T]:28 [TH]: 9, In
+2015-10-17 18:25:21 :  59> [G]: 108597 [E]:  82973 [D]: 1115 [T]:12 [TH]: 9, In
+2015-10-17 18:25:24 :  60> [G]:  26064 [E]:  13378 [D]:  357 [T]:12 [TH]: 9, In
+2015-10-17 18:25:31 :  61> [G]:  32215 [E]:  48677 [D]: 2255 [T]:22 [TH]:10, In
+2015-10-17 18:25:33 :  62> [G]:  13003 [E]:   7384 [D]:  194 [T]:12 [TH]:10, In
+2015-10-17 18:25:41 :  63> [G]: 177733 [E]: 283806 [D]:  864 [T]:26 [TH]:10, In
+2015-10-17 18:25:44 :  64> [G]:  46959 [E]:  34761 [D]:  714 [T]: 5 [TH]: 8, In
+2015-10-17 18:25:47 :  65> [G]:  25368 [E]: 148242 [D]:  611 [T]:13 [TH]: 9, In
+2015-10-17 18:25:55 :  66> [G]: 216922 [E]:  90941 [D]:  606 [T]:13 [TH]: 9, In
+2015-10-17 18:25:58 :  67> [G]:  84753 [E]:  34627 [D]:  135 [T]:11 [TH]: 8, In
+2015-10-17 18:26:01 :  68> [G]:  35057 [E]:  14689 [D]: 1303 [T]:25 [TH]:10, In
+2015-10-17 18:26:07 :  69> [G]:  20004 [E]:  82819 [D]:  103 [T]:26 [TH]:10, In
+2015-10-17 18:26:10 :  70> [G]: 149227 [E]: 132665 [D]:  694 [T]:20 [TH]: 9, In
+2015-10-17 18:26:18 :  71> [G]:  59274 [E]:  38922 [D]:  170 [T]:19 [TH]: 9, In
+2015-10-17 18:26:21 :  72> [G]:  60939 [E]:  97808 [D]:  707 [T]:19 [TH]: 9, In
+2015-10-17 18:26:27 :  73> [G]:  59801 [E]: 131486 [D]: 2154 [T]:30 [TH]:10, In
+2015-10-17 18:26:31 :  74> [G]: 121398 [E]:  87532 [D]:  507 [T]:29 [TH]:10, In
+2015-10-17 18:26:34 :  75> [G]:  55819 [E]: 210485 [D]: 1239 [T]:19 [TH]:10, In
+2015-10-17 18:26:40 :  76> [G]:  60130 [E]: 109340 [D]: 1697 [T]:31 [TH]:10, In
+2015-10-17 18:26:43 :  77> [G]:  55147 [E]:  58846 [D]:  461 [T]: 5 [TH]: 8, In
+2015-10-17 18:26:46 :  78> [G]:  61680 [E]:   1833 [D]:  506 [T]: 4 [TH]: 8, In
+2015-10-17 18:26:49 :  79> [G]:  65406 [E]:  22849 [D]:  781 [T]:14 [TH]: 9, In
+2015-10-17 18:26:56 :  80> [G]: 120408 [E]: 125571 [D]:  818 [T]:12 [TH]: 9, In
+2015-10-17 18:26:58 :  81> [G]: 113097 [E]:  89524 [D]: 2691 [T]:23 [TH]:10, In
+2015-10-17 18:27:05 :  82> [G]:  57961 [E]: 116615 [D]:  617 [T]:12 [TH]: 9, In
+2015-10-17 18:27:08 :  83> [G]:  27267 [E]:  62975 [D]: 1668 [T]:13 [TH]: 9, In
+2015-10-17 18:27:15 :  84> [G]:  91710 [E]: 170153 [D]:  760 [T]:31 [TH]: 9, In
+2015-10-17 18:27:18 :  85> [G]:  64983 [E]: 132047 [D]:  886 [T]:11 [TH]: 9, In
+2015-10-17 18:27:24 :  86> [G]: 174027 [E]:  88569 [D]:  485 [T]:28 [TH]:10, In
+2015-10-17 18:27:27 :  87> [G]: 102095 [E]: 144709 [D]:  347 [T]:21 [TH]: 9, In
+2015-10-17 18:27:34 :  88> [G]:  56501 [E]:  51272 [D]:  568 [T]: 5 [TH]: 8, In
+2015-10-17 18:27:36 :  89> [G]:  92976 [E]:  81545 [D]:  693 [T]:20 [TH]: 9, In
+2015-10-17 18:27:44 :  90> [G]:  10413 [E]:  62145 [D]:  576 [T]: 5 [TH]: 8, In
+2015-10-17 18:27:46 :  91> [G]: 309774 [E]:  46015 [D]: 3256 [T]:17 [TH]:10, In
+2015-10-17 18:27:53 :  92> [G]:  78132 [E]:  22573 [D]:  474 [T]:12 [TH]: 9, In
+2015-10-17 18:27:56 :  93> [G]:  12007 [E]:   6260 [D]:  148 [T]: 3 [TH]: 8, In
+2015-10-17 18:27:59 :  94> [G]: 134441 [E]:  23536 [D]: 1280 [T]:15 [TH]: 9, In
+2015-10-17 18:28:06 :  95> [G]: 115422 [E]:  47571 [D]:  683 [T]:14 [TH]: 9, In
+2015-10-17 18:28:09 :  96> [G]:  37039 [E]:  50040 [D]:  823 [T]:18 [TH]: 9, In
+2015-10-17 18:28:15 :  97> [G]: 171085 [E]: 135640 [D]:  905 [T]:10 [TH]: 9, In
+2015-10-17 18:28:19 :  98> [G]:  24341 [E]:  49146 [D]:  300 [T]: 4 [TH]: 8, In
+2015-10-17 18:28:22 :  99> [G]:  99139 [E]: 199783 [D]:  778 [T]: 5 [TH]: 8, In
+2015-10-17 18:28:22 : ~~~~~~~~~~~~~~~~ Dead Base Found! ~~~~~~~~~~~~~~~~
+2015-10-17 18:28:23 : ================ Search Complete =================
+2015-10-17 18:28:23 : Initiating attack for: Dead Base
+2015-10-17 18:28:25 : -Balloons 28
+2015-10-17 18:28:25 : -Minions 40
+2015-10-17 18:28:25 : -Clan Castle 
+2015-10-17 18:28:25 : -King 
+2015-10-17 18:28:26 : -Rage Spells 4
+2015-10-17 18:28:26 : -Poison Spells 1
+2015-10-17 18:28:26 :  ====== Start Attack ====== 
+2015-10-17 18:28:28 : Calculating Smart Attack Strategy
+2015-10-17 18:28:28 : Calculated  (in 0.52 seconds) :
+2015-10-17 18:28:28 : Attacking on two sides
+2015-10-17 18:28:30 : Dropping Clan Castle
+2015-10-17 18:28:31 : Dropping 14  of Balloons => on each side (side : 1)
+2015-10-17 18:28:33 : Dropping 20  of Minions => on each side (side : 1)
+2015-10-17 18:28:35 : Dropping 14  of Balloons => on each side (side : 2)
+2015-10-17 18:28:36 : Dropping 20  of Minions => on each side (side : 2)
+2015-10-17 18:28:38 : Dropping King
+2015-10-17 18:28:40 : Dropping left over troops
+2015-10-17 18:28:40 : Checking remaining unused troops for: Dead Base
+2015-10-17 18:28:42 : -Minions 0
+2015-10-17 18:28:42 : -Clan Castle 
+2015-10-17 18:28:42 : -Rage Spells 4
+2015-10-17 18:28:42 : -Poison Spells 1
+2015-10-17 18:28:46 : King is getting weak, Activating King's power
+2015-10-17 18:28:51 : Checking remaining unused troops for: Dead Base
+2015-10-17 18:28:53 : -Minions 0
+2015-10-17 18:28:53 : -Clan Castle 
+2015-10-17 18:28:53 : -Rage Spells 4
+2015-10-17 18:28:53 : -Poison Spells 1
+2015-10-17 18:29:02 : Finished Attacking, waiting for the battle to end
+2015-10-17 18:29:02 : Checking if the battle has finished
+2015-10-17 18:29:04 : detected [G]: 52210 [E]: 93141 [DE]: 127 |  Exit in 58 sec.
+2015-10-17 18:29:04 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 18:29:08 : detected [G]: 45714 [E]: 87959 [DE]: 109 |  Exit in 58 sec.
+2015-10-17 18:29:08 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 18:29:11 : detected [G]: 18914 [E]: 73605 [DE]: 71 |  Exit in 58 sec.
+2015-10-17 18:29:11 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 18:29:14 : detected [G]: 7392 [E]: 40277 [DE]: 35 |  Exit in 58 sec.
+2015-10-17 18:29:14 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 18:29:18 : detected [G]: 256 [E]: 5360 [DE]: 0 |  Exit in 58 sec.
+2015-10-17 18:29:18 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 18:29:21 : detected [G]: 41 [E]: 41 [DE]: 0 |  Exit in 58 sec.
+2015-10-17 18:29:21 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 18:29:24 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 58 sec.
+2015-10-17 18:29:26 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 56 sec.
+2015-10-17 18:29:28 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 55 sec.
+2015-10-17 18:29:29 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 53 sec.
+2015-10-17 18:29:31 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 51 sec.
+2015-10-17 18:29:33 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 49 sec.
+2015-10-17 18:29:34 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 48 sec.
+2015-10-17 18:29:36 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 46 sec.
+2015-10-17 18:29:38 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 44 sec.
+2015-10-17 18:29:40 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 43 sec.
+2015-10-17 18:29:41 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 41 sec.
+2015-10-17 18:29:43 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 39 sec.
+2015-10-17 18:29:45 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 38 sec.
+2015-10-17 18:29:46 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 36 sec.
+2015-10-17 18:29:48 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 34 sec.
+2015-10-17 18:29:50 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 33 sec.
+2015-10-17 18:29:51 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 31 sec.
+2015-10-17 18:29:53 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 29 sec.
+2015-10-17 18:29:55 : detected [G]:  [E]:  [DE]:  |  Exit now 
+2015-10-17 18:29:55 : Battle has finished
+2015-10-17 18:29:55 : Returning Home
+2015-10-17 18:30:00 : Bonus [G]: 100 000 [E]: 100 000 [DE]: 500
+2015-10-17 18:30:02 : Your league level is: Master III
+2015-10-17 18:30:02 : Stars earned: 3
+2015-10-17 18:30:02 : Loot: [G]: 99 139 [E]: 199 783 [DE]: 778 [T]: 5
+2015-10-17 18:30:02 : Taking snapshot of your loot
+2015-10-17 18:30:08 : Trying to locate Main Screen
+2015-10-17 18:30:08 : Main Screen Located
+2015-10-17 18:30:09 : Village Report
+2015-10-17 18:30:09 : No. of Free/Total Builders: 1/5
+2015-10-17 18:30:09 :  [T]: 2 610
+2015-10-17 18:30:09 :  [G]: 2 290 128 [E]: 2 106 474 [D]: 90 623 [GEM]: 5 300
+2015-10-17 18:30:10 : Collecting Resources
+2015-10-17 18:30:19 : Checking Army Camp...
+2015-10-17 18:30:21 : Total Army Camp capacity: 72/220
+2015-10-17 18:30:22 :  - No. of Balloons: 4
+2015-10-17 18:30:22 :  - No. of Minions: 26
+2015-10-17 18:30:22 : Training Troops...
+2015-10-17 18:30:42 : Spell Factory Full
+2015-10-17 18:30:49 : ====== Waiting for full army ======
+2015-10-17 18:31:01 : Checking Army Camp...
+2015-10-17 18:31:03 : Total Army Camp capacity: 74/220
+2015-10-17 18:31:04 :  - No. of Balloons: 4
+2015-10-17 18:31:04 :  - No. of Minions: 27
+2015-10-17 18:31:04 : Training Troops...
+2015-10-17 18:31:24 : Spell Factory Full
+2015-10-17 18:31:27 : Time Idle: 00:00:37
+2015-10-17 18:31:27 : ====== Waiting for full army ======
+2015-10-17 18:31:39 : Collecting Resources
+2015-10-17 18:31:44 : Checking Army Camp...
+2015-10-17 18:31:46 : Total Army Camp capacity: 76/220
+2015-10-17 18:31:47 :  - No. of Balloons: 4
+2015-10-17 18:31:47 :  - No. of Minions: 28
+2015-10-17 18:31:47 : Training Troops...
+2015-10-17 18:32:07 : Spell Factory Full
+2015-10-17 18:32:10 : Time Idle: 00:01:19
+2015-10-17 18:32:10 : ====== Waiting for full army ======
+2015-10-17 18:32:22 : Checking Army Camp...
+2015-10-17 18:32:23 : Total Army Camp capacity: 80/220
+2015-10-17 18:32:24 :  - No. of Balloons: 4
+2015-10-17 18:32:24 :  - No. of Minions: 30
+2015-10-17 18:32:25 : Training Troops...
+2015-10-17 18:32:44 : Spell Factory Full
+2015-10-17 18:32:47 : Time Idle: 00:01:56
+2015-10-17 18:32:47 : ====== Waiting for full army ======
+2015-10-17 18:32:59 : Checking Army Camp...
+2015-10-17 18:33:01 : Total Army Camp capacity: 84/220
+2015-10-17 18:33:02 :  - No. of Balloons: 4
+2015-10-17 18:33:02 :  - No. of Minions: 32
+2015-10-17 18:33:02 : Training Troops...
+2015-10-17 18:33:21 : Spell Factory Full
+2015-10-17 18:33:24 : Time Idle: 00:02:33
+2015-10-17 18:33:24 : ====== Waiting for full army ======
+2015-10-17 18:33:36 : Checking Army Camp...
+2015-10-17 18:33:38 : Total Army Camp capacity: 88/220
+2015-10-17 18:33:39 :  - No. of Balloons: 4
+2015-10-17 18:33:39 :  - No. of Minions: 34
+2015-10-17 18:33:39 : Training Troops...
+2015-10-17 18:33:59 : Spell Factory Full
+2015-10-17 18:34:01 : Time Idle: 00:03:10
+2015-10-17 18:34:01 : ====== Waiting for full army ======
+2015-10-17 18:34:13 : Checking Army Camp...
+2015-10-17 18:34:15 : Total Army Camp capacity: 92/220
+2015-10-17 18:34:16 :  - No. of Balloons: 4
+2015-10-17 18:34:16 :  - No. of Minions: 36
+2015-10-17 18:34:16 : Training Troops...
+2015-10-17 18:34:36 : Spell Factory Full
+2015-10-17 18:34:38 : Time Idle: 00:03:47
+2015-10-17 18:34:39 : ====== Waiting for full army ======
+2015-10-17 18:34:50 : Checking Army Camp...
+2015-10-17 18:34:52 : Total Army Camp capacity: 96/220
+2015-10-17 18:34:53 :  - No. of Balloons: 4
+2015-10-17 18:34:53 :  - No. of Minions: 38
+2015-10-17 18:34:53 : Training Troops...
+2015-10-17 18:35:13 : Spell Factory Full
+2015-10-17 18:35:16 : Time Idle: 00:04:24
+2015-10-17 18:35:16 : ====== Waiting for full army ======
+2015-10-17 18:35:28 : Checking Army Camp...
+2015-10-17 18:35:29 : Total Army Camp capacity: 96/220
+2015-10-17 18:35:30 :  - No. of Balloons: 4
+2015-10-17 18:35:30 :  - No. of Minions: 38
+2015-10-17 18:35:31 : Training Troops...
+2015-10-17 18:35:51 : Spell Factory Full
+2015-10-17 18:35:53 : Time Idle: 00:05:02
+2015-10-17 18:35:53 : ====== Waiting for full army ======
+2015-10-17 18:36:05 : Checking Army Camp...
+2015-10-17 18:36:07 : Total Army Camp capacity: 120/220
+2015-10-17 18:36:08 :  - No. of Balloons: 8
+2015-10-17 18:36:08 :  - No. of Minions: 40
+2015-10-17 18:36:08 : Training Troops...
+2015-10-17 18:36:29 : Spell Factory Full
+2015-10-17 18:36:31 : Time Idle: 00:05:39
+2015-10-17 18:36:31 : ====== Waiting for full army ======
+2015-10-17 18:36:43 : Checking Army Camp...
+2015-10-17 18:36:45 : Total Army Camp capacity: 120/220
+2015-10-17 18:36:46 :  - No. of Balloons: 8
+2015-10-17 18:36:46 :  - No. of Minions: 40
+2015-10-17 18:36:46 : Training Troops...
+2015-10-17 18:37:06 : Spell Factory Full
+2015-10-17 18:37:09 : Time Idle: 00:06:17
+2015-10-17 18:37:09 : ====== Waiting for full army ======
+2015-10-17 18:37:21 : Checking Army Camp...
+2015-10-17 18:37:23 : Total Army Camp capacity: 120/220
+2015-10-17 18:37:24 :  - No. of Balloons: 8
+2015-10-17 18:37:24 :  - No. of Minions: 40
+2015-10-17 18:37:24 : Training Troops...
+2015-10-17 18:37:44 : Spell Factory Full
+2015-10-17 18:37:47 : Time Idle: 00:06:54
+2015-10-17 18:37:47 : ====== Waiting for full army ======
+2015-10-17 18:37:59 : Checking Army Camp...
+2015-10-17 18:38:01 : Total Army Camp capacity: 120/220
+2015-10-17 18:38:01 :  - No. of Balloons: 8
+2015-10-17 18:38:02 :  - No. of Minions: 40
+2015-10-17 18:38:02 : Training Troops...
+2015-10-17 18:38:22 : Spell Factory Full
+2015-10-17 18:38:24 : Time Idle: 00:07:32
+2015-10-17 18:38:25 : ====== Waiting for full army ======
+2015-10-17 18:38:36 : Collecting Resources
+2015-10-17 18:38:42 : Checking Army Camp...
+2015-10-17 18:38:44 : Total Army Camp capacity: 120/220
+2015-10-17 18:38:45 :  - No. of Balloons: 8
+2015-10-17 18:38:45 :  - No. of Minions: 40
+2015-10-17 18:38:45 : Training Troops...
+2015-10-17 18:39:05 : Spell Factory Full
+2015-10-17 18:39:08 : Time Idle: 00:08:15
+2015-10-17 18:39:08 : ====== Waiting for full army ======
+2015-10-17 18:39:20 : Checking Army Camp...
+2015-10-17 18:39:22 : Total Army Camp capacity: 120/220
+2015-10-17 18:39:22 :  - No. of Balloons: 8
+2015-10-17 18:39:23 :  - No. of Minions: 40
+2015-10-17 18:39:23 : Training Troops...
+2015-10-17 18:39:43 : Spell Factory Full
+2015-10-17 18:39:45 : Time Idle: 00:08:53
+2015-10-17 18:39:46 : ====== Waiting for full army ======
+2015-10-17 18:39:58 : Checking Army Camp...
+2015-10-17 18:39:59 : Total Army Camp capacity: 120/220
+2015-10-17 18:40:00 :  - No. of Balloons: 8
+2015-10-17 18:40:00 :  - No. of Minions: 40
+2015-10-17 18:40:00 : Training Troops...
+2015-10-17 18:40:21 : Spell Factory Full
+2015-10-17 18:40:23 : Time Idle: 00:09:30
+2015-10-17 18:40:23 : ====== Waiting for full army ======
+2015-10-17 18:40:35 : Checking Army Camp...
+2015-10-17 18:40:37 : Total Army Camp capacity: 120/220
+2015-10-17 18:40:38 :  - No. of Balloons: 8
+2015-10-17 18:40:38 :  - No. of Minions: 40
+2015-10-17 18:40:38 : Training Troops...
+2015-10-17 18:40:58 : Spell Factory Full
+2015-10-17 18:41:01 : Time Idle: 00:10:07
+2015-10-17 18:41:01 : ====== Waiting for full army ======
+2015-10-17 18:41:13 : Checking Army Camp...
+2015-10-17 18:41:15 : Total Army Camp capacity: 120/220
+2015-10-17 18:41:15 :  - No. of Balloons: 8
+2015-10-17 18:41:16 :  - No. of Minions: 40
+2015-10-17 18:41:16 : Training Troops...
+2015-10-17 18:41:36 : Spell Factory Full
+2015-10-17 18:41:38 : Time Idle: 00:10:45
+2015-10-17 18:41:39 : ====== Waiting for full army ======
+2015-10-17 18:41:50 : Checking Army Camp...
+2015-10-17 18:41:52 : Total Army Camp capacity: 120/220
+2015-10-17 18:41:53 :  - No. of Balloons: 8
+2015-10-17 18:41:53 :  - No. of Minions: 40
+2015-10-17 18:41:53 : Training Troops...
+2015-10-17 18:42:14 : Spell Factory Full
+2015-10-17 18:42:16 : Time Idle: 00:11:22
+2015-10-17 18:42:16 : ====== Waiting for full army ======
+2015-10-17 18:42:28 : Checking Army Camp...
+2015-10-17 18:42:30 : Total Army Camp capacity: 120/220
+2015-10-17 18:42:31 :  - No. of Balloons: 8
+2015-10-17 18:42:31 :  - No. of Minions: 40
+2015-10-17 18:42:31 : Training Troops...
+2015-10-17 18:42:51 : Spell Factory Full
+2015-10-17 18:42:54 : Time Idle: 00:12:00
+2015-10-17 18:42:54 : ====== Waiting for full army ======
+2015-10-17 18:43:06 : Checking Army Camp...
+2015-10-17 18:43:08 : Total Army Camp capacity: 120/220
+2015-10-17 18:43:09 :  - No. of Balloons: 8
+2015-10-17 18:43:09 :  - No. of Minions: 40
+2015-10-17 18:43:09 : Training Troops...
+2015-10-17 18:43:29 : Spell Factory Full
+2015-10-17 18:43:32 : Time Idle: 00:12:37
+2015-10-17 18:43:32 : ====== Waiting for full army ======
+2015-10-17 18:43:44 : Checking Army Camp...
+2015-10-17 18:43:46 : Total Army Camp capacity: 130/220
+2015-10-17 18:43:46 :  - No. of Balloons: 10
+2015-10-17 18:43:46 :  - No. of Minions: 40
+2015-10-17 18:43:47 : Training Troops...
+2015-10-17 18:44:07 : Spell Factory Full
+2015-10-17 18:44:10 : Time Idle: 00:13:15
+2015-10-17 18:44:10 : ====== Waiting for full army ======
+2015-10-17 18:44:22 : Checking Army Camp...
+2015-10-17 18:44:24 : Total Army Camp capacity: 140/220
+2015-10-17 18:44:24 :  - No. of Balloons: 12
+2015-10-17 18:44:25 :  - No. of Minions: 40
+2015-10-17 18:44:25 : Training Troops...
+2015-10-17 18:44:45 : Spell Factory Full
+2015-10-17 18:44:47 : Time Idle: 00:13:53
+2015-10-17 18:44:48 : ====== Waiting for full army ======
+2015-10-17 18:45:00 : Checking Army Camp...
+2015-10-17 18:45:01 : Total Army Camp capacity: 140/220
+2015-10-17 18:45:02 :  - No. of Balloons: 12
+2015-10-17 18:45:02 :  - No. of Minions: 40
+2015-10-17 18:45:03 : Training Troops...
+2015-10-17 18:45:23 : Spell Factory Full
+2015-10-17 18:45:25 : Time Idle: 00:14:30
+2015-10-17 18:45:25 : ====== Waiting for full army ======
+2015-10-17 18:45:37 : Collecting Resources
+2015-10-17 18:45:43 : Checking Army Camp...
+2015-10-17 18:45:45 : Total Army Camp capacity: 140/220
+2015-10-17 18:45:46 :  - No. of Balloons: 12
+2015-10-17 18:45:46 :  - No. of Minions: 40
+2015-10-17 18:45:46 : Training Troops...
+2015-10-17 18:46:06 : Spell Factory Full
+2015-10-17 18:46:08 : Time Idle: 00:15:13
+2015-10-17 18:46:09 : ====== Waiting for full army ======
+2015-10-17 18:46:20 : Checking Army Camp...
+2015-10-17 18:46:22 : Total Army Camp capacity: 140/220
+2015-10-17 18:46:23 :  - No. of Balloons: 12
+2015-10-17 18:46:23 :  - No. of Minions: 40
+2015-10-17 18:46:23 : Training Troops...
+2015-10-17 18:46:44 : Spell Factory Full
+2015-10-17 18:46:46 : Time Idle: 00:15:51
+2015-10-17 18:46:46 : ====== Waiting for full army ======
+2015-10-17 18:46:58 : Checking Army Camp...
+2015-10-17 18:47:00 : Total Army Camp capacity: 140/220
+2015-10-17 18:47:01 :  - No. of Balloons: 12
+2015-10-17 18:47:01 :  - No. of Minions: 40
+2015-10-17 18:47:01 : Training Troops...
+2015-10-17 18:47:21 : Spell Factory Full
+2015-10-17 18:47:24 : Time Idle: 00:16:28
+2015-10-17 18:47:24 : ====== Waiting for full army ======
+2015-10-17 18:47:36 : Checking Army Camp...
+2015-10-17 18:47:38 : Total Army Camp capacity: 140/220
+2015-10-17 18:47:39 :  - No. of Balloons: 12
+2015-10-17 18:47:39 :  - No. of Minions: 40
+2015-10-17 18:47:39 : Training Troops...
+2015-10-17 18:47:59 : Spell Factory Full
+2015-10-17 18:48:02 : Time Idle: 00:17:06
+2015-10-17 18:48:02 : ====== Waiting for full army ======
+2015-10-17 18:48:14 : Checking Army Camp...
+2015-10-17 18:48:16 : Total Army Camp capacity: 140/220
+2015-10-17 18:48:17 :  - No. of Balloons: 12
+2015-10-17 18:48:17 :  - No. of Minions: 40
+2015-10-17 18:48:17 : Training Troops...
+2015-10-17 18:48:37 : Spell Factory Full
+2015-10-17 18:48:39 : Time Idle: 00:17:43
+2015-10-17 18:48:40 : ====== Waiting for full army ======
+2015-10-17 18:48:52 : Checking Army Camp...
+2015-10-17 18:48:53 : Total Army Camp capacity: 140/220
+2015-10-17 18:48:54 :  - No. of Balloons: 12
+2015-10-17 18:48:54 :  - No. of Minions: 40
+2015-10-17 18:48:55 : Training Troops...
+2015-10-17 18:49:15 : Spell Factory Full
+2015-10-17 18:49:17 : Time Idle: 00:18:21
+2015-10-17 18:49:17 : ====== Waiting for full army ======
+2015-10-17 18:49:29 : Checking Army Camp...
+2015-10-17 18:49:31 : Total Army Camp capacity: 140/220
+2015-10-17 18:49:32 :  - No. of Balloons: 12
+2015-10-17 18:49:32 :  - No. of Minions: 40
+2015-10-17 18:49:32 : Training Troops...
+2015-10-17 18:49:52 : Spell Factory Full
+2015-10-17 18:49:55 : Time Idle: 00:18:58
+2015-10-17 18:49:55 : ====== Waiting for full army ======
+2015-10-17 18:50:07 : Checking Army Camp...
+2015-10-17 18:50:09 : Total Army Camp capacity: 140/220
+2015-10-17 18:50:10 :  - No. of Balloons: 12
+2015-10-17 18:50:10 :  - No. of Minions: 40
+2015-10-17 18:50:10 : Training Troops...
+2015-10-17 18:50:30 : Spell Factory Full
+2015-10-17 18:50:33 : Time Idle: 00:19:36
+2015-10-17 18:50:33 : ====== Waiting for full army ======
+2015-10-17 18:50:45 : Checking Army Camp...
+2015-10-17 18:50:47 : Total Army Camp capacity: 140/220
+2015-10-17 18:50:47 :  - No. of Balloons: 12
+2015-10-17 18:50:48 :  - No. of Minions: 40
+2015-10-17 18:50:48 : Training Troops...
+2015-10-17 18:51:08 : Spell Factory Full
+2015-10-17 18:51:10 : Time Idle: 00:20:13
+2015-10-17 18:51:11 : ====== Waiting for full army ======
+2015-10-17 18:51:22 : Checking Army Camp...
+2015-10-17 18:51:24 : Total Army Camp capacity: 140/220
+2015-10-17 18:51:25 :  - No. of Balloons: 12
+2015-10-17 18:51:25 :  - No. of Minions: 40
+2015-10-17 18:51:25 : Training Troops...
+2015-10-17 18:51:46 : Spell Factory Full
+2015-10-17 18:51:48 : Time Idle: 00:20:51
+2015-10-17 18:51:48 : ====== Waiting for full army ======
+2015-10-17 18:52:00 : Checking Army Camp...
+2015-10-17 18:52:02 : Total Army Camp capacity: 160/220
+2015-10-17 18:52:03 :  - No. of Balloons: 16
+2015-10-17 18:52:03 :  - No. of Minions: 40
+2015-10-17 18:52:03 : Training Troops...
+2015-10-17 18:52:24 : Spell Factory Full
+2015-10-17 18:52:26 : Time Idle: 00:21:29
+2015-10-17 18:52:26 : ====== Waiting for full army ======
+2015-10-17 18:52:38 : Collecting Resources
+2015-10-17 18:52:44 : Checking Army Camp...
+2015-10-17 18:52:45 : Total Army Camp capacity: 160/220
+2015-10-17 18:52:46 :  - No. of Balloons: 16
+2015-10-17 18:52:46 :  - No. of Minions: 40
+2015-10-17 18:52:47 : Training Troops...
+2015-10-17 18:53:07 : Spell Factory Full
+2015-10-17 18:53:09 : Time Idle: 00:22:12
+2015-10-17 18:53:10 : ====== Waiting for full army ======
+2015-10-17 18:53:21 : Checking Army Camp...
+2015-10-17 18:53:23 : Total Army Camp capacity: 160/220
+2015-10-17 18:53:24 :  - No. of Balloons: 16
+2015-10-17 18:53:24 :  - No. of Minions: 40
+2015-10-17 18:53:24 : Training Troops...
+2015-10-17 18:53:45 : Spell Factory Full
+2015-10-17 18:53:47 : Time Idle: 00:22:49
+2015-10-17 18:53:47 : ====== Waiting for full army ======
+2015-10-17 18:53:59 : Checking Army Camp...
+2015-10-17 18:54:01 : Total Army Camp capacity: 160/220
+2015-10-17 18:54:02 :  - No. of Balloons: 16
+2015-10-17 18:54:02 :  - No. of Minions: 40
+2015-10-17 18:54:02 : Training Troops...
+2015-10-17 18:54:22 : Spell Factory Full
+2015-10-17 18:54:25 : Time Idle: 00:23:27
+2015-10-17 18:54:25 : ====== Waiting for full army ======
+2015-10-17 18:54:37 : Checking Army Camp...
+2015-10-17 18:54:39 : Total Army Camp capacity: 160/220
+2015-10-17 18:54:40 :  - No. of Balloons: 16
+2015-10-17 18:54:40 :  - No. of Minions: 40
+2015-10-17 18:54:40 : Training Troops...
+2015-10-17 18:55:00 : Spell Factory Full
+2015-10-17 18:55:03 : Time Idle: 00:24:04
+2015-10-17 18:55:03 : ====== Waiting for full army ======
+2015-10-17 18:55:15 : Checking Army Camp...
+2015-10-17 18:55:16 : Total Army Camp capacity: 160/220
+2015-10-17 18:55:17 :  - No. of Balloons: 16
+2015-10-17 18:55:17 :  - No. of Minions: 40
+2015-10-17 18:55:18 : Training Troops...
+2015-10-17 18:55:38 : Spell Factory Full
+2015-10-17 18:55:40 : Time Idle: 00:24:42
+2015-10-17 18:55:40 : ====== Waiting for full army ======
+2015-10-17 18:55:52 : Checking Army Camp...
+2015-10-17 18:55:54 : Total Army Camp capacity: 160/220
+2015-10-17 18:55:55 :  - No. of Balloons: 16
+2015-10-17 18:55:55 :  - No. of Minions: 40
+2015-10-17 18:55:55 : Training Troops...
+2015-10-17 18:56:16 : Spell Factory Full
+2015-10-17 18:56:18 : Time Idle: 00:25:19
+2015-10-17 18:56:18 : ====== Waiting for full army ======
+2015-10-17 18:56:30 : Checking Army Camp...
+2015-10-17 18:56:32 : Total Army Camp capacity: 160/220
+2015-10-17 18:56:33 :  - No. of Balloons: 16
+2015-10-17 18:56:33 :  - No. of Minions: 40
+2015-10-17 18:56:33 : Training Troops...
+2015-10-17 18:56:53 : Spell Factory Full
+2015-10-17 18:56:56 : Time Idle: 00:25:57
+2015-10-17 18:56:56 : ====== Waiting for full army ======
+2015-10-17 18:57:08 : Checking Army Camp...
+2015-10-17 18:57:10 : Total Army Camp capacity: 160/220
+2015-10-17 18:57:11 :  - No. of Balloons: 16
+2015-10-17 18:57:11 :  - No. of Minions: 40
+2015-10-17 18:57:11 : Training Troops...
+2015-10-17 18:57:31 : Spell Factory Full
+2015-10-17 18:57:33 : Time Idle: 00:26:34
+2015-10-17 18:57:34 : ====== Waiting for full army ======
+2015-10-17 18:57:46 : Checking Army Camp...
+2015-10-17 18:57:47 : Total Army Camp capacity: 160/220
+2015-10-17 18:57:48 :  - No. of Balloons: 16
+2015-10-17 18:57:48 :  - No. of Minions: 40
+2015-10-17 18:57:49 : Training Troops...
+2015-10-17 18:58:09 : Spell Factory Full
+2015-10-17 18:58:11 : Time Idle: 00:27:12
+2015-10-17 18:58:11 : ====== Waiting for full army ======
+2015-10-17 18:58:23 : Checking Army Camp...
+2015-10-17 18:58:25 : Total Army Camp capacity: 160/220
+2015-10-17 18:58:26 :  - No. of Balloons: 16
+2015-10-17 18:58:26 :  - No. of Minions: 40
+2015-10-17 18:58:26 : Training Troops...
+2015-10-17 18:58:47 : Spell Factory Full
+2015-10-17 18:58:49 : Time Idle: 00:27:49
+2015-10-17 18:58:49 : ====== Waiting for full army ======
+2015-10-17 18:59:01 : Checking Army Camp...
+2015-10-17 18:59:03 : Total Army Camp capacity: 160/220
+2015-10-17 18:59:04 :  - No. of Balloons: 16
+2015-10-17 18:59:04 :  - No. of Minions: 40
+2015-10-17 18:59:04 : Training Troops...
+2015-10-17 18:59:24 : Spell Factory Full
+2015-10-17 18:59:27 : Time Idle: 00:28:27
+2015-10-17 18:59:27 : ====== Waiting for full army ======
+2015-10-17 18:59:39 : Collecting Resources
+2015-10-17 18:59:45 : Checking Army Camp...
+2015-10-17 18:59:46 : Total Army Camp capacity: 170/220
+2015-10-17 18:59:47 :  - No. of Balloons: 19
+2015-10-17 18:59:47 :  - No. of Minions: 40
+2015-10-17 18:59:47 : Training Troops...
+2015-10-17 19:00:08 : Spell Factory Full
+2015-10-17 19:00:10 : Time Idle: 00:29:10
+2015-10-17 19:00:11 : ====== Waiting for full army ======
+2015-10-17 19:00:23 : Checking Army Camp...
+2015-10-17 19:00:24 : Total Army Camp capacity: 180/220
+2015-10-17 19:00:25 :  - No. of Balloons: 20
+2015-10-17 19:00:25 :  - No. of Minions: 40
+2015-10-17 19:00:26 : Training Troops...
+2015-10-17 19:00:46 : Spell Factory Full
+2015-10-17 19:00:48 : Time Idle: 00:29:48
+2015-10-17 19:00:48 : ====== Waiting for full army ======
+2015-10-17 19:01:00 : Checking Army Camp...
+2015-10-17 19:01:02 : Total Army Camp capacity: 180/220
+2015-10-17 19:01:03 :  - No. of Balloons: 20
+2015-10-17 19:01:03 :  - No. of Minions: 40
+2015-10-17 19:01:03 : Training Troops...
+2015-10-17 19:01:23 : Spell Factory Full
+2015-10-17 19:01:26 : Time Idle: 00:30:25
+2015-10-17 19:01:26 : ====== Waiting for full army ======
+2015-10-17 19:01:38 : Checking Army Camp...
+2015-10-17 19:01:40 : Total Army Camp capacity: 180/220
+2015-10-17 19:01:41 :  - No. of Balloons: 20
+2015-10-17 19:01:41 :  - No. of Minions: 40
+2015-10-17 19:01:41 : Training Troops...
+2015-10-17 19:02:01 : Spell Factory Full
+2015-10-17 19:02:04 : Time Idle: 00:31:03
+2015-10-17 19:02:04 : ====== Waiting for full army ======
+2015-10-17 19:02:16 : Checking Army Camp...
+2015-10-17 19:02:18 : Total Army Camp capacity: 180/220
+2015-10-17 19:02:18 :  - No. of Balloons: 20
+2015-10-17 19:02:19 :  - No. of Minions: 40
+2015-10-17 19:02:19 : Training Troops...
+2015-10-17 19:02:39 : Spell Factory Full
+2015-10-17 19:02:41 : Time Idle: 00:31:40
+2015-10-17 19:02:42 : ====== Waiting for full army ======
+2015-10-17 19:02:53 : Checking Army Camp...
+2015-10-17 19:02:55 : Total Army Camp capacity: 180/220
+2015-10-17 19:02:56 :  - No. of Balloons: 20
+2015-10-17 19:02:56 :  - No. of Minions: 40
+2015-10-17 19:02:56 : Training Troops...
+2015-10-17 19:03:16 : Spell Factory Full
+2015-10-17 19:03:19 : Time Idle: 00:32:18
+2015-10-17 19:03:19 : ====== Waiting for full army ======
+2015-10-17 19:03:31 : Checking Army Camp...
+2015-10-17 19:03:33 : Total Army Camp capacity: 180/220
+2015-10-17 19:03:34 :  - No. of Balloons: 20
+2015-10-17 19:03:34 :  - No. of Minions: 40
+2015-10-17 19:03:34 : Training Troops...
+2015-10-17 19:03:54 : Spell Factory Full
+2015-10-17 19:03:57 : Time Idle: 00:32:55
+2015-10-17 19:03:57 : ====== Waiting for full army ======
+2015-10-17 19:04:09 : Checking Army Camp...
+2015-10-17 19:04:10 : Total Army Camp capacity: 180/220
+2015-10-17 19:04:11 :  - No. of Balloons: 20
+2015-10-17 19:04:11 :  - No. of Minions: 40
+2015-10-17 19:04:12 : Training Troops...
+2015-10-17 19:04:32 : Spell Factory Full
+2015-10-17 19:04:34 : Time Idle: 00:33:32
+2015-10-17 19:04:34 : ====== Waiting for full army ======
+2015-10-17 19:04:46 : Checking Army Camp...
+2015-10-17 19:04:48 : Total Army Camp capacity: 180/220
+2015-10-17 19:04:49 :  - No. of Balloons: 20
+2015-10-17 19:04:49 :  - No. of Minions: 40
+2015-10-17 19:04:49 : Training Troops...
+2015-10-17 19:05:09 : Spell Factory Full
+2015-10-17 19:05:12 : Time Idle: 00:34:10
+2015-10-17 19:05:12 : ====== Waiting for full army ======
+2015-10-17 19:05:24 : Checking Army Camp...
+2015-10-17 19:05:26 : Total Army Camp capacity: 180/220
+2015-10-17 19:05:27 :  - No. of Balloons: 20
+2015-10-17 19:05:27 :  - No. of Minions: 40
+2015-10-17 19:05:27 : Training Troops...
+2015-10-17 19:05:47 : Spell Factory Full
+2015-10-17 19:05:50 : Time Idle: 00:34:47
+2015-10-17 19:05:50 : ====== Waiting for full army ======
+2015-10-17 19:06:02 : Checking Army Camp...
+2015-10-17 19:06:04 : Total Army Camp capacity: 180/220
+2015-10-17 19:06:05 :  - No. of Balloons: 20
+2015-10-17 19:06:05 :  - No. of Minions: 40
+2015-10-17 19:06:05 : Training Troops...
+2015-10-17 19:06:25 : Spell Factory Full
+2015-10-17 19:06:27 : Time Idle: 00:35:25
+2015-10-17 19:06:28 : ====== Waiting for full army ======
+2015-10-17 19:06:39 : Collecting Resources
+2015-10-17 19:06:45 : Checking Army Camp...
+2015-10-17 19:06:47 : Total Army Camp capacity: 180/220
+2015-10-17 19:06:48 :  - No. of Balloons: 20
+2015-10-17 19:06:48 :  - No. of Minions: 40
+2015-10-17 19:06:48 : Training Troops...
+2015-10-17 19:07:08 : Spell Factory Full
+2015-10-17 19:07:10 : Time Idle: 00:36:08
+2015-10-17 19:07:11 : ====== Waiting for full army ======
+2015-10-17 19:07:23 : Checking Army Camp...
+2015-10-17 19:07:24 : Total Army Camp capacity: 180/220
+2015-10-17 19:07:25 :  - No. of Balloons: 20
+2015-10-17 19:07:25 :  - No. of Minions: 40
+2015-10-17 19:07:26 : Training Troops...
+2015-10-17 19:07:46 : Spell Factory Full
+2015-10-17 19:07:48 : Time Idle: 00:36:45
+2015-10-17 19:07:48 : ====== Waiting for full army ======
+2015-10-17 19:08:00 : Checking Army Camp...
+2015-10-17 19:08:02 : Total Army Camp capacity: 200/220
+2015-10-17 19:08:03 :  - No. of Balloons: 24
+2015-10-17 19:08:03 :  - No. of Minions: 40
+2015-10-17 19:08:03 : Training Troops...
+2015-10-17 19:08:24 : Spell Factory Full
+2015-10-17 19:08:26 : Time Idle: 00:37:23
+2015-10-17 19:08:26 : ====== Waiting for full army ======
+2015-10-17 19:08:38 : Checking Army Camp...
+2015-10-17 19:08:40 : Total Army Camp capacity: 200/220
+2015-10-17 19:08:41 :  - No. of Balloons: 24
+2015-10-17 19:08:41 :  - No. of Minions: 40
+2015-10-17 19:08:41 : Training Troops...
+2015-10-17 19:09:01 : Spell Factory Full
+2015-10-17 19:09:04 : Time Idle: 00:38:01
+2015-10-17 19:09:04 : ====== Waiting for full army ======
+2015-10-17 19:09:16 : Checking Army Camp...
+2015-10-17 19:09:18 : Total Army Camp capacity: 200/220
+2015-10-17 19:09:19 :  - No. of Balloons: 24
+2015-10-17 19:09:19 :  - No. of Minions: 40
+2015-10-17 19:09:19 : Training Troops...
+2015-10-17 19:09:39 : Spell Factory Full
+2015-10-17 19:09:42 : Time Idle: 00:38:38
+2015-10-17 19:09:42 : ====== Waiting for full army ======
+2015-10-17 19:09:54 : Checking Army Camp...
+2015-10-17 19:09:56 : Total Army Camp capacity: 200/220
+2015-10-17 19:09:57 :  - No. of Balloons: 24
+2015-10-17 19:09:57 :  - No. of Minions: 40
+2015-10-17 19:09:57 : Training Troops...
+2015-10-17 19:10:17 : Spell Factory Full
+2015-10-17 19:10:19 : Time Idle: 00:39:16
+2015-10-17 19:10:20 : ====== Waiting for full army ======
+2015-10-17 19:10:32 : Checking Army Camp...
+2015-10-17 19:10:33 : Total Army Camp capacity: 200/220
+2015-10-17 19:10:34 :  - No. of Balloons: 24
+2015-10-17 19:10:34 :  - No. of Minions: 40
+2015-10-17 19:10:35 : Training Troops...
+2015-10-17 19:10:55 : Spell Factory Full
+2015-10-17 19:10:57 : Time Idle: 00:39:53
+2015-10-17 19:10:57 : ====== Waiting for full army ======
+2015-10-17 19:11:09 : Checking Army Camp...
+2015-10-17 19:11:11 : Total Army Camp capacity: 200/220
+2015-10-17 19:11:12 :  - No. of Balloons: 24
+2015-10-17 19:11:12 :  - No. of Minions: 40
+2015-10-17 19:11:12 : Training Troops...
+2015-10-17 19:11:32 : Spell Factory Full
+2015-10-17 19:11:35 : Time Idle: 00:40:31
+2015-10-17 19:11:35 : ====== Waiting for full army ======
+2015-10-17 19:11:47 : Checking Army Camp...
+2015-10-17 19:11:49 : Total Army Camp capacity: 200/220
+2015-10-17 19:11:50 :  - No. of Balloons: 24
+2015-10-17 19:11:50 :  - No. of Minions: 40
+2015-10-17 19:11:50 : Training Troops...
+2015-10-17 19:12:10 : Spell Factory Full
+2015-10-17 19:12:13 : Time Idle: 00:41:08
+2015-10-17 19:12:13 : ====== Waiting for full army ======
+2015-10-17 19:12:25 : Checking Army Camp...
+2015-10-17 19:12:27 : Total Army Camp capacity: 200/220
+2015-10-17 19:12:27 :  - No. of Balloons: 24
+2015-10-17 19:12:27 :  - No. of Minions: 40
+2015-10-17 19:12:28 : Training Troops...
+2015-10-17 19:12:48 : Spell Factory Full
+2015-10-17 19:12:50 : Time Idle: 00:41:45
+2015-10-17 19:12:50 : ====== Waiting for full army ======
+2015-10-17 19:13:02 : Checking Army Camp...
+2015-10-17 19:13:04 : Total Army Camp capacity: 200/220
+2015-10-17 19:13:05 :  - No. of Balloons: 24
+2015-10-17 19:13:05 :  - No. of Minions: 40
+2015-10-17 19:13:05 : Training Troops...
+2015-10-17 19:13:25 : Spell Factory Full
+2015-10-17 19:13:28 : Time Idle: 00:42:23
+2015-10-17 19:13:28 : ====== Waiting for full army ======
+2015-10-17 19:13:40 : Collecting Resources
+2015-10-17 19:13:46 : Checking Army Camp...
+2015-10-17 19:13:48 : Total Army Camp capacity: 200/220
+2015-10-17 19:13:48 :  - No. of Balloons: 24
+2015-10-17 19:13:49 :  - No. of Minions: 40
+2015-10-17 19:13:49 : Training Troops...
+2015-10-17 19:14:09 : Spell Factory Full
+2015-10-17 19:14:11 : Time Idle: 00:43:06
+2015-10-17 19:14:12 : ====== Waiting for full army ======
+2015-10-17 19:14:24 : Checking Army Camp...
+2015-10-17 19:14:25 : Total Army Camp capacity: 200/220
+2015-10-17 19:14:26 :  - No. of Balloons: 24
+2015-10-17 19:14:26 :  - No. of Minions: 40
+2015-10-17 19:14:26 : Training Troops...
+2015-10-17 19:14:47 : Spell Factory Full
+2015-10-17 19:14:49 : Time Idle: 00:43:44
+2015-10-17 19:14:49 : ====== Waiting for full army ======
+2015-10-17 19:15:01 : Checking Army Camp...
+2015-10-17 19:15:03 : Total Army Camp capacity: 200/220
+2015-10-17 19:15:04 :  - No. of Balloons: 24
+2015-10-17 19:15:04 :  - No. of Minions: 40
+2015-10-17 19:15:04 : Training Troops...
+2015-10-17 19:15:24 : Spell Factory Full
+2015-10-17 19:15:27 : Time Idle: 00:44:21
+2015-10-17 19:15:27 : ====== Waiting for full army ======
+2015-10-17 19:15:39 : Checking Army Camp...
+2015-10-17 19:15:41 : Total Army Camp capacity: 205/220
+2015-10-17 19:15:42 :  - No. of Balloons: 25
+2015-10-17 19:15:42 :  - No. of Minions: 40
+2015-10-17 19:15:42 : Training Troops...
+2015-10-17 19:16:03 : Spell Factory Full
+2015-10-17 19:16:05 : Time Idle: 00:44:59
+2015-10-17 19:16:05 : ====== Waiting for full army ======
+2015-10-17 19:16:17 : Checking Army Camp...
+2015-10-17 19:16:19 : Total Army Camp capacity: 220/220
+2015-10-17 19:16:20 :  - No. of Balloons: 28
+2015-10-17 19:16:20 :  - No. of Minions: 40
+2015-10-17 19:16:20 : Training Troops...
+2015-10-17 19:16:21 : Your Army Camps are now Full
+2015-10-17 19:16:42 : Spell Factory Full
+2015-10-17 19:16:44 : Going to Attack...
+2015-10-17 19:16:50 : ============== Searching For Dead Base ===============
+2015-10-17 19:16:50 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-17 19:16:50 : , Max TH 8
+2015-10-17 19:16:50 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-17 19:16:50 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-17 19:16:50 : ============== Searching For Live Base ===============
+2015-10-17 19:16:50 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-17 19:16:50 : , Max TH 8
+2015-10-17 19:16:50 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-17 19:16:50 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Live Base
+2015-10-17 19:16:50 : ==================================================
+2015-10-17 19:16:51 :   1> [G]: 167495 [E]: 203145 [D]: 1007 [T]:24 [TH]:10, In
+2015-10-17 19:16:53 :   2> [G]: 185395 [E]: 271975 [D]:  682 [T]:28 [TH]:10, In
+2015-10-17 19:17:02 :   3> [G]: 123342 [E]: 158446 [D]: 1037 [T]:30 [TH]: 9, In
+2015-10-17 19:17:05 :   4> [G]:  39371 [E]:  49379 [D]:  596 [T]:23 [TH]: 9, In
+2015-10-17 19:17:12 :   5> [G]:  32891 [E]:  58572 [D]:  514 [T]:16 [TH]:10, In
+2015-10-17 19:17:15 :   6> [G]:  63665 [E]: 189263 [D]:  482 [T]:16 [TH]: 9, In
+2015-10-17 19:17:22 :   7> [G]:  27442 [E]:  94345 [D]: 1042 [T]:14 [TH]: 9, In
+2015-10-17 19:17:25 :   8> [G]: 120288 [E]:  30515 [D]:  333 [T]:14 [TH]:10, In
+2015-10-17 19:17:31 :   9> [G]: 123656 [E]:  31197 [D]: 1191 [T]:15 [TH]: 9, In
+2015-10-17 19:17:34 :  10> [G]:  16008 [E]:  28514 [D]:  685 [T]:24 [TH]: 9, In
+2015-10-17 19:17:41 :  11> [G]: 158407 [E]:  40654 [D]: 1593 [T]:11 [TH]:10, In
+2015-10-17 19:17:44 :  12> [G]:  60753 [E]:  22908 [D]:  765 [T]:26 [TH]: 9, In
+2015-10-17 19:17:51 :  13> [G]: 130939 [E]:  11425 [D]:  309 [T]:19 [TH]: 9, In
+2015-10-17 19:17:55 :  14> [G]: 133221 [E]: 187278 [D]: 1652 [T]:24 [TH]: 9, In
+2015-10-17 19:17:57 :  15> [G]:  32626 [E]: 373322 [D]: 2749 [T]:32 [TH]:10, In
+2015-10-17 19:18:04 :  16> [G]:  68790 [E]:  66109 [D]:  557 [T]:20 [TH]: 9, In
+2015-10-17 19:18:07 :  17> [G]:  20054 [E]:  90000 [D]: 1069 [T]:20 [TH]: 9, In
+2015-10-17 19:18:14 :  18> [G]:  28433 [E]:  68551 [D]:   70 [T]:11 [TH]: 9, In
+2015-10-17 19:18:20 :  19> [G]: 284715 [E]: 117806 [D]:  813 [T]:18 [TH]: 9, In
+2015-10-17 19:18:22 :  20> [G]:  96209 [E]: 176663 [D]: 1377 [T]:13 [TH]: 9, In
+2015-10-17 19:18:29 :  21> [G]:  48444 [E]:  55543 [D]: 1030 [T]:14 [TH]:10, In
+2015-10-17 19:18:32 :  22> [G]:   3772 [E]: 105405 [D]:  987 [T]:13 [TH]: 9, In
+2015-10-17 19:18:36 :  23> [G]:  50500 [E]:  12636 [D]:  871 [T]:13 [TH]: 9, In
+2015-10-17 19:18:39 :  24> [G]:  45138 [E]: 106186 [D]: 1216 [T]:32 [TH]:10, In
+2015-10-17 19:18:47 :  25> [G]:  42796 [E]:  99598 [D]:  606 [T]:31 [TH]:10, In
+2015-10-17 19:18:49 :  26> [G]:  82009 [E]:  23951 [D]:  588 [T]:32 [TH]: 9, In
+2015-10-17 19:18:56 :  27> [G]:  93872 [E]:  76949 [D]:  349 [T]:24 [TH]: 9, In
+2015-10-17 19:18:58 :  28> [G]:  96917 [E]:  53216 [D]:  925 [T]:30 [TH]:10, In
+2015-10-17 19:19:06 :  29> [G]:  44166 [E]:  54240 [D]:  119 [T]:14 [TH]: 9, In
+2015-10-17 19:19:08 :  30> [G]:  93744 [E]:  98455 [D]:  952 [T]:26 [TH]: 9, In
+2015-10-17 19:19:15 :  31> [G]: 153859 [E]: 227099 [D]: 2261 [T]:15 [TH]: 9, In
+2015-10-17 19:19:18 :  32> [G]:  19781 [E]: 186934 [D]: 1091 [T]:23 [TH]: 9, In
+2015-10-17 19:19:24 :  33> [G]:  18530 [E]:  12024 [D]:  938 [T]:15 [TH]: 9, In
+2015-10-17 19:19:27 :  34> [G]:  68278 [E]:  31379 [D]: 1036 [T]:20 [TH]: 9, In
+2015-10-17 19:19:34 :  35> [G]:  54142 [E]:  44658 [D]:  496 [T]:19 [TH]: 9, In
+2015-10-17 19:19:37 :  36> [G]:  39933 [E]: 110464 [D]:  369 [T]:25 [TH]: 9, In
+2015-10-17 19:19:44 :  37> [G]:  13803 [E]:  12364 [D]:  685 [T]:28 [TH]: 9, In
+2015-10-17 19:19:48 :  38> [G]: 402015 [E]: 183933 [D]: 2464 [T]:32 [TH]:10, In
+2015-10-17 19:19:51 :  39> [G]:  84058 [E]:  95666 [D]: 1394 [T]:18 [TH]: 9, In
+2015-10-17 19:19:59 :  40> [G]:  88455 [E]: 143611 [D]: 1646 [T]:30 [TH]:10, In
+2015-10-17 19:20:01 :  41> [G]:  55392 [E]: 186120 [D]:  247 [T]:22 [TH]: 9, In
+2015-10-17 19:20:08 :  42> [G]:  41375 [E]:  99675 [D]:  119 [T]:20 [TH]:10, In
+2015-10-17 19:20:10 :  43> [G]:  46498 [E]:  62225 [D]:  688 [T]:30 [TH]: 9, In
+2015-10-17 19:20:18 :  44> [G]:  51941 [E]:  44615 [D]:  550 [T]:28 [TH]:10, In
+2015-10-17 19:20:22 :  45> [G]:  63887 [E]:  62697 [D]:  595 [T]:38 [TH]:10, In
+2015-10-17 19:20:26 :  46> [G]: 277185 [E]: 349243 [D]:  902 [T]:10 [TH]: 9, In
+2015-10-17 19:20:28 :  47> [G]: 282714 [E]: 139317 [D]:  866 [T]:28 [TH]:10, In
+2015-10-17 19:20:34 :  48> [G]:  27336 [E]:  17449 [D]:  296 [T]:26 [TH]: 9, In
+2015-10-17 19:20:37 :  49> [G]: 259480 [E]: 167363 [D]: 1442 [T]:17 [TH]:10, In
+2015-10-17 19:20:44 :  50> [G]:  28626 [E]:  40752 [D]: 1912 [T]:16 [TH]:10, In
+2015-10-17 19:20:44 : Aim:           [G+E+D]: 372500 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-17 19:20:44 : Aim:           [G+E+D]: 372500 [T]: 0 [TH]: 8 for: Live Base
+2015-10-17 19:20:47 :  51> [G]: 216895 [E]:  71186 [D]:  684 [T]:19 [TH]:10, In
+2015-10-17 19:20:50 :  52> [G]:  51663 [E]:  49554 [D]:  679 [T]: 9 [TH]: 9, In
+2015-10-17 19:20:57 :  53> [G]:  88641 [E]: 322751 [D]:  791 [T]: 9 [TH]: 9, In
+2015-10-17 19:21:00 :  54> [G]:  42142 [E]:  69815 [D]:  739 [T]:24 [TH]: 9, In
+2015-10-17 19:21:03 :  55> [G]:  50020 [E]:  32532 [D]:  490 [T]:19 [TH]: 9, In
+2015-10-17 19:21:10 :  56> [G]:  20930 [E]:   7557 [D]:  225 [T]:16 [TH]:10, In
+2015-10-17 19:21:12 :  57> [G]: 479520 [E]: 254974 [D]: 2444 [T]:15 [TH]: 9, Out
+2015-10-17 19:21:20 :  58> [G]:  49472 [E]:  74274 [D]: 2882 [T]:14 [TH]:10, In
+2015-10-17 19:21:23 :  59> [G]:  55431 [E]: 113330 [D]:  437 [T]: 9 [TH]: 9, In
+2015-10-17 19:21:29 :  60> [G]:  46651 [E]:  96572 [D]:  584 [T]:11 [TH]:10, In
+2015-10-17 19:21:32 :  61> [G]:  45551 [E]:  89002 [D]:  846 [T]:14 [TH]: 9, In
+2015-10-17 19:21:39 :  62> [G]:  87814 [E]: 151429 [D]:  735 [T]:12 [TH]: 9, In
+2015-10-17 19:21:41 :  63> [G]:  55572 [E]: 104430 [D]:  457 [T]:24 [TH]:10, In
+2015-10-17 19:21:48 :  64> [G]:  17572 [E]: 100234 [D]:  479 [T]: 8 [TH]: 9, In
+2015-10-17 19:21:52 :  65> [G]:  41892 [E]:  86505 [D]:  304 [T]:23 [TH]:10, In
+2015-10-17 19:21:57 :  66> [G]:  66889 [E]:  51702 [D]: 1745 [T]:31 [TH]:10, In
+2015-10-17 19:21:59 :  67> [G]:  20093 [E]:  24497 [D]:  352 [T]:32 [TH]:10, In
+2015-10-17 19:22:06 :  68> [G]: 129381 [E]: 190116 [D]:  729 [T]:11 [TH]: 9, In
+2015-10-17 19:22:10 :  69> [G]:  92725 [E]:  17346 [D]:  510 [T]:23 [TH]:10, In
+2015-10-17 19:22:12 :  70> [G]: 126988 [E]: 136986 [D]: 2207 [T]:15 [TH]: 9, Out
+2015-10-17 19:22:19 :  71> [G]: 234786 [E]: 196859 [D]:  377 [T]: 8 [TH]: 8, In
+2015-10-17 19:22:19 : ~~~~~~~~~~~~~~ DE Side Base Found! ~~~~~~~~~~~~~~~
+2015-10-17 19:22:21 : ================ Search Complete =================
+2015-10-17 19:22:21 : Initiating attack for: Live Base
+2015-10-17 19:22:23 : -Balloons 28
+2015-10-17 19:22:23 : -Minions 40
+2015-10-17 19:22:23 : -Rage Spells 4
+2015-10-17 19:22:23 : -Poison Spells 1
+2015-10-17 19:22:23 :  ====== Start Attack ====== 
+2015-10-17 19:22:25 : Attacking on Dark Elixir Side.
+2015-10-17 19:22:26 :  == DE Storage Not Found ==
+2015-10-17 19:22:26 : DE Storage Not Located... Attacking Random Side
+2015-10-17 19:22:27 : Dropping only wave of 28 Balloons
+2015-10-17 19:22:30 : Spell drop point: 490, 368
+2015-10-17 19:22:30 : Dropping spell in slot 2
+2015-10-17 19:22:31 : Dropping only wave of 40 Minions
+2015-10-17 19:22:35 : Dropping left over troops
+2015-10-17 19:22:35 : Checking remaining unused troops for: Live Base
+2015-10-17 19:22:37 : -Minions 0
+2015-10-17 19:22:37 : -Rage Spells 3
+2015-10-17 19:22:37 : -Poison Spells 1
+2015-10-17 19:22:46 : Checking remaining unused troops for: Live Base
+2015-10-17 19:22:48 : -Minions 0
+2015-10-17 19:22:48 : -Rage Spells 3
+2015-10-17 19:22:48 : -Poison Spells 1
+2015-10-17 19:22:57 : Finished Attacking, waiting for the battle to end
+2015-10-17 19:22:57 : Checking if the battle has finished
+2015-10-17 19:22:59 : detected [G]: 76833 [E]: 193534 [DE]: 24 |  Exit in 58 sec.
+2015-10-17 19:23:01 : detected [G]: 76833 [E]: 192558 [DE]: 24 |  Exit in 56 sec.
+2015-10-17 19:23:01 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 19:23:04 : detected [G]: 76703 [E]: 191467 [DE]: 24 |  Exit in 58 sec.
+2015-10-17 19:23:04 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 19:23:07 : detected [G]: 76363 [E]: 189465 [DE]: 24 |  Exit in 58 sec.
+2015-10-17 19:23:07 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 19:23:11 : detected [G]: 76144 [E]: 177866 [DE]: 24 |  Exit in 58 sec.
+2015-10-17 19:23:11 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 19:23:14 : detected [G]: 75935 [E]: 166865 [DE]: 24 |  Exit in 58 sec.
+2015-10-17 19:23:14 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 19:23:17 : detected [G]: 75933 [E]: 151866 [DE]: 20 |  Exit in 58 sec.
+2015-10-17 19:23:17 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 19:23:21 : detected [G]: 75933 [E]: 70100 [DE]: 4 |  Exit in 58 sec.
+2015-10-17 19:23:21 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 19:23:24 : detected [G]: 75933 [E]: 24130 [DE]: 0 |  Exit in 58 sec.
+2015-10-17 19:23:24 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 19:23:27 : detected [G]: 70204 [E]: 20083 [DE]: 0 |  Exit in 58 sec.
+2015-10-17 19:23:28 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 19:23:31 : detected [G]: 57157 [E]: 20083 [DE]: 0 |  Exit in 58 sec.
+2015-10-17 19:23:31 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 19:23:34 : detected [G]: 55531 [E]: 18748 [DE]: 0 |  Exit in 58 sec.
+2015-10-17 19:23:34 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 19:23:38 : detected [G]: 55531 [E]: 18417 [DE]: 0 |  Exit in 58 sec.
+2015-10-17 19:23:39 : detected [G]: 55531 [E]: 18417 [DE]: 0 |  Exit in 56 sec.
+2015-10-17 19:23:41 : detected [G]: 55531 [E]: 18417 [DE]: 0 |  Exit in 54 sec.
+2015-10-17 19:23:43 : detected [G]: 0 [E]: 18417 [DE]: 0 |  Exit in 53 sec.
+2015-10-17 19:23:43 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 19:23:46 : detected [G]: 0 [E]: 15719 [DE]: 0 |  Exit in 58 sec.
+2015-10-17 19:23:46 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 19:23:49 : detected [G]: 0 [E]: 0 [DE]:  |  Exit in 58 sec.
+2015-10-17 19:23:49 : Gold & Elixir & DE no change detected, exit
+2015-10-17 19:23:49 : Returning Home
+2015-10-17 19:23:54 : Bonus [G]: 100 000 [E]: 100 000 [DE]: 500
+2015-10-17 19:23:57 : Your league level is: Master III
+2015-10-17 19:23:57 : Stars earned: 3
+2015-10-17 19:23:57 : Loot: [G]: 234 786 [E]: 196 859 [DE]: 377 [T]: 8
+2015-10-17 19:23:57 : Taking snapshot of your loot
+2015-10-17 19:24:02 : Trying to locate Main Screen
+2015-10-17 19:24:02 : Main Screen Located
+2015-10-17 19:24:04 : Village Report
+2015-10-17 19:24:04 : No. of Free/Total Builders: 1/5
+2015-10-17 19:24:04 :  [T]: 2 618
+2015-10-17 19:24:04 :  [G]: 2 592 331 [E]: 2 297 999 [D]: 91 328 [GEM]: 5 300
+2015-10-17 19:24:05 : Collecting Resources
+2015-10-17 19:24:14 : Checking Army Camp...
+2015-10-17 19:24:16 : Total Army Camp capacity: 60/220
+2015-10-17 19:24:17 :  - No. of Balloons: 4
+2015-10-17 19:24:17 :  - No. of Minions: 20
+2015-10-17 19:24:17 : Training Troops...
+2015-10-17 19:24:38 : Spell Factory Full
+2015-10-17 19:24:38 : Created 1 Spell(s)
+2015-10-17 19:24:46 : ====== Waiting for full army ======
+2015-10-17 19:24:57 : Checking Army Camp...
+2015-10-17 19:24:59 : Total Army Camp capacity: 64/220
+2015-10-17 19:25:00 :  - No. of Balloons: 4
+2015-10-17 19:25:00 :  - No. of Minions: 22
+2015-10-17 19:25:00 : Training Troops...
+2015-10-17 19:25:20 : Spell Factory Full
+2015-10-17 19:25:23 : Time Idle: 00:00:37
+2015-10-17 19:25:23 : ====== Waiting for full army ======
+2015-10-17 19:25:35 : Checking Army Camp...
+2015-10-17 19:25:36 : Total Army Camp capacity: 66/220
+2015-10-17 19:25:37 :  - No. of Balloons: 4
+2015-10-17 19:25:37 :  - No. of Minions: 23
+2015-10-17 19:25:38 : Training Troops...
+2015-10-17 19:25:58 : Spell Factory Full
+2015-10-17 19:26:00 : Time Idle: 00:01:14
+2015-10-17 19:26:01 : ====== Waiting for full army ======
+2015-10-17 19:26:12 : Checking Army Camp...
+2015-10-17 19:26:14 : Total Army Camp capacity: 68/220
+2015-10-17 19:26:15 :  - No. of Balloons: 4
+2015-10-17 19:26:15 :  - No. of Minions: 24
+2015-10-17 19:26:15 : Training Troops...
+2015-10-17 19:26:35 : Spell Factory Full
+2015-10-17 19:26:38 : Time Idle: 00:01:51
+2015-10-17 19:26:38 : ====== Waiting for full army ======
+2015-10-17 19:26:50 : Checking Army Camp...
+2015-10-17 19:26:52 : Total Army Camp capacity: 72/220
+2015-10-17 19:26:52 :  - No. of Balloons: 4
+2015-10-17 19:26:52 :  - No. of Minions: 26
+2015-10-17 19:26:53 : Training Troops...
+2015-10-17 19:27:12 : Spell Factory Full
+2015-10-17 19:27:15 : Time Idle: 00:02:28
+2015-10-17 19:27:15 : ====== Waiting for full army ======
+2015-10-17 19:27:27 : Checking Army Camp...
+2015-10-17 19:27:29 : Total Army Camp capacity: 76/220
+2015-10-17 19:27:30 :  - No. of Balloons: 4
+2015-10-17 19:27:30 :  - No. of Minions: 28
+2015-10-17 19:27:30 : Training Troops...
+2015-10-17 19:27:50 : Spell Factory Full
+2015-10-17 19:27:53 : Time Idle: 00:03:06
+2015-10-17 19:27:53 : ====== Waiting for full army ======
+2015-10-17 19:28:05 : Checking Army Camp...
+2015-10-17 19:28:07 : Total Army Camp capacity: 80/220
+2015-10-17 19:28:07 :  - No. of Balloons: 4
+2015-10-17 19:28:08 :  - No. of Minions: 30
+2015-10-17 19:28:08 : Training Troops...
+2015-10-17 19:28:27 : Spell Factory Full
+2015-10-17 19:28:30 : Time Idle: 00:03:43
+2015-10-17 19:28:30 : ====== Waiting for full army ======
+2015-10-17 19:28:42 : Collecting Resources
+2015-10-17 19:28:47 : Checking Army Camp...
+2015-10-17 19:28:49 : Total Army Camp capacity: 84/220
+2015-10-17 19:28:50 :  - No. of Balloons: 4
+2015-10-17 19:28:50 :  - No. of Minions: 32
+2015-10-17 19:28:50 : Training Troops...
+2015-10-17 19:29:10 : Spell Factory Full
+2015-10-17 19:29:12 : Time Idle: 00:04:25
+2015-10-17 19:29:13 : ====== Waiting for full army ======
+2015-10-17 19:29:25 : Checking Army Camp...
+2015-10-17 19:29:26 : Total Army Camp capacity: 88/220
+2015-10-17 19:29:27 :  - No. of Balloons: 4
+2015-10-17 19:29:27 :  - No. of Minions: 34
+2015-10-17 19:29:28 : Training Troops...
+2015-10-17 19:29:47 : Spell Factory Full
+2015-10-17 19:29:50 : Time Idle: 00:05:02
+2015-10-17 19:29:50 : ====== Waiting for full army ======
+2015-10-17 19:30:02 : Checking Army Camp...
+2015-10-17 19:30:04 : Total Army Camp capacity: 88/220
+2015-10-17 19:30:05 :  - No. of Balloons: 4
+2015-10-17 19:30:05 :  - No. of Minions: 34
+2015-10-17 19:30:05 : Training Troops...
+2015-10-17 19:30:24 : Spell Factory Full
+2015-10-17 19:30:27 : Time Idle: 00:05:39
+2015-10-17 19:30:27 : ====== Waiting for full army ======
+2015-10-17 19:30:39 : Checking Army Camp...
+2015-10-17 19:30:41 : Total Army Camp capacity: 92/220
+2015-10-17 19:30:42 :  - No. of Balloons: 4
+2015-10-17 19:30:42 :  - No. of Minions: 36
+2015-10-17 19:30:42 : Training Troops...
+2015-10-17 19:31:02 : Spell Factory Full
+2015-10-17 19:31:04 : Time Idle: 00:06:16
+2015-10-17 19:31:04 : ====== Waiting for full army ======
+2015-10-17 19:31:16 : Checking Army Camp...
+2015-10-17 19:31:18 : Total Army Camp capacity: 96/220
+2015-10-17 19:31:19 :  - No. of Balloons: 4
+2015-10-17 19:31:19 :  - No. of Minions: 38
+2015-10-17 19:31:19 : Training Troops...
+2015-10-17 19:31:39 : Spell Factory Full
+2015-10-17 19:31:41 : Time Idle: 00:06:53
+2015-10-17 19:31:42 : ====== Waiting for full army ======
+2015-10-17 19:31:53 : Checking Army Camp...
+2015-10-17 19:31:55 : Total Army Camp capacity: 120/220
+2015-10-17 19:31:56 :  - No. of Balloons: 8
+2015-10-17 19:31:56 :  - No. of Minions: 40
+2015-10-17 19:31:56 : Training Troops...
+2015-10-17 19:32:17 : Spell Factory Full
+2015-10-17 19:32:19 : Time Idle: 00:07:31
+2015-10-17 19:32:19 : ====== Waiting for full army ======
+2015-10-17 19:32:31 : Checking Army Camp...
+2015-10-17 19:32:33 : Total Army Camp capacity: 120/220
+2015-10-17 19:32:34 :  - No. of Balloons: 8
+2015-10-17 19:32:34 :  - No. of Minions: 40
+2015-10-17 19:32:34 : Training Troops...
+2015-10-17 19:32:54 : Spell Factory Full
+2015-10-17 19:32:57 : Time Idle: 00:08:08
+2015-10-17 19:32:57 : ====== Waiting for full army ======
+2015-10-17 19:33:09 : Checking Army Camp...
+2015-10-17 19:33:11 : Total Army Camp capacity: 120/220
+2015-10-17 19:33:12 :  - No. of Balloons: 8
+2015-10-17 19:33:12 :  - No. of Minions: 40
+2015-10-17 19:33:12 : Training Troops...
+2015-10-17 19:33:32 : Spell Factory Full
+2015-10-17 19:33:34 : Time Idle: 00:08:45
+2015-10-17 19:33:35 : ====== Waiting for full army ======
+2015-10-17 19:33:47 : Checking Army Camp...
+2015-10-17 19:33:48 : Total Army Camp capacity: 120/220
+2015-10-17 19:33:49 :  - No. of Balloons: 8
+2015-10-17 19:33:49 :  - No. of Minions: 40
+2015-10-17 19:33:50 : Training Troops...
+2015-10-17 19:34:10 : Spell Factory Full
+2015-10-17 19:34:12 : Time Idle: 00:09:23
+2015-10-17 19:34:12 : ====== Waiting for full army ======
+2015-10-17 19:34:24 : Checking Army Camp...
+2015-10-17 19:34:26 : Total Army Camp capacity: 120/220
+2015-10-17 19:34:27 :  - No. of Balloons: 8
+2015-10-17 19:34:27 :  - No. of Minions: 40
+2015-10-17 19:34:27 : Training Troops...
+2015-10-17 19:34:47 : Spell Factory Full
+2015-10-17 19:34:50 : Time Idle: 00:10:00
+2015-10-17 19:34:50 : ====== Waiting for full army ======
+2015-10-17 19:35:02 : Checking Army Camp...
+2015-10-17 19:35:04 : Total Army Camp capacity: 120/220
+2015-10-17 19:35:05 :  - No. of Balloons: 8
+2015-10-17 19:35:05 :  - No. of Minions: 40
+2015-10-17 19:35:05 : Training Troops...
+2015-10-17 19:35:25 : Spell Factory Full
+2015-10-17 19:35:28 : Time Idle: 00:10:38
+2015-10-17 19:35:28 : ====== Waiting for full army ======
+2015-10-17 19:35:39 : Collecting Resources
+2015-10-17 19:35:45 : Checking Army Camp...
+2015-10-17 19:35:47 : Total Army Camp capacity: 120/220
+2015-10-17 19:35:48 :  - No. of Balloons: 8
+2015-10-17 19:35:48 :  - No. of Minions: 40
+2015-10-17 19:35:48 : Training Troops...
+2015-10-17 19:36:08 : Spell Factory Full
+2015-10-17 19:36:11 : Time Idle: 00:11:21
+2015-10-17 19:36:11 : ====== Waiting for full army ======
+2015-10-17 19:36:23 : Checking Army Camp...
+2015-10-17 19:36:25 : Total Army Camp capacity: 120/220
+2015-10-17 19:36:26 :  - No. of Balloons: 8
+2015-10-17 19:36:26 :  - No. of Minions: 40
+2015-10-17 19:36:26 : Training Troops...
+2015-10-17 19:36:46 : Spell Factory Full
+2015-10-17 19:36:49 : Time Idle: 00:11:58
+2015-10-17 19:36:49 : ====== Waiting for full army ======
+2015-10-17 19:37:01 : Checking Army Camp...
+2015-10-17 19:37:03 : Total Army Camp capacity: 120/220
+2015-10-17 19:37:03 :  - No. of Balloons: 8
+2015-10-17 19:37:03 :  - No. of Minions: 40
+2015-10-17 19:37:04 : Training Troops...
+2015-10-17 19:37:24 : Spell Factory Full
+2015-10-17 19:37:26 : Time Idle: 00:12:36
+2015-10-17 19:37:27 : ====== Waiting for full army ======
+2015-10-17 19:37:38 : Checking Army Camp...
+2015-10-17 19:37:40 : Total Army Camp capacity: 120/220
+2015-10-17 19:37:41 :  - No. of Balloons: 8
+2015-10-17 19:37:41 :  - No. of Minions: 40
+2015-10-17 19:37:41 : Training Troops...
+2015-10-17 19:38:02 : Spell Factory Full
+2015-10-17 19:38:04 : Time Idle: 00:13:13
+2015-10-17 19:38:04 : ====== Waiting for full army ======
+2015-10-17 19:38:16 : Checking Army Camp...
+2015-10-17 19:38:18 : Total Army Camp capacity: 120/220
+2015-10-17 19:38:19 :  - No. of Balloons: 8
+2015-10-17 19:38:19 :  - No. of Minions: 40
+2015-10-17 19:38:19 : Training Troops...
+2015-10-17 19:38:39 : Spell Factory Full
+2015-10-17 19:38:42 : Time Idle: 00:13:51
+2015-10-17 19:38:42 : ====== Waiting for full army ======
+2015-10-17 19:38:54 : Checking Army Camp...
+2015-10-17 19:38:56 : Total Army Camp capacity: 120/220
+2015-10-17 19:38:57 :  - No. of Balloons: 8
+2015-10-17 19:38:57 :  - No. of Minions: 40
+2015-10-17 19:38:57 : Training Troops...
+2015-10-17 19:39:17 : Spell Factory Full
+2015-10-17 19:39:20 : Time Idle: 00:14:29
+2015-10-17 19:39:20 : ====== Waiting for full army ======
+2015-10-17 19:39:32 : Checking Army Camp...
+2015-10-17 19:39:33 : Total Army Camp capacity: 120/220
+2015-10-17 19:39:34 :  - No. of Balloons: 8
+2015-10-17 19:39:34 :  - No. of Minions: 40
+2015-10-17 19:39:35 : Training Troops...
+2015-10-17 19:39:55 : Spell Factory Full
+2015-10-17 19:39:57 : Time Idle: 00:15:06
+2015-10-17 19:39:57 : ====== Waiting for full army ======
+2015-10-17 19:40:09 : Checking Army Camp...
+2015-10-17 19:40:11 : Total Army Camp capacity: 140/220
+2015-10-17 19:40:12 :  - No. of Balloons: 12
+2015-10-17 19:40:12 :  - No. of Minions: 40
+2015-10-17 19:40:12 : Training Troops...
+2015-10-17 19:40:33 : Spell Factory Full
+2015-10-17 19:40:35 : Time Idle: 00:15:44
+2015-10-17 19:40:36 : ====== Waiting for full army ======
+2015-10-17 19:40:47 : Checking Army Camp...
+2015-10-17 19:40:49 : Total Army Camp capacity: 140/220
+2015-10-17 19:40:50 :  - No. of Balloons: 12
+2015-10-17 19:40:50 :  - No. of Minions: 40
+2015-10-17 19:40:50 : Training Troops...
+2015-10-17 19:41:11 : Spell Factory Full
+2015-10-17 19:41:13 : Time Idle: 00:16:21
+2015-10-17 19:41:13 : ====== Waiting for full army ======
+2015-10-17 19:41:25 : Checking Army Camp...
+2015-10-17 19:41:27 : Total Army Camp capacity: 140/220
+2015-10-17 19:41:28 :  - No. of Balloons: 12
+2015-10-17 19:41:28 :  - No. of Minions: 40
+2015-10-17 19:41:28 : Training Troops...
+2015-10-17 19:41:48 : Spell Factory Full
+2015-10-17 19:41:51 : Time Idle: 00:16:59
+2015-10-17 19:41:51 : ====== Waiting for full army ======
+2015-10-17 19:42:03 : Checking Army Camp...
+2015-10-17 19:42:05 : Total Army Camp capacity: 140/220
+2015-10-17 19:42:06 :  - No. of Balloons: 12
+2015-10-17 19:42:06 :  - No. of Minions: 40
+2015-10-17 19:42:06 : Training Troops...
+2015-10-17 19:42:26 : Spell Factory Full
+2015-10-17 19:42:29 : Time Idle: 00:17:36
+2015-10-17 19:42:29 : ====== Waiting for full army ======
+2015-10-17 19:42:40 : Collecting Resources
+2015-10-17 19:42:46 : Checking Army Camp...
+2015-10-17 19:42:48 : Total Army Camp capacity: 140/220
+2015-10-17 19:42:49 :  - No. of Balloons: 12
+2015-10-17 19:42:49 :  - No. of Minions: 40
+2015-10-17 19:42:49 : Training Troops...
+2015-10-17 19:43:09 : Spell Factory Full
+2015-10-17 19:43:12 : Time Idle: 00:18:19
+2015-10-17 19:43:12 : ====== Waiting for full army ======
+2015-10-17 19:43:24 : Checking Army Camp...
+2015-10-17 19:43:26 : Total Army Camp capacity: 140/220
+2015-10-17 19:43:27 :  - No. of Balloons: 12
+2015-10-17 19:43:27 :  - No. of Minions: 40
+2015-10-17 19:43:27 : Training Troops...
+2015-10-17 19:43:47 : Spell Factory Full
+2015-10-17 19:43:49 : Time Idle: 00:18:57
+2015-10-17 19:43:50 : ====== Waiting for full army ======
+2015-10-17 19:44:02 : Checking Army Camp...
+2015-10-17 19:44:03 : Total Army Camp capacity: 140/220
+2015-10-17 19:44:04 :  - No. of Balloons: 12
+2015-10-17 19:44:04 :  - No. of Minions: 40
+2015-10-17 19:44:05 : Training Troops...
+2015-10-17 19:44:25 : Spell Factory Full
+2015-10-17 19:44:27 : Time Idle: 00:19:34
+2015-10-17 19:44:27 : ====== Waiting for full army ======
+2015-10-17 19:44:39 : Checking Army Camp...
+2015-10-17 19:44:41 : Total Army Camp capacity: 140/220
+2015-10-17 19:44:42 :  - No. of Balloons: 12
+2015-10-17 19:44:42 :  - No. of Minions: 40
+2015-10-17 19:44:42 : Training Troops...
+2015-10-17 19:45:02 : Spell Factory Full
+2015-10-17 19:45:05 : Time Idle: 00:20:12
+2015-10-17 19:45:05 : ====== Waiting for full army ======
+2015-10-17 19:45:17 : Checking Army Camp...
+2015-10-17 19:45:19 : Total Army Camp capacity: 140/220
+2015-10-17 19:45:20 :  - No. of Balloons: 12
+2015-10-17 19:45:20 :  - No. of Minions: 40
+2015-10-17 19:45:20 : Training Troops...
+2015-10-17 19:45:40 : Spell Factory Full
+2015-10-17 19:45:42 : Time Idle: 00:20:49
+2015-10-17 19:45:43 : ====== Waiting for full army ======
+2015-10-17 19:45:55 : Checking Army Camp...
+2015-10-17 19:45:56 : Total Army Camp capacity: 140/220
+2015-10-17 19:45:57 :  - No. of Balloons: 12
+2015-10-17 19:45:57 :  - No. of Minions: 40
+2015-10-17 19:45:58 : Training Troops...
+2015-10-17 19:46:18 : Spell Factory Full
+2015-10-17 19:46:20 : Time Idle: 00:21:27
+2015-10-17 19:46:20 : ====== Waiting for full army ======
+2015-10-17 19:46:32 : Checking Army Camp...
+2015-10-17 19:46:34 : Total Army Camp capacity: 140/220
+2015-10-17 19:46:35 :  - No. of Balloons: 12
+2015-10-17 19:46:35 :  - No. of Minions: 40
+2015-10-17 19:46:35 : Training Troops...
+2015-10-17 19:46:55 : Spell Factory Full
+2015-10-17 19:46:58 : Time Idle: 00:22:04
+2015-10-17 19:46:58 : ====== Waiting for full army ======
+2015-10-17 19:47:10 : Checking Army Camp...
+2015-10-17 19:47:12 : Total Army Camp capacity: 140/220
+2015-10-17 19:47:13 :  - No. of Balloons: 12
+2015-10-17 19:47:13 :  - No. of Minions: 40
+2015-10-17 19:47:13 : Training Troops...
+2015-10-17 19:47:33 : Spell Factory Full
+2015-10-17 19:47:36 : Time Idle: 00:22:42
+2015-10-17 19:47:36 : ====== Waiting for full army ======
+2015-10-17 19:47:42 : ClashGameBot was Paused!
+2015-10-17 19:49:26 : ClashGameBot was Resumed.
+2015-10-17 19:49:31 : Checking Army Camp...
+2015-10-17 19:49:33 : Total Army Camp capacity: 160/220
+2015-10-17 19:49:34 :  - No. of Balloons: 16
+2015-10-17 19:49:34 :  - No. of Minions: 40
+2015-10-17 19:49:34 : Training Troops...
+2015-10-17 19:49:55 : Spell Factory Full
+2015-10-17 19:49:57 : Time Idle: 00:25:03
+2015-10-17 19:49:57 : ====== Waiting for full army ======
+2015-10-17 19:50:09 : Checking Army Camp...
+2015-10-17 19:50:11 : Total Army Camp capacity: 160/220
+2015-10-17 19:50:12 :  - No. of Balloons: 16
+2015-10-17 19:50:12 :  - No. of Minions: 40
+2015-10-17 19:50:12 : Training Troops...
+2015-10-17 19:50:33 : Spell Factory Full
+2015-10-17 19:50:35 : Time Idle: 00:25:41
+2015-10-17 19:50:35 : ====== Waiting for full army ======
+2015-10-17 19:50:47 : Checking Army Camp...
+2015-10-17 19:50:49 : Total Army Camp capacity: 160/220
+2015-10-17 19:50:50 :  - No. of Balloons: 16
+2015-10-17 19:50:50 :  - No. of Minions: 40
+2015-10-17 19:50:50 : Training Troops...
+2015-10-17 19:51:10 : Spell Factory Full
+2015-10-17 19:51:13 : Time Idle: 00:26:18
+2015-10-17 19:51:13 : ====== Waiting for full army ======
+2015-10-17 19:51:21 : ClashGameBot was Paused!
+2015-10-17 19:52:19 : ClashGameBot was Resumed.
+2015-10-17 19:52:22 : Collecting Resources
+2015-10-17 19:52:28 : Checking Army Camp...
+2015-10-17 19:52:29 : Total Army Camp capacity: 160/220
+2015-10-17 19:52:30 :  - No. of Balloons: 16
+2015-10-17 19:52:30 :  - No. of Minions: 40
+2015-10-17 19:52:31 : Training Troops...
+2015-10-17 19:52:51 : Spell Factory Full
+2015-10-17 19:52:53 : Time Idle: 00:27:58
+2015-10-17 19:52:53 : ====== Waiting for full army ======
+2015-10-17 19:53:05 : Checking Army Camp...
+2015-10-17 19:53:07 : Total Army Camp capacity: 160/220
+2015-10-17 19:53:08 :  - No. of Balloons: 16
+2015-10-17 19:53:08 :  - No. of Minions: 40
+2015-10-17 19:53:08 : Training Troops...
+2015-10-17 19:53:29 : Spell Factory Full
+2015-10-17 19:53:31 : Time Idle: 00:28:36
+2015-10-17 19:53:31 : ====== Waiting for full army ======
+2015-10-17 19:53:43 : Checking Army Camp...
+2015-10-17 19:53:45 : Total Army Camp capacity: 160/220
+2015-10-17 19:53:46 :  - No. of Balloons: 16
+2015-10-17 19:53:46 :  - No. of Minions: 40
+2015-10-17 19:53:46 : Training Troops...
+2015-10-17 19:54:06 : Spell Factory Full
+2015-10-17 19:54:09 : Time Idle: 00:29:14
+2015-10-17 19:54:09 : ====== Waiting for full army ======
+2015-10-17 19:54:21 : Checking Army Camp...
+2015-10-17 19:54:23 : Total Army Camp capacity: 160/220
+2015-10-17 19:54:24 :  - No. of Balloons: 16
+2015-10-17 19:54:24 :  - No. of Minions: 40
+2015-10-17 19:54:24 : Training Troops...
+2015-10-17 19:54:44 : Spell Factory Full
+2015-10-17 19:54:47 : Time Idle: 00:29:51
+2015-10-17 19:54:47 : ====== Waiting for full army ======
+2015-10-17 19:54:59 : Checking Army Camp...
+2015-10-17 19:55:01 : Total Army Camp capacity: 160/220
+2015-10-17 19:55:02 :  - No. of Balloons: 16
+2015-10-17 19:55:02 :  - No. of Minions: 40
+2015-10-17 19:55:02 : Training Troops...
+2015-10-17 19:55:22 : Spell Factory Full
+2015-10-17 19:55:25 : Time Idle: 00:30:29
+2015-10-17 19:55:25 : ====== Waiting for full army ======
+2015-10-17 19:55:37 : Checking Army Camp...
+2015-10-17 19:55:39 : Total Army Camp capacity: 160/220
+2015-10-17 19:55:40 :  - No. of Balloons: 16
+2015-10-17 19:55:40 :  - No. of Minions: 40
+2015-10-17 19:55:40 : Training Troops...
+2015-10-17 19:56:00 : Spell Factory Full
+2015-10-17 19:56:03 : Time Idle: 00:31:07
+2015-10-17 19:56:03 : ====== Waiting for full army ======
+2015-10-17 19:56:15 : Checking Army Camp...
+2015-10-17 19:56:17 : Total Army Camp capacity: 180/220
+2015-10-17 19:56:17 :  - No. of Balloons: 20
+2015-10-17 19:56:18 :  - No. of Minions: 40
+2015-10-17 19:56:18 : Training Troops...
+2015-10-17 19:56:38 : Spell Factory Full
+2015-10-17 19:56:41 : Time Idle: 00:31:45
+2015-10-17 19:56:41 : ====== Waiting for full army ======
+2015-10-17 19:56:53 : Checking Army Camp...
+2015-10-17 19:56:55 : Total Army Camp capacity: 180/220
+2015-10-17 19:56:56 :  - No. of Balloons: 20
+2015-10-17 19:56:56 :  - No. of Minions: 40
+2015-10-17 19:56:56 : Training Troops...
+2015-10-17 19:57:16 : Spell Factory Full
+2015-10-17 19:57:19 : Time Idle: 00:32:22
+2015-10-17 19:57:19 : ====== Waiting for full army ======
+2015-10-17 19:57:31 : Checking Army Camp...
+2015-10-17 19:57:33 : Total Army Camp capacity: 180/220
+2015-10-17 19:57:34 :  - No. of Balloons: 20
+2015-10-17 19:57:34 :  - No. of Minions: 40
+2015-10-17 19:57:34 : Training Troops...
+2015-10-17 19:57:54 : Spell Factory Full
+2015-10-17 19:57:57 : Time Idle: 00:33:00
+2015-10-17 19:57:57 : ====== Waiting for full army ======
+2015-10-17 19:58:09 : Checking Army Camp...
+2015-10-17 19:58:11 : Total Army Camp capacity: 180/220
+2015-10-17 19:58:11 :  - No. of Balloons: 20
+2015-10-17 19:58:12 :  - No. of Minions: 40
+2015-10-17 19:58:12 : Training Troops...
+2015-10-17 19:58:32 : Spell Factory Full
+2015-10-17 19:58:35 : Time Idle: 00:33:38
+2015-10-17 19:58:35 : ====== Waiting for full army ======
+2015-10-17 19:58:47 : Checking Army Camp...
+2015-10-17 19:58:48 : Total Army Camp capacity: 180/220
+2015-10-17 19:58:49 :  - No. of Balloons: 20
+2015-10-17 19:58:49 :  - No. of Minions: 40
+2015-10-17 19:58:50 : Training Troops...
+2015-10-17 19:59:10 : Spell Factory Full
+2015-10-17 19:59:12 : Time Idle: 00:34:15
+2015-10-17 19:59:13 : ====== Waiting for full army ======
+2015-10-17 19:59:24 : Collecting Resources
+2015-10-17 19:59:30 : Checking Army Camp...
+2015-10-17 19:59:32 : Total Army Camp capacity: 180/220
+2015-10-17 19:59:33 :  - No. of Balloons: 20
+2015-10-17 19:59:33 :  - No. of Minions: 40
+2015-10-17 19:59:33 : Training Troops...
+2015-10-17 19:59:53 : Spell Factory Full
+2015-10-17 19:59:56 : Time Idle: 00:34:59
+2015-10-17 19:59:56 : ====== Waiting for full army ======
+2015-10-17 20:00:08 : Checking Army Camp...
+2015-10-17 20:00:10 : Total Army Camp capacity: 180/220
+2015-10-17 20:00:11 :  - No. of Balloons: 20
+2015-10-17 20:00:11 :  - No. of Minions: 40
+2015-10-17 20:00:11 : Training Troops...
+2015-10-17 20:00:31 : Spell Factory Full
+2015-10-17 20:00:34 : Time Idle: 00:35:36
+2015-10-17 20:00:34 : ====== Waiting for full army ======
+2015-10-17 20:00:46 : Checking Army Camp...
+2015-10-17 20:00:48 : Total Army Camp capacity: 180/220
+2015-10-17 20:00:49 :  - No. of Balloons: 20
+2015-10-17 20:00:49 :  - No. of Minions: 40
+2015-10-17 20:00:49 : Training Troops...
+2015-10-17 20:01:09 : Spell Factory Full
+2015-10-17 20:01:12 : Time Idle: 00:36:14
+2015-10-17 20:01:12 : ====== Waiting for full army ======
+2015-10-17 20:01:24 : Checking Army Camp...
+2015-10-17 20:01:26 : Total Army Camp capacity: 180/220
+2015-10-17 20:01:27 :  - No. of Balloons: 20
+2015-10-17 20:01:27 :  - No. of Minions: 40
+2015-10-17 20:01:27 : Training Troops...
+2015-10-17 20:01:47 : Spell Factory Full
+2015-10-17 20:01:50 : Time Idle: 00:36:52
+2015-10-17 20:01:50 : ====== Waiting for full army ======
+2015-10-17 20:02:02 : Checking Army Camp...
+2015-10-17 20:02:04 : Total Army Camp capacity: 180/220
+2015-10-17 20:02:05 :  - No. of Balloons: 20
+2015-10-17 20:02:05 :  - No. of Minions: 40
+2015-10-17 20:02:05 : Training Troops...
+2015-10-17 20:02:25 : Spell Factory Full
+2015-10-17 20:02:28 : Time Idle: 00:37:29
+2015-10-17 20:02:28 : ====== Waiting for full army ======
+2015-10-17 20:02:40 : Checking Army Camp...
+2015-10-17 20:02:42 : Total Army Camp capacity: 180/220
+2015-10-17 20:02:42 :  - No. of Balloons: 20
+2015-10-17 20:02:43 :  - No. of Minions: 40
+2015-10-17 20:02:43 : Training Troops...
+2015-10-17 20:03:03 : Spell Factory Full
+2015-10-17 20:03:06 : Time Idle: 00:38:07
+2015-10-17 20:03:06 : ====== Waiting for full army ======
+2015-10-17 20:03:18 : Checking Army Camp...
+2015-10-17 20:03:19 : Total Army Camp capacity: 180/220
+2015-10-17 20:03:20 :  - No. of Balloons: 20
+2015-10-17 20:03:20 :  - No. of Minions: 40
+2015-10-17 20:03:21 : Training Troops...
+2015-10-17 20:03:41 : Spell Factory Full
+2015-10-17 20:03:43 : Time Idle: 00:38:45
+2015-10-17 20:03:44 : ====== Waiting for full army ======
+2015-10-17 20:03:56 : Checking Army Camp...
+2015-10-17 20:03:57 : Total Army Camp capacity: 200/220
+2015-10-17 20:03:58 :  - No. of Balloons: 24
+2015-10-17 20:03:58 :  - No. of Minions: 40
+2015-10-17 20:03:59 : Training Troops...
+2015-10-17 20:04:19 : Spell Factory Full
+2015-10-17 20:04:22 : Time Idle: 00:39:23
+2015-10-17 20:04:22 : ====== Waiting for full army ======
+2015-10-17 20:04:34 : Checking Army Camp...
+2015-10-17 20:04:36 : Total Army Camp capacity: 200/220
+2015-10-17 20:04:36 :  - No. of Balloons: 24
+2015-10-17 20:04:37 :  - No. of Minions: 40
+2015-10-17 20:04:37 : Training Troops...
+2015-10-17 20:04:57 : Spell Factory Full
+2015-10-17 20:05:00 : Time Idle: 00:40:00
+2015-10-17 20:05:00 : ====== Waiting for full army ======
+2015-10-17 20:05:12 : Checking Army Camp...
+2015-10-17 20:05:14 : Total Army Camp capacity: 200/220
+2015-10-17 20:05:14 :  - No. of Balloons: 24
+2015-10-17 20:05:15 :  - No. of Minions: 40
+2015-10-17 20:05:15 : Training Troops...
+2015-10-17 20:05:35 : Spell Factory Full
+2015-10-17 20:05:37 : Time Idle: 00:40:38
+2015-10-17 20:05:38 : ====== Waiting for full army ======
+2015-10-17 20:05:50 : Checking Army Camp...
+2015-10-17 20:05:51 : Total Army Camp capacity: 200/220
+2015-10-17 20:05:52 :  - No. of Balloons: 24
+2015-10-17 20:05:52 :  - No. of Minions: 40
+2015-10-17 20:05:53 : Training Troops...
+2015-10-17 20:06:13 : Spell Factory Full
+2015-10-17 20:06:15 : Time Idle: 00:41:16
+2015-10-17 20:06:16 : ====== Waiting for full army ======
+2015-10-17 20:06:27 : Collecting Resources
+2015-10-17 20:06:33 : Checking Army Camp...
+2015-10-17 20:06:35 : Total Army Camp capacity: 200/220
+2015-10-17 20:06:36 :  - No. of Balloons: 24
+2015-10-17 20:06:36 :  - No. of Minions: 40
+2015-10-17 20:06:36 : Training Troops...
+2015-10-17 20:06:56 : Spell Factory Full
+2015-10-17 20:06:59 : Time Idle: 00:41:59
+2015-10-17 20:06:59 : ====== Waiting for full army ======
+2015-10-17 20:07:11 : Checking Army Camp...
+2015-10-17 20:07:13 : Total Army Camp capacity: 200/220
+2015-10-17 20:07:13 :  - No. of Balloons: 24
+2015-10-17 20:07:14 :  - No. of Minions: 40
+2015-10-17 20:07:14 : Training Troops...
+2015-10-17 20:07:34 : Spell Factory Full
+2015-10-17 20:07:37 : Time Idle: 00:42:36
+2015-10-17 20:07:37 : ====== Waiting for full army ======
+2015-10-17 20:07:49 : Checking Army Camp...
+2015-10-17 20:07:50 : Total Army Camp capacity: 200/220
+2015-10-17 20:07:51 :  - No. of Balloons: 24
+2015-10-17 20:07:51 :  - No. of Minions: 40
+2015-10-17 20:07:52 : Training Troops...
+2015-10-17 20:08:12 : Spell Factory Full
+2015-10-17 20:08:15 : Time Idle: 00:43:14
+2015-10-17 20:08:15 : ====== Waiting for full army ======
+2015-10-17 20:08:27 : Checking Army Camp...
+2015-10-17 20:08:29 : Total Army Camp capacity: 200/220
+2015-10-17 20:08:30 :  - No. of Balloons: 24
+2015-10-17 20:08:30 :  - No. of Minions: 40
+2015-10-17 20:08:30 : Training Troops...
+2015-10-17 20:08:50 : Spell Factory Full
+2015-10-17 20:08:52 : Time Idle: 00:43:52
+2015-10-17 20:08:53 : ====== Waiting for full army ======
+2015-10-17 20:09:05 : Checking Army Camp...
+2015-10-17 20:09:06 : Total Army Camp capacity: 200/220
+2015-10-17 20:09:07 :  - No. of Balloons: 24
+2015-10-17 20:09:07 :  - No. of Minions: 40
+2015-10-17 20:09:08 : Training Troops...
+2015-10-17 20:09:28 : Spell Factory Full
+2015-10-17 20:09:30 : Time Idle: 00:44:29
+2015-10-17 20:09:30 : ====== Waiting for full army ======
+2015-10-17 20:09:42 : Checking Army Camp...
+2015-10-17 20:09:44 : Total Army Camp capacity: 200/220
+2015-10-17 20:09:45 :  - No. of Balloons: 24
+2015-10-17 20:09:45 :  - No. of Minions: 40
+2015-10-17 20:09:45 : Training Troops...
+2015-10-17 20:10:06 : Spell Factory Full
+2015-10-17 20:10:08 : Time Idle: 00:45:07
+2015-10-17 20:10:08 : ====== Waiting for full army ======
+2015-10-17 20:10:20 : Checking Army Camp...
+2015-10-17 20:10:22 : Total Army Camp capacity: 200/220
+2015-10-17 20:10:23 :  - No. of Balloons: 24
+2015-10-17 20:10:23 :  - No. of Minions: 40
+2015-10-17 20:10:23 : Training Troops...
+2015-10-17 20:10:43 : Spell Factory Full
+2015-10-17 20:10:46 : Time Idle: 00:45:45
+2015-10-17 20:10:46 : ====== Waiting for full army ======
+2015-10-17 20:10:58 : Checking Army Camp...
+2015-10-17 20:11:00 : Total Army Camp capacity: 200/220
+2015-10-17 20:11:01 :  - No. of Balloons: 24
+2015-10-17 20:11:01 :  - No. of Minions: 40
+2015-10-17 20:11:01 : Training Troops...
+2015-10-17 20:11:21 : Spell Factory Full
+2015-10-17 20:11:24 : Time Idle: 00:46:22
+2015-10-17 20:11:24 : ====== Waiting for full army ======
+2015-10-17 20:11:36 : Checking Army Camp...
+2015-10-17 20:11:38 : Total Army Camp capacity: 200/220
+2015-10-17 20:11:38 :  - No. of Balloons: 24
+2015-10-17 20:11:39 :  - No. of Minions: 40
+2015-10-17 20:11:39 : Training Troops...
+2015-10-17 20:11:59 : Spell Factory Full
+2015-10-17 20:12:01 : Time Idle: 00:47:00
+2015-10-17 20:12:02 : ====== Waiting for full army ======
+2015-10-17 20:12:14 : Checking Army Camp...
+2015-10-17 20:12:15 : Total Army Camp capacity: 220/220
+2015-10-17 20:12:16 :  - No. of Balloons: 28
+2015-10-17 20:12:16 :  - No. of Minions: 40
+2015-10-17 20:12:17 : Training Troops...
+2015-10-17 20:12:17 : Your Army Camps are now Full
+2015-10-17 20:12:39 : Spell Factory Full
+2015-10-17 20:12:41 : Going to Attack...
+2015-10-17 20:12:46 : ============== Searching For Dead Base ===============
+2015-10-17 20:12:46 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-17 20:12:46 : , Max TH 8
+2015-10-17 20:12:46 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-17 20:12:46 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-17 20:12:46 : ============== Searching For Live Base ===============
+2015-10-17 20:12:46 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-17 20:12:46 : , Max TH 8
+2015-10-17 20:12:47 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-17 20:12:47 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Live Base
+2015-10-17 20:12:47 : ==================================================
+2015-10-17 20:12:48 :   1> [G]:   9855 [E]:  82067 [D]: 1008 [T]:25 [TH]: 9, In
+2015-10-17 20:12:53 :   2> [G]: 113755 [E]:  57460 [D]:  858 [T]:28 [TH]:10, In
+2015-10-17 20:12:55 :   3> [G]:  14710 [E]:  47225 [D]:  210 [T]:14 [TH]:10, In
+2015-10-17 20:13:03 :   4> [G]:  36048 [E]:  89832 [D]: 1083 [T]:13 [TH]:10, In
+2015-10-17 20:13:08 :   5> [G]:  89336 [E]: 145853 [D]: 1242 [T]:16 [TH]: 9, In
+2015-10-17 20:13:10 :   6> [G]:  54899 [E]: 127873 [D]: 1226 [T]:12 [TH]:10, In
+2015-10-17 20:13:17 :   7> [G]:  22211 [E]: 125389 [D]: 1154 [T]:11 [TH]: 9, In
+2015-10-17 20:13:20 :   8> [G]:  20798 [E]: 123067 [D]:  788 [T]:13 [TH]: 9, In
+2015-10-17 20:13:29 :   9> [G]:   2544 [E]:  33261 [D]:   92 [T]:29 [TH]:10, In
+2015-10-17 20:13:31 :  10> [G]:  14555 [E]: 251155 [D]: 1181 [T]:14 [TH]:10, In
+2015-10-17 20:13:39 :  11> [G]:  34620 [E]:  66609 [D]: 1100 [T]:33 [TH]:10, In
+2015-10-17 20:13:42 :  12> [G]:  72777 [E]: 117289 [D]:  609 [T]:15 [TH]: 9, In
+2015-10-17 20:13:48 :  13> [G]:  65979 [E]:  40033 [D]:   67 [T]:14 [TH]:10, In
+2015-10-17 20:13:54 :  14> [G]: 305242 [E]: 101452 [D]: 3156 [T]:32 [TH]:10, In
+2015-10-17 20:14:00 :  15> [G]: 186603 [E]: 115700 [D]:  662 [T]: 8 [TH]: 9, In
+2015-10-17 20:14:03 :  16> [G]:  29450 [E]:  70683 [D]:  589 [T]: 8 [TH]: 9, In
+2015-10-17 20:14:13 :  17> [G]:  19060 [E]:  96381 [D]:  943 [T]:26 [TH]: 9, In
+2015-10-17 20:14:16 :  18> [G]:  33495 [E]: 178034 [D]:  805 [T]: 8 [TH]: 9, In
+2015-10-17 20:14:23 :  19> [G]:  39981 [E]: 179200 [D]:  541 [T]:12 [TH]: 9, In
+2015-10-17 20:14:25 :  20> [G]: 291145 [E]:  81118 [D]:  859 [T]:32 [TH]:10, In
+2015-10-17 20:14:32 :  21> [G]: 130562 [E]:  32532 [D]:  722 [T]:11 [TH]: 8, In
+2015-10-17 20:14:37 :  22> [G]:  65715 [E]:  68699 [D]: 1862 [T]:12 [TH]:10, In
+2015-10-17 20:14:41 :  23> [G]:  88896 [E]:  61357 [D]: 1061 [T]:33 [TH]:10, In
+2015-10-17 20:14:44 :  24> [G]:  52797 [E]: 215477 [D]:  823 [T]:15 [TH]: 9, In
+2015-10-17 20:14:52 :  25> [G]:  17886 [E]:  27137 [D]:  194 [T]:16 [TH]:10, In
+2015-10-17 20:14:57 :  26> [G]:  14752 [E]: 117483 [D]:  694 [T]:18 [TH]:10, In
+2015-10-17 20:15:00 :  27> [G]:  61329 [E]: 154486 [D]:  799 [T]:10 [TH]: 8, In
+2015-10-17 20:15:03 :  28> [G]:  62199 [E]:  19620 [D]:  770 [T]:12 [TH]:10, In
+2015-10-17 20:15:08 :  29> [G]:  49391 [E]: 250395 [D]: 2507 [T]:23 [TH]:10, In
+2015-10-17 20:15:11 :  30> [G]:  23610 [E]:  17679 [D]:  890 [T]:30 [TH]: 9, In
+2015-10-17 20:15:19 :  31> [G]:  88248 [E]:  65317 [D]:  972 [T]:41 [TH]:10, In
+2015-10-17 20:15:23 :  32> [G]:  71592 [E]:  85882 [D]: 1171 [T]:29 [TH]: 9, In
+2015-10-17 20:15:25 :  33> [G]: 119712 [E]:  56133 [D]:  889 [T]:11 [TH]:10, In
+2015-10-17 20:15:32 :  34> [G]:  18286 [E]:  31423 [D]:  459 [T]: 7 [TH]: 9, In
+2015-10-17 20:15:37 :  35> [G]:  36836 [E]:  22815 [D]:  333 [T]:16 [TH]:10, In
+2015-10-17 20:15:40 :  36> [G]: 100731 [E]: 167355 [D]:  862 [T]: 7 [TH]: 9, In
+2015-10-17 20:15:45 :  37> [G]:  79802 [E]:  72340 [D]:  256 [T]:14 [TH]:10, In
+2015-10-17 20:15:48 :  38> [G]:  27993 [E]:  67893 [D]: 1032 [T]:24 [TH]: 9, In
+2015-10-17 20:15:54 :  39> [G]:  40131 [E]:  71910 [D]:  761 [T]: 7 [TH]:10, In
+2015-10-17 20:15:57 :  40> [G]:  69781 [E]:  50816 [D]:  982 [T]: 9 [TH]:10, In
+2015-10-17 20:16:03 :  41> [G]: 152300 [E]:  98368 [D]: 1731 [T]:14 [TH]:10, In
+2015-10-17 20:16:06 :  42> [G]:  88013 [E]:  59180 [D]:  249 [T]: 8 [TH]: 9, In
+2015-10-17 20:16:13 :  43> [G]: 139315 [E]:  57155 [D]:  308 [T]:43 [TH]: 9, In
+2015-10-17 20:16:16 :  44> [G]:  80930 [E]:  39583 [D]:  531 [T]: 4 [TH]: 8, In
+2015-10-17 20:16:19 :  45> [G]:  12371 [E]:   5487 [D]: 1230 [T]:17 [TH]: 9, In
+2015-10-17 20:16:25 :  46> [G]:  44398 [E]:  48293 [D]:  402 [T]: 4 [TH]: 8, In
+2015-10-17 20:16:28 :  47> [G]:  32265 [E]:  11818 [D]:  414 [T]:13 [TH]: 9, In
+2015-10-17 20:16:35 :  48> [G]:  36836 [E]: 179945 [D]:  894 [T]: 6 [TH]: 9, In
+2015-10-17 20:16:37 :  49> [G]:  97700 [E]: 131199 [D]: 1159 [T]:32 [TH]:10, In
+2015-10-17 20:16:44 :  50> [G]:  39981 [E]:  37441 [D]:  371 [T]: 7 [TH]: 9, In
+2015-10-17 20:16:44 : Aim:           [G+E+D]: 372500 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-17 20:16:44 : Aim:           [G+E+D]: 372500 [T]: 0 [TH]: 8 for: Live Base
+2015-10-17 20:16:47 :  51> [G]:  49139 [E]:  30998 [D]:  366 [T]:14 [TH]: 9, In
+2015-10-17 20:16:54 :  52> [G]:  71893 [E]:  74986 [D]:  535 [T]:12 [TH]: 9, In
+2015-10-17 20:16:57 :  53> [G]:  27517 [E]:  38097 [D]:  240 [T]:19 [TH]: 9, In
+2015-10-17 20:17:04 :  54> [G]:  31675 [E]: 124354 [D]:  714 [T]: 3 [TH]: 8, In
+2015-10-17 20:17:07 :  55> [G]:  28106 [E]:  20950 [D]:  792 [T]:15 [TH]: 9, In
+2015-10-17 20:17:14 :  56> [G]:  81374 [E]:  57590 [D]:  373 [T]:34 [TH]: 9, In
+2015-10-17 20:17:17 :  57> [G]:  16656 [E]: 221563 [D]:  248 [T]: 3 [TH]: 8, In
+2015-10-17 20:17:19 :  58> [G]: 111075 [E]:  10938 [D]: 1967 [T]:25 [TH]:10, In
+2015-10-17 20:17:26 :  59> [G]:  92413 [E]:  43931 [D]:  633 [T]: 8 [TH]: 9, In
+2015-10-17 20:17:28 :  60> [G]:  47127 [E]: 157095 [D]:  542 [T]:19 [TH]:10, In
+2015-10-17 20:17:35 :  61> [G]:  33194 [E]:  90085 [D]: 1325 [T]:24 [TH]: 9, In
+2015-10-17 20:17:38 :  62> [G]:  17675 [E]:  33406 [D]: 1486 [T]:17 [TH]: 9, In
+2015-10-17 20:17:45 :  63> [G]: 412750 [E]: 448493 [D]: 1191 [T]: 5 [TH]: 9, In
+2015-10-17 20:17:48 :  64> [G]:   8749 [E]: 189458 [D]:  126 [T]:17 [TH]: 9, In
+2015-10-17 20:17:56 :  65> [G]:  50341 [E]: 141796 [D]: 1371 [T]:32 [TH]:10, In
+2015-10-17 20:17:59 :  66> [G]:   6107 [E]:  44937 [D]:  391 [T]: 6 [TH]: 8, In
+2015-10-17 20:18:02 :  67> [G]: 123847 [E]:  86452 [D]:  455 [T]:28 [TH]: 9, In
+2015-10-17 20:18:09 :  68> [G]: 128547 [E]:  91141 [D]:  468 [T]: 7 [TH]: 8, In
+2015-10-17 20:18:12 :  69> [G]:  10026 [E]:  31097 [D]:  171 [T]:16 [TH]:10, In
+2015-10-17 20:18:18 :  70> [G]: 108068 [E]:  86688 [D]: 1546 [T]:13 [TH]: 9, In
+2015-10-17 20:18:21 :  71> [G]:  45656 [E]:   3500 [D]:  151 [T]:17 [TH]: 9, In
+2015-10-17 20:18:28 :  72> [G]: 123195 [E]:  33487 [D]:  876 [T]:24 [TH]: 9, In
+2015-10-17 20:18:30 :  73> [G]:  25618 [E]:  24413 [D]:  180 [T]:19 [TH]:10, In
+2015-10-17 20:18:37 :  74> [G]:  23808 [E]:  66620 [D]:  559 [T]: 3 [TH]: 8, In
+2015-10-17 20:18:39 :  75> [G]:  57869 [E]: 150298 [D]: 1437 [T]: 9 [TH]: 9, In
+2015-10-17 20:18:46 :  76> [G]: 199400 [E]: 439580 [D]: 1120 [T]: 9 [TH]:10, In
+2015-10-17 20:18:48 :  77> [G]: 165682 [E]:  97761 [D]: 1143 [T]:13 [TH]:10, In
+2015-10-17 20:18:54 :  78> [G]:  21161 [E]: 138079 [D]:  630 [T]: 8 [TH]: 9, In
+2015-10-17 20:18:57 :  79> [G]: 142807 [E]: 154441 [D]:  739 [T]:13 [TH]: 9, In
+2015-10-17 20:19:04 :  80> [G]:  21547 [E]:  91925 [D]: 1324 [T]:25 [TH]:10, In
+2015-10-17 20:19:06 :  81> [G]:  11356 [E]:  39946 [D]:  747 [T]:22 [TH]: 9, In
+2015-10-17 20:19:13 :  82> [G]: 161955 [E]: 194309 [D]: 2217 [T]: 9 [TH]: 9, In
+2015-10-17 20:19:16 :  83> [G]:   9695 [E]:  49151 [D]:  172 [T]: 8 [TH]: 9, In
+2015-10-17 20:19:22 :  84> [G]:  85574 [E]:  75545 [D]: 1357 [T]:11 [TH]:10, In
+2015-10-17 20:19:26 :  85> [G]: 102699 [E]: 200969 [D]:  613 [T]: 4 [TH]: 8, In
+2015-10-17 20:19:26 : ~~~~~~~~~~~~~~ DE Side Base Found! ~~~~~~~~~~~~~~~
+2015-10-17 20:19:28 : ================ Search Complete =================
+2015-10-17 20:19:28 : Initiating attack for: Live Base
+2015-10-17 20:19:30 : -Balloons 28
+2015-10-17 20:19:30 : -Minions 40
+2015-10-17 20:19:30 : -Clan Castle 
+2015-10-17 20:19:30 : -King 
+2015-10-17 20:19:30 : -Rage Spells 4
+2015-10-17 20:19:30 : -Poison Spells 1
+2015-10-17 20:19:30 :  ====== Start Attack ====== 
+2015-10-17 20:19:32 : Attacking on Dark Elixir Side.
+2015-10-17 20:19:33 : == DE lixir Storage : [448,332] ==
+2015-10-17 20:19:34 : DE Storage Located Bottom Right... Attacking Bottom Right
+2015-10-17 20:19:35 : Dropping Clan Castle
+2015-10-17 20:19:36 : Dropping only wave of 28 Balloons
+2015-10-17 20:19:39 : Spell drop point: 508, 387
+2015-10-17 20:19:39 : Dropping spell in slot 4
+2015-10-17 20:19:39 : Dropping only wave of 40 Minions
+2015-10-17 20:19:43 : Dropping King
+2015-10-17 20:19:44 : Dropping left over troops
+2015-10-17 20:19:44 : Checking remaining unused troops for: Live Base
+2015-10-17 20:19:46 : -Minions 0
+2015-10-17 20:19:46 : -Clan Castle 
+2015-10-17 20:19:46 : -Rage Spells 3
+2015-10-17 20:19:46 : -Poison Spells 1
+2015-10-17 20:19:55 : Checking remaining unused troops for: Live Base
+2015-10-17 20:19:57 : -Minions 0
+2015-10-17 20:19:57 : -Clan Castle 
+2015-10-17 20:19:57 : -Rage Spells 3
+2015-10-17 20:19:57 : -Poison Spells 1
+2015-10-17 20:20:06 : Finished Attacking, waiting for the battle to end
+2015-10-17 20:20:06 : Checking if the battle has finished
+2015-10-17 20:20:08 : detected [G]: 34763 [E]: 112501 [DE]: 201 |  Exit in 58 sec.
+2015-10-17 20:20:08 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 20:20:11 : detected [G]: 34577 [E]: 99832 [DE]: 201 |  Exit in 58 sec.
+2015-10-17 20:20:11 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 20:20:14 : detected [G]: 34540 [E]: 82428 [DE]: 201 |  Exit in 58 sec.
+2015-10-17 20:20:14 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 20:20:15 : King is getting weak, Activating King's power
+2015-10-17 20:20:17 : detected [G]: 34503 [E]: 75975 [DE]: 201 |  Exit in 58 sec.
+2015-10-17 20:20:17 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 20:20:21 : detected [G]: 17674 [E]: 71073 [DE]: 201 |  Exit in 58 sec.
+2015-10-17 20:20:21 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 20:20:24 : detected [G]: 17551 [E]: 67044 [DE]: 201 |  Exit in 58 sec.
+2015-10-17 20:20:24 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 20:20:27 : detected [G]: 17452 [E]: 66945 [DE]: 201 |  Exit in 58 sec.
+2015-10-17 20:20:27 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 20:20:31 : detected [G]: 614 [E]: 61156 [DE]: 201 |  Exit in 58 sec.
+2015-10-17 20:20:31 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 20:20:34 : detected [G]: 459 [E]: 51739 [DE]: 201 |  Exit in 58 sec.
+2015-10-17 20:20:34 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 20:20:37 : detected [G]: 459 [E]: 33477 [DE]: 201 |  Exit in 58 sec.
+2015-10-17 20:20:37 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 20:20:41 : detected [G]: 459 [E]: 33477 [DE]: 4 |  Exit in 58 sec.
+2015-10-17 20:20:41 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 20:20:44 : detected [G]: 459 [E]: 33477 [DE]: 0 |  Exit in 58 sec.
+2015-10-17 20:20:46 : detected [G]: 439 [E]: 33477 [DE]: 0 |  Exit in 56 sec.
+2015-10-17 20:20:46 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 20:20:49 : detected [G]: 409 [E]: 33477 [DE]: 0 |  Exit in 58 sec.
+2015-10-17 20:20:49 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 20:20:53 : detected [G]: 379 [E]: 33477 [DE]: 0 |  Exit in 58 sec.
+2015-10-17 20:20:53 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 20:20:56 : detected [G]: 274 [E]: 22339 [DE]: 0 |  Exit in 58 sec.
+2015-10-17 20:20:56 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 20:20:59 : detected [G]: 83 [E]: 16738 [DE]: 0 |  Exit in 58 sec.
+2015-10-17 20:20:59 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 20:21:03 : detected [G]: 0 [E]: 2512 [DE]: 0 |  Exit in 58 sec.
+2015-10-17 20:21:03 : Gold & Elixir & DE change detected, waiting...
+2015-10-17 20:21:06 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 58 sec.
+2015-10-17 20:21:08 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 56 sec.
+2015-10-17 20:21:09 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 54 sec.
+2015-10-17 20:21:11 : detected [G]:  [E]:  [DE]:  |  Exit now 
+2015-10-17 20:21:11 : Battle has finished
+2015-10-17 20:21:11 : Returning Home
+2015-10-17 20:21:16 : Bonus [G]: 100 000 [E]: 100 000 [DE]: 500
+2015-10-17 20:21:18 : Your league level is: Master III
+2015-10-17 20:21:18 : Stars earned: 3
+2015-10-17 20:21:18 : Loot: [G]: 102 699 [E]: 200 969 [DE]: 613 [T]: 4
+2015-10-17 20:21:18 : Taking snapshot of your loot
+2015-10-17 20:21:24 : Trying to locate Main Screen
+2015-10-17 20:21:24 : Main Screen Located
+2015-10-17 20:21:26 : Village Report
+2015-10-17 20:21:26 : No. of Free/Total Builders: 1/5
+2015-10-17 20:21:26 :  [T]: 2 622
+2015-10-17 20:21:26 :  [G]: 2 747 240 [E]: 2 455 929 [D]: 92 245 [GEM]: 5 300
+2015-10-17 20:21:26 : Collecting Resources
+2015-10-17 20:21:36 : Checking Army Camp...
+2015-10-17 20:21:37 : Total Army Camp capacity: 68/220
+2015-10-17 20:21:38 :  - No. of Balloons: 4
+2015-10-17 20:21:38 :  - No. of Minions: 24
+2015-10-17 20:21:39 : Training Troops...
+2015-10-17 20:22:00 : Spell Factory Full
+2015-10-17 20:22:00 : Created 1 Spell(s)
+2015-10-17 20:22:08 : ====== Waiting for full army ======
+2015-10-17 20:22:20 : Checking Army Camp...
+2015-10-17 20:22:21 : Total Army Camp capacity: 72/220
+2015-10-17 20:22:22 :  - No. of Balloons: 4
+2015-10-17 20:22:22 :  - No. of Minions: 26
+2015-10-17 20:22:23 : Training Troops...
+2015-10-17 20:22:42 : Spell Factory Full
+2015-10-17 20:22:45 : Time Idle: 00:00:37
+2015-10-17 20:22:45 : ====== Waiting for full army ======
+2015-10-17 20:22:57 : Collecting Resources
+2015-10-17 20:23:02 : Checking Army Camp...
+2015-10-17 20:23:04 : Total Army Camp capacity: 74/220
+2015-10-17 20:23:05 :  - No. of Balloons: 4
+2015-10-17 20:23:05 :  - No. of Minions: 28
+2015-10-17 20:23:05 : Training Troops...
+2015-10-17 20:23:25 : Spell Factory Full
+2015-10-17 20:23:28 : Time Idle: 00:01:19
+2015-10-17 20:23:28 : ====== Waiting for full army ======
+2015-10-17 20:23:40 : Checking Army Camp...
+2015-10-17 20:23:42 : Total Army Camp capacity: 76/220
+2015-10-17 20:23:43 :  - No. of Balloons: 4
+2015-10-17 20:23:43 :  - No. of Minions: 28
+2015-10-17 20:23:43 : Training Troops...
+2015-10-17 20:24:03 : Spell Factory Full
+2015-10-17 20:24:05 : Time Idle: 00:01:56
+2015-10-17 20:24:05 : ====== Waiting for full army ======
+2015-10-17 20:24:17 : Checking Army Camp...
+2015-10-17 20:24:19 : Total Army Camp capacity: 80/220
+2015-10-17 20:24:20 :  - No. of Balloons: 4
+2015-10-17 20:24:20 :  - No. of Minions: 30
+2015-10-17 20:24:20 : Training Troops...
+2015-10-17 20:24:40 : Spell Factory Full
+2015-10-17 20:24:43 : Time Idle: 00:02:34
+2015-10-17 20:24:43 : ====== Waiting for full army ======
+2015-10-17 20:24:55 : Checking Army Camp...
+2015-10-17 20:24:56 : Total Army Camp capacity: 84/220
+2015-10-17 20:24:57 :  - No. of Balloons: 4
+2015-10-17 20:24:57 :  - No. of Minions: 32
+2015-10-17 20:24:58 : Training Troops...
+2015-10-17 20:25:19 : Spell Factory Full
+2015-10-17 20:25:21 : Time Idle: 00:03:12
+2015-10-17 20:25:21 : ====== Waiting for full army ======
+2015-10-17 20:25:33 : Checking Army Camp...
+2015-10-17 20:25:35 : Total Army Camp capacity: 88/220
+2015-10-17 20:25:36 :  - No. of Balloons: 4
+2015-10-17 20:25:36 :  - No. of Minions: 34
+2015-10-17 20:25:36 : Training Troops...
+2015-10-17 20:25:56 : Spell Factory Full
+2015-10-17 20:25:58 : Time Idle: 00:03:49
+2015-10-17 20:25:59 : ====== Waiting for full army ======
+2015-10-17 20:26:10 : Checking Army Camp...
+2015-10-17 20:26:12 : Total Army Camp capacity: 92/220
+2015-10-17 20:26:13 :  - No. of Balloons: 4
+2015-10-17 20:26:13 :  - No. of Minions: 36
+2015-10-17 20:26:13 : Training Troops...
+2015-10-17 20:26:33 : Spell Factory Full
+2015-10-17 20:26:36 : Time Idle: 00:04:26
+2015-10-17 20:26:36 : ====== Waiting for full army ======
+2015-10-17 20:26:48 : Checking Army Camp...
+2015-10-17 20:26:50 : Total Army Camp capacity: 96/220
+2015-10-17 20:26:51 :  - No. of Balloons: 4
+2015-10-17 20:26:51 :  - No. of Minions: 38
+2015-10-17 20:26:51 : Training Troops...
+2015-10-17 20:27:10 : Spell Factory Full
+2015-10-17 20:27:13 : Time Idle: 00:05:03
+2015-10-17 20:27:13 : ====== Waiting for full army ======
+2015-10-17 20:27:25 : Checking Army Camp...
+2015-10-17 20:27:27 : Total Army Camp capacity: 96/220
+2015-10-17 20:27:28 :  - No. of Balloons: 4
+2015-10-17 20:27:28 :  - No. of Minions: 38
+2015-10-17 20:27:28 : Training Troops...
+2015-10-17 20:27:48 : Spell Factory Full
+2015-10-17 20:27:51 : Time Idle: 00:05:41
+2015-10-17 20:27:51 : ====== Waiting for full army ======
+2015-10-17 20:28:03 : Checking Army Camp...
+2015-10-17 20:28:05 : Total Army Camp capacity: 120/220
+2015-10-17 20:28:05 :  - No. of Balloons: 8
+2015-10-17 20:28:06 :  - No. of Minions: 40
+2015-10-17 20:28:06 : Training Troops...
+2015-10-17 20:28:26 : Spell Factory Full
+2015-10-17 20:28:29 : Time Idle: 00:06:18
+2015-10-17 20:28:29 : ====== Waiting for full army ======
+2015-10-17 20:28:41 : Checking Army Camp...
+2015-10-17 20:28:43 : Total Army Camp capacity: 120/220
+2015-10-17 20:28:44 :  - No. of Balloons: 8
+2015-10-17 20:28:44 :  - No. of Minions: 40
+2015-10-17 20:28:44 : Training Troops...
+2015-10-17 20:29:04 : Spell Factory Full
+2015-10-17 20:29:07 : Time Idle: 00:06:56
+2015-10-17 20:29:07 : ====== Waiting for full army ======
+2015-10-17 20:29:19 : Checking Army Camp...
+2015-10-17 20:29:21 : Total Army Camp capacity: 120/220
+2015-10-17 20:29:21 :  - No. of Balloons: 8
+2015-10-17 20:29:22 :  - No. of Minions: 40
+2015-10-17 20:29:22 : Training Troops...
+2015-10-17 20:29:42 : Spell Factory Full
+2015-10-17 20:29:44 : Time Idle: 00:07:34
+2015-10-17 20:29:45 : ====== Waiting for full army ======
+2015-10-17 20:29:56 : Collecting Resources
+2015-10-17 20:30:02 : Checking Army Camp...
+2015-10-17 20:30:04 : Total Army Camp capacity: 120/220
+2015-10-17 20:30:05 :  - No. of Balloons: 8
+2015-10-17 20:30:05 :  - No. of Minions: 40
+2015-10-17 20:30:05 : Training Troops...
+2015-10-17 20:30:26 : Created 5 Spell(s)
+2015-10-17 20:30:28 : Time Idle: 00:08:18
+2015-10-17 20:30:29 : ====== Waiting for full army ======
+2015-10-17 20:30:41 : Checking Army Camp...
+2015-10-17 20:30:42 : Total Army Camp capacity: 120/220
+2015-10-17 20:30:43 :  - No. of Balloons: 8
+2015-10-17 20:30:43 :  - No. of Minions: 40
+2015-10-17 20:30:44 : Training Troops...
+2015-10-17 20:31:04 : Spell Factory Full
+2015-10-17 20:31:06 : Time Idle: 00:08:55
+2015-10-17 20:31:06 : ====== Waiting for full army ======
+2015-10-17 20:31:18 : Checking Army Camp...
+2015-10-17 20:31:20 : Total Army Camp capacity: 120/220
+2015-10-17 20:31:21 :  - No. of Balloons: 8
+2015-10-17 20:31:21 :  - No. of Minions: 40
+2015-10-17 20:31:21 : Training Troops...
+2015-10-17 20:31:42 : Spell Factory Full
+2015-10-17 20:31:44 : Time Idle: 00:09:33
+2015-10-17 20:31:44 : ====== Waiting for full army ======
+2015-10-17 20:31:56 : Checking Army Camp...
+2015-10-17 20:31:58 : Total Army Camp capacity: 120/220
+2015-10-17 20:31:59 :  - No. of Balloons: 8
+2015-10-17 20:31:59 :  - No. of Minions: 40
+2015-10-17 20:31:59 : Training Troops...
+2015-10-17 20:32:19 : Spell Factory Full
+2015-10-17 20:32:22 : Time Idle: 00:10:10
+2015-10-17 20:32:22 : ====== Waiting for full army ======
+2015-10-17 20:32:34 : Checking Army Camp...
+2015-10-17 20:32:36 : Total Army Camp capacity: 120/220
+2015-10-17 20:32:37 :  - No. of Balloons: 8
+2015-10-17 20:32:37 :  - No. of Minions: 40
+2015-10-17 20:32:37 : Training Troops...
+2015-10-17 20:32:57 : Spell Factory Full
+2015-10-17 20:33:00 : Time Idle: 00:10:48
+2015-10-17 20:33:00 : ====== Waiting for full army ======
+2015-10-17 20:33:12 : Checking Army Camp...
+2015-10-17 20:33:14 : Total Army Camp capacity: 120/220
+2015-10-17 20:33:14 :  - No. of Balloons: 8
+2015-10-17 20:33:15 :  - No. of Minions: 40
+2015-10-17 20:33:15 : Training Troops...
+2015-10-17 20:33:35 : Spell Factory Full
+2015-10-17 20:33:37 : Time Idle: 00:11:25
+2015-10-17 20:33:38 : ====== Waiting for full army ======
+2015-10-17 20:33:50 : Checking Army Camp...
+2015-10-17 20:33:51 : Total Army Camp capacity: 120/220
+2015-10-17 20:33:52 :  - No. of Balloons: 8
+2015-10-17 20:33:52 :  - No. of Minions: 40
+2015-10-17 20:33:53 : Training Troops...
+2015-10-17 20:34:13 : Spell Factory Full
+2015-10-17 20:34:15 : Time Idle: 00:12:03
+2015-10-17 20:34:16 : ====== Waiting for full army ======
+2015-10-17 20:34:27 : Checking Army Camp...
+2015-10-17 20:34:29 : Total Army Camp capacity: 120/220
+2015-10-17 20:34:30 :  - No. of Balloons: 8
+2015-10-17 20:34:30 :  - No. of Minions: 40
+2015-10-17 20:34:30 : Training Troops...
+2015-10-17 20:34:51 : Spell Factory Full
+2015-10-17 20:34:53 : Time Idle: 00:12:41
+2015-10-17 20:34:53 : ====== Waiting for full army ======
+2015-10-17 20:35:05 : Checking Army Camp...
+2015-10-17 20:35:07 : Total Army Camp capacity: 120/220
+2015-10-17 20:35:08 :  - No. of Balloons: 8
+2015-10-17 20:35:08 :  - No. of Minions: 40
+2015-10-17 20:35:08 : Training Troops...
+2015-10-17 20:35:29 : Spell Factory Full
+2015-10-17 20:35:31 : Time Idle: 00:13:18
+2015-10-17 20:35:31 : ====== Waiting for full army ======
+2015-10-17 20:35:43 : Checking Army Camp...
+2015-10-17 20:35:45 : Total Army Camp capacity: 120/220
+2015-10-17 20:35:46 :  - No. of Balloons: 8
+2015-10-17 20:35:46 :  - No. of Minions: 40
+2015-10-17 20:35:46 : Training Troops...
+2015-10-17 20:36:07 : Spell Factory Full
+2015-10-17 20:36:09 : Time Idle: 00:13:56
+2015-10-17 20:36:09 : ====== Waiting for full army ======
+2015-10-17 20:36:21 : Checking Army Camp...
+2015-10-17 20:36:23 : Total Army Camp capacity: 140/220
+2015-10-17 20:36:24 :  - No. of Balloons: 12
+2015-10-17 20:36:24 :  - No. of Minions: 40
+2015-10-17 20:36:24 : Training Troops...
+2015-10-17 20:36:44 : Spell Factory Full
+2015-10-17 20:36:47 : Time Idle: 00:14:34
+2015-10-17 20:36:47 : ====== Waiting for full army ======
+2015-10-17 20:36:59 : Collecting Resources
+2015-10-17 20:37:05 : Checking Army Camp...
+2015-10-17 20:37:07 : Total Army Camp capacity: 140/220
+2015-10-17 20:37:07 :  - No. of Balloons: 12
+2015-10-17 20:37:08 :  - No. of Minions: 40
+2015-10-17 20:37:08 : Training Troops...
+2015-10-17 20:37:28 : Spell Factory Full
+2015-10-17 20:37:30 : Time Idle: 00:15:17
+2015-10-17 20:37:31 : ====== Waiting for full army ======
+2015-10-17 20:37:42 : Checking Army Camp...
+2015-10-17 20:37:44 : Total Army Camp capacity: 140/220
+2015-10-17 20:37:45 :  - No. of Balloons: 12
+2015-10-17 20:37:45 :  - No. of Minions: 40
+2015-10-17 20:37:45 : Training Troops...
+2015-10-17 20:38:06 : Spell Factory Full
+2015-10-17 20:38:08 : Time Idle: 00:15:54
+2015-10-17 20:38:08 : ====== Waiting for full army ======
+2015-10-17 20:38:20 : Checking Army Camp...
+2015-10-17 20:38:22 : Total Army Camp capacity: 148/220
+2015-10-17 20:38:23 :  - No. of Balloons: 12
+2015-10-17 20:38:23 :  - No. of Minions: 40
+2015-10-17 20:38:23 :  - No. of Valkyries: 1
+2015-10-17 20:38:23 : Training Troops...
+2015-10-17 20:38:43 : Spell Factory Full
+2015-10-17 20:38:46 : Time Idle: 00:16:32
+2015-10-17 20:38:46 : ====== Waiting for full army ======
+2015-10-17 20:38:58 : Checking Army Camp...
+2015-10-17 20:39:00 : Total Army Camp capacity: 148/220
+2015-10-17 20:39:01 :  - No. of Balloons: 12
+2015-10-17 20:39:01 :  - No. of Minions: 40
+2015-10-17 20:39:01 :  - No. of Valkyries: 1
+2015-10-17 20:39:01 : Training Troops...
+2015-10-17 20:39:21 : Spell Factory Full
+2015-10-17 20:39:24 : Time Idle: 00:17:09
+2015-10-17 20:39:24 : ====== Waiting for full army ======
+2015-10-17 20:39:36 : Checking Army Camp...
+2015-10-17 20:39:37 : Total Army Camp capacity: 148/220
+2015-10-17 20:39:38 :  - No. of Balloons: 12
+2015-10-17 20:39:38 :  - No. of Minions: 40
+2015-10-17 20:39:38 :  - No. of Valkyries: 1
+2015-10-17 20:39:39 : Training Troops...
+2015-10-17 20:39:59 : Spell Factory Full
+2015-10-17 20:40:01 : Time Idle: 00:17:47
+2015-10-17 20:40:01 : ====== Waiting for full army ======
+2015-10-17 20:40:13 : Checking Army Camp...
+2015-10-17 20:40:15 : Total Army Camp capacity: 148/220
+2015-10-17 20:40:16 :  - No. of Balloons: 12
+2015-10-17 20:40:16 :  - No. of Minions: 40
+2015-10-17 20:40:16 :  - No. of Valkyries: 1
+2015-10-17 20:40:16 : Training Troops...
+2015-10-17 20:40:36 : Spell Factory Full
+2015-10-17 20:40:38 : Time Idle: 00:18:24
+2015-10-17 20:40:39 : ====== Waiting for full army ======
+2015-10-17 20:40:50 : Checking Army Camp...
+2015-10-17 20:40:52 : Total Army Camp capacity: 148/220
+2015-10-17 20:40:53 :  - No. of Balloons: 12
+2015-10-17 20:40:53 :  - No. of Minions: 40
+2015-10-17 20:40:53 :  - No. of Valkyries: 1
+2015-10-17 20:40:54 : Training Troops...
+2015-10-17 20:41:14 : Spell Factory Full
+2015-10-17 20:41:16 : Time Idle: 00:19:01
+2015-10-17 20:41:16 : ====== Waiting for full army ======
+2015-10-17 20:41:28 : Checking Army Camp...
+2015-10-17 20:41:30 : Total Army Camp capacity: 148/220
+2015-10-17 20:41:31 :  - No. of Balloons: 12
+2015-10-17 20:41:31 :  - No. of Minions: 40
+2015-10-17 20:41:31 :  - No. of Valkyries: 1
+2015-10-17 20:41:31 : Training Troops...
+2015-10-17 20:41:51 : Spell Factory Full
+2015-10-17 20:41:54 : Time Idle: 00:19:39
+2015-10-17 20:41:54 : ====== Waiting for full army ======
+2015-10-17 20:42:06 : Checking Army Camp...
+2015-10-17 20:42:08 : Total Army Camp capacity: 148/220
+2015-10-17 20:42:09 :  - No. of Balloons: 12
+2015-10-17 20:42:09 :  - No. of Minions: 40
+2015-10-17 20:42:09 :  - No. of Valkyries: 1
+2015-10-17 20:42:09 : Training Troops...
+2015-10-17 20:42:29 : Spell Factory Full
+2015-10-17 20:42:32 : Time Idle: 00:20:16
+2015-10-17 20:42:32 : ====== Waiting for full army ======
+2015-10-17 20:42:44 : Checking Army Camp...
+2015-10-17 20:42:46 : Total Army Camp capacity: 148/220
+2015-10-17 20:42:47 :  - No. of Balloons: 12
+2015-10-17 20:42:47 :  - No. of Minions: 40
+2015-10-17 20:42:47 :  - No. of Valkyries: 1
+2015-10-17 20:42:47 : Training Troops...
+2015-10-17 20:43:07 : Spell Factory Full
+2015-10-17 20:43:09 : Time Idle: 00:20:54
+2015-10-17 20:43:09 : ====== Waiting for full army ======
+2015-10-17 20:43:21 : Checking Army Camp...
+2015-10-17 20:43:23 : Total Army Camp capacity: 148/220
+2015-10-17 20:43:24 :  - No. of Balloons: 12
+2015-10-17 20:43:24 :  - No. of Minions: 40
+2015-10-17 20:43:24 :  - No. of Valkyries: 1
+2015-10-17 20:43:25 : Training Troops...
+2015-10-17 20:43:45 : Spell Factory Full
+2015-10-17 20:43:47 : Time Idle: 00:21:31
+2015-10-17 20:43:47 : ====== Waiting for full army ======
+2015-10-17 20:43:59 : Collecting Resources
+2015-10-17 20:44:05 : Checking Army Camp...
+2015-10-17 20:44:06 : Total Army Camp capacity: 168/220
+2015-10-17 20:44:07 :  - No. of Balloons: 16
+2015-10-17 20:44:07 :  - No. of Minions: 40
+2015-10-17 20:44:07 :  - No. of Valkyries: 1
+2015-10-17 20:44:08 : Training Troops...
+2015-10-17 20:44:28 : Spell Factory Full
+2015-10-17 20:44:30 : Time Idle: 00:22:15
+2015-10-17 20:44:31 : ====== Waiting for full army ======
+2015-10-17 20:44:43 : Checking Army Camp...
+2015-10-17 20:44:44 : Total Army Camp capacity: 168/220
+2015-10-17 20:44:45 :  - No. of Balloons: 16
+2015-10-17 20:44:45 :  - No. of Minions: 40
+2015-10-17 20:44:46 :  - No. of Valkyries: 1
+2015-10-17 20:44:46 : Training Troops...
+2015-10-17 20:45:06 : Spell Factory Full
+2015-10-17 20:45:08 : Time Idle: 00:22:52
+2015-10-17 20:45:08 : ====== Waiting for full army ======
+2015-10-17 20:45:20 : Checking Army Camp...
+2015-10-17 20:45:22 : Total Army Camp capacity: 168/220
+2015-10-17 20:45:23 :  - No. of Balloons: 16
+2015-10-17 20:45:23 :  - No. of Minions: 40
+2015-10-17 20:45:23 :  - No. of Valkyries: 1
+2015-10-17 20:45:23 : Training Troops...
+2015-10-17 20:45:44 : Spell Factory Full
+2015-10-17 20:45:46 : Time Idle: 00:23:30
+2015-10-17 20:45:46 : ====== Waiting for full army ======
+2015-10-17 20:45:58 : Checking Army Camp...
+2015-10-17 20:46:00 : Total Army Camp capacity: 168/220
+2015-10-17 20:46:01 :  - No. of Balloons: 16
+2015-10-17 20:46:01 :  - No. of Minions: 40
+2015-10-17 20:46:01 :  - No. of Valkyries: 1
+2015-10-17 20:46:01 : Training Troops...
+2015-10-17 20:46:21 : Spell Factory Full
+2015-10-17 20:46:24 : Time Idle: 00:24:07
+2015-10-17 20:46:24 : ====== Waiting for full army ======
+2015-10-17 20:46:36 : Checking Army Camp...
+2015-10-17 20:46:38 : Total Army Camp capacity: 176/220
+2015-10-17 20:46:39 :  - No. of Balloons: 16
+2015-10-17 20:46:39 :  - No. of Minions: 40
+2015-10-17 20:46:39 :  - No. of Valkyries: 2
+2015-10-17 20:46:39 : Training Troops...
+2015-10-17 20:46:59 : Spell Factory Full
+2015-10-17 20:47:02 : Time Idle: 00:24:45
+2015-10-17 20:47:02 : ====== Waiting for full army ======
+2015-10-17 20:47:14 : Checking Army Camp...
+2015-10-17 20:47:16 : Total Army Camp capacity: 176/220
+2015-10-17 20:47:17 :  - No. of Balloons: 16
+2015-10-17 20:47:17 :  - No. of Minions: 40
+2015-10-17 20:47:17 :  - No. of Valkyries: 2
+2015-10-17 20:47:17 : Training Troops...
+2015-10-17 20:47:23 : ClashGameBot was Paused!

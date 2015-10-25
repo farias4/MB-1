@@ -1,0 +1,76 @@
+2015-10-19 15:30:27 :  Clash Game Bot v4.1.1 Modded Powered by GameBot.org ~
+2015-10-19 15:30:27 : GameBot.org.exe Executable running on WIN_81  X64
+2015-10-19 15:30:27 : =================== Bot Start ====================
+2015-10-19 15:30:27 : -------------------------  Current Profile: 01 --------------------------
+2015-10-19 15:30:27 : Trying to locate Main Screen
+2015-10-19 15:30:28 : Main Screen Located
+2015-10-19 15:30:29 : Detecting your Buildings..
+2015-10-19 15:30:34 : Language setting is English: Correct.
+2015-10-19 15:30:35 : Trying to locate Main Screen
+2015-10-19 15:30:35 : Main Screen Located
+2015-10-19 15:30:37 : Village Report
+2015-10-19 15:30:37 : No. of Free/Total Builders: 1/5
+2015-10-19 15:30:37 :  [T]: 2 681
+2015-10-19 15:30:37 :  [G]: 3 476 871 [E]: 5 231 118 [D]: 122 478 [GEM]: 5 304
+2015-10-19 15:30:38 : Collecting Resources
+2015-10-19 15:30:47 : Checking Army Camp...
+2015-10-19 15:30:49 : Total Army Camp capacity: 220/220
+2015-10-19 15:30:50 :  - No. of Barbarians: 42
+2015-10-19 15:30:50 :  - No. of Archers: 80
+2015-10-19 15:30:50 :  - No. of Giants: 12
+2015-10-19 15:30:50 :  - No. of Minions: 19
+2015-10-19 15:30:50 : Barracks and Spell factory status: 
+2015-10-19 15:30:50 : - Barracks detected: 4 | Available: 4 | Upgrading: 0
+2015-10-19 15:30:50 : - Dark Barracks detected: 2 | Available: 2 | Upgrading: 0
+2015-10-19 15:30:50 : - Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2015-10-19 15:30:50 : - Dark Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2015-10-19 15:30:50 : Training Troops...
+2015-10-19 15:30:51 : Your Army Camps are now Full
+2015-10-19 15:30:51 : Too many Mini, train last.
+2015-10-19 15:30:51 : Too few Barb, train first.
+2015-10-19 15:31:21 : Spell Factory Full
+2015-10-19 15:31:29 : Going to Attack...
+2015-10-19 15:31:35 : ============== Searching For Dead Base ===============
+2015-10-19 15:31:35 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-19 15:31:35 : , Max TH 8
+2015-10-19 15:31:35 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-19 15:31:35 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Dead Base
+2015-10-19 15:31:35 : ============== Searching For Live Base ===============
+2015-10-19 15:31:35 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-10-19 15:31:35 : , Max TH 8
+2015-10-19 15:31:35 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-10-19 15:31:35 : Aim:           [G+E+D]: 425000 [T]: 0 [TH]: 8 for: Live Base
+2015-10-19 15:31:35 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2015-10-19 15:31:35 : THSnipe Combo, 2 Tile(s), AttackTH, Attack3:GBarch
+2015-10-19 15:31:35 : ==================================================
+2015-10-19 15:31:36 :   1> [G]:  91774 [E]:  92301 [D]:  876 [T]:21 [TH]: 9, In
+2015-10-19 15:31:39 :   2> [G]:  33376 [E]:   3490 [D]: 1571 [T]:18 [TH]: 9, In
+2015-10-19 15:32:03 :   3> [G]:  74560 [E]: 129497 [D]:  995 [T]:13 [TH]: 9, In
+2015-10-19 15:32:06 :   4> [G]: 143035 [E]:  46258 [D]:  961 [T]:18 [TH]:10, In
+2015-10-19 15:32:13 :   5> [G]:  80329 [E]: 112029 [D]: 1476 [T]:14 [TH]: 9, In
+2015-10-19 15:32:16 :   6> [G]:  56521 [E]:  34087 [D]:  748 [T]:20 [TH]: 9, In
+2015-10-19 15:32:22 :   7> [G]: 112139 [E]:  73188 [D]: 1239 [T]:19 [TH]:10, In
+2015-10-19 15:32:24 :   8> [G]:  10809 [E]: 134134 [D]: 1171 [T]:14 [TH]:10, In
+2015-10-19 15:32:31 :   9> [G]: 185142 [E]:  84842 [D]:  520 [T]:35 [TH]:10, In
+2015-10-19 15:32:35 :  10> [G]: 116102 [E]:  27713 [D]:  876 [T]:24 [TH]: 9, In
+2015-10-19 15:32:38 :  11> [G]: 219947 [E]:  33985 [D]: 2770 [T]:26 [TH]:10, In
+2015-10-19 15:32:46 :  12> [G]:  13849 [E]: 152084 [D]: 1079 [T]:32 [TH]:10, In
+2015-10-19 15:32:48 :  13> [G]:  13644 [E]:  74845 [D]:  290 [T]:32 [TH]: 9, In
+2015-10-19 15:32:55 :  14> [G]:  42395 [E]: 223128 [D]: 3014 [T]:25 [TH]:10, Out
+2015-10-19 15:32:55 : ~~~~~~~~~~~~~~~ TH Outside Found! ~~~~~~~~~~~~~~~~
+2015-10-19 15:32:57 : ================ Search Complete =================
+2015-10-19 15:32:57 : Initiating attack for: TH Snipe
+2015-10-19 15:32:59 : -Barbarians 42
+2015-10-19 15:32:59 : -Archers 80
+2015-10-19 15:32:59 : -Giants 12
+2015-10-19 15:32:59 : -Minions 19
+2015-10-19 15:32:59 : -Clan Castle 
+2015-10-19 15:32:59 : -King 
+2015-10-19 15:32:59 : -Heal Spells 1
+2015-10-19 15:32:59 : -Rage Spells 3
+2015-10-19 15:32:59 : -Poison Spells 1
+2015-10-19 15:32:59 :  ====== Start Attack ====== 
+2015-10-19 15:33:01 :  Image adv 4 , 1 Tol: C:\Users\Matt\Downloads\CGB v4.1.1 (Modded)\images\TH\th10b.bmp - Coords:146 , 321
+2015-10-19 15:33:01 : Sending 1st wave of archers.
+2015-10-19 15:33:01 : Dropping first wave of 4 Archers
+2015-10-19 15:33:02 : ClashGameBot was Paused!
